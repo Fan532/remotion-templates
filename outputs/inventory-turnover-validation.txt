@@ -1,0 +1,13 @@
+Warehouse inventory-turnover sample validation
+Frozen dependency install and TypeScript: PASS
+Standalone Remotion Studio HTTP application response: PASS (port 3010)
+Final H.264 video: 1080x1920, 30fps, 2695 frames, video duration 89.833333s
+AAC narration: 89.835 seconds including encoder padding
+Container duration: 89.835 seconds; size: 7565023 bytes
+Full MP4 audio/video decode: PASS, exit 0
+Decoded MP4 contact sheet: 8 representative frames inspected, covering warehouse opening, definition, both stores, inventory days, risks, balance and closing
+Source/rendered narration PCM correlation: 0.999936 (16kHz mono); original narration retained with no added music
+28 bilingual caption intervals: valid, continuous; font sizes matched within each language pair; lower 672px reserved for captions
+Caption timing is estimated from supplied script and acoustic pauses; NOT verified word-level forced alignment or human listening review
+Arithmetic: 120000/10000=12;120000/40000=3;365/12≈30;365/3≈122
+Original attachment and previous coffee MP4 retained unchanged

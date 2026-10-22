@@ -1,0 +1,139 @@
+1
+00:00:00,000 --> 00:00:04,224
+一家店明明卖得不错，老板为什么还是不敢继续进货？
+Sales look strong. Why is the owner afraid to restock?
+
+2
+00:00:04,224 --> 00:00:09,285
+因为卖得多，不代表库存周转得快。
+Strong sales do not always mean fast inventory turnover.
+
+3
+00:00:09,285 --> 00:00:11,165
+这背后有一个重要的商业概念。
+There is an important business concept behind this.
+
+4
+00:00:11,165 --> 00:00:12,720
+Inventory Turnover，库存周转率。
+Inventory Turnover.
+
+5
+00:00:12,720 --> 00:00:17,401
+简单来说，就是一段时间内，库存被销售消耗了多少轮。
+It measures how many times inventory is sold through in a period.
+
+6
+00:00:17,401 --> 00:00:18,955
+我们算一笔账。
+Let us run the numbers.
+
+7
+00:00:18,955 --> 00:00:20,880
+以下数据全部是假设。
+All the following figures are hypothetical.
+
+8
+00:00:20,880 --> 00:00:25,289
+假设两家店，一年卖出的商品成本都是十二万美元。
+Assume both stores have annual cost of goods sold of $120,000.
+
+9
+00:00:25,289 --> 00:00:28,737
+第一家店，平均库存成本只有一万美元。
+Store A holds just $10,000 in average inventory at cost.
+
+10
+00:00:28,737 --> 00:00:32,420
+十二万除以一万，库存周转率是十二次。
+$120,000 ÷ $10,000 gives 12 inventory turns per year.
+
+11
+00:00:32,420 --> 00:00:33,673
+第二家店呢？
+What about Store B?
+
+12
+00:00:33,673 --> 00:00:36,282
+平均库存成本高达四万美元。
+Its average inventory at cost is $40,000.
+
+13
+00:00:36,282 --> 00:00:37,999
+十二万除以四万，库存周转率只有三次。
+$120,000 ÷ $40,000 gives only 3 turns per year.
+
+14
+00:00:37,999 --> 00:00:40,585
+等等！
+Wait!
+
+15
+00:00:40,585 --> 00:00:44,286
+两家店一年卖出的商品成本明明一样。
+Both stores have exactly the same annual cost of goods sold.
+
+16
+00:00:44,286 --> 00:00:46,938
+为什么库存周转率差了四倍？
+Why is one turnover rate four times the other?
+
+17
+00:00:46,938 --> 00:00:50,718
+因为第二家店，平均有更多资金压在库存里。
+Store B has more cash tied up in inventory on average.
+
+18
+00:00:50,718 --> 00:00:55,559
+按简单计算，第一家店的平均库存周转天数大约是三十天。
+A simple estimate puts Store A at about 30 inventory days.
+
+19
+00:00:55,559 --> 00:00:58,151
+第二家店却要大约一百二十二天。
+Store B takes about 122 days.
+
+20
+00:00:58,151 --> 00:01:05,370
+库存周转慢，可能意味着更多仓储成本、更大的积压风险，以及更紧张的现金流。
+Slow turnover may mean more storage cost, stock risk and cash pressure.
+
+21
+00:01:05,370 --> 00:01:08,193
+当然，周转率也不是越高越好。
+But a higher turnover rate is not always better.
+
+22
+00:01:08,193 --> 00:01:12,119
+库存太少，可能导致缺货，错过销售机会。
+Too little inventory can cause stockouts and lost sales.
+
+23
+00:01:12,119 --> 00:01:15,336
+所以，老板真正需要的，不是盲目减少库存。
+So the goal is not to cut inventory blindly.
+
+24
+00:01:15,336 --> 00:01:18,536
+而是在满足客户需求的同时，控制库存占用。
+Meet customer demand while managing cash tied up in stock.
+
+25
+00:01:18,536 --> 00:01:20,432
+记住：
+Remember:
+
+26
+00:01:20,432 --> 00:01:23,370
+销售额告诉你卖了多少。
+Sales tell you how much you sold.
+
+27
+00:01:23,370 --> 00:01:27,278
+库存周转率告诉你，库存使用得有多有效率。
+Inventory turnover tells you how efficiently stock is used.
+
+28
+00:01:27,278 --> 00:01:29,815
+这就是，数据看生意。
+This is Business in Numbers.
