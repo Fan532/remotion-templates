@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:04,203
+一家餐厅每天坐满客人，老板就一定赚钱吗？
+A full restaurant. Is the owner making money?
+
+2
+00:00:04,203 --> 00:00:06,304
+还真不一定！
+Not necessarily!
+
+3
+00:00:06,304 --> 00:00:11,462
+有时候，餐厅看起来非常忙，月底一算账，竟然还在亏钱。
+A busy restaurant can still lose money at month-end.
+
+4
+00:00:11,462 --> 00:00:12,861
+这背后有一个重要的商业概念。
+There is an important business concept behind this.
+
+5
+00:00:12,861 --> 00:00:14,309
+Break-even Point，盈亏平衡点。
+Break-even Point.
+
+6
+00:00:14,309 --> 00:00:18,231
+简单来说，就是收入刚好覆盖所有成本，不赚也不亏的那个位置。
+Revenue covers all costs: no profit, no loss.
+
+7
+00:00:18,231 --> 00:00:19,408
+我们算一笔账。
+Let us run the numbers.
+
+8
+00:00:19,408 --> 00:00:22,416
+以下数据全部是假设。
+All the following figures are hypothetical.
+
+9
+00:00:22,416 --> 00:00:26,148
+假设一家餐厅，每位顾客平均消费二十美元。
+Assume each customer spends $20 on average.
+
+10
+00:00:26,148 --> 00:00:31,142
+食材、包装和其他随订单变化的成本，平均每人八美元。
+Food, packaging and other variable costs average $8 per customer.
+
+11
+00:00:31,142 --> 00:00:35,877
+也就是说，每接待一位顾客，贡献毛益是十二美元。
+Each customer contributes $12 toward fixed costs.
+
+12
+00:00:35,877 --> 00:00:40,731
+但餐厅每个月还要支付房租、固定工资和其他固定费用，总共三万美元。
+Monthly rent, fixed wages and other fixed costs total $30,000.
+
+13
+00:00:40,731 --> 00:00:46,772
+那么，这家餐厅每个月需要接待多少位顾客，才能不亏钱？
+How many customers per month does it need to break even?
+
+14
+00:00:46,772 --> 00:00:48,350
+三万除以十二。
+$30,000 divided by $12.
+
+15
+00:00:48,350 --> 00:00:50,179
+答案是，两千五百位！
+The answer: 2,500 customers!
+
+16
+00:00:50,179 --> 00:00:52,376
+假设一个月营业三十天。
+Assume 30 opening days per month.
+
+17
+00:00:52,376 --> 00:00:56,826
+平均每天需要接待大约八十四位顾客，才能达到盈亏平衡点。
+About 84 customers per day are needed to break even.
+
+18
+00:00:56,826 --> 00:00:59,326
+如果每天只有六十位顾客呢？
+What if there are only 60 customers per day?
+
+19
+00:00:59,326 --> 00:01:01,133
+一个月是一千八百位。
+That is 1,800 customers per month.
+
+20
+00:01:01,133 --> 00:01:04,196
+总贡献毛益只有两万一千六百美元。
+Total contribution margin is only $21,600.
+
+21
+00:01:04,196 --> 00:01:06,326
+扣除三万美元固定成本。
+Subtract $30,000 in fixed costs.
+
+22
+00:01:06,326 --> 00:01:09,269
+餐厅一个月亏损八千四百美元！
+The restaurant loses $8,400 per month!
+
+23
+00:01:09,269 --> 00:01:10,103
+等等！
+Wait!
+
+24
+00:01:10,103 --> 00:01:13,425
+每天六十位顾客，餐厅看起来已经很忙了。
+At 60 customers a day, the restaurant already looks busy.
+
+25
+00:01:13,425 --> 00:01:14,964
+为什么还会亏钱？
+Why is it still losing money?
+
+26
+00:01:14,964 --> 00:01:19,211
+因为忙碌不代表贡献毛益足以覆盖固定成本。
+Being busy does not mean contribution covers fixed costs.
+
+27
+00:01:19,211 --> 00:01:26,151
+当然，现实中还要考虑不同菜品的利润、外卖平台费用、淡旺季和客流变化。
+Consider menu margins, delivery fees, seasons and changing demand.
+
+28
+00:01:26,151 --> 00:01:29,330
+所以，老板不能只看餐厅有多少客人。
+Owners cannot look only at customer counts.
+
+29
+00:01:29,330 --> 00:01:35,047
+更要知道，每位顾客能贡献多少钱，以及每天至少需要多少客人。
+Know each customer's contribution and the minimum daily traffic.
+
+30
+00:01:35,047 --> 00:01:35,929
+记住：
+Remember:
+
+31
+00:01:35,929 --> 00:01:38,368
+客流量告诉你餐厅有多忙。
+Customer traffic tells you how busy the restaurant is.
+
+32
+00:01:38,368 --> 00:01:43,245
+盈亏平衡点告诉你，餐厅至少要做到什么程度，才能不亏钱。
+Break-even tells you the minimum needed to avoid a loss.
+
+33
+00:01:43,245 --> 00:01:46,188
+这就是，数据看生意。
+This is Business in Numbers.

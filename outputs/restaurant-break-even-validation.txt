@@ -1,0 +1,15 @@
+Restaurant break-even sample: current-instance validation
+Frozen npm ci: PASS
+TypeScript typecheck: PASS
+Studio application HTTP readiness: PASS, port 3020
+H.264 video: 1080x1920,30fps,3186 decoded frames,106.200 seconds
+AAC audio:106.219 seconds (encoder padding)
+MP4 container:106.219 seconds,8085823 bytes
+Full MP4 audio/video decode: PASS, exit 0
+8 representative frames decoded from final MP4 and visually checked: warehouse intro, definition, per-customer economics, daily break-even, monthly loss, fixed-cost coverage, real-world factors and recap
+Caption area: lower 672px/35%; paired Chinese/English share font sizes
+Source/rendered narration waveform correlation:0.999949,16kHz mono; user narration retained; no added music
+33 subtitle intervals estimated from supplied transcript, sentence lengths and measured pauses. Exact word alignment and human listening review were NOT performed.
+Arithmetic verified:20-8=12;30000/12=2500;ceil(2500/30)=84;60*30=1800;1800*12=21600;21600-30000=-8400
+All figures hypothetical; contribution margin is not net profit; 84/day is a rounded-up integer target
+Original MP3 and earlier video samples retained
