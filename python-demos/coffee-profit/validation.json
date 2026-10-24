@@ -1,0 +1,23 @@
+{
+  "actual_render": "PASS: matplotlib.animation.FuncAnimation + FFMpegWriter",
+  "full_decode": "PASS",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "aspect": "16:9",
+  "fps": 30,
+  "frames": 360,
+  "duration_seconds": 12,
+  "codec": "H.264/yuv420p",
+  "audio": "none",
+  "financial_values": {
+    "price": 6,
+    "variable_cost": 2,
+    "contribution_margin": 4
+  },
+  "visual_inspection": "three completed stages inspected; Chinese text and disclaimer legible; cost bridge spans6to4",
+  "font": "Noto Sans CJK; all required Chinese glyphs checked",
+  "ffmpeg": "system7.1.5;libx264 and Matplotlib writer verified",
+  "windows": "instructions supplied; runtime not tested on Windows"
+}

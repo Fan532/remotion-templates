@@ -1,0 +1,21 @@
+{
+  "python": "3.12.14",
+  "matplotlib": "3.10.8",
+  "numpy": "2.4.0",
+  "ffmpeg": "/usr/bin/ffmpeg",
+  "ffmpeg_version": "ffmpeg version 7.1.5-0+deb13u1 Copyright (c) 2000-2026 the FFmpeg developers",
+  "libx264": true,
+  "font": "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+  "chinese_glyph_check": "PASS",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 360,
+  "seconds": 12,
+  "price": 6.0,
+  "variable_cost": 2.0,
+  "contribution_margin": 4.0,
+  "audio": "none",
+  "output": "/workspace/remotion-templates/python-demos/coffee-profit/coffee_profit.mp4",
+  "size_bytes": 266617
+}

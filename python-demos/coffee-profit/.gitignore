@@ -1,0 +1,5 @@
+.venv/
+.cache/
+__pycache__/
+fontlist*.json
+safe-area-stats.txt
