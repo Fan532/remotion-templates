@@ -1,0 +1,174 @@
+1
+00:00:00,000 --> 00:00:04,400
+一家电商公司，销售额增长了百分之三十。
+An e-commerce company's sales grew by 30%.
+
+2
+00:00:04,400 --> 00:00:06,650
+老板本来应该很高兴。
+The owner should be delighted.
+
+3
+00:00:06,650 --> 00:00:10,041
+可奇怪的是，生意越好，银行账户里的钱反而越少！
+Yet as business grows, cash in the bank falls!
+
+4
+00:00:10,041 --> 00:00:10,909
+为什么？
+Why?
+
+5
+00:00:10,909 --> 00:00:13,425
+这背后有一个重要的商业概念。
+There is an important business concept behind this.
+
+6
+00:00:13,425 --> 00:00:17,808
+Cash Conversion Cycle，现金转换周期。
+Cash Conversion Cycle.
+
+7
+00:00:17,808 --> 00:00:24,447
+简单来说，就是企业从付钱买货，到最终收回客户货款，需要等待多久。
+How long from paying for goods to collecting customer cash?
+
+8
+00:00:24,447 --> 00:00:25,442
+我们算一笔账。
+Let us run the numbers.
+
+9
+00:00:25,442 --> 00:00:27,549
+以下数据全部是假设。
+All the following figures are hypothetical.
+
+10
+00:00:27,549 --> 00:00:31,552
+假设一家电商公司，上个月销售额十万美元。
+Assume last month's sales were $100,000.
+
+11
+00:00:31,552 --> 00:00:35,872
+这个月增长百分之三十，达到十三万美元。
+Sales grew 30% this month to $130,000.
+
+12
+00:00:35,872 --> 00:00:37,978
+看起来多卖了三万美元！
+That is $30,000 more in sales!
+
+13
+00:00:37,978 --> 00:00:39,308
+但问题来了。
+But here is the problem.
+
+14
+00:00:39,308 --> 00:00:44,523
+为了准备更多订单，公司提前支付了五万美元采购新库存。
+The company paid $50,000 upfront for new inventory.
+
+15
+00:00:44,523 --> 00:00:48,646
+同时，这个月只收到了八万美元客户货款。
+It collected only $80,000 from customers this month.
+
+16
+00:00:48,646 --> 00:00:53,436
+另外，还支付了两万美元工资、房租和物流等费用。
+It also paid $20,000 in wages, rent and logistics.
+
+17
+00:00:53,436 --> 00:00:56,525
+我们看看现金发生了什么变化。
+Let us see what happened to cash.
+
+18
+00:00:56,525 --> 00:00:58,932
+收到客户货款，八万美元。
+Customer cash received: $80,000.
+
+19
+00:00:58,932 --> 00:01:01,228
+减去采购库存的五万美元。
+Less $50,000 paid for inventory.
+
+20
+00:01:01,228 --> 00:01:03,508
+再减去经营费用两万美元。
+Less $20,000 in operating payments.
+
+21
+00:01:03,508 --> 00:01:06,449
+这个月现金只净增加了一万美元！
+Net cash increased by only $10,000!
+
+22
+00:01:06,449 --> 00:01:12,481
+但如果公司还有四万美元到期的供应商货款需要支付呢？
+What if another $40,000 in supplier payments falls due?
+
+23
+00:01:12,481 --> 00:01:14,692
+现金就会净减少三万美元！
+Net cash would fall by $30,000!
+
+24
+00:01:14,692 --> 00:01:15,368
+等等！
+Wait!
+
+25
+00:01:15,368 --> 00:01:20,014
+销售额明明增长了百分之三十，现金却减少了三万美元！
+Sales grew 30%, but cash fell by $30,000!
+
+26
+00:01:20,014 --> 00:01:23,527
+因为销售额不等于实际收到的现金。
+Sales are not the same as cash actually collected.
+
+27
+00:01:23,527 --> 00:01:27,842
+库存需要提前付款，客户却可能延迟付款。
+Inventory may be prepaid while customers pay later.
+
+28
+00:01:27,842 --> 00:01:32,850
+而供应商和员工，不会因为客户还没付款，就停止催款。
+Suppliers and employees still need to be paid.
+
+29
+00:01:32,850 --> 00:01:38,816
+当然，真实企业还要考虑应收账款、应付账款和库存周转天数。
+Real companies also track receivables, payables and inventory days.
+
+30
+00:01:38,816 --> 00:01:40,292
+所以，老板不能只盯着销售额增长。
+Owners cannot focus only on sales growth.
+
+31
+00:01:40,292 --> 00:01:44,229
+更要知道，钱什么时候付出去，又什么时候收回来。
+Know when cash goes out and when it comes back.
+
+32
+00:01:44,229 --> 00:01:46,117
+记住：
+Remember:
+
+33
+00:01:46,117 --> 00:01:49,507
+销售额告诉你生意做了多大。
+Sales tell you the size of the business.
+
+34
+00:01:49,507 --> 00:01:52,888
+现金流告诉你，企业能不能持续运转。
+Cash flow tells you whether it can keep operating.
+
+35
+00:01:52,888 --> 00:01:55,984
+这就是，数据看生意。
+This is Business in Numbers.
