@@ -1,0 +1,11 @@
+{
+  "full_decode": "PASS",
+  "original_narration_correlation": 0.999947,
+  "safe_area_frames_checked": 2283,
+  "lower_672px_worst_YUV_range": 4.0,
+  "safe_area": "PASS: no drawn content; only codec boundary variation",
+  "numeric_test": "PASS",
+  "typescript": "PASS",
+  "sync": "local Whisper segment timestamp semantic review; not human word-by-word audit",
+  "assets": "original layered vector product, owner, packaging, studio; original user voice; no new music or AI voice; no generated word subtitles"
+}

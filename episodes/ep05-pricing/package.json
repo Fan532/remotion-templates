@@ -1,0 +1,29 @@
+{
+  "name": "small-business-analytics-ep05-pricing",
+  "version": "1.0.0",
+  "description": "Small Business Analytics EP05 \u2014 Pricing Strategy",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc",
+    "test": "node tests/verify-model.cjs",
+    "studio": "remotion studio src/index.tsx --browser-executable=/usr/bin/chromium --port=3050",
+    "render": "remotion render src/index.tsx EP05Pricing out/ep05-pricing-strategy.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --pixel-format=yuv420p --concurrency=4 --log=error",
+    "preview": "remotion still src/index.tsx EP05Pricing out/preview.png --frame=120 --browser-executable=/usr/bin/chromium --log=error"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "4.0.538",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.538"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "7.0.2"
+  },
+  "private": true
+}

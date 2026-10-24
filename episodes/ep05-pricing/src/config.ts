@@ -1,0 +1,46 @@
+export const demo = {
+  fps: 30,
+  size: { width: 1080, height: 1920 },
+  safeHeight: 1248,
+  duration: 76.094667,
+  colors: {
+    blue: "#168BFA",
+    teal: "#00AC92",
+    coral: "#F57465",
+    yellow: "#FFD05A",
+    purple: "#8D60E9",
+    ink: "#233550",
+    muted: "#6D7C91",
+    line: "#E0E8F3",
+  },
+  unitCost: 20,
+  fixedCosts: 8000,
+  plans: [
+    { id: "A", price: 30, units: 1000, color: "blue" },
+    { id: "B", price: 40, units: 700, color: "teal" },
+    { id: "C", price: 50, units: 400, color: "coral" },
+  ],
+  timings: {
+    concept: 9.36,
+    setup: 21.37,
+    plans: 27.94,
+    planB: 32.3,
+    planC: 37.14,
+    twist: 43.47,
+    profit: 52.83,
+    profitNumbers: 56.67,
+    profitWinner: 60.47,
+    ending: 63.55,
+    priceQuote: 67.11,
+    volumeQuote: 69.11,
+    overallQuote: 70.95,
+    brand: 73.51,
+  },
+} as const;
+export const planResults = demo.plans.map((p) => ({
+  ...p,
+  unitContribution: p.price - demo.unitCost,
+  totalContribution: (p.price - demo.unitCost) * p.units,
+  operatingProfit: (p.price - demo.unitCost) * p.units - demo.fixedCosts,
+}));
+export const totalFrames = Math.ceil(demo.duration * demo.fps);
