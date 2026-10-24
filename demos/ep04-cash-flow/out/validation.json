@@ -1,0 +1,18 @@
+{
+  "full_decode": "PASS",
+  "lower_35_percent_all_450_frames": "PASS: no drawn elements",
+  "lossless_preview_lower_672px": "exactly uniform RGB",
+  "decoded_YUV_spatial_range_including_boundary": 5.0,
+  "decoded_YUV_range_excluding_8px_compression_boundary": 0,
+  "motion_mean_absolute_pixel_difference_by_scene": [
+    3.31,
+    7.393,
+    4.654,
+    4.056
+  ],
+  "model_test": "PASS",
+  "typescript": "PASS",
+  "audio": "no audio stream",
+  "visual_inspection": "four phases inspected; cumulative labels 80,30,10,-30 match floating bar positions",
+  "reference_review": "REFERENCES.md"
+}

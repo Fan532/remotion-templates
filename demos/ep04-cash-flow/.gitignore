@@ -1,0 +1,7 @@
+node_modules/
+.remotion/
+out/bundle/
+out/check-*.png
+out/motion-*.png
+out/safe-area-stats.txt
+out/safe-area-interior-stats.txt
