@@ -76,3 +76,7 @@ Studio为3060端口，仅供内部验证，不提供localhost链接。GitHub文�
 ## 后续视觉升级方向
 
 初版已包含独立人物、包裹、货车和账单运动，下一轮可进一步定制多角度角色和人物走位、增加办公室/仓库的更多景别与匹配转场，并在人工听审后细调每个数字的出现点。升级时保持字幕留白、数字尺度和原声速度不变。
+
+## 新增：中英逐字/逐词高亮字幕版
+
+参见[CAPTIONS.md](CAPTIONS.md)。原无字幕版保持不变；运行`npm run render:captions`生成`out/ep06-customer-profitability-bilingual.mp4`，双语44px同等字号并高亮，音轨从原成片无损复制。

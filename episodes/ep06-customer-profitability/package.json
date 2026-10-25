@@ -8,7 +8,9 @@
     "test": "node tests/verify-model.cjs",
     "studio": "remotion studio src/index.tsx --browser-executable=/usr/bin/chromium --port=3060",
     "render": "remotion render src/index.tsx EP06CustomerProfitability out/ep06-customer-profitability.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --pixel-format=yuv420p --concurrency=4 --log=error",
-    "preview": "remotion still src/index.tsx EP06CustomerProfitability out/preview.png --frame=120 --browser-executable=/usr/bin/chromium --log=error"
+    "preview": "remotion still src/index.tsx EP06CustomerProfitability out/preview.png --frame=120 --browser-executable=/usr/bin/chromium --log=error",
+    "render:captions": "node tools/render_captions.cjs",
+    "test:captions": "node tests/verify-captions.cjs"
   },
   "keywords": [],
   "author": "",

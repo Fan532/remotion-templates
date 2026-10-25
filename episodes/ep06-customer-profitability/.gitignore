@@ -4,3 +4,7 @@ out/check-*.png
 out/safe-area-*.txt
 out/asr-input.wav
 __pycache__/
+out/caption-review-input.wav
+out/ep06-captioned-work.mp4
+out/caption-audio-review.json
+out/captioned-upper-ssim.txt

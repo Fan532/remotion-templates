@@ -1,0 +1,11 @@
+{
+  "full_decode": "PASS",
+  "video": "1080x1920,H.264,30fps,2464frames,82.133333s",
+  "bilingual_captions": "37 pages,44px both languages,Chinese character/English word highlighting",
+  "audio_exactly_preserved": true,
+  "upper_65_percent_ssim_vs_original": 0.999297,
+  "original_scene_data_audio_sources": "unchanged",
+  "visual_inspection": "8 final MP4 samples inspected; captions remain within lower35%,no clipping",
+  "timing": "Chinese CTC character peaks aligned to corrected text; English translation phrase pacing,not English forced alignment",
+  "tests": "TypeScript and37-page character/word boundary+financial-text tests PASS"
+}
