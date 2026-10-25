@@ -1,0 +1,62 @@
+export const demo = {
+  fps: 30,
+  size: { width: 1080, height: 1920 },
+  safeHeight: 1248,
+  duration: 82.106009,
+  musicVolume: 0.4,
+  colors: {
+    blue: "#199CFA",
+    teal: "#00B59A",
+    coral: "#FC7A67",
+    purple: "#9464EB",
+    yellow: "#FFD45F",
+    ink: "#24364E",
+    muted: "#708298",
+    line: "#DEEAF3",
+  },
+  customers: [
+    {
+      id: "A",
+      revenue: 20000,
+      productCost: 14000,
+      serviceCost: 4000,
+      color: "coral",
+    },
+    {
+      id: "B",
+      revenue: 10000,
+      productCost: 6000,
+      serviceCost: 500,
+      color: "teal",
+    },
+  ],
+  timings: {
+    introB: 3,
+    concept: 9,
+    formula: 13,
+    assumptions: 20,
+    customerA: 22,
+    aRevenue: 23.4,
+    aProduct: 26,
+    aRush: 29,
+    aService: 32,
+    aContribution: 34,
+    customerB: 36,
+    bRevenue: 38,
+    bProduct: 40,
+    bService: 42,
+    bContribution: 44,
+    reversal: 46,
+    delta: 48,
+    factors: 55.48,
+    ending: 64,
+    summary: 70.9,
+    brand: 79.6,
+  },
+} as const;
+export const customers = demo.customers.map((c) => ({
+  ...c,
+  contribution: c.revenue - c.productCost - c.serviceCost,
+}));
+export const advantage = customers[1].contribution - customers[0].contribution;
+export const totalFrames = Math.ceil(demo.duration * demo.fps);

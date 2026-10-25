@@ -1,0 +1,21 @@
+{
+  "full_decode": "PASS",
+  "frames": 2464,
+  "fps": 30,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "expected_mix_correlation": 0.999946,
+  "audio_peak_dBFS": -9.6,
+  "audio": "Original user narration retained at original speed/pauses plus original quiet music",
+  "safe_area_frames_checked": 2464,
+  "lower_672px_max_YUV_spatial_range": 5.0,
+  "safe_area": "No drawn content; minor codec boundary variation",
+  "numeric_test": "A2000,B3500,difference1500 PASS",
+  "typescript": "PASS",
+  "sync_method": "local Whisper segment timestamps and semantic cue review; not a human word-by-word audit",
+  "subtitles": "No generated word subtitles",
+  "assets": "Original vector graphics/music; reused own EP05 character and EP04 primitives",
+  "visual_inspection": "8 representative frames decoded from final MP4 and inspected; Chinese labels, costs, contribution values, invoice totals and comparison scale correct"
+}
