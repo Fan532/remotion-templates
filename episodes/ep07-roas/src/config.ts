@@ -1,0 +1,61 @@
+export const demo = {
+  fps: 30,
+  size: { width: 1080, height: 1920 },
+  safeHeight: 1248,
+  duration: 80.979583,
+  musicVolume: 0.27,
+  colors: {
+    blue: "#179CFA",
+    teal: "#00B99B",
+    coral: "#FF7B61",
+    purple: "#9664ED",
+    yellow: "#FFD159",
+    ink: "#24364F",
+    muted: "#708298",
+    line: "#DEE8F2",
+  },
+  adSpend: 1000,
+  variableCostRate: 0.7,
+  revenues: [5000, 3000],
+  timings: {
+    concept: 8.31,
+    definition: 13.71,
+    assumptions: 18.63,
+    exampleSpend: 22.95,
+    exampleRevenue: 24.69,
+    roasResult: 26.67,
+    hiddenCosts: 30.27,
+    costRate: 32.55,
+    rate70: 34.89,
+    waterfall1: 37.05,
+    variable1: 38.43,
+    remaining1: 40.47,
+    ad1: 42.27,
+    result1: 44.31,
+    reversal: 46.53,
+    afterAd: 47.97,
+    scenario2: 50.97,
+    revenue2: 52.59,
+    variable2: 54.39,
+    remaining2: 56.61,
+    result2: 58.23,
+    ending: 59.97,
+    management: 64.23,
+    productCosts: 67.29,
+    summary: 70.11,
+    brand: 78.21,
+  },
+} as const;
+export const scenarios = demo.revenues.map((revenue) => {
+  const variableCost = Math.round(revenue * demo.variableCostRate);
+  const beforeAds = revenue - variableCost;
+  return {
+    revenue,
+    variableCost,
+    beforeAds,
+    adSpend: demo.adSpend,
+    afterAds: beforeAds - demo.adSpend,
+    roas: revenue / demo.adSpend,
+  };
+});
+export const totalFrames = Math.ceil(demo.duration * demo.fps);

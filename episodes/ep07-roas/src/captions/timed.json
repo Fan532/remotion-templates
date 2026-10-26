@@ -1,0 +1,3182 @@
+[
+  {
+    "start": 0.03,
+    "end": 0.975,
+    "zh": "广告花一千美元",
+    "en": "$1,000 spent on advertising.",
+    "characters": [
+      {
+        "text": "广",
+        "start": 0.03,
+        "end": 0.165
+      },
+      {
+        "text": "告",
+        "start": 0.165,
+        "end": 0.3
+      },
+      {
+        "text": "花",
+        "start": 0.3,
+        "end": 0.435
+      },
+      {
+        "text": "一",
+        "start": 0.435,
+        "end": 0.57
+      },
+      {
+        "text": "千",
+        "start": 0.57,
+        "end": 0.705
+      },
+      {
+        "text": "美",
+        "start": 0.705,
+        "end": 0.84
+      },
+      {
+        "text": "元",
+        "start": 0.84,
+        "end": 0.975
+      }
+    ],
+    "words": [
+      {
+        "text": "$1,000",
+        "start": 0.03,
+        "end": 0.241
+      },
+      {
+        "text": "spent",
+        "start": 0.241,
+        "end": 0.476
+      },
+      {
+        "text": "on",
+        "start": 0.476,
+        "end": 0.625
+      },
+      {
+        "text": "advertising.",
+        "start": 0.625,
+        "end": 0.975
+      }
+    ]
+  },
+  {
+    "start": 0.99,
+    "end": 3.195,
+    "zh": "竟然带来了五千美元的销售额",
+    "en": "It brought in $5,000 in sales.",
+    "characters": [
+      {
+        "text": "竟",
+        "start": 1.02,
+        "end": 1.14
+      },
+      {
+        "text": "然",
+        "start": 1.14,
+        "end": 1.38
+      },
+      {
+        "text": "带",
+        "start": 1.38,
+        "end": 1.5
+      },
+      {
+        "text": "来",
+        "start": 1.5,
+        "end": 1.62
+      },
+      {
+        "text": "了",
+        "start": 1.62,
+        "end": 1.8
+      },
+      {
+        "text": "五",
+        "start": 1.8,
+        "end": 1.98
+      },
+      {
+        "text": "千",
+        "start": 1.98,
+        "end": 2.22
+      },
+      {
+        "text": "美",
+        "start": 2.22,
+        "end": 2.4
+      },
+      {
+        "text": "元",
+        "start": 2.4,
+        "end": 2.52
+      },
+      {
+        "text": "的",
+        "start": 2.52,
+        "end": 2.64
+      },
+      {
+        "text": "销",
+        "start": 2.64,
+        "end": 2.82
+      },
+      {
+        "text": "售",
+        "start": 2.82,
+        "end": 3.0
+      },
+      {
+        "text": "额",
+        "start": 3.0,
+        "end": 3.195
+      }
+    ],
+    "words": [
+      {
+        "text": "It",
+        "start": 0.99,
+        "end": 1.27
+      },
+      {
+        "text": "brought",
+        "start": 1.27,
+        "end": 1.795
+      },
+      {
+        "text": "in",
+        "start": 1.795,
+        "end": 2.075
+      },
+      {
+        "text": "$5,000",
+        "start": 2.075,
+        "end": 2.471
+      },
+      {
+        "text": "in",
+        "start": 2.471,
+        "end": 2.752
+      },
+      {
+        "text": "sales.",
+        "start": 2.752,
+        "end": 3.195
+      }
+    ]
+  },
+  {
+    "start": 3.21,
+    "end": 4.335,
+    "zh": "老板高兴坏了",
+    "en": "The owner is delighted.",
+    "characters": [
+      {
+        "text": "老",
+        "start": 3.24,
+        "end": 3.36
+      },
+      {
+        "text": "板",
+        "start": 3.36,
+        "end": 3.6
+      },
+      {
+        "text": "高",
+        "start": 3.6,
+        "end": 3.72
+      },
+      {
+        "text": "兴",
+        "start": 3.72,
+        "end": 3.96
+      },
+      {
+        "text": "坏",
+        "start": 3.96,
+        "end": 4.14
+      },
+      {
+        "text": "了",
+        "start": 4.14,
+        "end": 4.335
+      }
+    ],
+    "words": [
+      {
+        "text": "The",
+        "start": 3.21,
+        "end": 3.442
+      },
+      {
+        "text": "owner",
+        "start": 3.442,
+        "end": 3.743
+      },
+      {
+        "text": "is",
+        "start": 3.743,
+        "end": 3.932
+      },
+      {
+        "text": "delighted.",
+        "start": 3.932,
+        "end": 4.335
+      }
+    ]
+  },
+  {
+    "start": 4.35,
+    "end": 6.16,
+    "zh": "这广告太划算了",
+    "en": "What a great deal!",
+    "characters": [
+      {
+        "text": "这",
+        "start": 4.38,
+        "end": 4.68
+      },
+      {
+        "text": "广",
+        "start": 4.68,
+        "end": 4.86
+      },
+      {
+        "text": "告",
+        "start": 4.86,
+        "end": 5.1
+      },
+      {
+        "text": "太",
+        "start": 5.1,
+        "end": 5.34
+      },
+      {
+        "text": "划",
+        "start": 5.34,
+        "end": 5.58
+      },
+      {
+        "text": "算",
+        "start": 5.58,
+        "end": 5.82
+      },
+      {
+        "text": "了",
+        "start": 5.82,
+        "end": 6.16
+      }
+    ],
+    "words": [
+      {
+        "text": "What",
+        "start": 4.35,
+        "end": 4.85
+      },
+      {
+        "text": "a",
+        "start": 4.85,
+        "end": 5.1
+      },
+      {
+        "text": "great",
+        "start": 5.1,
+        "end": 5.66
+      },
+      {
+        "text": "deal!",
+        "start": 5.66,
+        "end": 6.16
+      }
+    ]
+  },
+  {
+    "start": 6.27,
+    "end": 8.14,
+    "zh": "但等等真的赚钱吗",
+    "en": "But wait. Is it really profitable?",
+    "characters": [
+      {
+        "text": "但",
+        "start": 6.3,
+        "end": 6.6
+      },
+      {
+        "text": "等",
+        "start": 6.6,
+        "end": 6.78
+      },
+      {
+        "text": "等",
+        "start": 6.78,
+        "end": 7.02
+      },
+      {
+        "text": "真",
+        "start": 7.02,
+        "end": 7.2
+      },
+      {
+        "text": "的",
+        "start": 7.2,
+        "end": 7.38
+      },
+      {
+        "text": "赚",
+        "start": 7.38,
+        "end": 7.62
+      },
+      {
+        "text": "钱",
+        "start": 7.62,
+        "end": 7.8
+      },
+      {
+        "text": "吗",
+        "start": 7.8,
+        "end": 8.14
+      }
+    ],
+    "words": [
+      {
+        "text": "But",
+        "start": 6.27,
+        "end": 6.536
+      },
+      {
+        "text": "wait.",
+        "start": 6.536,
+        "end": 6.843
+      },
+      {
+        "text": "Is",
+        "start": 6.843,
+        "end": 7.061
+      },
+      {
+        "text": "it",
+        "start": 7.061,
+        "end": 7.278
+      },
+      {
+        "text": "really",
+        "start": 7.278,
+        "end": 7.654
+      },
+      {
+        "text": "profitable?",
+        "start": 7.654,
+        "end": 8.14
+      }
+    ]
+  },
+  {
+    "start": 8.31,
+    "end": 10.275,
+    "zh": "今天我们讲一个商业概念",
+    "en": "Here is a business concept:",
+    "characters": [
+      {
+        "text": "今",
+        "start": 8.34,
+        "end": 8.52
+      },
+      {
+        "text": "天",
+        "start": 8.52,
+        "end": 8.7
+      },
+      {
+        "text": "我",
+        "start": 8.7,
+        "end": 8.88
+      },
+      {
+        "text": "们",
+        "start": 8.88,
+        "end": 9.0
+      },
+      {
+        "text": "讲",
+        "start": 9.0,
+        "end": 9.18
+      },
+      {
+        "text": "一",
+        "start": 9.18,
+        "end": 9.3
+      },
+      {
+        "text": "个",
+        "start": 9.3,
+        "end": 9.48
+      },
+      {
+        "text": "商",
+        "start": 9.48,
+        "end": 9.6
+      },
+      {
+        "text": "业",
+        "start": 9.6,
+        "end": 9.9
+      },
+      {
+        "text": "概",
+        "start": 9.9,
+        "end": 10.02
+      },
+      {
+        "text": "念",
+        "start": 10.02,
+        "end": 10.275
+      }
+    ],
+    "words": [
+      {
+        "text": "Here",
+        "start": 8.31,
+        "end": 8.707
+      },
+      {
+        "text": "is",
+        "start": 8.707,
+        "end": 8.988
+      },
+      {
+        "text": "a",
+        "start": 8.988,
+        "end": 9.187
+      },
+      {
+        "text": "business",
+        "start": 9.187,
+        "end": 9.749
+      },
+      {
+        "text": "concept:",
+        "start": 9.749,
+        "end": 10.275
+      }
+    ]
+  },
+  {
+    "start": 10.29,
+    "end": 11.2,
+    "zh": "ROAS",
+    "en": "ROAS",
+    "characters": [
+      {
+        "text": "R",
+        "start": 10.29,
+        "end": 10.517
+      },
+      {
+        "text": "O",
+        "start": 10.517,
+        "end": 10.745
+      },
+      {
+        "text": "A",
+        "start": 10.745,
+        "end": 10.972
+      },
+      {
+        "text": "S",
+        "start": 10.972,
+        "end": 11.2
+      }
+    ],
+    "words": [
+      {
+        "text": "ROAS",
+        "start": 10.29,
+        "end": 11.2
+      }
+    ]
+  },
+  {
+    "start": 11.85,
+    "end": 13.54,
+    "zh": "广告支出回报率",
+    "en": "Return on Ad Spend",
+    "characters": [
+      {
+        "text": "广",
+        "start": 11.88,
+        "end": 12.06
+      },
+      {
+        "text": "告",
+        "start": 12.06,
+        "end": 12.24
+      },
+      {
+        "text": "支",
+        "start": 12.24,
+        "end": 12.48
+      },
+      {
+        "text": "出",
+        "start": 12.48,
+        "end": 12.78
+      },
+      {
+        "text": "回",
+        "start": 12.78,
+        "end": 12.96
+      },
+      {
+        "text": "报",
+        "start": 12.96,
+        "end": 13.2
+      },
+      {
+        "text": "率",
+        "start": 13.2,
+        "end": 13.54
+      }
+    ],
+    "words": [
+      {
+        "text": "Return",
+        "start": 11.85,
+        "end": 12.401
+      },
+      {
+        "text": "on",
+        "start": 12.401,
+        "end": 12.719
+      },
+      {
+        "text": "Ad",
+        "start": 12.719,
+        "end": 13.037
+      },
+      {
+        "text": "Spend",
+        "start": 13.037,
+        "end": 13.54
+      }
+    ]
+  },
+  {
+    "start": 13.71,
+    "end": 14.595,
+    "zh": "简单来说",
+    "en": "Simply put:",
+    "characters": [
+      {
+        "text": "简",
+        "start": 13.74,
+        "end": 13.92
+      },
+      {
+        "text": "单",
+        "start": 13.92,
+        "end": 14.1
+      },
+      {
+        "text": "来",
+        "start": 14.1,
+        "end": 14.28
+      },
+      {
+        "text": "说",
+        "start": 14.28,
+        "end": 14.595
+      }
+    ],
+    "words": [
+      {
+        "text": "Simply",
+        "start": 13.71,
+        "end": 14.228
+      },
+      {
+        "text": "put:",
+        "start": 14.228,
+        "end": 14.595
+      }
+    ]
+  },
+  {
+    "start": 14.61,
+    "end": 16.215,
+    "zh": "每花一美元广告费",
+    "en": "For every $1 spent on ads,",
+    "characters": [
+      {
+        "text": "每",
+        "start": 14.64,
+        "end": 14.82
+      },
+      {
+        "text": "花",
+        "start": 14.82,
+        "end": 15.12
+      },
+      {
+        "text": "一",
+        "start": 15.12,
+        "end": 15.3
+      },
+      {
+        "text": "美",
+        "start": 15.3,
+        "end": 15.48
+      },
+      {
+        "text": "元",
+        "start": 15.48,
+        "end": 15.72
+      },
+      {
+        "text": "广",
+        "start": 15.72,
+        "end": 15.84
+      },
+      {
+        "text": "告",
+        "start": 15.84,
+        "end": 16.02
+      },
+      {
+        "text": "费",
+        "start": 16.02,
+        "end": 16.215
+      }
+    ],
+    "words": [
+      {
+        "text": "For",
+        "start": 14.61,
+        "end": 14.879
+      },
+      {
+        "text": "every",
+        "start": 14.879,
+        "end": 15.225
+      },
+      {
+        "text": "$1",
+        "start": 15.225,
+        "end": 15.38
+      },
+      {
+        "text": "spent",
+        "start": 15.38,
+        "end": 15.727
+      },
+      {
+        "text": "on",
+        "start": 15.727,
+        "end": 15.946
+      },
+      {
+        "text": "ads,",
+        "start": 15.946,
+        "end": 16.215
+      }
+    ]
+  },
+  {
+    "start": 16.23,
+    "end": 18.28,
+    "zh": "能带来多少美元销售额",
+    "en": "how many dollars of sales follow?",
+    "characters": [
+      {
+        "text": "能",
+        "start": 16.26,
+        "end": 16.44
+      },
+      {
+        "text": "带",
+        "start": 16.44,
+        "end": 16.62
+      },
+      {
+        "text": "来",
+        "start": 16.62,
+        "end": 16.8
+      },
+      {
+        "text": "多",
+        "start": 16.8,
+        "end": 16.92
+      },
+      {
+        "text": "少",
+        "start": 16.92,
+        "end": 17.16
+      },
+      {
+        "text": "美",
+        "start": 17.16,
+        "end": 17.28
+      },
+      {
+        "text": "元",
+        "start": 17.28,
+        "end": 17.52
+      },
+      {
+        "text": "销",
+        "start": 17.52,
+        "end": 17.7
+      },
+      {
+        "text": "售",
+        "start": 17.7,
+        "end": 17.94
+      },
+      {
+        "text": "额",
+        "start": 17.94,
+        "end": 18.28
+      }
+    ],
+    "words": [
+      {
+        "text": "how",
+        "start": 16.23,
+        "end": 16.515
+      },
+      {
+        "text": "many",
+        "start": 16.515,
+        "end": 16.843
+      },
+      {
+        "text": "dollars",
+        "start": 16.843,
+        "end": 17.278
+      },
+      {
+        "text": "of",
+        "start": 17.278,
+        "end": 17.51
+      },
+      {
+        "text": "sales",
+        "start": 17.51,
+        "end": 17.878
+      },
+      {
+        "text": "follow?",
+        "start": 17.878,
+        "end": 18.28
+      }
+    ]
+  },
+  {
+    "start": 18.63,
+    "end": 20.38,
+    "zh": "以下数据全是假设",
+    "en": "All figures are hypothetical.",
+    "characters": [
+      {
+        "text": "以",
+        "start": 18.66,
+        "end": 18.84
+      },
+      {
+        "text": "下",
+        "start": 18.84,
+        "end": 19.08
+      },
+      {
+        "text": "数",
+        "start": 19.08,
+        "end": 19.2
+      },
+      {
+        "text": "据",
+        "start": 19.2,
+        "end": 19.5
+      },
+      {
+        "text": "全",
+        "start": 19.5,
+        "end": 19.68
+      },
+      {
+        "text": "是",
+        "start": 19.68,
+        "end": 19.86
+      },
+      {
+        "text": "假",
+        "start": 19.86,
+        "end": 20.04
+      },
+      {
+        "text": "设",
+        "start": 20.04,
+        "end": 20.38
+      }
+    ],
+    "words": [
+      {
+        "text": "All",
+        "start": 18.63,
+        "end": 18.947
+      },
+      {
+        "text": "figures",
+        "start": 18.947,
+        "end": 19.43
+      },
+      {
+        "text": "are",
+        "start": 19.43,
+        "end": 19.747
+      },
+      {
+        "text": "hypothetical.",
+        "start": 19.747,
+        "end": 20.38
+      }
+    ]
+  },
+  {
+    "start": 20.61,
+    "end": 22.78,
+    "zh": "一家小企业卖美容产品",
+    "en": "A small business sells beauty products.",
+    "characters": [
+      {
+        "text": "一",
+        "start": 20.64,
+        "end": 20.82
+      },
+      {
+        "text": "家",
+        "start": 20.82,
+        "end": 21.06
+      },
+      {
+        "text": "小",
+        "start": 21.06,
+        "end": 21.24
+      },
+      {
+        "text": "企",
+        "start": 21.24,
+        "end": 21.42
+      },
+      {
+        "text": "业",
+        "start": 21.42,
+        "end": 21.6
+      },
+      {
+        "text": "卖",
+        "start": 21.6,
+        "end": 21.9
+      },
+      {
+        "text": "美",
+        "start": 21.9,
+        "end": 22.02
+      },
+      {
+        "text": "容",
+        "start": 22.02,
+        "end": 22.26
+      },
+      {
+        "text": "产",
+        "start": 22.26,
+        "end": 22.44
+      },
+      {
+        "text": "品",
+        "start": 22.44,
+        "end": 22.78
+      }
+    ],
+    "words": [
+      {
+        "text": "A",
+        "start": 20.61,
+        "end": 20.77
+      },
+      {
+        "text": "small",
+        "start": 20.77,
+        "end": 21.127
+      },
+      {
+        "text": "business",
+        "start": 21.127,
+        "end": 21.579
+      },
+      {
+        "text": "sells",
+        "start": 21.579,
+        "end": 21.937
+      },
+      {
+        "text": "beauty",
+        "start": 21.937,
+        "end": 22.328
+      },
+      {
+        "text": "products.",
+        "start": 22.328,
+        "end": 22.78
+      }
+    ]
+  },
+  {
+    "start": 22.95,
+    "end": 24.64,
+    "zh": "广告花了一千美元",
+    "en": "It spends $1,000 on ads",
+    "characters": [
+      {
+        "text": "广",
+        "start": 22.98,
+        "end": 23.16
+      },
+      {
+        "text": "告",
+        "start": 23.16,
+        "end": 23.4
+      },
+      {
+        "text": "花",
+        "start": 23.4,
+        "end": 23.58
+      },
+      {
+        "text": "了",
+        "start": 23.58,
+        "end": 23.7
+      },
+      {
+        "text": "一",
+        "start": 23.7,
+        "end": 23.88
+      },
+      {
+        "text": "千",
+        "start": 23.88,
+        "end": 24.12
+      },
+      {
+        "text": "美",
+        "start": 24.12,
+        "end": 24.3
+      },
+      {
+        "text": "元",
+        "start": 24.3,
+        "end": 24.64
+      }
+    ],
+    "words": [
+      {
+        "text": "It",
+        "start": 22.95,
+        "end": 23.215
+      },
+      {
+        "text": "spends",
+        "start": 23.215,
+        "end": 23.675
+      },
+      {
+        "text": "$1,000",
+        "start": 23.675,
+        "end": 24.05
+      },
+      {
+        "text": "on",
+        "start": 24.05,
+        "end": 24.315
+      },
+      {
+        "text": "ads",
+        "start": 24.315,
+        "end": 24.64
+      }
+    ]
+  },
+  {
+    "start": 24.69,
+    "end": 26.655,
+    "zh": "带来了五千美元销售额",
+    "en": "and generates $5,000 in sales.",
+    "characters": [
+      {
+        "text": "带",
+        "start": 24.72,
+        "end": 24.9
+      },
+      {
+        "text": "来",
+        "start": 24.9,
+        "end": 25.08
+      },
+      {
+        "text": "了",
+        "start": 25.08,
+        "end": 25.2
+      },
+      {
+        "text": "五",
+        "start": 25.2,
+        "end": 25.44
+      },
+      {
+        "text": "千",
+        "start": 25.44,
+        "end": 25.62
+      },
+      {
+        "text": "美",
+        "start": 25.62,
+        "end": 25.8
+      },
+      {
+        "text": "元",
+        "start": 25.8,
+        "end": 25.98
+      },
+      {
+        "text": "销",
+        "start": 25.98,
+        "end": 26.16
+      },
+      {
+        "text": "售",
+        "start": 26.16,
+        "end": 26.34
+      },
+      {
+        "text": "额",
+        "start": 26.34,
+        "end": 26.655
+      }
+    ],
+    "words": [
+      {
+        "text": "and",
+        "start": 24.69,
+        "end": 25.018
+      },
+      {
+        "text": "generates",
+        "start": 25.018,
+        "end": 25.586
+      },
+      {
+        "text": "$5,000",
+        "start": 25.586,
+        "end": 25.964
+      },
+      {
+        "text": "in",
+        "start": 25.964,
+        "end": 26.232
+      },
+      {
+        "text": "sales.",
+        "start": 26.232,
+        "end": 26.655
+      }
+    ]
+  },
+  {
+    "start": 26.67,
+    "end": 28.42,
+    "zh": "ROAS等于五",
+    "en": "ROAS equals 5.",
+    "characters": [
+      {
+        "text": "R",
+        "start": 26.67,
+        "end": 26.92
+      },
+      {
+        "text": "O",
+        "start": 26.92,
+        "end": 27.17
+      },
+      {
+        "text": "A",
+        "start": 27.17,
+        "end": 27.42
+      },
+      {
+        "text": "S",
+        "start": 27.42,
+        "end": 27.67
+      },
+      {
+        "text": "等",
+        "start": 27.67,
+        "end": 27.92
+      },
+      {
+        "text": "于",
+        "start": 27.92,
+        "end": 28.17
+      },
+      {
+        "text": "五",
+        "start": 28.17,
+        "end": 28.42
+      }
+    ],
+    "words": [
+      {
+        "text": "ROAS",
+        "start": 26.67,
+        "end": 27.312
+      },
+      {
+        "text": "equals",
+        "start": 27.312,
+        "end": 28.099
+      },
+      {
+        "text": "5.",
+        "start": 28.099,
+        "end": 28.42
+      }
+    ]
+  },
+  {
+    "start": 28.53,
+    "end": 30.1,
+    "zh": "看起来非常漂亮",
+    "en": "That looks impressive.",
+    "characters": [
+      {
+        "text": "看",
+        "start": 28.56,
+        "end": 28.74
+      },
+      {
+        "text": "起",
+        "start": 28.74,
+        "end": 28.92
+      },
+      {
+        "text": "来",
+        "start": 28.92,
+        "end": 29.16
+      },
+      {
+        "text": "非",
+        "start": 29.16,
+        "end": 29.28
+      },
+      {
+        "text": "常",
+        "start": 29.28,
+        "end": 29.58
+      },
+      {
+        "text": "漂",
+        "start": 29.58,
+        "end": 29.76
+      },
+      {
+        "text": "亮",
+        "start": 29.76,
+        "end": 30.1
+      }
+    ],
+    "words": [
+      {
+        "text": "That",
+        "start": 28.53,
+        "end": 28.954
+      },
+      {
+        "text": "looks",
+        "start": 28.954,
+        "end": 29.429
+      },
+      {
+        "text": "impressive.",
+        "start": 29.429,
+        "end": 30.1
+      }
+    ]
+  },
+  {
+    "start": 30.27,
+    "end": 32.26,
+    "zh": "但产品也有成本",
+    "en": "But products have costs too.",
+    "characters": [
+      {
+        "text": "但",
+        "start": 30.3,
+        "end": 30.96
+      },
+      {
+        "text": "产",
+        "start": 30.96,
+        "end": 31.14
+      },
+      {
+        "text": "品",
+        "start": 31.14,
+        "end": 31.38
+      },
+      {
+        "text": "也",
+        "start": 31.38,
+        "end": 31.56
+      },
+      {
+        "text": "有",
+        "start": 31.56,
+        "end": 31.74
+      },
+      {
+        "text": "成",
+        "start": 31.74,
+        "end": 31.92
+      },
+      {
+        "text": "本",
+        "start": 31.92,
+        "end": 32.26
+      }
+    ],
+    "words": [
+      {
+        "text": "But",
+        "start": 30.27,
+        "end": 30.597
+      },
+      {
+        "text": "products",
+        "start": 30.597,
+        "end": 31.132
+      },
+      {
+        "text": "have",
+        "start": 31.132,
+        "end": 31.51
+      },
+      {
+        "text": "costs",
+        "start": 31.51,
+        "end": 31.933
+      },
+      {
+        "text": "too.",
+        "start": 31.933,
+        "end": 32.26
+      }
+    ]
+  },
+  {
+    "start": 32.55,
+    "end": 34.875,
+    "zh": "假设产品和订单变动成本",
+    "en": "Product and order variable costs",
+    "characters": [
+      {
+        "text": "假",
+        "start": 32.58,
+        "end": 32.82
+      },
+      {
+        "text": "设",
+        "start": 32.82,
+        "end": 33.06
+      },
+      {
+        "text": "产",
+        "start": 33.06,
+        "end": 33.24
+      },
+      {
+        "text": "品",
+        "start": 33.24,
+        "end": 33.48
+      },
+      {
+        "text": "和",
+        "start": 33.48,
+        "end": 33.66
+      },
+      {
+        "text": "订",
+        "start": 33.66,
+        "end": 33.84
+      },
+      {
+        "text": "单",
+        "start": 33.84,
+        "end": 34.14
+      },
+      {
+        "text": "变",
+        "start": 34.14,
+        "end": 34.26
+      },
+      {
+        "text": "动",
+        "start": 34.26,
+        "end": 34.5
+      },
+      {
+        "text": "成",
+        "start": 34.5,
+        "end": 34.68
+      },
+      {
+        "text": "本",
+        "start": 34.68,
+        "end": 34.875
+      }
+    ],
+    "words": [
+      {
+        "text": "Product",
+        "start": 32.55,
+        "end": 33.077
+      },
+      {
+        "text": "and",
+        "start": 33.077,
+        "end": 33.422
+      },
+      {
+        "text": "order",
+        "start": 33.422,
+        "end": 33.867
+      },
+      {
+        "text": "variable",
+        "start": 33.867,
+        "end": 34.43
+      },
+      {
+        "text": "costs",
+        "start": 34.43,
+        "end": 34.875
+      }
+    ]
+  },
+  {
+    "start": 34.89,
+    "end": 36.88,
+    "zh": "占销售额的百分之七十",
+    "en": "are assumed to be 70% of sales.",
+    "characters": [
+      {
+        "text": "占",
+        "start": 34.92,
+        "end": 35.22
+      },
+      {
+        "text": "销",
+        "start": 35.22,
+        "end": 35.34
+      },
+      {
+        "text": "售",
+        "start": 35.34,
+        "end": 35.52
+      },
+      {
+        "text": "额",
+        "start": 35.52,
+        "end": 35.7
+      },
+      {
+        "text": "的",
+        "start": 35.7,
+        "end": 35.88
+      },
+      {
+        "text": "百",
+        "start": 35.88,
+        "end": 36.0
+      },
+      {
+        "text": "分",
+        "start": 36.0,
+        "end": 36.12
+      },
+      {
+        "text": "之",
+        "start": 36.12,
+        "end": 36.36
+      },
+      {
+        "text": "七",
+        "start": 36.36,
+        "end": 36.54
+      },
+      {
+        "text": "十",
+        "start": 36.54,
+        "end": 36.88
+      }
+    ],
+    "words": [
+      {
+        "text": "are",
+        "start": 34.89,
+        "end": 35.171
+      },
+      {
+        "text": "assumed",
+        "start": 35.171,
+        "end": 35.6
+      },
+      {
+        "text": "to",
+        "start": 35.6,
+        "end": 35.829
+      },
+      {
+        "text": "be",
+        "start": 35.829,
+        "end": 36.059
+      },
+      {
+        "text": "70%",
+        "start": 36.059,
+        "end": 36.288
+      },
+      {
+        "text": "of",
+        "start": 36.288,
+        "end": 36.517
+      },
+      {
+        "text": "sales.",
+        "start": 36.517,
+        "end": 36.88
+      }
+    ]
+  },
+  {
+    "start": 37.05,
+    "end": 38.415,
+    "zh": "五千美元销售额",
+    "en": "From $5,000 in sales,",
+    "characters": [
+      {
+        "text": "五",
+        "start": 37.08,
+        "end": 37.32
+      },
+      {
+        "text": "千",
+        "start": 37.32,
+        "end": 37.5
+      },
+      {
+        "text": "美",
+        "start": 37.5,
+        "end": 37.68
+      },
+      {
+        "text": "元",
+        "start": 37.68,
+        "end": 37.92
+      },
+      {
+        "text": "销",
+        "start": 37.92,
+        "end": 38.04
+      },
+      {
+        "text": "售",
+        "start": 38.04,
+        "end": 38.22
+      },
+      {
+        "text": "额",
+        "start": 38.22,
+        "end": 38.415
+      }
+    ],
+    "words": [
+      {
+        "text": "From",
+        "start": 37.05,
+        "end": 37.407
+      },
+      {
+        "text": "$5,000",
+        "start": 37.407,
+        "end": 37.764
+      },
+      {
+        "text": "in",
+        "start": 37.764,
+        "end": 38.016
+      },
+      {
+        "text": "sales,",
+        "start": 38.016,
+        "end": 38.415
+      }
+    ]
+  },
+  {
+    "start": 38.43,
+    "end": 40.42,
+    "zh": "扣掉三千五百美元成本",
+    "en": "subtract $3,500 in variable costs.",
+    "characters": [
+      {
+        "text": "扣",
+        "start": 38.46,
+        "end": 38.58
+      },
+      {
+        "text": "掉",
+        "start": 38.58,
+        "end": 38.76
+      },
+      {
+        "text": "三",
+        "start": 38.76,
+        "end": 39.0
+      },
+      {
+        "text": "千",
+        "start": 39.0,
+        "end": 39.18
+      },
+      {
+        "text": "五",
+        "start": 39.18,
+        "end": 39.42
+      },
+      {
+        "text": "百",
+        "start": 39.42,
+        "end": 39.6
+      },
+      {
+        "text": "美",
+        "start": 39.6,
+        "end": 39.72
+      },
+      {
+        "text": "元",
+        "start": 39.72,
+        "end": 39.96
+      },
+      {
+        "text": "成",
+        "start": 39.96,
+        "end": 40.08
+      },
+      {
+        "text": "本",
+        "start": 40.08,
+        "end": 40.42
+      }
+    ],
+    "words": [
+      {
+        "text": "subtract",
+        "start": 38.43,
+        "end": 38.928
+      },
+      {
+        "text": "$3,500",
+        "start": 38.928,
+        "end": 39.28
+      },
+      {
+        "text": "in",
+        "start": 39.28,
+        "end": 39.529
+      },
+      {
+        "text": "variable",
+        "start": 39.529,
+        "end": 40.026
+      },
+      {
+        "text": "costs.",
+        "start": 40.026,
+        "end": 40.42
+      }
+    ]
+  },
+  {
+    "start": 40.47,
+    "end": 42.255,
+    "zh": "只剩下一千五百美元",
+    "en": "Only $1,500 remains.",
+    "characters": [
+      {
+        "text": "只",
+        "start": 40.5,
+        "end": 40.74
+      },
+      {
+        "text": "剩",
+        "start": 40.74,
+        "end": 40.92
+      },
+      {
+        "text": "下",
+        "start": 40.92,
+        "end": 41.1
+      },
+      {
+        "text": "一",
+        "start": 41.1,
+        "end": 41.28
+      },
+      {
+        "text": "千",
+        "start": 41.28,
+        "end": 41.4
+      },
+      {
+        "text": "五",
+        "start": 41.4,
+        "end": 41.64
+      },
+      {
+        "text": "百",
+        "start": 41.64,
+        "end": 41.82
+      },
+      {
+        "text": "美",
+        "start": 41.82,
+        "end": 42.0
+      },
+      {
+        "text": "元",
+        "start": 42.0,
+        "end": 42.255
+      }
+    ],
+    "words": [
+      {
+        "text": "Only",
+        "start": 40.47,
+        "end": 41.007
+      },
+      {
+        "text": "$1,500",
+        "start": 41.007,
+        "end": 41.544
+      },
+      {
+        "text": "remains.",
+        "start": 41.544,
+        "end": 42.255
+      }
+    ]
+  },
+  {
+    "start": 42.27,
+    "end": 44.295,
+    "zh": "再扣掉一千美元广告费",
+    "en": "Subtract $1,000 in ad spend.",
+    "characters": [
+      {
+        "text": "再",
+        "start": 42.3,
+        "end": 42.6
+      },
+      {
+        "text": "扣",
+        "start": 42.6,
+        "end": 42.78
+      },
+      {
+        "text": "掉",
+        "start": 42.78,
+        "end": 42.96
+      },
+      {
+        "text": "一",
+        "start": 42.96,
+        "end": 43.14
+      },
+      {
+        "text": "千",
+        "start": 43.14,
+        "end": 43.32
+      },
+      {
+        "text": "美",
+        "start": 43.32,
+        "end": 43.5
+      },
+      {
+        "text": "元",
+        "start": 43.5,
+        "end": 43.68
+      },
+      {
+        "text": "广",
+        "start": 43.68,
+        "end": 43.86
+      },
+      {
+        "text": "告",
+        "start": 43.86,
+        "end": 44.04
+      },
+      {
+        "text": "费",
+        "start": 44.04,
+        "end": 44.295
+      }
+    ],
+    "words": [
+      {
+        "text": "Subtract",
+        "start": 42.27,
+        "end": 42.849
+      },
+      {
+        "text": "$1,000",
+        "start": 42.849,
+        "end": 43.258
+      },
+      {
+        "text": "in",
+        "start": 43.258,
+        "end": 43.548
+      },
+      {
+        "text": "ad",
+        "start": 43.548,
+        "end": 43.837
+      },
+      {
+        "text": "spend.",
+        "start": 43.837,
+        "end": 44.295
+      }
+    ]
+  },
+  {
+    "start": 44.31,
+    "end": 46.18,
+    "zh": "最后只剩下五百美元",
+    "en": "Only $500 remains.",
+    "characters": [
+      {
+        "text": "最",
+        "start": 44.34,
+        "end": 44.52
+      },
+      {
+        "text": "后",
+        "start": 44.52,
+        "end": 44.7
+      },
+      {
+        "text": "只",
+        "start": 44.7,
+        "end": 44.88
+      },
+      {
+        "text": "剩",
+        "start": 44.88,
+        "end": 45.06
+      },
+      {
+        "text": "下",
+        "start": 45.06,
+        "end": 45.24
+      },
+      {
+        "text": "五",
+        "start": 45.24,
+        "end": 45.48
+      },
+      {
+        "text": "百",
+        "start": 45.48,
+        "end": 45.66
+      },
+      {
+        "text": "美",
+        "start": 45.66,
+        "end": 45.84
+      },
+      {
+        "text": "元",
+        "start": 45.84,
+        "end": 46.18
+      }
+    ],
+    "words": [
+      {
+        "text": "Only",
+        "start": 44.31,
+        "end": 44.896
+      },
+      {
+        "text": "$500",
+        "start": 44.896,
+        "end": 45.404
+      },
+      {
+        "text": "remains.",
+        "start": 45.404,
+        "end": 46.18
+      }
+    ]
+  },
+  {
+    "start": 46.53,
+    "end": 47.955,
+    "zh": "五千美元的销售额",
+    "en": "$5,000 in sales,",
+    "characters": [
+      {
+        "text": "五",
+        "start": 46.56,
+        "end": 46.86
+      },
+      {
+        "text": "千",
+        "start": 46.86,
+        "end": 47.04
+      },
+      {
+        "text": "美",
+        "start": 47.04,
+        "end": 47.22
+      },
+      {
+        "text": "元",
+        "start": 47.22,
+        "end": 47.34
+      },
+      {
+        "text": "的",
+        "start": 47.34,
+        "end": 47.46
+      },
+      {
+        "text": "销",
+        "start": 47.46,
+        "end": 47.58
+      },
+      {
+        "text": "售",
+        "start": 47.58,
+        "end": 47.76
+      },
+      {
+        "text": "额",
+        "start": 47.76,
+        "end": 47.955
+      }
+    ],
+    "words": [
+      {
+        "text": "$5,000",
+        "start": 46.53,
+        "end": 47.034
+      },
+      {
+        "text": "in",
+        "start": 47.034,
+        "end": 47.391
+      },
+      {
+        "text": "sales,",
+        "start": 47.391,
+        "end": 47.955
+      }
+    ]
+  },
+  {
+    "start": 47.97,
+    "end": 50.56,
+    "zh": "广告带来的贡献竟然只有五百美元",
+    "en": "but just $500 in after-ad contribution!",
+    "characters": [
+      {
+        "text": "广",
+        "start": 48.0,
+        "end": 48.12
+      },
+      {
+        "text": "告",
+        "start": 48.12,
+        "end": 48.36
+      },
+      {
+        "text": "带",
+        "start": 48.36,
+        "end": 48.48
+      },
+      {
+        "text": "来",
+        "start": 48.48,
+        "end": 48.6
+      },
+      {
+        "text": "的",
+        "start": 48.6,
+        "end": 48.78
+      },
+      {
+        "text": "贡",
+        "start": 48.78,
+        "end": 48.9
+      },
+      {
+        "text": "献",
+        "start": 48.9,
+        "end": 49.14
+      },
+      {
+        "text": "竟",
+        "start": 49.14,
+        "end": 49.2
+      },
+      {
+        "text": "然",
+        "start": 49.2,
+        "end": 49.38
+      },
+      {
+        "text": "只",
+        "start": 49.38,
+        "end": 49.5
+      },
+      {
+        "text": "有",
+        "start": 49.5,
+        "end": 49.62
+      },
+      {
+        "text": "五",
+        "start": 49.62,
+        "end": 49.86
+      },
+      {
+        "text": "百",
+        "start": 49.86,
+        "end": 50.04
+      },
+      {
+        "text": "美",
+        "start": 50.04,
+        "end": 50.22
+      },
+      {
+        "text": "元",
+        "start": 50.22,
+        "end": 50.56
+      }
+    ],
+    "words": [
+      {
+        "text": "but",
+        "start": 47.97,
+        "end": 48.315
+      },
+      {
+        "text": "just",
+        "start": 48.315,
+        "end": 48.714
+      },
+      {
+        "text": "$500",
+        "start": 48.714,
+        "end": 49.06
+      },
+      {
+        "text": "in",
+        "start": 49.06,
+        "end": 49.342
+      },
+      {
+        "text": "after-ad",
+        "start": 49.342,
+        "end": 49.869
+      },
+      {
+        "text": "contribution!",
+        "start": 49.869,
+        "end": 50.56
+      }
+    ]
+  },
+  {
+    "start": 50.97,
+    "end": 52.575,
+    "zh": "如果这次广告只带来",
+    "en": "What if the ads brought in",
+    "characters": [
+      {
+        "text": "如",
+        "start": 51.0,
+        "end": 51.18
+      },
+      {
+        "text": "果",
+        "start": 51.18,
+        "end": 51.36
+      },
+      {
+        "text": "这",
+        "start": 51.36,
+        "end": 51.54
+      },
+      {
+        "text": "次",
+        "start": 51.54,
+        "end": 51.78
+      },
+      {
+        "text": "广",
+        "start": 51.78,
+        "end": 51.9
+      },
+      {
+        "text": "告",
+        "start": 51.9,
+        "end": 52.14
+      },
+      {
+        "text": "只",
+        "start": 52.14,
+        "end": 52.32
+      },
+      {
+        "text": "带",
+        "start": 52.32,
+        "end": 52.5
+      },
+      {
+        "text": "来",
+        "start": 52.5,
+        "end": 52.575
+      }
+    ],
+    "words": [
+      {
+        "text": "What",
+        "start": 50.97,
+        "end": 51.263
+      },
+      {
+        "text": "if",
+        "start": 51.263,
+        "end": 51.471
+      },
+      {
+        "text": "the",
+        "start": 51.471,
+        "end": 51.725
+      },
+      {
+        "text": "ads",
+        "start": 51.725,
+        "end": 51.979
+      },
+      {
+        "text": "brought",
+        "start": 51.979,
+        "end": 52.367
+      },
+      {
+        "text": "in",
+        "start": 52.367,
+        "end": 52.575
+      }
+    ]
+  },
+  {
+    "start": 52.59,
+    "end": 54.34,
+    "zh": "三千美元的销售额呢",
+    "en": "only $3,000 in sales?",
+    "characters": [
+      {
+        "text": "三",
+        "start": 52.62,
+        "end": 52.86
+      },
+      {
+        "text": "千",
+        "start": 52.86,
+        "end": 53.04
+      },
+      {
+        "text": "美",
+        "start": 53.04,
+        "end": 53.22
+      },
+      {
+        "text": "元",
+        "start": 53.22,
+        "end": 53.34
+      },
+      {
+        "text": "的",
+        "start": 53.34,
+        "end": 53.46
+      },
+      {
+        "text": "销",
+        "start": 53.46,
+        "end": 53.64
+      },
+      {
+        "text": "售",
+        "start": 53.64,
+        "end": 53.82
+      },
+      {
+        "text": "额",
+        "start": 53.82,
+        "end": 54.0
+      },
+      {
+        "text": "呢",
+        "start": 54.0,
+        "end": 54.34
+      }
+    ],
+    "words": [
+      {
+        "text": "only",
+        "start": 52.59,
+        "end": 53.047
+      },
+      {
+        "text": "$3,000",
+        "start": 53.047,
+        "end": 53.505
+      },
+      {
+        "text": "in",
+        "start": 53.505,
+        "end": 53.828
+      },
+      {
+        "text": "sales?",
+        "start": 53.828,
+        "end": 54.34
+      }
+    ]
+  },
+  {
+    "start": 54.39,
+    "end": 56.595,
+    "zh": "扣掉百分之七十的变动成本",
+    "en": "Subtract 70% in variable costs.",
+    "characters": [
+      {
+        "text": "扣",
+        "start": 54.42,
+        "end": 54.6
+      },
+      {
+        "text": "掉",
+        "start": 54.6,
+        "end": 54.84
+      },
+      {
+        "text": "百",
+        "start": 54.84,
+        "end": 55.02
+      },
+      {
+        "text": "分",
+        "start": 55.02,
+        "end": 55.14
+      },
+      {
+        "text": "之",
+        "start": 55.14,
+        "end": 55.32
+      },
+      {
+        "text": "七",
+        "start": 55.32,
+        "end": 55.5
+      },
+      {
+        "text": "十",
+        "start": 55.5,
+        "end": 55.68
+      },
+      {
+        "text": "的",
+        "start": 55.68,
+        "end": 55.86
+      },
+      {
+        "text": "变",
+        "start": 55.86,
+        "end": 55.98
+      },
+      {
+        "text": "动",
+        "start": 55.98,
+        "end": 56.16
+      },
+      {
+        "text": "成",
+        "start": 56.16,
+        "end": 56.34
+      },
+      {
+        "text": "本",
+        "start": 56.34,
+        "end": 56.595
+      }
+    ],
+    "words": [
+      {
+        "text": "Subtract",
+        "start": 54.39,
+        "end": 54.972
+      },
+      {
+        "text": "70%",
+        "start": 54.972,
+        "end": 55.263
+      },
+      {
+        "text": "in",
+        "start": 55.263,
+        "end": 55.553
+      },
+      {
+        "text": "variable",
+        "start": 55.553,
+        "end": 56.135
+      },
+      {
+        "text": "costs.",
+        "start": 56.135,
+        "end": 56.595
+      }
+    ]
+  },
+  {
+    "start": 56.61,
+    "end": 58.18,
+    "zh": "只剩下九百美元",
+    "en": "Only $900 remains.",
+    "characters": [
+      {
+        "text": "只",
+        "start": 56.64,
+        "end": 56.82
+      },
+      {
+        "text": "剩",
+        "start": 56.82,
+        "end": 57.0
+      },
+      {
+        "text": "下",
+        "start": 57.0,
+        "end": 57.18
+      },
+      {
+        "text": "九",
+        "start": 57.18,
+        "end": 57.42
+      },
+      {
+        "text": "百",
+        "start": 57.42,
+        "end": 57.66
+      },
+      {
+        "text": "美",
+        "start": 57.66,
+        "end": 57.84
+      },
+      {
+        "text": "元",
+        "start": 57.84,
+        "end": 58.18
+      }
+    ],
+    "words": [
+      {
+        "text": "Only",
+        "start": 56.61,
+        "end": 57.102
+      },
+      {
+        "text": "$900",
+        "start": 57.102,
+        "end": 57.529
+      },
+      {
+        "text": "remains.",
+        "start": 57.529,
+        "end": 58.18
+      }
+    ]
+  },
+  {
+    "start": 58.23,
+    "end": 59.74,
+    "zh": "连广告费都不够",
+    "en": "Not even enough to cover the ads.",
+    "characters": [
+      {
+        "text": "连",
+        "start": 58.26,
+        "end": 58.56
+      },
+      {
+        "text": "广",
+        "start": 58.56,
+        "end": 58.68
+      },
+      {
+        "text": "告",
+        "start": 58.68,
+        "end": 58.86
+      },
+      {
+        "text": "费",
+        "start": 58.86,
+        "end": 59.1
+      },
+      {
+        "text": "都",
+        "start": 59.1,
+        "end": 59.28
+      },
+      {
+        "text": "不",
+        "start": 59.28,
+        "end": 59.4
+      },
+      {
+        "text": "够",
+        "start": 59.4,
+        "end": 59.74
+      }
+    ],
+    "words": [
+      {
+        "text": "Not",
+        "start": 58.23,
+        "end": 58.427
+      },
+      {
+        "text": "even",
+        "start": 58.427,
+        "end": 58.654
+      },
+      {
+        "text": "enough",
+        "start": 58.654,
+        "end": 58.932
+      },
+      {
+        "text": "to",
+        "start": 58.932,
+        "end": 59.093
+      },
+      {
+        "text": "cover",
+        "start": 59.093,
+        "end": 59.347
+      },
+      {
+        "text": "the",
+        "start": 59.347,
+        "end": 59.543
+      },
+      {
+        "text": "ads.",
+        "start": 59.543,
+        "end": 59.74
+      }
+    ]
+  },
+  {
+    "start": 59.97,
+    "end": 61.695,
+    "zh": "所以ROAS高",
+    "en": "So a high ROAS",
+    "characters": [
+      {
+        "text": "所",
+        "start": 59.97,
+        "end": 60.216
+      },
+      {
+        "text": "以",
+        "start": 60.216,
+        "end": 60.463
+      },
+      {
+        "text": "R",
+        "start": 60.463,
+        "end": 60.709
+      },
+      {
+        "text": "O",
+        "start": 60.709,
+        "end": 60.956
+      },
+      {
+        "text": "A",
+        "start": 60.956,
+        "end": 61.202
+      },
+      {
+        "text": "S",
+        "start": 61.202,
+        "end": 61.449
+      },
+      {
+        "text": "高",
+        "start": 61.449,
+        "end": 61.695
+      }
+    ],
+    "words": [
+      {
+        "text": "So",
+        "start": 59.97,
+        "end": 60.35
+      },
+      {
+        "text": "a",
+        "start": 60.35,
+        "end": 60.619
+      },
+      {
+        "text": "high",
+        "start": 60.619,
+        "end": 61.157
+      },
+      {
+        "text": "ROAS",
+        "start": 61.157,
+        "end": 61.695
+      }
+    ]
+  },
+  {
+    "start": 61.71,
+    "end": 63.82,
+    "zh": "不一定代表广告真的赚钱",
+    "en": "does not guarantee profitable ads.",
+    "characters": [
+      {
+        "text": "不",
+        "start": 61.74,
+        "end": 61.86
+      },
+      {
+        "text": "一",
+        "start": 61.86,
+        "end": 61.98
+      },
+      {
+        "text": "定",
+        "start": 61.98,
+        "end": 62.16
+      },
+      {
+        "text": "代",
+        "start": 62.16,
+        "end": 62.28
+      },
+      {
+        "text": "表",
+        "start": 62.28,
+        "end": 62.52
+      },
+      {
+        "text": "广",
+        "start": 62.52,
+        "end": 62.7
+      },
+      {
+        "text": "告",
+        "start": 62.7,
+        "end": 62.88
+      },
+      {
+        "text": "真",
+        "start": 62.88,
+        "end": 63.06
+      },
+      {
+        "text": "的",
+        "start": 63.06,
+        "end": 63.24
+      },
+      {
+        "text": "赚",
+        "start": 63.24,
+        "end": 63.48
+      },
+      {
+        "text": "钱",
+        "start": 63.48,
+        "end": 63.82
+      }
+    ],
+    "words": [
+      {
+        "text": "does",
+        "start": 61.71,
+        "end": 62.073
+      },
+      {
+        "text": "not",
+        "start": 62.073,
+        "end": 62.387
+      },
+      {
+        "text": "guarantee",
+        "start": 62.387,
+        "end": 62.932
+      },
+      {
+        "text": "profitable",
+        "start": 62.932,
+        "end": 63.506
+      },
+      {
+        "text": "ads.",
+        "start": 63.506,
+        "end": 63.82
+      }
+    ]
+  },
+  {
+    "start": 64.23,
+    "end": 67.24,
+    "zh": "老板不能只看广告带来多少销售额",
+    "en": "Owners must look beyond ad-driven sales.",
+    "characters": [
+      {
+        "text": "老",
+        "start": 64.26,
+        "end": 64.44
+      },
+      {
+        "text": "板",
+        "start": 64.44,
+        "end": 64.68
+      },
+      {
+        "text": "不",
+        "start": 64.68,
+        "end": 64.8
+      },
+      {
+        "text": "能",
+        "start": 64.8,
+        "end": 64.98
+      },
+      {
+        "text": "只",
+        "start": 64.98,
+        "end": 65.1
+      },
+      {
+        "text": "看",
+        "start": 65.1,
+        "end": 65.4
+      },
+      {
+        "text": "广",
+        "start": 65.4,
+        "end": 65.52
+      },
+      {
+        "text": "告",
+        "start": 65.52,
+        "end": 65.76
+      },
+      {
+        "text": "带",
+        "start": 65.76,
+        "end": 65.88
+      },
+      {
+        "text": "来",
+        "start": 65.88,
+        "end": 66.12
+      },
+      {
+        "text": "多",
+        "start": 66.12,
+        "end": 66.24
+      },
+      {
+        "text": "少",
+        "start": 66.24,
+        "end": 66.48
+      },
+      {
+        "text": "销",
+        "start": 66.48,
+        "end": 66.66
+      },
+      {
+        "text": "售",
+        "start": 66.66,
+        "end": 66.9
+      },
+      {
+        "text": "额",
+        "start": 66.9,
+        "end": 67.24
+      }
+    ],
+    "words": [
+      {
+        "text": "Owners",
+        "start": 64.23,
+        "end": 64.758
+      },
+      {
+        "text": "must",
+        "start": 64.758,
+        "end": 65.189
+      },
+      {
+        "text": "look",
+        "start": 65.189,
+        "end": 65.62
+      },
+      {
+        "text": "beyond",
+        "start": 65.62,
+        "end": 66.148
+      },
+      {
+        "text": "ad-driven",
+        "start": 66.148,
+        "end": 66.758
+      },
+      {
+        "text": "sales.",
+        "start": 66.758,
+        "end": 67.24
+      }
+    ]
+  },
+  {
+    "start": 67.29,
+    "end": 69.88,
+    "zh": "还要看产品成本和广告费用",
+    "en": "Include product costs and ad spend.",
+    "characters": [
+      {
+        "text": "还",
+        "start": 67.32,
+        "end": 67.5
+      },
+      {
+        "text": "要",
+        "start": 67.5,
+        "end": 67.62
+      },
+      {
+        "text": "看",
+        "start": 67.62,
+        "end": 67.86
+      },
+      {
+        "text": "产",
+        "start": 67.86,
+        "end": 68.04
+      },
+      {
+        "text": "品",
+        "start": 68.04,
+        "end": 68.28
+      },
+      {
+        "text": "成",
+        "start": 68.28,
+        "end": 68.46
+      },
+      {
+        "text": "本",
+        "start": 68.46,
+        "end": 68.64
+      },
+      {
+        "text": "和",
+        "start": 68.64,
+        "end": 68.94
+      },
+      {
+        "text": "广",
+        "start": 68.94,
+        "end": 69.06
+      },
+      {
+        "text": "告",
+        "start": 69.06,
+        "end": 69.3
+      },
+      {
+        "text": "费",
+        "start": 69.3,
+        "end": 69.54
+      },
+      {
+        "text": "用",
+        "start": 69.54,
+        "end": 69.88
+      }
+    ],
+    "words": [
+      {
+        "text": "Include",
+        "start": 67.29,
+        "end": 67.821
+      },
+      {
+        "text": "product",
+        "start": 67.821,
+        "end": 68.352
+      },
+      {
+        "text": "costs",
+        "start": 68.352,
+        "end": 68.8
+      },
+      {
+        "text": "and",
+        "start": 68.8,
+        "end": 69.148
+      },
+      {
+        "text": "ad",
+        "start": 69.148,
+        "end": 69.431
+      },
+      {
+        "text": "spend.",
+        "start": 69.431,
+        "end": 69.88
+      }
+    ]
+  },
+  {
+    "start": 70.11,
+    "end": 72.015,
+    "zh": "记住销售额告诉你",
+    "en": "Remember: sales tell you",
+    "characters": [
+      {
+        "text": "记",
+        "start": 70.14,
+        "end": 70.38
+      },
+      {
+        "text": "住",
+        "start": 70.38,
+        "end": 70.74
+      },
+      {
+        "text": "销",
+        "start": 70.74,
+        "end": 70.92
+      },
+      {
+        "text": "售",
+        "start": 70.92,
+        "end": 71.16
+      },
+      {
+        "text": "额",
+        "start": 71.16,
+        "end": 71.46
+      },
+      {
+        "text": "告",
+        "start": 71.46,
+        "end": 71.58
+      },
+      {
+        "text": "诉",
+        "start": 71.58,
+        "end": 71.76
+      },
+      {
+        "text": "你",
+        "start": 71.76,
+        "end": 72.015
+      }
+    ],
+    "words": [
+      {
+        "text": "Remember:",
+        "start": 70.11,
+        "end": 70.723
+      },
+      {
+        "text": "sales",
+        "start": 70.723,
+        "end": 71.207
+      },
+      {
+        "text": "tell",
+        "start": 71.207,
+        "end": 71.64
+      },
+      {
+        "text": "you",
+        "start": 71.64,
+        "end": 72.015
+      }
+    ]
+  },
+  {
+    "start": 72.03,
+    "end": 73.72,
+    "zh": "广告带来多少生意",
+    "en": "how much business the ads brought.",
+    "characters": [
+      {
+        "text": "广",
+        "start": 72.06,
+        "end": 72.18
+      },
+      {
+        "text": "告",
+        "start": 72.18,
+        "end": 72.42
+      },
+      {
+        "text": "带",
+        "start": 72.42,
+        "end": 72.6
+      },
+      {
+        "text": "来",
+        "start": 72.6,
+        "end": 72.78
+      },
+      {
+        "text": "多",
+        "start": 72.78,
+        "end": 72.9
+      },
+      {
+        "text": "少",
+        "start": 72.9,
+        "end": 73.14
+      },
+      {
+        "text": "生",
+        "start": 73.14,
+        "end": 73.38
+      },
+      {
+        "text": "意",
+        "start": 73.38,
+        "end": 73.72
+      }
+    ],
+    "words": [
+      {
+        "text": "how",
+        "start": 72.03,
+        "end": 72.261
+      },
+      {
+        "text": "much",
+        "start": 72.261,
+        "end": 72.528
+      },
+      {
+        "text": "business",
+        "start": 72.528,
+        "end": 72.905
+      },
+      {
+        "text": "the",
+        "start": 72.905,
+        "end": 73.136
+      },
+      {
+        "text": "ads",
+        "start": 73.136,
+        "end": 73.367
+      },
+      {
+        "text": "brought.",
+        "start": 73.367,
+        "end": 73.72
+      }
+    ]
+  },
+  {
+    "start": 73.89,
+    "end": 76.095,
+    "zh": "广告后的贡献才告诉你",
+    "en": "After-ad contribution tells you",
+    "characters": [
+      {
+        "text": "广",
+        "start": 73.92,
+        "end": 74.1
+      },
+      {
+        "text": "告",
+        "start": 74.1,
+        "end": 74.28
+      },
+      {
+        "text": "后",
+        "start": 74.28,
+        "end": 74.52
+      },
+      {
+        "text": "的",
+        "start": 74.52,
+        "end": 74.7
+      },
+      {
+        "text": "贡",
+        "start": 74.7,
+        "end": 74.82
+      },
+      {
+        "text": "献",
+        "start": 74.82,
+        "end": 75.18
+      },
+      {
+        "text": "才",
+        "start": 75.18,
+        "end": 75.48
+      },
+      {
+        "text": "告",
+        "start": 75.48,
+        "end": 75.6
+      },
+      {
+        "text": "诉",
+        "start": 75.6,
+        "end": 75.78
+      },
+      {
+        "text": "你",
+        "start": 75.78,
+        "end": 76.095
+      }
+    ],
+    "words": [
+      {
+        "text": "After-ad",
+        "start": 73.89,
+        "end": 74.469
+      },
+      {
+        "text": "contribution",
+        "start": 74.469,
+        "end": 75.227
+      },
+      {
+        "text": "tells",
+        "start": 75.227,
+        "end": 75.716
+      },
+      {
+        "text": "you",
+        "start": 75.716,
+        "end": 76.095
+      }
+    ]
+  },
+  {
+    "start": 76.11,
+    "end": 78.1,
+    "zh": "这笔投资是不是值得",
+    "en": "whether the investment is worth it.",
+    "characters": [
+      {
+        "text": "这",
+        "start": 76.14,
+        "end": 76.38
+      },
+      {
+        "text": "笔",
+        "start": 76.38,
+        "end": 76.62
+      },
+      {
+        "text": "投",
+        "start": 76.62,
+        "end": 76.8
+      },
+      {
+        "text": "资",
+        "start": 76.8,
+        "end": 77.1
+      },
+      {
+        "text": "是",
+        "start": 77.1,
+        "end": 77.28
+      },
+      {
+        "text": "不",
+        "start": 77.28,
+        "end": 77.4
+      },
+      {
+        "text": "是",
+        "start": 77.4,
+        "end": 77.58
+      },
+      {
+        "text": "值",
+        "start": 77.58,
+        "end": 77.76
+      },
+      {
+        "text": "得",
+        "start": 77.76,
+        "end": 78.1
+      }
+    ],
+    "words": [
+      {
+        "text": "whether",
+        "start": 76.11,
+        "end": 76.528
+      },
+      {
+        "text": "the",
+        "start": 76.528,
+        "end": 76.801
+      },
+      {
+        "text": "investment",
+        "start": 76.801,
+        "end": 77.3
+      },
+      {
+        "text": "is",
+        "start": 77.3,
+        "end": 77.524
+      },
+      {
+        "text": "worth",
+        "start": 77.524,
+        "end": 77.877
+      },
+      {
+        "text": "it.",
+        "start": 77.877,
+        "end": 78.1
+      }
+    ]
+  },
+  {
+    "start": 78.21,
+    "end": 80.14,
+    "zh": "这就是数据看生意",
+    "en": "This is Business Through Data.",
+    "characters": [
+      {
+        "text": "这",
+        "start": 78.24,
+        "end": 78.42
+      },
+      {
+        "text": "就",
+        "start": 78.42,
+        "end": 78.6
+      },
+      {
+        "text": "是",
+        "start": 78.6,
+        "end": 78.84
+      },
+      {
+        "text": "数",
+        "start": 78.84,
+        "end": 79.08
+      },
+      {
+        "text": "据",
+        "start": 79.08,
+        "end": 79.32
+      },
+      {
+        "text": "看",
+        "start": 79.32,
+        "end": 79.5
+      },
+      {
+        "text": "生",
+        "start": 79.5,
+        "end": 79.8
+      },
+      {
+        "text": "意",
+        "start": 79.8,
+        "end": 80.14
+      }
+    ],
+    "words": [
+      {
+        "text": "This",
+        "start": 78.21,
+        "end": 78.565
+      },
+      {
+        "text": "is",
+        "start": 78.565,
+        "end": 78.815
+      },
+      {
+        "text": "Business",
+        "start": 78.815,
+        "end": 79.317
+      },
+      {
+        "text": "Through",
+        "start": 79.317,
+        "end": 79.785
+      },
+      {
+        "text": "Data.",
+        "start": 79.785,
+        "end": 80.14
+      }
+    ]
+  }
+]

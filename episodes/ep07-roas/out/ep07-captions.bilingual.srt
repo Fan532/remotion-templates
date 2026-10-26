@@ -1,0 +1,204 @@
+1
+00:00:00,030 --> 00:00:00,975
+广告花一千美元
+$1,000 spent on advertising.
+
+2
+00:00:00,990 --> 00:00:03,195
+竟然带来了五千美元的销售额
+It brought in $5,000 in sales.
+
+3
+00:00:03,210 --> 00:00:04,335
+老板高兴坏了
+The owner is delighted.
+
+4
+00:00:04,350 --> 00:00:06,160
+这广告太划算了
+What a great deal!
+
+5
+00:00:06,270 --> 00:00:08,140
+但等等真的赚钱吗
+But wait. Is it really profitable?
+
+6
+00:00:08,310 --> 00:00:10,275
+今天我们讲一个商业概念
+Here is a business concept:
+
+7
+00:00:10,290 --> 00:00:11,200
+ROAS
+ROAS
+
+8
+00:00:11,850 --> 00:00:13,540
+广告支出回报率
+Return on Ad Spend
+
+9
+00:00:13,710 --> 00:00:14,595
+简单来说
+Simply put:
+
+10
+00:00:14,610 --> 00:00:16,215
+每花一美元广告费
+For every $1 spent on ads,
+
+11
+00:00:16,230 --> 00:00:18,280
+能带来多少美元销售额
+how many dollars of sales follow?
+
+12
+00:00:18,630 --> 00:00:20,380
+以下数据全是假设
+All figures are hypothetical.
+
+13
+00:00:20,610 --> 00:00:22,780
+一家小企业卖美容产品
+A small business sells beauty products.
+
+14
+00:00:22,950 --> 00:00:24,640
+广告花了一千美元
+It spends $1,000 on ads
+
+15
+00:00:24,690 --> 00:00:26,655
+带来了五千美元销售额
+and generates $5,000 in sales.
+
+16
+00:00:26,670 --> 00:00:28,420
+ROAS等于五
+ROAS equals 5.
+
+17
+00:00:28,530 --> 00:00:30,100
+看起来非常漂亮
+That looks impressive.
+
+18
+00:00:30,270 --> 00:00:32,260
+但产品也有成本
+But products have costs too.
+
+19
+00:00:32,550 --> 00:00:34,875
+假设产品和订单变动成本
+Product and order variable costs
+
+20
+00:00:34,890 --> 00:00:36,880
+占销售额的百分之七十
+are assumed to be 70% of sales.
+
+21
+00:00:37,050 --> 00:00:38,415
+五千美元销售额
+From $5,000 in sales,
+
+22
+00:00:38,430 --> 00:00:40,420
+扣掉三千五百美元成本
+subtract $3,500 in variable costs.
+
+23
+00:00:40,470 --> 00:00:42,255
+只剩下一千五百美元
+Only $1,500 remains.
+
+24
+00:00:42,270 --> 00:00:44,295
+再扣掉一千美元广告费
+Subtract $1,000 in ad spend.
+
+25
+00:00:44,310 --> 00:00:46,180
+最后只剩下五百美元
+Only $500 remains.
+
+26
+00:00:46,530 --> 00:00:47,955
+五千美元的销售额
+$5,000 in sales,
+
+27
+00:00:47,970 --> 00:00:50,560
+广告带来的贡献竟然只有五百美元
+but just $500 in after-ad contribution!
+
+28
+00:00:50,970 --> 00:00:52,575
+如果这次广告只带来
+What if the ads brought in
+
+29
+00:00:52,590 --> 00:00:54,340
+三千美元的销售额呢
+only $3,000 in sales?
+
+30
+00:00:54,390 --> 00:00:56,595
+扣掉百分之七十的变动成本
+Subtract 70% in variable costs.
+
+31
+00:00:56,610 --> 00:00:58,180
+只剩下九百美元
+Only $900 remains.
+
+32
+00:00:58,230 --> 00:00:59,740
+连广告费都不够
+Not even enough to cover the ads.
+
+33
+00:00:59,970 --> 00:01:01,695
+所以ROAS高
+So a high ROAS
+
+34
+00:01:01,710 --> 00:01:03,820
+不一定代表广告真的赚钱
+does not guarantee profitable ads.
+
+35
+00:01:04,230 --> 00:01:07,240
+老板不能只看广告带来多少销售额
+Owners must look beyond ad-driven sales.
+
+36
+00:01:07,290 --> 00:01:09,880
+还要看产品成本和广告费用
+Include product costs and ad spend.
+
+37
+00:01:10,110 --> 00:01:12,015
+记住销售额告诉你
+Remember: sales tell you
+
+38
+00:01:12,030 --> 00:01:13,720
+广告带来多少生意
+how much business the ads brought.
+
+39
+00:01:13,890 --> 00:01:16,095
+广告后的贡献才告诉你
+After-ad contribution tells you
+
+40
+00:01:16,110 --> 00:01:18,100
+这笔投资是不是值得
+whether the investment is worth it.
+
+41
+00:01:18,210 --> 00:01:20,140
+这就是数据看生意
+This is Business Through Data.

@@ -1,0 +1,20 @@
+{
+  "full_decode": "PASS",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 2430,
+  "duration_seconds": 81,
+  "financial_test": "ROAS5/3;5000-3500-1000=+500;3000-2100-1000=-100 PASS",
+  "typescript": "PASS",
+  "captions": "41 corrected bilingual groups,44px equal weight; all native-font width checks PASS",
+  "expected_original_voice_plus_quiet_music_correlation": 0.999944,
+  "audio_peak_dBFS": -10.3,
+  "narration_speed": "unchanged",
+  "subtitle_timing": "Chinese CTC character timing; English translation phrase-paced; editable SRT/JSON supplied; human review still recommended",
+  "source_audio_limitation": "Opening appears truncated before \u7f8e\u5143\u505a\u5e7f\u544a; first caption restores1000 from user brief; no AI audio patch",
+  "scope": "Independent EP07; older projects unchanged",
+  "visual_inspection": "8 representative final MP4 frames inspected: product/ad dashboard,ROAS=5,cost70%,positive500,5000versus500,negative100,long bilingual subtitle,brand. No overlapping/clipped captions found."
+}
