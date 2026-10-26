@@ -1,0 +1,59 @@
+{
+  "video": "out/ep08-working-capital.mp4",
+  "bytes": 11447252,
+  "frames": 2274,
+  "video_seconds": "75.800000",
+  "full_decode": "PASS",
+  "codec": "H264",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "source_mp3_sha256": "ad93eb2c286db7ad88a96f393e0ae1acd458a7ca607f5356bef02107e4871e7f",
+  "math": {
+    "bills_total": 17000,
+    "remaining_cash": 3000,
+    "withdrawal_shortfall": -7000,
+    "waterfall_levels": [
+      20000,
+      14000,
+      11000,
+      3000
+    ]
+  },
+  "subtitle_layout": {
+    "pages": 41,
+    "font": "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+    "font_size_both_languages": 44,
+    "max_chinese_width_px": 650.0,
+    "max_english_line_width_px": 821.36,
+    "available_width_px": 940,
+    "max_caption_block_height_px": 245,
+    "available_height_px": 390,
+    "method": "installed-font advance metrics plus component padding/gaps; representative rendered frames checked separately",
+    "result": "PASS"
+  },
+  "keyframe_samples": [
+    120,
+    215,
+    490,
+    770,
+    1035,
+    1295,
+    1410,
+    2205
+  ],
+  "keyframe_visual_review": "PASS: eight sampled final-MP4 frames plus 55-second conclusion frame inspected; no caption/chart overlap or clipping observed",
+  "manual_word_by_word_listening_audit": false,
+  "subtitle_timing": "Chinese CTC; English translation paced within matching Chinese phrases; editable SRT and JSON supplied",
+  "source_speed": "1.0 unchanged; original pauses retained",
+  "assumptions": "No new receipts or other available funds in owner-withdrawal case; cash is not net profit or a legal distribution determination",
+  "audio_expected_mix_correlation": 0.9999454402879455,
+  "audio_peak_dbfs": -6.151101112365723,
+  "audio_clipping": false,
+  "music_gain": 0.24,
+  "typecheck": "PASS",
+  "financial_model_tests": "PASS",
+  "license_review": "REFERENCES.md: existing pinned stack and prior reference review; original SVG/music and own repository components"
+}

@@ -1,0 +1,163 @@
+1
+00:00:00,090 --> 00:00:01,875
+The company has $20,000 in the bank.
+
+2
+00:00:01,890 --> 00:00:03,315
+The owner thinks: fantastic!
+
+3
+00:00:03,330 --> 00:00:05,380
+Finally, a bonus for myself!
+
+4
+00:00:05,610 --> 00:00:07,275
+But the accountant says: hold on.
+
+5
+00:00:07,290 --> 00:00:09,100
+Can you take that money? Why not?
+
+6
+00:00:09,150 --> 00:00:10,935
+Here is a key business concept.
+
+7
+00:00:10,950 --> 00:00:13,180
+Working Capital
+
+8
+00:00:13,410 --> 00:00:14,355
+Put simply,
+
+9
+00:00:14,370 --> 00:00:15,675
+day-to-day business operations
+
+10
+00:00:15,690 --> 00:00:17,620
+need enough funds to keep moving.
+
+11
+00:00:17,970 --> 00:00:19,420
+Money in the bank
+
+12
+00:00:19,530 --> 00:00:21,520
+does not mean you can take it all.
+
+13
+00:00:21,930 --> 00:00:23,680
+All figures are hypothetical.
+
+14
+00:00:23,970 --> 00:00:24,915
+Imagine a small business.
+
+15
+00:00:24,930 --> 00:00:26,835
+Its bank balance is $20,000.
+
+16
+00:00:26,850 --> 00:00:28,455
+But next month it must pay:
+
+17
+00:00:28,470 --> 00:00:30,340
+Payroll: $6,000.
+
+18
+00:00:30,390 --> 00:00:31,815
+Rent: $3,000.
+
+19
+00:00:31,830 --> 00:00:33,820
+Supplier payments: $8,000.
+
+20
+00:00:33,990 --> 00:00:36,040
+That totals $17,000.
+
+21
+00:00:36,870 --> 00:00:37,480
+Wait a moment.
+
+22
+00:00:37,590 --> 00:00:39,615
+There is $20,000 in the account.
+
+23
+00:00:39,630 --> 00:00:42,460
+Subtract the $17,000 coming due.
+
+24
+00:00:42,570 --> 00:00:44,115
+Only $3,000 remains.
+
+25
+00:00:44,130 --> 00:00:45,915
+If the owner takes $10,000,
+
+26
+00:00:45,930 --> 00:00:48,100
+the business may miss its bills.
+
+27
+00:00:48,690 --> 00:00:51,160
+So look beyond the bank balance.
+
+28
+00:00:51,210 --> 00:00:53,055
+When will cash come in?
+
+29
+00:00:53,070 --> 00:00:54,160
+When must payments go out?
+
+30
+00:00:54,330 --> 00:00:55,875
+And how much should the business keep
+
+31
+00:00:55,890 --> 00:00:57,460
+as an emergency cash buffer?
+
+32
+00:00:57,570 --> 00:00:59,415
+That is why cash planning
+
+33
+00:00:59,430 --> 00:01:01,120
+matters so much to small businesses.
+
+34
+00:01:01,530 --> 00:01:02,715
+Real businesses, of course,
+
+35
+00:01:02,730 --> 00:01:05,380
+also face taxes, loans and other costs.
+
+36
+00:01:06,270 --> 00:01:06,880
+Remember:
+
+37
+00:01:06,990 --> 00:01:08,355
+Your bank balance shows
+
+38
+00:01:08,370 --> 00:01:09,640
+how much cash you have now.
+
+39
+00:01:09,870 --> 00:01:11,235
+Your cash budget shows
+
+40
+00:01:11,250 --> 00:01:13,120
+whether you can safely spend it.
+
+41
+00:01:13,170 --> 00:01:15,100
+This is Business Through Data.

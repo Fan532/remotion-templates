@@ -1,0 +1,204 @@
+1
+00:00:00,090 --> 00:00:01,875
+公司账户里有两万美元
+The company has $20,000 in the bank.
+
+2
+00:00:01,890 --> 00:00:03,315
+老板一看太好了
+The owner thinks: fantastic!
+
+3
+00:00:03,330 --> 00:00:05,380
+终于可以给自己发奖金了
+Finally, a bonus for myself!
+
+4
+00:00:05,610 --> 00:00:07,275
+但会计却说等等
+But the accountant says: hold on.
+
+5
+00:00:07,290 --> 00:00:09,100
+这钱不能拿为什么
+Can you take that money? Why not?
+
+6
+00:00:09,150 --> 00:00:10,935
+今天讲一个商业概念
+Here is a key business concept.
+
+7
+00:00:10,950 --> 00:00:13,180
+营运资金
+Working Capital
+
+8
+00:00:13,410 --> 00:00:14,355
+简单来说
+Put simply,
+
+9
+00:00:14,370 --> 00:00:15,675
+企业日常经营
+day-to-day business operations
+
+10
+00:00:15,690 --> 00:00:17,620
+需要有足够的资金周转
+need enough funds to keep moving.
+
+11
+00:00:17,970 --> 00:00:19,420
+银行账户里有钱
+Money in the bank
+
+12
+00:00:19,530 --> 00:00:21,520
+不代表这些钱都能拿走
+does not mean you can take it all.
+
+13
+00:00:21,930 --> 00:00:23,680
+以下数据全是假设
+All figures are hypothetical.
+
+14
+00:00:23,970 --> 00:00:24,915
+一家小企业
+Imagine a small business.
+
+15
+00:00:24,930 --> 00:00:26,835
+银行账户有两万美元
+Its bank balance is $20,000.
+
+16
+00:00:26,850 --> 00:00:28,455
+但下个月需要支付
+But next month it must pay:
+
+17
+00:00:28,470 --> 00:00:30,340
+员工工资六千美元
+Payroll: $6,000.
+
+18
+00:00:30,390 --> 00:00:31,815
+房租三千美元
+Rent: $3,000.
+
+19
+00:00:31,830 --> 00:00:33,820
+供应商货款八千美元
+Supplier payments: $8,000.
+
+20
+00:00:33,990 --> 00:00:36,040
+加起来一万七千美元
+That totals $17,000.
+
+21
+00:00:36,870 --> 00:00:37,480
+等等
+Wait a moment.
+
+22
+00:00:37,590 --> 00:00:39,615
+账户里明明有两万美元
+There is $20,000 in the account.
+
+23
+00:00:39,630 --> 00:00:42,460
+扣掉即将到期的一万七千美元
+Subtract the $17,000 coming due.
+
+24
+00:00:42,570 --> 00:00:44,115
+只剩三千美元
+Only $3,000 remains.
+
+25
+00:00:44,130 --> 00:00:45,915
+如果老板拿走一万美元
+If the owner takes $10,000,
+
+26
+00:00:45,930 --> 00:00:48,100
+公司就有可能付不起账单
+the business may miss its bills.
+
+27
+00:00:48,690 --> 00:00:51,160
+所以老板不能只看账户余额
+So look beyond the bank balance.
+
+28
+00:00:51,210 --> 00:00:53,055
+还要看未来什么时候收钱
+When will cash come in?
+
+29
+00:00:53,070 --> 00:00:54,160
+什么时候付款
+When must payments go out?
+
+30
+00:00:54,330 --> 00:00:55,875
+以及公司需要保留
+And how much should the business keep
+
+31
+00:00:55,890 --> 00:00:57,460
+多少钱的应急资金
+as an emergency cash buffer?
+
+32
+00:00:57,570 --> 00:00:59,415
+这就是为什么现金规划
+That is why cash planning
+
+33
+00:00:59,430 --> 00:01:01,120
+对小企业非常重要
+matters so much to small businesses.
+
+34
+00:01:01,530 --> 00:01:02,715
+当然真实企业
+Real businesses, of course,
+
+35
+00:01:02,730 --> 00:01:05,380
+还要考虑税款贷款和其他支出
+also face taxes, loans and other costs.
+
+36
+00:01:06,270 --> 00:01:06,880
+记住
+Remember:
+
+37
+00:01:06,990 --> 00:01:08,355
+银行余额告诉你
+Your bank balance shows
+
+38
+00:01:08,370 --> 00:01:09,640
+现在有多少钱
+how much cash you have now.
+
+39
+00:01:09,870 --> 00:01:11,235
+现金预算告诉你
+Your cash budget shows
+
+40
+00:01:11,250 --> 00:01:13,120
+这些钱能不能安全地花
+whether you can safely spend it.
+
+41
+00:01:13,170 --> 00:01:15,100
+这就是数据看生意
+This is Business Through Data.

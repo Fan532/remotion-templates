@@ -1,0 +1,3022 @@
+[
+  {
+    "start": 0.09,
+    "end": 1.875,
+    "zh": "公司账户里有两万美元",
+    "en": "The company has $20,000 in the bank.",
+    "characters": [
+      {
+        "text": "公",
+        "start": 0.12,
+        "end": 0.24
+      },
+      {
+        "text": "司",
+        "start": 0.24,
+        "end": 0.42
+      },
+      {
+        "text": "账",
+        "start": 0.42,
+        "end": 0.6
+      },
+      {
+        "text": "户",
+        "start": 0.6,
+        "end": 0.72
+      },
+      {
+        "text": "里",
+        "start": 0.72,
+        "end": 0.9
+      },
+      {
+        "text": "有",
+        "start": 0.9,
+        "end": 1.08
+      },
+      {
+        "text": "两",
+        "start": 1.08,
+        "end": 1.26
+      },
+      {
+        "text": "万",
+        "start": 1.26,
+        "end": 1.5
+      },
+      {
+        "text": "美",
+        "start": 1.5,
+        "end": 1.68
+      },
+      {
+        "text": "元",
+        "start": 1.68,
+        "end": 1.875
+      }
+    ],
+    "words": [
+      {
+        "text": "The",
+        "start": 0.09,
+        "end": 0.319
+      },
+      {
+        "text": "company",
+        "start": 0.319,
+        "end": 0.669
+      },
+      {
+        "text": "has",
+        "start": 0.669,
+        "end": 0.898
+      },
+      {
+        "text": "$20,000",
+        "start": 0.898,
+        "end": 1.194
+      },
+      {
+        "text": "in",
+        "start": 1.194,
+        "end": 1.381
+      },
+      {
+        "text": "the",
+        "start": 1.381,
+        "end": 1.61
+      },
+      {
+        "text": "bank.",
+        "start": 1.61,
+        "end": 1.875
+      }
+    ]
+  },
+  {
+    "start": 1.89,
+    "end": 3.315,
+    "zh": "老板一看太好了",
+    "en": "The owner thinks: fantastic!",
+    "characters": [
+      {
+        "text": "老",
+        "start": 1.92,
+        "end": 2.04
+      },
+      {
+        "text": "板",
+        "start": 2.04,
+        "end": 2.28
+      },
+      {
+        "text": "一",
+        "start": 2.28,
+        "end": 2.4
+      },
+      {
+        "text": "看",
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "text": "太",
+        "start": 2.64,
+        "end": 2.82
+      },
+      {
+        "text": "好",
+        "start": 2.82,
+        "end": 3.0
+      },
+      {
+        "text": "了",
+        "start": 3.0,
+        "end": 3.315
+      }
+    ],
+    "words": [
+      {
+        "text": "The",
+        "start": 1.89,
+        "end": 2.152
+      },
+      {
+        "text": "owner",
+        "start": 2.152,
+        "end": 2.49
+      },
+      {
+        "text": "thinks:",
+        "start": 2.49,
+        "end": 2.861
+      },
+      {
+        "text": "fantastic!",
+        "start": 2.861,
+        "end": 3.315
+      }
+    ]
+  },
+  {
+    "start": 3.33,
+    "end": 5.38,
+    "zh": "终于可以给自己发奖金了",
+    "en": "Finally, a bonus for myself!",
+    "characters": [
+      {
+        "text": "终",
+        "start": 3.36,
+        "end": 3.48
+      },
+      {
+        "text": "于",
+        "start": 3.48,
+        "end": 3.66
+      },
+      {
+        "text": "可",
+        "start": 3.66,
+        "end": 3.78
+      },
+      {
+        "text": "以",
+        "start": 3.78,
+        "end": 3.96
+      },
+      {
+        "text": "给",
+        "start": 3.96,
+        "end": 4.08
+      },
+      {
+        "text": "自",
+        "start": 4.08,
+        "end": 4.2
+      },
+      {
+        "text": "己",
+        "start": 4.2,
+        "end": 4.38
+      },
+      {
+        "text": "发",
+        "start": 4.38,
+        "end": 4.62
+      },
+      {
+        "text": "奖",
+        "start": 4.62,
+        "end": 4.86
+      },
+      {
+        "text": "金",
+        "start": 4.86,
+        "end": 5.04
+      },
+      {
+        "text": "了",
+        "start": 5.04,
+        "end": 5.38
+      }
+    ],
+    "words": [
+      {
+        "text": "Finally,",
+        "start": 3.33,
+        "end": 3.869
+      },
+      {
+        "text": "a",
+        "start": 3.869,
+        "end": 4.073
+      },
+      {
+        "text": "bonus",
+        "start": 4.073,
+        "end": 4.528
+      },
+      {
+        "text": "for",
+        "start": 4.528,
+        "end": 4.881
+      },
+      {
+        "text": "myself!",
+        "start": 4.881,
+        "end": 5.38
+      }
+    ]
+  },
+  {
+    "start": 5.61,
+    "end": 7.275,
+    "zh": "但会计却说等等",
+    "en": "But the accountant says: hold on.",
+    "characters": [
+      {
+        "text": "但",
+        "start": 5.64,
+        "end": 6.0
+      },
+      {
+        "text": "会",
+        "start": 6.0,
+        "end": 6.18
+      },
+      {
+        "text": "计",
+        "start": 6.18,
+        "end": 6.42
+      },
+      {
+        "text": "却",
+        "start": 6.42,
+        "end": 6.54
+      },
+      {
+        "text": "说",
+        "start": 6.54,
+        "end": 6.84
+      },
+      {
+        "text": "等",
+        "start": 6.84,
+        "end": 7.08
+      },
+      {
+        "text": "等",
+        "start": 7.08,
+        "end": 7.275
+      }
+    ],
+    "words": [
+      {
+        "text": "But",
+        "start": 5.61,
+        "end": 5.85
+      },
+      {
+        "text": "the",
+        "start": 5.85,
+        "end": 6.089
+      },
+      {
+        "text": "accountant",
+        "start": 6.089,
+        "end": 6.526
+      },
+      {
+        "text": "says:",
+        "start": 6.526,
+        "end": 6.803
+      },
+      {
+        "text": "hold",
+        "start": 6.803,
+        "end": 7.079
+      },
+      {
+        "text": "on.",
+        "start": 7.079,
+        "end": 7.275
+      }
+    ]
+  },
+  {
+    "start": 7.29,
+    "end": 9.1,
+    "zh": "这钱不能拿为什么",
+    "en": "Can you take that money? Why not?",
+    "characters": [
+      {
+        "text": "这",
+        "start": 7.32,
+        "end": 7.5
+      },
+      {
+        "text": "钱",
+        "start": 7.5,
+        "end": 7.74
+      },
+      {
+        "text": "不",
+        "start": 7.74,
+        "end": 7.92
+      },
+      {
+        "text": "能",
+        "start": 7.92,
+        "end": 8.1
+      },
+      {
+        "text": "拿",
+        "start": 8.1,
+        "end": 8.46
+      },
+      {
+        "text": "为",
+        "start": 8.46,
+        "end": 8.64
+      },
+      {
+        "text": "什",
+        "start": 8.64,
+        "end": 8.76
+      },
+      {
+        "text": "么",
+        "start": 8.76,
+        "end": 9.1
+      }
+    ],
+    "words": [
+      {
+        "text": "Can",
+        "start": 7.29,
+        "end": 7.528
+      },
+      {
+        "text": "you",
+        "start": 7.528,
+        "end": 7.766
+      },
+      {
+        "text": "take",
+        "start": 7.766,
+        "end": 8.041
+      },
+      {
+        "text": "that",
+        "start": 8.041,
+        "end": 8.316
+      },
+      {
+        "text": "money?",
+        "start": 8.316,
+        "end": 8.624
+      },
+      {
+        "text": "Why",
+        "start": 8.624,
+        "end": 8.862
+      },
+      {
+        "text": "not?",
+        "start": 8.862,
+        "end": 9.1
+      }
+    ]
+  },
+  {
+    "start": 9.15,
+    "end": 10.935,
+    "zh": "今天讲一个商业概念",
+    "en": "Here is a key business concept.",
+    "characters": [
+      {
+        "text": "今",
+        "start": 9.18,
+        "end": 9.42
+      },
+      {
+        "text": "天",
+        "start": 9.42,
+        "end": 9.66
+      },
+      {
+        "text": "讲",
+        "start": 9.66,
+        "end": 9.84
+      },
+      {
+        "text": "一",
+        "start": 9.84,
+        "end": 9.96
+      },
+      {
+        "text": "个",
+        "start": 9.96,
+        "end": 10.14
+      },
+      {
+        "text": "商",
+        "start": 10.14,
+        "end": 10.26
+      },
+      {
+        "text": "业",
+        "start": 10.26,
+        "end": 10.56
+      },
+      {
+        "text": "概",
+        "start": 10.56,
+        "end": 10.74
+      },
+      {
+        "text": "念",
+        "start": 10.74,
+        "end": 10.935
+      }
+    ],
+    "words": [
+      {
+        "text": "Here",
+        "start": 9.15,
+        "end": 9.457
+      },
+      {
+        "text": "is",
+        "start": 9.457,
+        "end": 9.674
+      },
+      {
+        "text": "a",
+        "start": 9.674,
+        "end": 9.828
+      },
+      {
+        "text": "key",
+        "start": 9.828,
+        "end": 10.094
+      },
+      {
+        "text": "business",
+        "start": 10.094,
+        "end": 10.529
+      },
+      {
+        "text": "concept.",
+        "start": 10.529,
+        "end": 10.935
+      }
+    ]
+  },
+  {
+    "start": 10.95,
+    "end": 13.18,
+    "zh": "营运资金",
+    "en": "Working Capital",
+    "characters": [
+      {
+        "text": "营",
+        "start": 10.95,
+        "end": 11.507
+      },
+      {
+        "text": "运",
+        "start": 11.507,
+        "end": 12.065
+      },
+      {
+        "text": "资",
+        "start": 12.065,
+        "end": 12.623
+      },
+      {
+        "text": "金",
+        "start": 12.623,
+        "end": 13.18
+      }
+    ],
+    "words": [
+      {
+        "text": "Working",
+        "start": 10.95,
+        "end": 12.065
+      },
+      {
+        "text": "Capital",
+        "start": 12.065,
+        "end": 13.18
+      }
+    ]
+  },
+  {
+    "start": 13.41,
+    "end": 14.355,
+    "zh": "简单来说",
+    "en": "Put simply,",
+    "characters": [
+      {
+        "text": "简",
+        "start": 13.44,
+        "end": 13.68
+      },
+      {
+        "text": "单",
+        "start": 13.68,
+        "end": 13.86
+      },
+      {
+        "text": "来",
+        "start": 13.86,
+        "end": 14.1
+      },
+      {
+        "text": "说",
+        "start": 14.1,
+        "end": 14.355
+      }
+    ],
+    "words": [
+      {
+        "text": "Put",
+        "start": 13.41,
+        "end": 13.801
+      },
+      {
+        "text": "simply,",
+        "start": 13.801,
+        "end": 14.355
+      }
+    ]
+  },
+  {
+    "start": 14.37,
+    "end": 15.675,
+    "zh": "企业日常经营",
+    "en": "day-to-day business operations",
+    "characters": [
+      {
+        "text": "企",
+        "start": 14.4,
+        "end": 14.58
+      },
+      {
+        "text": "业",
+        "start": 14.58,
+        "end": 14.82
+      },
+      {
+        "text": "日",
+        "start": 14.82,
+        "end": 15.0
+      },
+      {
+        "text": "常",
+        "start": 15.0,
+        "end": 15.18
+      },
+      {
+        "text": "经",
+        "start": 15.18,
+        "end": 15.36
+      },
+      {
+        "text": "营",
+        "start": 15.36,
+        "end": 15.675
+      }
+    ],
+    "words": [
+      {
+        "text": "day-to-day",
+        "start": 14.37,
+        "end": 14.789
+      },
+      {
+        "text": "business",
+        "start": 14.789,
+        "end": 15.207
+      },
+      {
+        "text": "operations",
+        "start": 15.207,
+        "end": 15.675
+      }
+    ]
+  },
+  {
+    "start": 15.69,
+    "end": 17.62,
+    "zh": "需要有足够的资金周转",
+    "en": "need enough funds to keep moving.",
+    "characters": [
+      {
+        "text": "需",
+        "start": 15.72,
+        "end": 15.9
+      },
+      {
+        "text": "要",
+        "start": 15.9,
+        "end": 16.02
+      },
+      {
+        "text": "有",
+        "start": 16.02,
+        "end": 16.26
+      },
+      {
+        "text": "足",
+        "start": 16.26,
+        "end": 16.38
+      },
+      {
+        "text": "够",
+        "start": 16.38,
+        "end": 16.56
+      },
+      {
+        "text": "的",
+        "start": 16.56,
+        "end": 16.68
+      },
+      {
+        "text": "资",
+        "start": 16.68,
+        "end": 16.86
+      },
+      {
+        "text": "金",
+        "start": 16.86,
+        "end": 17.1
+      },
+      {
+        "text": "周",
+        "start": 17.1,
+        "end": 17.28
+      },
+      {
+        "text": "转",
+        "start": 17.28,
+        "end": 17.62
+      }
+    ],
+    "words": [
+      {
+        "text": "need",
+        "start": 15.69,
+        "end": 15.998
+      },
+      {
+        "text": "enough",
+        "start": 15.998,
+        "end": 16.374
+      },
+      {
+        "text": "funds",
+        "start": 16.374,
+        "end": 16.718
+      },
+      {
+        "text": "to",
+        "start": 16.718,
+        "end": 16.936
+      },
+      {
+        "text": "keep",
+        "start": 16.936,
+        "end": 17.243
+      },
+      {
+        "text": "moving.",
+        "start": 17.243,
+        "end": 17.62
+      }
+    ]
+  },
+  {
+    "start": 17.97,
+    "end": 19.42,
+    "zh": "银行账户里有钱",
+    "en": "Money in the bank",
+    "characters": [
+      {
+        "text": "银",
+        "start": 18.0,
+        "end": 18.18
+      },
+      {
+        "text": "行",
+        "start": 18.18,
+        "end": 18.42
+      },
+      {
+        "text": "账",
+        "start": 18.42,
+        "end": 18.6
+      },
+      {
+        "text": "户",
+        "start": 18.6,
+        "end": 18.78
+      },
+      {
+        "text": "里",
+        "start": 18.78,
+        "end": 18.9
+      },
+      {
+        "text": "有",
+        "start": 18.9,
+        "end": 19.08
+      },
+      {
+        "text": "钱",
+        "start": 19.08,
+        "end": 19.42
+      }
+    ],
+    "words": [
+      {
+        "text": "Money",
+        "start": 17.97,
+        "end": 18.409
+      },
+      {
+        "text": "in",
+        "start": 18.409,
+        "end": 18.687
+      },
+      {
+        "text": "the",
+        "start": 18.687,
+        "end": 19.027
+      },
+      {
+        "text": "bank",
+        "start": 19.027,
+        "end": 19.42
+      }
+    ]
+  },
+  {
+    "start": 19.53,
+    "end": 21.52,
+    "zh": "不代表这些钱都能拿走",
+    "en": "does not mean you can take it all.",
+    "characters": [
+      {
+        "text": "不",
+        "start": 19.56,
+        "end": 19.74
+      },
+      {
+        "text": "代",
+        "start": 19.74,
+        "end": 19.92
+      },
+      {
+        "text": "表",
+        "start": 19.92,
+        "end": 20.1
+      },
+      {
+        "text": "这",
+        "start": 20.1,
+        "end": 20.22
+      },
+      {
+        "text": "些",
+        "start": 20.22,
+        "end": 20.4
+      },
+      {
+        "text": "钱",
+        "start": 20.4,
+        "end": 20.64
+      },
+      {
+        "text": "都",
+        "start": 20.64,
+        "end": 20.76
+      },
+      {
+        "text": "能",
+        "start": 20.76,
+        "end": 20.94
+      },
+      {
+        "text": "拿",
+        "start": 20.94,
+        "end": 21.18
+      },
+      {
+        "text": "走",
+        "start": 21.18,
+        "end": 21.52
+      }
+    ],
+    "words": [
+      {
+        "text": "does",
+        "start": 19.53,
+        "end": 19.807
+      },
+      {
+        "text": "not",
+        "start": 19.807,
+        "end": 20.048
+      },
+      {
+        "text": "mean",
+        "start": 20.048,
+        "end": 20.325
+      },
+      {
+        "text": "you",
+        "start": 20.325,
+        "end": 20.566
+      },
+      {
+        "text": "can",
+        "start": 20.566,
+        "end": 20.806
+      },
+      {
+        "text": "take",
+        "start": 20.806,
+        "end": 21.083
+      },
+      {
+        "text": "it",
+        "start": 21.083,
+        "end": 21.28
+      },
+      {
+        "text": "all.",
+        "start": 21.28,
+        "end": 21.52
+      }
+    ]
+  },
+  {
+    "start": 21.93,
+    "end": 23.68,
+    "zh": "以下数据全是假设",
+    "en": "All figures are hypothetical.",
+    "characters": [
+      {
+        "text": "以",
+        "start": 21.96,
+        "end": 22.14
+      },
+      {
+        "text": "下",
+        "start": 22.14,
+        "end": 22.44
+      },
+      {
+        "text": "数",
+        "start": 22.44,
+        "end": 22.56
+      },
+      {
+        "text": "据",
+        "start": 22.56,
+        "end": 22.8
+      },
+      {
+        "text": "全",
+        "start": 22.8,
+        "end": 22.98
+      },
+      {
+        "text": "是",
+        "start": 22.98,
+        "end": 23.16
+      },
+      {
+        "text": "假",
+        "start": 23.16,
+        "end": 23.34
+      },
+      {
+        "text": "设",
+        "start": 23.34,
+        "end": 23.68
+      }
+    ],
+    "words": [
+      {
+        "text": "All",
+        "start": 21.93,
+        "end": 22.247
+      },
+      {
+        "text": "figures",
+        "start": 22.247,
+        "end": 22.73
+      },
+      {
+        "text": "are",
+        "start": 22.73,
+        "end": 23.047
+      },
+      {
+        "text": "hypothetical.",
+        "start": 23.047,
+        "end": 23.68
+      }
+    ]
+  },
+  {
+    "start": 23.97,
+    "end": 24.915,
+    "zh": "一家小企业",
+    "en": "Imagine a small business.",
+    "characters": [
+      {
+        "text": "一",
+        "start": 24.0,
+        "end": 24.18
+      },
+      {
+        "text": "家",
+        "start": 24.18,
+        "end": 24.42
+      },
+      {
+        "text": "小",
+        "start": 24.42,
+        "end": 24.6
+      },
+      {
+        "text": "企",
+        "start": 24.6,
+        "end": 24.78
+      },
+      {
+        "text": "业",
+        "start": 24.78,
+        "end": 24.915
+      }
+    ],
+    "words": [
+      {
+        "text": "Imagine",
+        "start": 23.97,
+        "end": 24.257
+      },
+      {
+        "text": "a",
+        "start": 24.257,
+        "end": 24.366
+      },
+      {
+        "text": "small",
+        "start": 24.366,
+        "end": 24.608
+      },
+      {
+        "text": "business.",
+        "start": 24.608,
+        "end": 24.915
+      }
+    ]
+  },
+  {
+    "start": 24.93,
+    "end": 26.835,
+    "zh": "银行账户有两万美元",
+    "en": "Its bank balance is $20,000.",
+    "characters": [
+      {
+        "text": "银",
+        "start": 24.96,
+        "end": 25.08
+      },
+      {
+        "text": "行",
+        "start": 25.08,
+        "end": 25.26
+      },
+      {
+        "text": "账",
+        "start": 25.26,
+        "end": 25.5
+      },
+      {
+        "text": "户",
+        "start": 25.5,
+        "end": 25.68
+      },
+      {
+        "text": "有",
+        "start": 25.68,
+        "end": 25.86
+      },
+      {
+        "text": "两",
+        "start": 25.86,
+        "end": 26.04
+      },
+      {
+        "text": "万",
+        "start": 26.04,
+        "end": 26.34
+      },
+      {
+        "text": "美",
+        "start": 26.34,
+        "end": 26.52
+      },
+      {
+        "text": "元",
+        "start": 26.52,
+        "end": 26.835
+      }
+    ],
+    "words": [
+      {
+        "text": "Its",
+        "start": 24.93,
+        "end": 25.259
+      },
+      {
+        "text": "bank",
+        "start": 25.259,
+        "end": 25.639
+      },
+      {
+        "text": "balance",
+        "start": 25.639,
+        "end": 26.142
+      },
+      {
+        "text": "is",
+        "start": 26.142,
+        "end": 26.41
+      },
+      {
+        "text": "$20,000.",
+        "start": 26.41,
+        "end": 26.835
+      }
+    ]
+  },
+  {
+    "start": 26.85,
+    "end": 28.455,
+    "zh": "但下个月需要支付",
+    "en": "But next month it must pay:",
+    "characters": [
+      {
+        "text": "但",
+        "start": 26.88,
+        "end": 27.24
+      },
+      {
+        "text": "下",
+        "start": 27.24,
+        "end": 27.42
+      },
+      {
+        "text": "个",
+        "start": 27.42,
+        "end": 27.54
+      },
+      {
+        "text": "月",
+        "start": 27.54,
+        "end": 27.78
+      },
+      {
+        "text": "需",
+        "start": 27.78,
+        "end": 27.9
+      },
+      {
+        "text": "要",
+        "start": 27.9,
+        "end": 28.08
+      },
+      {
+        "text": "支",
+        "start": 28.08,
+        "end": 28.26
+      },
+      {
+        "text": "付",
+        "start": 28.26,
+        "end": 28.455
+      }
+    ],
+    "words": [
+      {
+        "text": "But",
+        "start": 26.85,
+        "end": 27.1
+      },
+      {
+        "text": "next",
+        "start": 27.1,
+        "end": 27.389
+      },
+      {
+        "text": "month",
+        "start": 27.389,
+        "end": 27.712
+      },
+      {
+        "text": "it",
+        "start": 27.712,
+        "end": 27.916
+      },
+      {
+        "text": "must",
+        "start": 27.916,
+        "end": 28.205
+      },
+      {
+        "text": "pay:",
+        "start": 28.205,
+        "end": 28.455
+      }
+    ]
+  },
+  {
+    "start": 28.47,
+    "end": 30.34,
+    "zh": "员工工资六千美元",
+    "en": "Payroll: $6,000.",
+    "characters": [
+      {
+        "text": "员",
+        "start": 28.5,
+        "end": 28.68
+      },
+      {
+        "text": "工",
+        "start": 28.68,
+        "end": 28.92
+      },
+      {
+        "text": "工",
+        "start": 28.92,
+        "end": 29.04
+      },
+      {
+        "text": "资",
+        "start": 29.04,
+        "end": 29.28
+      },
+      {
+        "text": "六",
+        "start": 29.28,
+        "end": 29.52
+      },
+      {
+        "text": "千",
+        "start": 29.52,
+        "end": 29.76
+      },
+      {
+        "text": "美",
+        "start": 29.76,
+        "end": 30.0
+      },
+      {
+        "text": "元",
+        "start": 30.0,
+        "end": 30.34
+      }
+    ],
+    "words": [
+      {
+        "text": "Payroll:",
+        "start": 28.47,
+        "end": 29.535
+      },
+      {
+        "text": "$6,000.",
+        "start": 29.535,
+        "end": 30.34
+      }
+    ]
+  },
+  {
+    "start": 30.39,
+    "end": 31.815,
+    "zh": "房租三千美元",
+    "en": "Rent: $3,000.",
+    "characters": [
+      {
+        "text": "房",
+        "start": 30.42,
+        "end": 30.66
+      },
+      {
+        "text": "租",
+        "start": 30.66,
+        "end": 30.9
+      },
+      {
+        "text": "三",
+        "start": 30.9,
+        "end": 31.08
+      },
+      {
+        "text": "千",
+        "start": 31.08,
+        "end": 31.38
+      },
+      {
+        "text": "美",
+        "start": 31.38,
+        "end": 31.56
+      },
+      {
+        "text": "元",
+        "start": 31.56,
+        "end": 31.815
+      }
+    ],
+    "words": [
+      {
+        "text": "Rent:",
+        "start": 30.39,
+        "end": 31.102
+      },
+      {
+        "text": "$3,000.",
+        "start": 31.102,
+        "end": 31.815
+      }
+    ]
+  },
+  {
+    "start": 31.83,
+    "end": 33.82,
+    "zh": "供应商货款八千美元",
+    "en": "Supplier payments: $8,000.",
+    "characters": [
+      {
+        "text": "供",
+        "start": 31.83,
+        "end": 32.051
+      },
+      {
+        "text": "应",
+        "start": 32.051,
+        "end": 32.272
+      },
+      {
+        "text": "商",
+        "start": 32.272,
+        "end": 32.493
+      },
+      {
+        "text": "货",
+        "start": 32.493,
+        "end": 32.714
+      },
+      {
+        "text": "款",
+        "start": 32.714,
+        "end": 32.936
+      },
+      {
+        "text": "八",
+        "start": 32.936,
+        "end": 33.157
+      },
+      {
+        "text": "千",
+        "start": 33.157,
+        "end": 33.378
+      },
+      {
+        "text": "美",
+        "start": 33.378,
+        "end": 33.599
+      },
+      {
+        "text": "元",
+        "start": 33.599,
+        "end": 33.82
+      }
+    ],
+    "words": [
+      {
+        "text": "Supplier",
+        "start": 31.83,
+        "end": 32.565
+      },
+      {
+        "text": "payments:",
+        "start": 32.565,
+        "end": 33.3
+      },
+      {
+        "text": "$8,000.",
+        "start": 33.3,
+        "end": 33.82
+      }
+    ]
+  },
+  {
+    "start": 33.99,
+    "end": 36.04,
+    "zh": "加起来一万七千美元",
+    "en": "That totals $17,000.",
+    "characters": [
+      {
+        "text": "加",
+        "start": 34.02,
+        "end": 34.26
+      },
+      {
+        "text": "起",
+        "start": 34.26,
+        "end": 34.44
+      },
+      {
+        "text": "来",
+        "start": 34.44,
+        "end": 34.62
+      },
+      {
+        "text": "一",
+        "start": 34.62,
+        "end": 34.8
+      },
+      {
+        "text": "万",
+        "start": 34.8,
+        "end": 34.98
+      },
+      {
+        "text": "七",
+        "start": 34.98,
+        "end": 35.22
+      },
+      {
+        "text": "千",
+        "start": 35.22,
+        "end": 35.52
+      },
+      {
+        "text": "美",
+        "start": 35.52,
+        "end": 35.7
+      },
+      {
+        "text": "元",
+        "start": 35.7,
+        "end": 36.04
+      }
+    ],
+    "words": [
+      {
+        "text": "That",
+        "start": 33.99,
+        "end": 34.603
+      },
+      {
+        "text": "totals",
+        "start": 34.603,
+        "end": 35.354
+      },
+      {
+        "text": "$17,000.",
+        "start": 35.354,
+        "end": 36.04
+      }
+    ]
+  },
+  {
+    "start": 36.87,
+    "end": 37.48,
+    "zh": "等等",
+    "en": "Wait a moment.",
+    "characters": [
+      {
+        "text": "等",
+        "start": 36.9,
+        "end": 37.14
+      },
+      {
+        "text": "等",
+        "start": 37.14,
+        "end": 37.48
+      }
+    ],
+    "words": [
+      {
+        "text": "Wait",
+        "start": 36.87,
+        "end": 37.094
+      },
+      {
+        "text": "a",
+        "start": 37.094,
+        "end": 37.206
+      },
+      {
+        "text": "moment.",
+        "start": 37.206,
+        "end": 37.48
+      }
+    ]
+  },
+  {
+    "start": 37.59,
+    "end": 39.615,
+    "zh": "账户里明明有两万美元",
+    "en": "There is $20,000 in the account.",
+    "characters": [
+      {
+        "text": "账",
+        "start": 37.62,
+        "end": 37.8
+      },
+      {
+        "text": "户",
+        "start": 37.8,
+        "end": 38.04
+      },
+      {
+        "text": "里",
+        "start": 38.04,
+        "end": 38.22
+      },
+      {
+        "text": "明",
+        "start": 38.22,
+        "end": 38.4
+      },
+      {
+        "text": "明",
+        "start": 38.4,
+        "end": 38.58
+      },
+      {
+        "text": "有",
+        "start": 38.58,
+        "end": 38.7
+      },
+      {
+        "text": "两",
+        "start": 38.7,
+        "end": 38.88
+      },
+      {
+        "text": "万",
+        "start": 38.88,
+        "end": 39.12
+      },
+      {
+        "text": "美",
+        "start": 39.12,
+        "end": 39.3
+      },
+      {
+        "text": "元",
+        "start": 39.3,
+        "end": 39.615
+      }
+    ],
+    "words": [
+      {
+        "text": "There",
+        "start": 37.59,
+        "end": 37.978
+      },
+      {
+        "text": "is",
+        "start": 37.978,
+        "end": 38.223
+      },
+      {
+        "text": "$20,000",
+        "start": 38.223,
+        "end": 38.611
+      },
+      {
+        "text": "in",
+        "start": 38.611,
+        "end": 38.856
+      },
+      {
+        "text": "the",
+        "start": 38.856,
+        "end": 39.156
+      },
+      {
+        "text": "account.",
+        "start": 39.156,
+        "end": 39.615
+      }
+    ]
+  },
+  {
+    "start": 39.63,
+    "end": 42.46,
+    "zh": "扣掉即将到期的一万七千美元",
+    "en": "Subtract the $17,000 coming due.",
+    "characters": [
+      {
+        "text": "扣",
+        "start": 39.66,
+        "end": 39.9
+      },
+      {
+        "text": "掉",
+        "start": 39.9,
+        "end": 40.14
+      },
+      {
+        "text": "即",
+        "start": 40.14,
+        "end": 40.32
+      },
+      {
+        "text": "将",
+        "start": 40.32,
+        "end": 40.5
+      },
+      {
+        "text": "到",
+        "start": 40.5,
+        "end": 40.68
+      },
+      {
+        "text": "期",
+        "start": 40.68,
+        "end": 40.92
+      },
+      {
+        "text": "的",
+        "start": 40.92,
+        "end": 41.1
+      },
+      {
+        "text": "一",
+        "start": 41.1,
+        "end": 41.22
+      },
+      {
+        "text": "万",
+        "start": 41.22,
+        "end": 41.4
+      },
+      {
+        "text": "七",
+        "start": 41.4,
+        "end": 41.64
+      },
+      {
+        "text": "千",
+        "start": 41.64,
+        "end": 41.88
+      },
+      {
+        "text": "美",
+        "start": 41.88,
+        "end": 42.12
+      },
+      {
+        "text": "元",
+        "start": 42.12,
+        "end": 42.46
+      }
+    ],
+    "words": [
+      {
+        "text": "Subtract",
+        "start": 39.63,
+        "end": 40.359
+      },
+      {
+        "text": "the",
+        "start": 40.359,
+        "end": 40.806
+      },
+      {
+        "text": "$17,000",
+        "start": 40.806,
+        "end": 41.382
+      },
+      {
+        "text": "coming",
+        "start": 41.382,
+        "end": 42.014
+      },
+      {
+        "text": "due.",
+        "start": 42.014,
+        "end": 42.46
+      }
+    ]
+  },
+  {
+    "start": 42.57,
+    "end": 44.115,
+    "zh": "只剩三千美元",
+    "en": "Only $3,000 remains.",
+    "characters": [
+      {
+        "text": "只",
+        "start": 42.6,
+        "end": 42.84
+      },
+      {
+        "text": "剩",
+        "start": 42.84,
+        "end": 43.14
+      },
+      {
+        "text": "三",
+        "start": 43.14,
+        "end": 43.32
+      },
+      {
+        "text": "千",
+        "start": 43.32,
+        "end": 43.62
+      },
+      {
+        "text": "美",
+        "start": 43.62,
+        "end": 43.8
+      },
+      {
+        "text": "元",
+        "start": 43.8,
+        "end": 44.115
+      }
+    ],
+    "words": [
+      {
+        "text": "Only",
+        "start": 42.57,
+        "end": 43.035
+      },
+      {
+        "text": "$3,000",
+        "start": 43.035,
+        "end": 43.5
+      },
+      {
+        "text": "remains.",
+        "start": 43.5,
+        "end": 44.115
+      }
+    ]
+  },
+  {
+    "start": 44.13,
+    "end": 45.915,
+    "zh": "如果老板拿走一万美元",
+    "en": "If the owner takes $10,000,",
+    "characters": [
+      {
+        "text": "如",
+        "start": 44.16,
+        "end": 44.34
+      },
+      {
+        "text": "果",
+        "start": 44.34,
+        "end": 44.52
+      },
+      {
+        "text": "老",
+        "start": 44.52,
+        "end": 44.64
+      },
+      {
+        "text": "板",
+        "start": 44.64,
+        "end": 44.82
+      },
+      {
+        "text": "拿",
+        "start": 44.82,
+        "end": 45.0
+      },
+      {
+        "text": "走",
+        "start": 45.0,
+        "end": 45.18
+      },
+      {
+        "text": "一",
+        "start": 45.18,
+        "end": 45.36
+      },
+      {
+        "text": "万",
+        "start": 45.36,
+        "end": 45.54
+      },
+      {
+        "text": "美",
+        "start": 45.54,
+        "end": 45.72
+      },
+      {
+        "text": "元",
+        "start": 45.72,
+        "end": 45.915
+      }
+    ],
+    "words": [
+      {
+        "text": "If",
+        "start": 44.13,
+        "end": 44.386
+      },
+      {
+        "text": "the",
+        "start": 44.386,
+        "end": 44.7
+      },
+      {
+        "text": "owner",
+        "start": 44.7,
+        "end": 45.105
+      },
+      {
+        "text": "takes",
+        "start": 45.105,
+        "end": 45.51
+      },
+      {
+        "text": "$10,000,",
+        "start": 45.51,
+        "end": 45.915
+      }
+    ]
+  },
+  {
+    "start": 45.93,
+    "end": 48.1,
+    "zh": "公司就有可能付不起账单",
+    "en": "the business may miss its bills.",
+    "characters": [
+      {
+        "text": "公",
+        "start": 45.96,
+        "end": 46.08
+      },
+      {
+        "text": "司",
+        "start": 46.08,
+        "end": 46.26
+      },
+      {
+        "text": "就",
+        "start": 46.26,
+        "end": 46.44
+      },
+      {
+        "text": "有",
+        "start": 46.44,
+        "end": 46.56
+      },
+      {
+        "text": "可",
+        "start": 46.56,
+        "end": 46.74
+      },
+      {
+        "text": "能",
+        "start": 46.74,
+        "end": 46.92
+      },
+      {
+        "text": "付",
+        "start": 46.92,
+        "end": 47.1
+      },
+      {
+        "text": "不",
+        "start": 47.1,
+        "end": 47.22
+      },
+      {
+        "text": "起",
+        "start": 47.22,
+        "end": 47.46
+      },
+      {
+        "text": "账",
+        "start": 47.46,
+        "end": 47.76
+      },
+      {
+        "text": "单",
+        "start": 47.76,
+        "end": 48.1
+      }
+    ],
+    "words": [
+      {
+        "text": "the",
+        "start": 45.93,
+        "end": 46.237
+      },
+      {
+        "text": "business",
+        "start": 46.237,
+        "end": 46.737
+      },
+      {
+        "text": "may",
+        "start": 46.737,
+        "end": 47.044
+      },
+      {
+        "text": "miss",
+        "start": 47.044,
+        "end": 47.398
+      },
+      {
+        "text": "its",
+        "start": 47.398,
+        "end": 47.704
+      },
+      {
+        "text": "bills.",
+        "start": 47.704,
+        "end": 48.1
+      }
+    ]
+  },
+  {
+    "start": 48.69,
+    "end": 51.16,
+    "zh": "所以老板不能只看账户余额",
+    "en": "So look beyond the bank balance.",
+    "characters": [
+      {
+        "text": "所",
+        "start": 48.72,
+        "end": 48.9
+      },
+      {
+        "text": "以",
+        "start": 48.9,
+        "end": 49.14
+      },
+      {
+        "text": "老",
+        "start": 49.14,
+        "end": 49.32
+      },
+      {
+        "text": "板",
+        "start": 49.32,
+        "end": 49.5
+      },
+      {
+        "text": "不",
+        "start": 49.5,
+        "end": 49.68
+      },
+      {
+        "text": "能",
+        "start": 49.68,
+        "end": 49.86
+      },
+      {
+        "text": "只",
+        "start": 49.86,
+        "end": 49.98
+      },
+      {
+        "text": "看",
+        "start": 49.98,
+        "end": 50.22
+      },
+      {
+        "text": "账",
+        "start": 50.22,
+        "end": 50.4
+      },
+      {
+        "text": "户",
+        "start": 50.4,
+        "end": 50.64
+      },
+      {
+        "text": "余",
+        "start": 50.64,
+        "end": 50.82
+      },
+      {
+        "text": "额",
+        "start": 50.82,
+        "end": 51.16
+      }
+    ],
+    "words": [
+      {
+        "text": "So",
+        "start": 48.69,
+        "end": 48.975
+      },
+      {
+        "text": "look",
+        "start": 48.975,
+        "end": 49.379
+      },
+      {
+        "text": "beyond",
+        "start": 49.379,
+        "end": 49.873
+      },
+      {
+        "text": "the",
+        "start": 49.873,
+        "end": 50.223
+      },
+      {
+        "text": "bank",
+        "start": 50.223,
+        "end": 50.626
+      },
+      {
+        "text": "balance.",
+        "start": 50.626,
+        "end": 51.16
+      }
+    ]
+  },
+  {
+    "start": 51.21,
+    "end": 53.055,
+    "zh": "还要看未来什么时候收钱",
+    "en": "When will cash come in?",
+    "characters": [
+      {
+        "text": "还",
+        "start": 51.24,
+        "end": 51.42
+      },
+      {
+        "text": "要",
+        "start": 51.42,
+        "end": 51.6
+      },
+      {
+        "text": "看",
+        "start": 51.6,
+        "end": 51.84
+      },
+      {
+        "text": "未",
+        "start": 51.84,
+        "end": 51.96
+      },
+      {
+        "text": "来",
+        "start": 51.96,
+        "end": 52.08
+      },
+      {
+        "text": "什",
+        "start": 52.08,
+        "end": 52.2
+      },
+      {
+        "text": "么",
+        "start": 52.2,
+        "end": 52.38
+      },
+      {
+        "text": "时",
+        "start": 52.38,
+        "end": 52.44
+      },
+      {
+        "text": "候",
+        "start": 52.44,
+        "end": 52.62
+      },
+      {
+        "text": "收",
+        "start": 52.62,
+        "end": 52.8
+      },
+      {
+        "text": "钱",
+        "start": 52.8,
+        "end": 53.055
+      }
+    ],
+    "words": [
+      {
+        "text": "When",
+        "start": 51.21,
+        "end": 51.602
+      },
+      {
+        "text": "will",
+        "start": 51.602,
+        "end": 51.994
+      },
+      {
+        "text": "cash",
+        "start": 51.994,
+        "end": 52.386
+      },
+      {
+        "text": "come",
+        "start": 52.386,
+        "end": 52.778
+      },
+      {
+        "text": "in?",
+        "start": 52.778,
+        "end": 53.055
+      }
+    ]
+  },
+  {
+    "start": 53.07,
+    "end": 54.16,
+    "zh": "什么时候付款",
+    "en": "When must payments go out?",
+    "characters": [
+      {
+        "text": "什",
+        "start": 53.1,
+        "end": 53.22
+      },
+      {
+        "text": "么",
+        "start": 53.22,
+        "end": 53.34
+      },
+      {
+        "text": "时",
+        "start": 53.34,
+        "end": 53.4
+      },
+      {
+        "text": "候",
+        "start": 53.4,
+        "end": 53.58
+      },
+      {
+        "text": "付",
+        "start": 53.58,
+        "end": 53.82
+      },
+      {
+        "text": "款",
+        "start": 53.82,
+        "end": 54.16
+      }
+    ],
+    "words": [
+      {
+        "text": "When",
+        "start": 53.07,
+        "end": 53.289
+      },
+      {
+        "text": "must",
+        "start": 53.289,
+        "end": 53.507
+      },
+      {
+        "text": "payments",
+        "start": 53.507,
+        "end": 53.816
+      },
+      {
+        "text": "go",
+        "start": 53.816,
+        "end": 53.971
+      },
+      {
+        "text": "out?",
+        "start": 53.971,
+        "end": 54.16
+      }
+    ]
+  },
+  {
+    "start": 54.33,
+    "end": 55.875,
+    "zh": "以及公司需要保留",
+    "en": "And how much should the business keep",
+    "characters": [
+      {
+        "text": "以",
+        "start": 54.36,
+        "end": 54.54
+      },
+      {
+        "text": "及",
+        "start": 54.54,
+        "end": 54.84
+      },
+      {
+        "text": "公",
+        "start": 54.84,
+        "end": 54.96
+      },
+      {
+        "text": "司",
+        "start": 54.96,
+        "end": 55.2
+      },
+      {
+        "text": "需",
+        "start": 55.2,
+        "end": 55.38
+      },
+      {
+        "text": "要",
+        "start": 55.38,
+        "end": 55.56
+      },
+      {
+        "text": "保",
+        "start": 55.56,
+        "end": 55.68
+      },
+      {
+        "text": "留",
+        "start": 55.68,
+        "end": 55.875
+      }
+    ],
+    "words": [
+      {
+        "text": "And",
+        "start": 54.33,
+        "end": 54.515
+      },
+      {
+        "text": "how",
+        "start": 54.515,
+        "end": 54.7
+      },
+      {
+        "text": "much",
+        "start": 54.7,
+        "end": 54.913
+      },
+      {
+        "text": "should",
+        "start": 54.913,
+        "end": 55.175
+      },
+      {
+        "text": "the",
+        "start": 55.175,
+        "end": 55.36
+      },
+      {
+        "text": "business",
+        "start": 55.36,
+        "end": 55.662
+      },
+      {
+        "text": "keep",
+        "start": 55.662,
+        "end": 55.875
+      }
+    ]
+  },
+  {
+    "start": 55.89,
+    "end": 57.46,
+    "zh": "多少钱的应急资金",
+    "en": "as an emergency cash buffer?",
+    "characters": [
+      {
+        "text": "多",
+        "start": 55.92,
+        "end": 56.04
+      },
+      {
+        "text": "少",
+        "start": 56.04,
+        "end": 56.22
+      },
+      {
+        "text": "钱",
+        "start": 56.22,
+        "end": 56.4
+      },
+      {
+        "text": "的",
+        "start": 56.4,
+        "end": 56.52
+      },
+      {
+        "text": "应",
+        "start": 56.52,
+        "end": 56.76
+      },
+      {
+        "text": "急",
+        "start": 56.76,
+        "end": 56.94
+      },
+      {
+        "text": "资",
+        "start": 56.94,
+        "end": 57.12
+      },
+      {
+        "text": "金",
+        "start": 57.12,
+        "end": 57.46
+      }
+    ],
+    "words": [
+      {
+        "text": "as",
+        "start": 55.89,
+        "end": 56.106
+      },
+      {
+        "text": "an",
+        "start": 56.106,
+        "end": 56.322
+      },
+      {
+        "text": "emergency",
+        "start": 56.322,
+        "end": 56.78
+      },
+      {
+        "text": "cash",
+        "start": 56.78,
+        "end": 57.086
+      },
+      {
+        "text": "buffer?",
+        "start": 57.086,
+        "end": 57.46
+      }
+    ]
+  },
+  {
+    "start": 57.57,
+    "end": 59.415,
+    "zh": "这就是为什么现金规划",
+    "en": "That is why cash planning",
+    "characters": [
+      {
+        "text": "这",
+        "start": 57.6,
+        "end": 57.84
+      },
+      {
+        "text": "就",
+        "start": 57.84,
+        "end": 57.96
+      },
+      {
+        "text": "是",
+        "start": 57.96,
+        "end": 58.2
+      },
+      {
+        "text": "为",
+        "start": 58.2,
+        "end": 58.32
+      },
+      {
+        "text": "什",
+        "start": 58.32,
+        "end": 58.44
+      },
+      {
+        "text": "么",
+        "start": 58.44,
+        "end": 58.68
+      },
+      {
+        "text": "现",
+        "start": 58.68,
+        "end": 58.86
+      },
+      {
+        "text": "金",
+        "start": 58.86,
+        "end": 59.1
+      },
+      {
+        "text": "规",
+        "start": 59.1,
+        "end": 59.22
+      },
+      {
+        "text": "划",
+        "start": 59.22,
+        "end": 59.415
+      }
+    ],
+    "words": [
+      {
+        "text": "That",
+        "start": 57.57,
+        "end": 57.94
+      },
+      {
+        "text": "is",
+        "start": 57.94,
+        "end": 58.202
+      },
+      {
+        "text": "why",
+        "start": 58.202,
+        "end": 58.522
+      },
+      {
+        "text": "cash",
+        "start": 58.522,
+        "end": 58.892
+      },
+      {
+        "text": "planning",
+        "start": 58.892,
+        "end": 59.415
+      }
+    ]
+  },
+  {
+    "start": 59.43,
+    "end": 61.12,
+    "zh": "对小企业非常重要",
+    "en": "matters so much to small businesses.",
+    "characters": [
+      {
+        "text": "对",
+        "start": 59.46,
+        "end": 59.7
+      },
+      {
+        "text": "小",
+        "start": 59.7,
+        "end": 59.88
+      },
+      {
+        "text": "企",
+        "start": 59.88,
+        "end": 60.06
+      },
+      {
+        "text": "业",
+        "start": 60.06,
+        "end": 60.3
+      },
+      {
+        "text": "非",
+        "start": 60.3,
+        "end": 60.42
+      },
+      {
+        "text": "常",
+        "start": 60.42,
+        "end": 60.66
+      },
+      {
+        "text": "重",
+        "start": 60.66,
+        "end": 60.78
+      },
+      {
+        "text": "要",
+        "start": 60.78,
+        "end": 61.12
+      }
+    ],
+    "words": [
+      {
+        "text": "matters",
+        "start": 59.43,
+        "end": 59.777
+      },
+      {
+        "text": "so",
+        "start": 59.777,
+        "end": 59.963
+      },
+      {
+        "text": "much",
+        "start": 59.963,
+        "end": 60.226
+      },
+      {
+        "text": "to",
+        "start": 60.226,
+        "end": 60.411
+      },
+      {
+        "text": "small",
+        "start": 60.411,
+        "end": 60.705
+      },
+      {
+        "text": "businesses.",
+        "start": 60.705,
+        "end": 61.12
+      }
+    ]
+  },
+  {
+    "start": 61.53,
+    "end": 62.715,
+    "zh": "当然真实企业",
+    "en": "Real businesses, of course,",
+    "characters": [
+      {
+        "text": "当",
+        "start": 61.56,
+        "end": 61.74
+      },
+      {
+        "text": "然",
+        "start": 61.74,
+        "end": 61.98
+      },
+      {
+        "text": "真",
+        "start": 61.98,
+        "end": 62.16
+      },
+      {
+        "text": "实",
+        "start": 62.16,
+        "end": 62.46
+      },
+      {
+        "text": "企",
+        "start": 62.46,
+        "end": 62.58
+      },
+      {
+        "text": "业",
+        "start": 62.58,
+        "end": 62.715
+      }
+    ],
+    "words": [
+      {
+        "text": "Real",
+        "start": 61.53,
+        "end": 61.793
+      },
+      {
+        "text": "businesses,",
+        "start": 61.793,
+        "end": 62.208
+      },
+      {
+        "text": "of",
+        "start": 62.208,
+        "end": 62.393
+      },
+      {
+        "text": "course,",
+        "start": 62.393,
+        "end": 62.715
+      }
+    ]
+  },
+  {
+    "start": 62.73,
+    "end": 65.38,
+    "zh": "还要考虑税款贷款和其他支出",
+    "en": "also face taxes, loans and other costs.",
+    "characters": [
+      {
+        "text": "还",
+        "start": 62.76,
+        "end": 62.88
+      },
+      {
+        "text": "要",
+        "start": 62.88,
+        "end": 63.0
+      },
+      {
+        "text": "考",
+        "start": 63.0,
+        "end": 63.18
+      },
+      {
+        "text": "虑",
+        "start": 63.18,
+        "end": 63.42
+      },
+      {
+        "text": "税",
+        "start": 63.42,
+        "end": 63.6
+      },
+      {
+        "text": "款",
+        "start": 63.6,
+        "end": 63.96
+      },
+      {
+        "text": "贷",
+        "start": 63.96,
+        "end": 64.08
+      },
+      {
+        "text": "款",
+        "start": 64.08,
+        "end": 64.32
+      },
+      {
+        "text": "和",
+        "start": 64.32,
+        "end": 64.5
+      },
+      {
+        "text": "其",
+        "start": 64.5,
+        "end": 64.62
+      },
+      {
+        "text": "他",
+        "start": 64.62,
+        "end": 64.8
+      },
+      {
+        "text": "支",
+        "start": 64.8,
+        "end": 65.04
+      },
+      {
+        "text": "出",
+        "start": 65.04,
+        "end": 65.38
+      }
+    ],
+    "words": [
+      {
+        "text": "also",
+        "start": 62.73,
+        "end": 63.091
+      },
+      {
+        "text": "face",
+        "start": 63.091,
+        "end": 63.452
+      },
+      {
+        "text": "taxes,",
+        "start": 63.452,
+        "end": 63.856
+      },
+      {
+        "text": "loans",
+        "start": 63.856,
+        "end": 64.26
+      },
+      {
+        "text": "and",
+        "start": 64.26,
+        "end": 64.572
+      },
+      {
+        "text": "other",
+        "start": 64.572,
+        "end": 64.976
+      },
+      {
+        "text": "costs.",
+        "start": 64.976,
+        "end": 65.38
+      }
+    ]
+  },
+  {
+    "start": 66.27,
+    "end": 66.88,
+    "zh": "记住",
+    "en": "Remember:",
+    "characters": [
+      {
+        "text": "记",
+        "start": 66.3,
+        "end": 66.54
+      },
+      {
+        "text": "住",
+        "start": 66.54,
+        "end": 66.88
+      }
+    ],
+    "words": [
+      {
+        "text": "Remember:",
+        "start": 66.27,
+        "end": 66.88
+      }
+    ]
+  },
+  {
+    "start": 66.99,
+    "end": 68.355,
+    "zh": "银行余额告诉你",
+    "en": "Your bank balance shows",
+    "characters": [
+      {
+        "text": "银",
+        "start": 67.02,
+        "end": 67.2
+      },
+      {
+        "text": "行",
+        "start": 67.2,
+        "end": 67.44
+      },
+      {
+        "text": "余",
+        "start": 67.44,
+        "end": 67.62
+      },
+      {
+        "text": "额",
+        "start": 67.62,
+        "end": 67.86
+      },
+      {
+        "text": "告",
+        "start": 67.86,
+        "end": 67.98
+      },
+      {
+        "text": "诉",
+        "start": 67.98,
+        "end": 68.16
+      },
+      {
+        "text": "你",
+        "start": 68.16,
+        "end": 68.355
+      }
+    ],
+    "words": [
+      {
+        "text": "Your",
+        "start": 66.99,
+        "end": 67.297
+      },
+      {
+        "text": "bank",
+        "start": 67.297,
+        "end": 67.605
+      },
+      {
+        "text": "balance",
+        "start": 67.605,
+        "end": 68.011
+      },
+      {
+        "text": "shows",
+        "start": 68.011,
+        "end": 68.355
+      }
+    ]
+  },
+  {
+    "start": 68.37,
+    "end": 69.64,
+    "zh": "现在有多少钱",
+    "en": "how much cash you have now.",
+    "characters": [
+      {
+        "text": "现",
+        "start": 68.4,
+        "end": 68.52
+      },
+      {
+        "text": "在",
+        "start": 68.52,
+        "end": 68.76
+      },
+      {
+        "text": "有",
+        "start": 68.76,
+        "end": 68.94
+      },
+      {
+        "text": "多",
+        "start": 68.94,
+        "end": 69.06
+      },
+      {
+        "text": "少",
+        "start": 69.06,
+        "end": 69.3
+      },
+      {
+        "text": "钱",
+        "start": 69.3,
+        "end": 69.64
+      }
+    ],
+    "words": [
+      {
+        "text": "how",
+        "start": 68.37,
+        "end": 68.566
+      },
+      {
+        "text": "much",
+        "start": 68.566,
+        "end": 68.793
+      },
+      {
+        "text": "cash",
+        "start": 68.793,
+        "end": 69.02
+      },
+      {
+        "text": "you",
+        "start": 69.02,
+        "end": 69.217
+      },
+      {
+        "text": "have",
+        "start": 69.217,
+        "end": 69.444
+      },
+      {
+        "text": "now.",
+        "start": 69.444,
+        "end": 69.64
+      }
+    ]
+  },
+  {
+    "start": 69.87,
+    "end": 71.235,
+    "zh": "现金预算告诉你",
+    "en": "Your cash budget shows",
+    "characters": [
+      {
+        "text": "现",
+        "start": 69.9,
+        "end": 70.08
+      },
+      {
+        "text": "金",
+        "start": 70.08,
+        "end": 70.32
+      },
+      {
+        "text": "预",
+        "start": 70.32,
+        "end": 70.5
+      },
+      {
+        "text": "算",
+        "start": 70.5,
+        "end": 70.74
+      },
+      {
+        "text": "告",
+        "start": 70.74,
+        "end": 70.86
+      },
+      {
+        "text": "诉",
+        "start": 70.86,
+        "end": 71.04
+      },
+      {
+        "text": "你",
+        "start": 71.04,
+        "end": 71.235
+      }
+    ],
+    "words": [
+      {
+        "text": "Your",
+        "start": 69.87,
+        "end": 70.184
+      },
+      {
+        "text": "cash",
+        "start": 70.184,
+        "end": 70.499
+      },
+      {
+        "text": "budget",
+        "start": 70.499,
+        "end": 70.884
+      },
+      {
+        "text": "shows",
+        "start": 70.884,
+        "end": 71.235
+      }
+    ]
+  },
+  {
+    "start": 71.25,
+    "end": 73.12,
+    "zh": "这些钱能不能安全地花",
+    "en": "whether you can safely spend it.",
+    "characters": [
+      {
+        "text": "这",
+        "start": 71.25,
+        "end": 71.437
+      },
+      {
+        "text": "些",
+        "start": 71.437,
+        "end": 71.624
+      },
+      {
+        "text": "钱",
+        "start": 71.624,
+        "end": 71.811
+      },
+      {
+        "text": "能",
+        "start": 71.811,
+        "end": 71.998
+      },
+      {
+        "text": "不",
+        "start": 71.998,
+        "end": 72.185
+      },
+      {
+        "text": "能",
+        "start": 72.185,
+        "end": 72.372
+      },
+      {
+        "text": "安",
+        "start": 72.372,
+        "end": 72.559
+      },
+      {
+        "text": "全",
+        "start": 72.559,
+        "end": 72.746
+      },
+      {
+        "text": "地",
+        "start": 72.746,
+        "end": 72.933
+      },
+      {
+        "text": "花",
+        "start": 72.933,
+        "end": 73.12
+      }
+    ],
+    "words": [
+      {
+        "text": "whether",
+        "start": 71.25,
+        "end": 71.655
+      },
+      {
+        "text": "you",
+        "start": 71.655,
+        "end": 71.92
+      },
+      {
+        "text": "can",
+        "start": 71.92,
+        "end": 72.186
+      },
+      {
+        "text": "safely",
+        "start": 72.186,
+        "end": 72.561
+      },
+      {
+        "text": "spend",
+        "start": 72.561,
+        "end": 72.903
+      },
+      {
+        "text": "it.",
+        "start": 72.903,
+        "end": 73.12
+      }
+    ]
+  },
+  {
+    "start": 73.17,
+    "end": 75.1,
+    "zh": "这就是数据看生意",
+    "en": "This is Business Through Data.",
+    "characters": [
+      {
+        "text": "这",
+        "start": 73.2,
+        "end": 73.44
+      },
+      {
+        "text": "就",
+        "start": 73.44,
+        "end": 73.62
+      },
+      {
+        "text": "是",
+        "start": 73.62,
+        "end": 73.86
+      },
+      {
+        "text": "数",
+        "start": 73.86,
+        "end": 74.04
+      },
+      {
+        "text": "据",
+        "start": 74.04,
+        "end": 74.28
+      },
+      {
+        "text": "看",
+        "start": 74.28,
+        "end": 74.52
+      },
+      {
+        "text": "生",
+        "start": 74.52,
+        "end": 74.76
+      },
+      {
+        "text": "意",
+        "start": 74.76,
+        "end": 75.1
+      }
+    ],
+    "words": [
+      {
+        "text": "This",
+        "start": 73.17,
+        "end": 73.525
+      },
+      {
+        "text": "is",
+        "start": 73.525,
+        "end": 73.775
+      },
+      {
+        "text": "Business",
+        "start": 73.775,
+        "end": 74.277
+      },
+      {
+        "text": "Through",
+        "start": 74.277,
+        "end": 74.745
+      },
+      {
+        "text": "Data.",
+        "start": 74.745,
+        "end": 75.1
+      }
+    ]
+  }
+]
