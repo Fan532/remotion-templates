@@ -1,0 +1,35 @@
+{
+  "file": "out/five-dynasties-timeline.mp4",
+  "bytes": 634540,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 285,
+  "duration_seconds": 9.5,
+  "codec": "H264",
+  "pixel_format": "yuv420p",
+  "audio_streams": 0,
+  "full_decode": "PASS",
+  "typecheck": "PASS",
+  "sampled_frames": [
+    30,
+    75,
+    120,
+    165,
+    210,
+    270
+  ],
+  "visual_review": "PASS: six actual final-video keyframes checked; all Chinese dynasty names and years readable, no overlapping labels",
+  "history_years": [
+    907,
+    923,
+    936,
+    947,
+    951
+  ],
+  "history_scope": "Founding events, not the end of Five Dynasties in 951. Five Dynasties conventionally ends in 960.",
+  "historical_online_verification": "Attempted Britannica and Wikipedia requests denied by proxy403; based on standard known chronology, not a live source audit.",
+  "windows_import": "Standard H264 MP4; actual Windows/CapCut GUI not available for testing."
+}

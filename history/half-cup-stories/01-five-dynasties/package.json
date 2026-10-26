@@ -1,0 +1,28 @@
+{
+  "name": "half-cup-stories-five-dynasties",
+  "version": "1.0.0",
+  "description": "半盏故事：五代王朝时间轴",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc",
+    "studio": "remotion studio src/index.tsx --browser-executable=/usr/bin/chromium --port=3090",
+    "render": "remotion render src/index.tsx FiveDynasties out/five-dynasties-timeline.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --pixel-format=yuv420p --concurrency=4 --log=error && python3 tools/normalize_video.py",
+    "preview": "remotion still src/index.tsx FiveDynasties out/preview.png --frame=240 --browser-executable=/usr/bin/chromium --log=error"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "4.0.538",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.538"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "7.0.2"
+  },
+  "private": true
+}
