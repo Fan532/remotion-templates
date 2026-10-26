@@ -1,0 +1,28 @@
+{
+  "name": "half-cup-stories-transition-936",
+  "version": "1.0.0",
+  "description": "半盏故事：936年后唐与后晋政权更替",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc",
+    "studio": "remotion studio src/index.tsx --browser-executable=/usr/bin/chromium --port=3091",
+    "render": "remotion render src/index.tsx Transition936 out/transition-936.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --pixel-format=yuv420p --concurrency=4 --log=error && python3 tools/normalize_video.py",
+    "preview": "remotion still src/index.tsx Transition936 out/preview.png --frame=240 --browser-executable=/usr/bin/chromium --log=error"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "4.0.538",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.538"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "7.0.2"
+  },
+  "private": true
+}
