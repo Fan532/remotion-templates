@@ -1,0 +1,36 @@
+{
+  "file": "out/feng-dao-four-dynasties.mp4",
+  "bytes": 756221,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 285,
+  "duration_seconds": 9.5,
+  "codec": "H264",
+  "pixel_format": "yuv420p",
+  "audio_streams": 0,
+  "full_decode": "PASS",
+  "typecheck": "PASS",
+  "sampled_frames": [
+    30,
+    75,
+    120,
+    165,
+    210,
+    270
+  ],
+  "visual_review": "PASS: six final MP4 keyframes inspected; title, life dates, four dynasty names and disclaimer readable without observed overlap or clipping",
+  "birth_year": 882,
+  "death_year": 954,
+  "dynasties": [
+    "\u540e\u5510",
+    "\u540e\u664b",
+    "\u540e\u6c49",
+    "\u540e\u5468"
+  ],
+  "history_scope": "Feng Dao lived 882-954 and served across the four named Central Plains dynasties. Four names are a selected scope, not a claim of his complete career.",
+  "historical_online_verification": "Standard known chronology; live-source audit unavailable in this environment (earlier source requests denied by proxy403).",
+  "windows_import": "Standard H264 MP4; actual Windows/CapCut GUI not available for testing."
+}
