@@ -1,0 +1,58 @@
+{
+  "video": "out/ep09-nail-salon.mp4",
+  "bytes": 7997401,
+  "video_seconds": "58.200000",
+  "frames": 1746,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "pixel_format": "yuv420p",
+  "full_decode": "PASS",
+  "typecheck": "PASS",
+  "financial_model_tests": "PASS",
+  "math": {
+    "customers": 208,
+    "revenue": 12480,
+    "variable_costs": 7280,
+    "unit_contribution": 25,
+    "monthly_contribution": 5200,
+    "fixed_costs": 5000,
+    "operating_profit": 200,
+    "monthly_break_even_customers": 200,
+    "daily_break_even_customers": 7.6923076923076925
+  },
+  "source_audio_sha256": "dcdc66ef28563d87ceaf165a852686731a75bef23a950bd8c753a1363188d222",
+  "original_source_mp3_unchanged": true,
+  "voice_speed": 1.0,
+  "caption_layout": {
+    "pages": 28,
+    "font": "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+    "font_size_both_languages": 44,
+    "max_chinese_width_px": 700.0,
+    "max_english_line_width_px": 837.97,
+    "available_width_px": 940,
+    "max_caption_block_height_px": 245,
+    "available_height_px": 390,
+    "method": "installed-font advance metrics plus component padding/gaps; representative rendered frames checked separately",
+    "result": "PASS"
+  },
+  "keyframe_samples": [
+    156,
+    489,
+    710,
+    1100,
+    1395,
+    1555
+  ],
+  "keyframe_review": "PASS: six actual final-MP4 scene screenshots inspected; unit-cost, opening reversal and brand layouts also sampled during production; no observed caption/chart overlap or clipped Chinese",
+  "manual_word_by_word_listening_audit": false,
+  "subtitle_method": "Chinese CTC alignment to supplied transcript; English translation paced within corresponding Chinese phrases, not an English acoustic alignment. Editable JSON and SRT provided.",
+  "visual_method": "Original layered SVG/CSS illustration with perspective, gradients and independent motion; not physically simulated 3D.",
+  "caveat": "Hypothetical operating profit, not take-home income, tax result, industry-average profit or guaranteed owner compensation.",
+  "audio_expected_mix_correlation": 0.999956923195828,
+  "audio_peak_dbfs": -6.506448268890381,
+  "audio_clipping": false,
+  "video_editor_compatibility": "H264/yuv420p limited range, AAC, fast-start MP4; actual Windows/CapCut GUI not available"
+}

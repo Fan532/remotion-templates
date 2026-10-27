@@ -1,0 +1,2127 @@
+[
+  {
+    "start": 0.51,
+    "end": 2.355,
+    "zh": "做一次美甲六十美元",
+    "en": "One manicure costs $60.",
+    "characters": [
+      {
+        "text": "做",
+        "start": 0.54,
+        "end": 0.78
+      },
+      {
+        "text": "一",
+        "start": 0.78,
+        "end": 0.9
+      },
+      {
+        "text": "次",
+        "start": 0.9,
+        "end": 1.14
+      },
+      {
+        "text": "美",
+        "start": 1.14,
+        "end": 1.32
+      },
+      {
+        "text": "甲",
+        "start": 1.32,
+        "end": 1.62
+      },
+      {
+        "text": "六",
+        "start": 1.62,
+        "end": 1.74
+      },
+      {
+        "text": "十",
+        "start": 1.74,
+        "end": 1.98
+      },
+      {
+        "text": "美",
+        "start": 1.98,
+        "end": 2.1
+      },
+      {
+        "text": "元",
+        "start": 2.1,
+        "end": 2.355
+      }
+    ],
+    "words": [
+      {
+        "text": "One",
+        "start": 0.51,
+        "end": 0.899
+      },
+      {
+        "text": "manicure",
+        "start": 0.899,
+        "end": 1.535
+      },
+      {
+        "text": "costs",
+        "start": 1.535,
+        "end": 2.037
+      },
+      {
+        "text": "$60.",
+        "start": 2.037,
+        "end": 2.355
+      }
+    ]
+  },
+  {
+    "start": 2.37,
+    "end": 3.495,
+    "zh": "一天八个客人",
+    "en": "Eight customers a day.",
+    "characters": [
+      {
+        "text": "一",
+        "start": 2.4,
+        "end": 2.52
+      },
+      {
+        "text": "天",
+        "start": 2.52,
+        "end": 2.7
+      },
+      {
+        "text": "八",
+        "start": 2.7,
+        "end": 2.94
+      },
+      {
+        "text": "个",
+        "start": 2.94,
+        "end": 3.12
+      },
+      {
+        "text": "客",
+        "start": 3.12,
+        "end": 3.3
+      },
+      {
+        "text": "人",
+        "start": 3.3,
+        "end": 3.495
+      }
+    ],
+    "words": [
+      {
+        "text": "Eight",
+        "start": 2.37,
+        "end": 2.686
+      },
+      {
+        "text": "customers",
+        "start": 2.686,
+        "end": 3.109
+      },
+      {
+        "text": "a",
+        "start": 3.109,
+        "end": 3.25
+      },
+      {
+        "text": "day.",
+        "start": 3.25,
+        "end": 3.495
+      }
+    ]
+  },
+  {
+    "start": 3.51,
+    "end": 5.92,
+    "zh": "一个月营业额超过一万美元",
+    "en": "Over $10,000 in monthly revenue!",
+    "characters": [
+      {
+        "text": "一",
+        "start": 3.54,
+        "end": 3.66
+      },
+      {
+        "text": "个",
+        "start": 3.66,
+        "end": 3.78
+      },
+      {
+        "text": "月",
+        "start": 3.78,
+        "end": 4.02
+      },
+      {
+        "text": "营",
+        "start": 4.02,
+        "end": 4.2
+      },
+      {
+        "text": "业",
+        "start": 4.2,
+        "end": 4.38
+      },
+      {
+        "text": "额",
+        "start": 4.38,
+        "end": 4.68
+      },
+      {
+        "text": "超",
+        "start": 4.68,
+        "end": 4.86
+      },
+      {
+        "text": "过",
+        "start": 4.86,
+        "end": 4.98
+      },
+      {
+        "text": "一",
+        "start": 4.98,
+        "end": 5.16
+      },
+      {
+        "text": "万",
+        "start": 5.16,
+        "end": 5.4
+      },
+      {
+        "text": "美",
+        "start": 5.4,
+        "end": 5.58
+      },
+      {
+        "text": "元",
+        "start": 5.58,
+        "end": 5.92
+      }
+    ],
+    "words": [
+      {
+        "text": "Over",
+        "start": 3.51,
+        "end": 3.951
+      },
+      {
+        "text": "$10,000",
+        "start": 3.951,
+        "end": 4.443
+      },
+      {
+        "text": "in",
+        "start": 4.443,
+        "end": 4.755
+      },
+      {
+        "text": "monthly",
+        "start": 4.755,
+        "end": 5.337
+      },
+      {
+        "text": "revenue!",
+        "start": 5.337,
+        "end": 5.92
+      }
+    ]
+  },
+  {
+    "start": 5.97,
+    "end": 6.915,
+    "zh": "可老板最后",
+    "en": "But in the end,",
+    "characters": [
+      {
+        "text": "可",
+        "start": 6.0,
+        "end": 6.3
+      },
+      {
+        "text": "老",
+        "start": 6.3,
+        "end": 6.42
+      },
+      {
+        "text": "板",
+        "start": 6.42,
+        "end": 6.66
+      },
+      {
+        "text": "最",
+        "start": 6.66,
+        "end": 6.78
+      },
+      {
+        "text": "后",
+        "start": 6.78,
+        "end": 6.915
+      }
+    ],
+    "words": [
+      {
+        "text": "But",
+        "start": 5.97,
+        "end": 6.218
+      },
+      {
+        "text": "in",
+        "start": 6.218,
+        "end": 6.42
+      },
+      {
+        "text": "the",
+        "start": 6.42,
+        "end": 6.667
+      },
+      {
+        "text": "end,",
+        "start": 6.667,
+        "end": 6.915
+      }
+    ]
+  },
+  {
+    "start": 6.93,
+    "end": 8.86,
+    "zh": "竟然只挣了二百美元",
+    "en": "just $200 in operating profit?",
+    "characters": [
+      {
+        "text": "竟",
+        "start": 6.96,
+        "end": 7.14
+      },
+      {
+        "text": "然",
+        "start": 7.14,
+        "end": 7.32
+      },
+      {
+        "text": "只",
+        "start": 7.32,
+        "end": 7.5
+      },
+      {
+        "text": "挣",
+        "start": 7.5,
+        "end": 7.74
+      },
+      {
+        "text": "了",
+        "start": 7.74,
+        "end": 7.92
+      },
+      {
+        "text": "二",
+        "start": 7.92,
+        "end": 8.1
+      },
+      {
+        "text": "百",
+        "start": 8.1,
+        "end": 8.28
+      },
+      {
+        "text": "美",
+        "start": 8.28,
+        "end": 8.52
+      },
+      {
+        "text": "元",
+        "start": 8.52,
+        "end": 8.86
+      }
+    ],
+    "words": [
+      {
+        "text": "just",
+        "start": 6.93,
+        "end": 7.294
+      },
+      {
+        "text": "$200",
+        "start": 7.294,
+        "end": 7.61
+      },
+      {
+        "text": "in",
+        "start": 7.61,
+        "end": 7.867
+      },
+      {
+        "text": "operating",
+        "start": 7.867,
+        "end": 8.414
+      },
+      {
+        "text": "profit?",
+        "start": 8.414,
+        "end": 8.86
+      }
+    ]
+  },
+  {
+    "start": 9.09,
+    "end": 11.055,
+    "zh": "这就涉及一个商业概念",
+    "en": "Here is the business concept.",
+    "characters": [
+      {
+        "text": "这",
+        "start": 9.09,
+        "end": 9.286
+      },
+      {
+        "text": "就",
+        "start": 9.286,
+        "end": 9.483
+      },
+      {
+        "text": "涉",
+        "start": 9.483,
+        "end": 9.679
+      },
+      {
+        "text": "及",
+        "start": 9.679,
+        "end": 9.876
+      },
+      {
+        "text": "一",
+        "start": 9.876,
+        "end": 10.072
+      },
+      {
+        "text": "个",
+        "start": 10.072,
+        "end": 10.269
+      },
+      {
+        "text": "商",
+        "start": 10.269,
+        "end": 10.465
+      },
+      {
+        "text": "业",
+        "start": 10.465,
+        "end": 10.662
+      },
+      {
+        "text": "概",
+        "start": 10.662,
+        "end": 10.858
+      },
+      {
+        "text": "念",
+        "start": 10.858,
+        "end": 11.055
+      }
+    ],
+    "words": [
+      {
+        "text": "Here",
+        "start": 9.09,
+        "end": 9.46
+      },
+      {
+        "text": "is",
+        "start": 9.46,
+        "end": 9.722
+      },
+      {
+        "text": "the",
+        "start": 9.722,
+        "end": 10.042
+      },
+      {
+        "text": "business",
+        "start": 10.042,
+        "end": 10.565
+      },
+      {
+        "text": "concept.",
+        "start": 10.565,
+        "end": 11.055
+      }
+    ]
+  },
+  {
+    "start": 11.07,
+    "end": 13.78,
+    "zh": "盈亏平衡点",
+    "en": "Break-even Point",
+    "characters": [
+      {
+        "text": "盈",
+        "start": 11.07,
+        "end": 11.612
+      },
+      {
+        "text": "亏",
+        "start": 11.612,
+        "end": 12.154
+      },
+      {
+        "text": "平",
+        "start": 12.154,
+        "end": 12.696
+      },
+      {
+        "text": "衡",
+        "start": 12.696,
+        "end": 13.238
+      },
+      {
+        "text": "点",
+        "start": 13.238,
+        "end": 13.78
+      }
+    ],
+    "words": [
+      {
+        "text": "Break-even",
+        "start": 11.07,
+        "end": 12.623
+      },
+      {
+        "text": "Point",
+        "start": 12.623,
+        "end": 13.78
+      }
+    ]
+  },
+  {
+    "start": 14.01,
+    "end": 15.735,
+    "zh": "一家店要做多少生意",
+    "en": "How much business does a salon need",
+    "characters": [
+      {
+        "text": "一",
+        "start": 14.04,
+        "end": 14.22
+      },
+      {
+        "text": "家",
+        "start": 14.22,
+        "end": 14.4
+      },
+      {
+        "text": "店",
+        "start": 14.4,
+        "end": 14.7
+      },
+      {
+        "text": "要",
+        "start": 14.7,
+        "end": 14.82
+      },
+      {
+        "text": "做",
+        "start": 14.82,
+        "end": 15.06
+      },
+      {
+        "text": "多",
+        "start": 15.06,
+        "end": 15.18
+      },
+      {
+        "text": "少",
+        "start": 15.18,
+        "end": 15.36
+      },
+      {
+        "text": "生",
+        "start": 15.36,
+        "end": 15.54
+      },
+      {
+        "text": "意",
+        "start": 15.54,
+        "end": 15.735
+      }
+    ],
+    "words": [
+      {
+        "text": "How",
+        "start": 14.01,
+        "end": 14.227
+      },
+      {
+        "text": "much",
+        "start": 14.227,
+        "end": 14.477
+      },
+      {
+        "text": "business",
+        "start": 14.477,
+        "end": 14.83
+      },
+      {
+        "text": "does",
+        "start": 14.83,
+        "end": 15.08
+      },
+      {
+        "text": "a",
+        "start": 15.08,
+        "end": 15.205
+      },
+      {
+        "text": "salon",
+        "start": 15.205,
+        "end": 15.485
+      },
+      {
+        "text": "need",
+        "start": 15.485,
+        "end": 15.735
+      }
+    ]
+  },
+  {
+    "start": 15.75,
+    "end": 16.84,
+    "zh": "才能不亏钱",
+    "en": "to avoid a loss?",
+    "characters": [
+      {
+        "text": "才",
+        "start": 15.78,
+        "end": 15.96
+      },
+      {
+        "text": "能",
+        "start": 15.96,
+        "end": 16.08
+      },
+      {
+        "text": "不",
+        "start": 16.08,
+        "end": 16.26
+      },
+      {
+        "text": "亏",
+        "start": 16.26,
+        "end": 16.5
+      },
+      {
+        "text": "钱",
+        "start": 16.5,
+        "end": 16.84
+      }
+    ],
+    "words": [
+      {
+        "text": "to",
+        "start": 15.75,
+        "end": 15.982
+      },
+      {
+        "text": "avoid",
+        "start": 15.982,
+        "end": 16.348
+      },
+      {
+        "text": "a",
+        "start": 16.348,
+        "end": 16.512
+      },
+      {
+        "text": "loss?",
+        "start": 16.512,
+        "end": 16.84
+      }
+    ]
+  },
+  {
+    "start": 17.31,
+    "end": 19.54,
+    "zh": "假设每个月营业二十六天",
+    "en": "Assume 26 operating days a month.",
+    "characters": [
+      {
+        "text": "假",
+        "start": 17.34,
+        "end": 17.52
+      },
+      {
+        "text": "设",
+        "start": 17.52,
+        "end": 17.88
+      },
+      {
+        "text": "每",
+        "start": 17.88,
+        "end": 18.0
+      },
+      {
+        "text": "个",
+        "start": 18.0,
+        "end": 18.12
+      },
+      {
+        "text": "月",
+        "start": 18.12,
+        "end": 18.36
+      },
+      {
+        "text": "营",
+        "start": 18.36,
+        "end": 18.48
+      },
+      {
+        "text": "业",
+        "start": 18.48,
+        "end": 18.78
+      },
+      {
+        "text": "二",
+        "start": 18.78,
+        "end": 18.9
+      },
+      {
+        "text": "十",
+        "start": 18.9,
+        "end": 19.02
+      },
+      {
+        "text": "六",
+        "start": 19.02,
+        "end": 19.2
+      },
+      {
+        "text": "天",
+        "start": 19.2,
+        "end": 19.54
+      }
+    ],
+    "words": [
+      {
+        "text": "Assume",
+        "start": 17.31,
+        "end": 17.761
+      },
+      {
+        "text": "26",
+        "start": 17.761,
+        "end": 18.022
+      },
+      {
+        "text": "operating",
+        "start": 18.022,
+        "end": 18.575
+      },
+      {
+        "text": "days",
+        "start": 18.575,
+        "end": 18.944
+      },
+      {
+        "text": "a",
+        "start": 18.944,
+        "end": 19.128
+      },
+      {
+        "text": "month.",
+        "start": 19.128,
+        "end": 19.54
+      }
+    ]
+  },
+  {
+    "start": 19.77,
+    "end": 21.88,
+    "zh": "八个客人乘以六十美元",
+    "en": "Eight customers, at $60 each.",
+    "characters": [
+      {
+        "text": "八",
+        "start": 19.8,
+        "end": 20.04
+      },
+      {
+        "text": "个",
+        "start": 20.04,
+        "end": 20.28
+      },
+      {
+        "text": "客",
+        "start": 20.28,
+        "end": 20.46
+      },
+      {
+        "text": "人",
+        "start": 20.46,
+        "end": 20.64
+      },
+      {
+        "text": "乘",
+        "start": 20.64,
+        "end": 20.82
+      },
+      {
+        "text": "以",
+        "start": 20.82,
+        "end": 21.0
+      },
+      {
+        "text": "六",
+        "start": 21.0,
+        "end": 21.18
+      },
+      {
+        "text": "十",
+        "start": 21.18,
+        "end": 21.36
+      },
+      {
+        "text": "美",
+        "start": 21.36,
+        "end": 21.54
+      },
+      {
+        "text": "元",
+        "start": 21.54,
+        "end": 21.88
+      }
+    ],
+    "words": [
+      {
+        "text": "Eight",
+        "start": 19.77,
+        "end": 20.239
+      },
+      {
+        "text": "customers,",
+        "start": 20.239,
+        "end": 20.868
+      },
+      {
+        "text": "at",
+        "start": 20.868,
+        "end": 21.164
+      },
+      {
+        "text": "$60",
+        "start": 21.164,
+        "end": 21.461
+      },
+      {
+        "text": "each.",
+        "start": 21.461,
+        "end": 21.88
+      }
+    ]
+  },
+  {
+    "start": 21.99,
+    "end": 25.24,
+    "zh": "月营业额一万两千四百八十美元",
+    "en": "Monthly revenue: $12,480.",
+    "characters": [
+      {
+        "text": "月",
+        "start": 22.02,
+        "end": 22.32
+      },
+      {
+        "text": "营",
+        "start": 22.32,
+        "end": 22.5
+      },
+      {
+        "text": "业",
+        "start": 22.5,
+        "end": 22.74
+      },
+      {
+        "text": "额",
+        "start": 22.74,
+        "end": 23.04
+      },
+      {
+        "text": "一",
+        "start": 23.04,
+        "end": 23.22
+      },
+      {
+        "text": "万",
+        "start": 23.22,
+        "end": 23.46
+      },
+      {
+        "text": "两",
+        "start": 23.46,
+        "end": 23.7
+      },
+      {
+        "text": "千",
+        "start": 23.7,
+        "end": 23.94
+      },
+      {
+        "text": "四",
+        "start": 23.94,
+        "end": 24.18
+      },
+      {
+        "text": "百",
+        "start": 24.18,
+        "end": 24.3
+      },
+      {
+        "text": "八",
+        "start": 24.3,
+        "end": 24.54
+      },
+      {
+        "text": "十",
+        "start": 24.54,
+        "end": 24.72
+      },
+      {
+        "text": "美",
+        "start": 24.72,
+        "end": 24.9
+      },
+      {
+        "text": "元",
+        "start": 24.9,
+        "end": 25.24
+      }
+    ],
+    "words": [
+      {
+        "text": "Monthly",
+        "start": 21.99,
+        "end": 23.132
+      },
+      {
+        "text": "revenue:",
+        "start": 23.132,
+        "end": 24.275
+      },
+      {
+        "text": "$12,480.",
+        "start": 24.275,
+        "end": 25.24
+      }
+    ]
+  },
+  {
+    "start": 25.71,
+    "end": 28.095,
+    "zh": "每位客人的材料和技师提成",
+    "en": "Materials and technician commission",
+    "characters": [
+      {
+        "text": "每",
+        "start": 25.71,
+        "end": 25.909
+      },
+      {
+        "text": "位",
+        "start": 25.909,
+        "end": 26.107
+      },
+      {
+        "text": "客",
+        "start": 26.107,
+        "end": 26.306
+      },
+      {
+        "text": "人",
+        "start": 26.306,
+        "end": 26.505
+      },
+      {
+        "text": "的",
+        "start": 26.505,
+        "end": 26.704
+      },
+      {
+        "text": "材",
+        "start": 26.704,
+        "end": 26.902
+      },
+      {
+        "text": "料",
+        "start": 26.902,
+        "end": 27.101
+      },
+      {
+        "text": "和",
+        "start": 27.101,
+        "end": 27.3
+      },
+      {
+        "text": "技",
+        "start": 27.3,
+        "end": 27.499
+      },
+      {
+        "text": "师",
+        "start": 27.499,
+        "end": 27.697
+      },
+      {
+        "text": "提",
+        "start": 27.697,
+        "end": 27.896
+      },
+      {
+        "text": "成",
+        "start": 27.896,
+        "end": 28.095
+      }
+    ],
+    "words": [
+      {
+        "text": "Materials",
+        "start": 25.71,
+        "end": 26.357
+      },
+      {
+        "text": "and",
+        "start": 26.357,
+        "end": 26.731
+      },
+      {
+        "text": "technician",
+        "start": 26.731,
+        "end": 27.413
+      },
+      {
+        "text": "commission",
+        "start": 27.413,
+        "end": 28.095
+      }
+    ]
+  },
+  {
+    "start": 28.11,
+    "end": 29.44,
+    "zh": "就要三十五美元",
+    "en": "cost $35 per customer.",
+    "characters": [
+      {
+        "text": "就",
+        "start": 28.14,
+        "end": 28.26
+      },
+      {
+        "text": "要",
+        "start": 28.26,
+        "end": 28.44
+      },
+      {
+        "text": "三",
+        "start": 28.44,
+        "end": 28.56
+      },
+      {
+        "text": "十",
+        "start": 28.56,
+        "end": 28.74
+      },
+      {
+        "text": "五",
+        "start": 28.74,
+        "end": 28.92
+      },
+      {
+        "text": "美",
+        "start": 28.92,
+        "end": 29.1
+      },
+      {
+        "text": "元",
+        "start": 29.1,
+        "end": 29.44
+      }
+    ],
+    "words": [
+      {
+        "text": "cost",
+        "start": 28.11,
+        "end": 28.444
+      },
+      {
+        "text": "$35",
+        "start": 28.444,
+        "end": 28.679
+      },
+      {
+        "text": "per",
+        "start": 28.679,
+        "end": 28.968
+      },
+      {
+        "text": "customer.",
+        "start": 28.968,
+        "end": 29.44
+      }
+    ]
+  },
+  {
+    "start": 29.55,
+    "end": 31.395,
+    "zh": "每位只剩下二十五美元",
+    "en": "Only $25 per customer remains",
+    "characters": [
+      {
+        "text": "每",
+        "start": 29.58,
+        "end": 29.82
+      },
+      {
+        "text": "位",
+        "start": 29.82,
+        "end": 30.0
+      },
+      {
+        "text": "只",
+        "start": 30.0,
+        "end": 30.18
+      },
+      {
+        "text": "剩",
+        "start": 30.18,
+        "end": 30.36
+      },
+      {
+        "text": "下",
+        "start": 30.36,
+        "end": 30.6
+      },
+      {
+        "text": "二",
+        "start": 30.6,
+        "end": 30.72
+      },
+      {
+        "text": "十",
+        "start": 30.72,
+        "end": 30.9
+      },
+      {
+        "text": "五",
+        "start": 30.9,
+        "end": 31.14
+      },
+      {
+        "text": "美",
+        "start": 31.14,
+        "end": 31.26
+      },
+      {
+        "text": "元",
+        "start": 31.26,
+        "end": 31.395
+      }
+    ],
+    "words": [
+      {
+        "text": "Only",
+        "start": 29.55,
+        "end": 29.897
+      },
+      {
+        "text": "$25",
+        "start": 29.897,
+        "end": 30.143
+      },
+      {
+        "text": "per",
+        "start": 30.143,
+        "end": 30.444
+      },
+      {
+        "text": "customer",
+        "start": 30.444,
+        "end": 30.935
+      },
+      {
+        "text": "remains",
+        "start": 30.935,
+        "end": 31.395
+      }
+    ]
+  },
+  {
+    "start": 31.41,
+    "end": 32.56,
+    "zh": "的边际贡献",
+    "en": "as contribution margin.",
+    "characters": [
+      {
+        "text": "的",
+        "start": 31.44,
+        "end": 31.56
+      },
+      {
+        "text": "边",
+        "start": 31.56,
+        "end": 31.74
+      },
+      {
+        "text": "际",
+        "start": 31.74,
+        "end": 32.04
+      },
+      {
+        "text": "贡",
+        "start": 32.04,
+        "end": 32.22
+      },
+      {
+        "text": "献",
+        "start": 32.22,
+        "end": 32.56
+      }
+    ],
+    "words": [
+      {
+        "text": "as",
+        "start": 31.41,
+        "end": 31.632
+      },
+      {
+        "text": "contribution",
+        "start": 31.632,
+        "end": 32.176
+      },
+      {
+        "text": "margin.",
+        "start": 32.176,
+        "end": 32.56
+      }
+    ]
+  },
+  {
+    "start": 32.79,
+    "end": 34.635,
+    "zh": "再扣掉每个月五千美元",
+    "en": "Then subtract $5,000 a month",
+    "characters": [
+      {
+        "text": "再",
+        "start": 32.82,
+        "end": 33.12
+      },
+      {
+        "text": "扣",
+        "start": 33.12,
+        "end": 33.3
+      },
+      {
+        "text": "掉",
+        "start": 33.3,
+        "end": 33.54
+      },
+      {
+        "text": "每",
+        "start": 33.54,
+        "end": 33.66
+      },
+      {
+        "text": "个",
+        "start": 33.66,
+        "end": 33.78
+      },
+      {
+        "text": "月",
+        "start": 33.78,
+        "end": 33.96
+      },
+      {
+        "text": "五",
+        "start": 33.96,
+        "end": 34.14
+      },
+      {
+        "text": "千",
+        "start": 34.14,
+        "end": 34.38
+      },
+      {
+        "text": "美",
+        "start": 34.38,
+        "end": 34.56
+      },
+      {
+        "text": "元",
+        "start": 34.56,
+        "end": 34.635
+      }
+    ],
+    "words": [
+      {
+        "text": "Then",
+        "start": 32.79,
+        "end": 33.157
+      },
+      {
+        "text": "subtract",
+        "start": 33.157,
+        "end": 33.675
+      },
+      {
+        "text": "$5,000",
+        "start": 33.675,
+        "end": 34.042
+      },
+      {
+        "text": "a",
+        "start": 34.042,
+        "end": 34.225
+      },
+      {
+        "text": "month",
+        "start": 34.225,
+        "end": 34.635
+      }
+    ]
+  },
+  {
+    "start": 34.65,
+    "end": 35.74,
+    "zh": "的固定成本",
+    "en": "in fixed costs.",
+    "characters": [
+      {
+        "text": "的",
+        "start": 34.68,
+        "end": 34.86
+      },
+      {
+        "text": "固",
+        "start": 34.86,
+        "end": 34.98
+      },
+      {
+        "text": "定",
+        "start": 34.98,
+        "end": 35.22
+      },
+      {
+        "text": "成",
+        "start": 35.22,
+        "end": 35.4
+      },
+      {
+        "text": "本",
+        "start": 35.4,
+        "end": 35.74
+      }
+    ],
+    "words": [
+      {
+        "text": "in",
+        "start": 34.65,
+        "end": 34.912
+      },
+      {
+        "text": "fixed",
+        "start": 34.912,
+        "end": 35.326
+      },
+      {
+        "text": "costs.",
+        "start": 35.326,
+        "end": 35.74
+      }
+    ]
+  },
+  {
+    "start": 35.97,
+    "end": 38.02,
+    "zh": "利润竟然只有两百美元",
+    "en": "Operating profit is just $200!",
+    "characters": [
+      {
+        "text": "利",
+        "start": 36.0,
+        "end": 36.18
+      },
+      {
+        "text": "润",
+        "start": 36.18,
+        "end": 36.42
+      },
+      {
+        "text": "竟",
+        "start": 36.42,
+        "end": 36.54
+      },
+      {
+        "text": "然",
+        "start": 36.54,
+        "end": 36.72
+      },
+      {
+        "text": "只",
+        "start": 36.72,
+        "end": 36.84
+      },
+      {
+        "text": "有",
+        "start": 36.84,
+        "end": 37.02
+      },
+      {
+        "text": "两",
+        "start": 37.02,
+        "end": 37.26
+      },
+      {
+        "text": "百",
+        "start": 37.26,
+        "end": 37.5
+      },
+      {
+        "text": "美",
+        "start": 37.5,
+        "end": 37.68
+      },
+      {
+        "text": "元",
+        "start": 37.68,
+        "end": 38.02
+      }
+    ],
+    "words": [
+      {
+        "text": "Operating",
+        "start": 35.97,
+        "end": 36.55
+      },
+      {
+        "text": "profit",
+        "start": 36.55,
+        "end": 37.024
+      },
+      {
+        "text": "is",
+        "start": 37.024,
+        "end": 37.298
+      },
+      {
+        "text": "just",
+        "start": 37.298,
+        "end": 37.685
+      },
+      {
+        "text": "$200!",
+        "start": 37.685,
+        "end": 38.02
+      }
+    ]
+  },
+  {
+    "start": 38.49,
+    "end": 40.78,
+    "zh": "那么多少客人才能保本",
+    "en": "How many customers to break even?",
+    "characters": [
+      {
+        "text": "那",
+        "start": 38.52,
+        "end": 38.76
+      },
+      {
+        "text": "么",
+        "start": 38.76,
+        "end": 39.12
+      },
+      {
+        "text": "多",
+        "start": 39.12,
+        "end": 39.3
+      },
+      {
+        "text": "少",
+        "start": 39.3,
+        "end": 39.48
+      },
+      {
+        "text": "客",
+        "start": 39.48,
+        "end": 39.66
+      },
+      {
+        "text": "人",
+        "start": 39.66,
+        "end": 39.84
+      },
+      {
+        "text": "才",
+        "start": 39.84,
+        "end": 40.02
+      },
+      {
+        "text": "能",
+        "start": 40.02,
+        "end": 40.2
+      },
+      {
+        "text": "保",
+        "start": 40.2,
+        "end": 40.44
+      },
+      {
+        "text": "本",
+        "start": 40.44,
+        "end": 40.78
+      }
+    ],
+    "words": [
+      {
+        "text": "How",
+        "start": 38.49,
+        "end": 38.81
+      },
+      {
+        "text": "many",
+        "start": 38.81,
+        "end": 39.18
+      },
+      {
+        "text": "customers",
+        "start": 39.18,
+        "end": 39.735
+      },
+      {
+        "text": "to",
+        "start": 39.735,
+        "end": 39.997
+      },
+      {
+        "text": "break",
+        "start": 39.997,
+        "end": 40.41
+      },
+      {
+        "text": "even?",
+        "start": 40.41,
+        "end": 40.78
+      }
+    ]
+  },
+  {
+    "start": 40.89,
+    "end": 42.46,
+    "zh": "五千除以二十五",
+    "en": "$5,000 divided by $25.",
+    "characters": [
+      {
+        "text": "五",
+        "start": 40.92,
+        "end": 41.1
+      },
+      {
+        "text": "千",
+        "start": 41.1,
+        "end": 41.4
+      },
+      {
+        "text": "除",
+        "start": 41.4,
+        "end": 41.58
+      },
+      {
+        "text": "以",
+        "start": 41.58,
+        "end": 41.76
+      },
+      {
+        "text": "二",
+        "start": 41.76,
+        "end": 41.94
+      },
+      {
+        "text": "十",
+        "start": 41.94,
+        "end": 42.12
+      },
+      {
+        "text": "五",
+        "start": 42.12,
+        "end": 42.46
+      }
+    ],
+    "words": [
+      {
+        "text": "$5,000",
+        "start": 40.89,
+        "end": 41.31
+      },
+      {
+        "text": "divided",
+        "start": 41.31,
+        "end": 41.866
+      },
+      {
+        "text": "by",
+        "start": 41.866,
+        "end": 42.163
+      },
+      {
+        "text": "$25.",
+        "start": 42.163,
+        "end": 42.46
+      }
+    ]
+  },
+  {
+    "start": 42.57,
+    "end": 43.9,
+    "zh": "答案是两百位",
+    "en": "The answer: 200 customers.",
+    "characters": [
+      {
+        "text": "答",
+        "start": 42.6,
+        "end": 42.78
+      },
+      {
+        "text": "案",
+        "start": 42.78,
+        "end": 42.96
+      },
+      {
+        "text": "是",
+        "start": 42.96,
+        "end": 43.14
+      },
+      {
+        "text": "两",
+        "start": 43.14,
+        "end": 43.38
+      },
+      {
+        "text": "百",
+        "start": 43.38,
+        "end": 43.56
+      },
+      {
+        "text": "位",
+        "start": 43.56,
+        "end": 43.9
+      }
+    ],
+    "words": [
+      {
+        "text": "The",
+        "start": 42.57,
+        "end": 42.828
+      },
+      {
+        "text": "answer:",
+        "start": 42.828,
+        "end": 43.194
+      },
+      {
+        "text": "200",
+        "start": 43.194,
+        "end": 43.452
+      },
+      {
+        "text": "customers.",
+        "start": 43.452,
+        "end": 43.9
+      }
+    ]
+  },
+  {
+    "start": 44.13,
+    "end": 46.815,
+    "zh": "平均每天接待近八位客人",
+    "en": "That is about eight customers a day.",
+    "characters": [
+      {
+        "text": "平",
+        "start": 44.16,
+        "end": 44.34
+      },
+      {
+        "text": "均",
+        "start": 44.34,
+        "end": 44.64
+      },
+      {
+        "text": "每",
+        "start": 44.64,
+        "end": 44.82
+      },
+      {
+        "text": "天",
+        "start": 44.82,
+        "end": 45.06
+      },
+      {
+        "text": "接",
+        "start": 45.06,
+        "end": 45.3
+      },
+      {
+        "text": "待",
+        "start": 45.3,
+        "end": 45.54
+      },
+      {
+        "text": "近",
+        "start": 45.54,
+        "end": 45.78
+      },
+      {
+        "text": "八",
+        "start": 45.78,
+        "end": 46.02
+      },
+      {
+        "text": "位",
+        "start": 46.02,
+        "end": 46.32
+      },
+      {
+        "text": "客",
+        "start": 46.32,
+        "end": 46.5
+      },
+      {
+        "text": "人",
+        "start": 46.5,
+        "end": 46.815
+      }
+    ],
+    "words": [
+      {
+        "text": "That",
+        "start": 44.13,
+        "end": 44.524
+      },
+      {
+        "text": "is",
+        "start": 44.524,
+        "end": 44.803
+      },
+      {
+        "text": "about",
+        "start": 44.803,
+        "end": 45.244
+      },
+      {
+        "text": "eight",
+        "start": 45.244,
+        "end": 45.685
+      },
+      {
+        "text": "customers",
+        "start": 45.685,
+        "end": 46.276
+      },
+      {
+        "text": "a",
+        "start": 46.276,
+        "end": 46.474
+      },
+      {
+        "text": "day.",
+        "start": 46.474,
+        "end": 46.815
+      }
+    ]
+  },
+  {
+    "start": 46.83,
+    "end": 48.4,
+    "zh": "才能刚好不亏钱",
+    "en": "to cover costs.",
+    "characters": [
+      {
+        "text": "才",
+        "start": 46.86,
+        "end": 47.1
+      },
+      {
+        "text": "能",
+        "start": 47.1,
+        "end": 47.28
+      },
+      {
+        "text": "刚",
+        "start": 47.28,
+        "end": 47.4
+      },
+      {
+        "text": "好",
+        "start": 47.4,
+        "end": 47.64
+      },
+      {
+        "text": "不",
+        "start": 47.64,
+        "end": 47.82
+      },
+      {
+        "text": "亏",
+        "start": 47.82,
+        "end": 48.06
+      },
+      {
+        "text": "钱",
+        "start": 48.06,
+        "end": 48.4
+      }
+    ],
+    "words": [
+      {
+        "text": "to",
+        "start": 46.83,
+        "end": 47.207
+      },
+      {
+        "text": "cover",
+        "start": 47.207,
+        "end": 47.804
+      },
+      {
+        "text": "costs.",
+        "start": 47.804,
+        "end": 48.4
+      }
+    ]
+  },
+  {
+    "start": 48.87,
+    "end": 51.195,
+    "zh": "所以生意忙不代表赚钱",
+    "en": "Being busy does not mean profit.",
+    "characters": [
+      {
+        "text": "所",
+        "start": 48.9,
+        "end": 49.08
+      },
+      {
+        "text": "以",
+        "start": 49.08,
+        "end": 49.38
+      },
+      {
+        "text": "生",
+        "start": 49.38,
+        "end": 49.62
+      },
+      {
+        "text": "意",
+        "start": 49.62,
+        "end": 49.86
+      },
+      {
+        "text": "忙",
+        "start": 49.86,
+        "end": 50.16
+      },
+      {
+        "text": "不",
+        "start": 50.16,
+        "end": 50.28
+      },
+      {
+        "text": "代",
+        "start": 50.28,
+        "end": 50.46
+      },
+      {
+        "text": "表",
+        "start": 50.46,
+        "end": 50.64
+      },
+      {
+        "text": "赚",
+        "start": 50.64,
+        "end": 50.88
+      },
+      {
+        "text": "钱",
+        "start": 50.88,
+        "end": 51.195
+      }
+    ],
+    "words": [
+      {
+        "text": "Being",
+        "start": 48.87,
+        "end": 49.289
+      },
+      {
+        "text": "busy",
+        "start": 49.289,
+        "end": 49.663
+      },
+      {
+        "text": "does",
+        "start": 49.663,
+        "end": 50.038
+      },
+      {
+        "text": "not",
+        "start": 50.038,
+        "end": 50.362
+      },
+      {
+        "text": "mean",
+        "start": 50.362,
+        "end": 50.736
+      },
+      {
+        "text": "profit.",
+        "start": 50.736,
+        "end": 51.195
+      }
+    ]
+  },
+  {
+    "start": 51.21,
+    "end": 52.155,
+    "zh": "真正重要的",
+    "en": "What really matters",
+    "characters": [
+      {
+        "text": "真",
+        "start": 51.24,
+        "end": 51.48
+      },
+      {
+        "text": "正",
+        "start": 51.48,
+        "end": 51.72
+      },
+      {
+        "text": "重",
+        "start": 51.72,
+        "end": 51.9
+      },
+      {
+        "text": "要",
+        "start": 51.9,
+        "end": 52.02
+      },
+      {
+        "text": "的",
+        "start": 52.02,
+        "end": 52.155
+      }
+    ],
+    "words": [
+      {
+        "text": "What",
+        "start": 51.21,
+        "end": 51.476
+      },
+      {
+        "text": "really",
+        "start": 51.476,
+        "end": 51.803
+      },
+      {
+        "text": "matters",
+        "start": 51.803,
+        "end": 52.155
+      }
+    ]
+  },
+  {
+    "start": 52.17,
+    "end": 55.54,
+    "zh": "是每位客人能留下多少利润空间",
+    "en": "is how much each customer contributes.",
+    "characters": [
+      {
+        "text": "是",
+        "start": 52.2,
+        "end": 52.74
+      },
+      {
+        "text": "每",
+        "start": 52.74,
+        "end": 52.98
+      },
+      {
+        "text": "位",
+        "start": 52.98,
+        "end": 53.22
+      },
+      {
+        "text": "客",
+        "start": 53.22,
+        "end": 53.4
+      },
+      {
+        "text": "人",
+        "start": 53.4,
+        "end": 53.58
+      },
+      {
+        "text": "能",
+        "start": 53.58,
+        "end": 53.76
+      },
+      {
+        "text": "留",
+        "start": 53.76,
+        "end": 53.94
+      },
+      {
+        "text": "下",
+        "start": 53.94,
+        "end": 54.18
+      },
+      {
+        "text": "多",
+        "start": 54.18,
+        "end": 54.3
+      },
+      {
+        "text": "少",
+        "start": 54.3,
+        "end": 54.54
+      },
+      {
+        "text": "利",
+        "start": 54.54,
+        "end": 54.72
+      },
+      {
+        "text": "润",
+        "start": 54.72,
+        "end": 55.02
+      },
+      {
+        "text": "空",
+        "start": 55.02,
+        "end": 55.2
+      },
+      {
+        "text": "间",
+        "start": 55.2,
+        "end": 55.54
+      }
+    ],
+    "words": [
+      {
+        "text": "is",
+        "start": 52.17,
+        "end": 52.529
+      },
+      {
+        "text": "how",
+        "start": 52.529,
+        "end": 52.968
+      },
+      {
+        "text": "much",
+        "start": 52.968,
+        "end": 53.475
+      },
+      {
+        "text": "each",
+        "start": 53.475,
+        "end": 53.982
+      },
+      {
+        "text": "customer",
+        "start": 53.982,
+        "end": 54.699
+      },
+      {
+        "text": "contributes.",
+        "start": 54.699,
+        "end": 55.54
+      }
+    ]
+  },
+  {
+    "start": 55.71,
+    "end": 57.64,
+    "zh": "这就是数据看生意",
+    "en": "This is Business Through Data.",
+    "characters": [
+      {
+        "text": "这",
+        "start": 55.74,
+        "end": 55.98
+      },
+      {
+        "text": "就",
+        "start": 55.98,
+        "end": 56.16
+      },
+      {
+        "text": "是",
+        "start": 56.16,
+        "end": 56.4
+      },
+      {
+        "text": "数",
+        "start": 56.4,
+        "end": 56.64
+      },
+      {
+        "text": "据",
+        "start": 56.64,
+        "end": 56.82
+      },
+      {
+        "text": "看",
+        "start": 56.82,
+        "end": 57.06
+      },
+      {
+        "text": "生",
+        "start": 57.06,
+        "end": 57.3
+      },
+      {
+        "text": "意",
+        "start": 57.3,
+        "end": 57.64
+      }
+    ],
+    "words": [
+      {
+        "text": "This",
+        "start": 55.71,
+        "end": 56.065
+      },
+      {
+        "text": "is",
+        "start": 56.065,
+        "end": 56.315
+      },
+      {
+        "text": "Business",
+        "start": 56.315,
+        "end": 56.817
+      },
+      {
+        "text": "Through",
+        "start": 56.817,
+        "end": 57.285
+      },
+      {
+        "text": "Data.",
+        "start": 57.285,
+        "end": 57.64
+      }
+    ]
+  }
+]

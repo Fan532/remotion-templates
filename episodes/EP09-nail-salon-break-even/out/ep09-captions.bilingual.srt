@@ -1,0 +1,139 @@
+1
+00:00:00,510 --> 00:00:02,355
+做一次美甲六十美元
+One manicure costs $60.
+
+2
+00:00:02,370 --> 00:00:03,495
+一天八个客人
+Eight customers a day.
+
+3
+00:00:03,510 --> 00:00:05,920
+一个月营业额超过一万美元
+Over $10,000 in monthly revenue!
+
+4
+00:00:05,970 --> 00:00:06,915
+可老板最后
+But in the end,
+
+5
+00:00:06,930 --> 00:00:08,860
+竟然只挣了二百美元
+just $200 in operating profit?
+
+6
+00:00:09,090 --> 00:00:11,055
+这就涉及一个商业概念
+Here is the business concept.
+
+7
+00:00:11,070 --> 00:00:13,780
+盈亏平衡点
+Break-even Point
+
+8
+00:00:14,010 --> 00:00:15,735
+一家店要做多少生意
+How much business does a salon need
+
+9
+00:00:15,750 --> 00:00:16,840
+才能不亏钱
+to avoid a loss?
+
+10
+00:00:17,310 --> 00:00:19,540
+假设每个月营业二十六天
+Assume 26 operating days a month.
+
+11
+00:00:19,770 --> 00:00:21,880
+八个客人乘以六十美元
+Eight customers, at $60 each.
+
+12
+00:00:21,990 --> 00:00:25,240
+月营业额一万两千四百八十美元
+Monthly revenue: $12,480.
+
+13
+00:00:25,710 --> 00:00:28,095
+每位客人的材料和技师提成
+Materials and technician commission
+
+14
+00:00:28,110 --> 00:00:29,440
+就要三十五美元
+cost $35 per customer.
+
+15
+00:00:29,550 --> 00:00:31,395
+每位只剩下二十五美元
+Only $25 per customer remains
+
+16
+00:00:31,410 --> 00:00:32,560
+的边际贡献
+as contribution margin.
+
+17
+00:00:32,790 --> 00:00:34,635
+再扣掉每个月五千美元
+Then subtract $5,000 a month
+
+18
+00:00:34,650 --> 00:00:35,740
+的固定成本
+in fixed costs.
+
+19
+00:00:35,970 --> 00:00:38,020
+利润竟然只有两百美元
+Operating profit is just $200!
+
+20
+00:00:38,490 --> 00:00:40,780
+那么多少客人才能保本
+How many customers to break even?
+
+21
+00:00:40,890 --> 00:00:42,460
+五千除以二十五
+$5,000 divided by $25.
+
+22
+00:00:42,570 --> 00:00:43,900
+答案是两百位
+The answer: 200 customers.
+
+23
+00:00:44,130 --> 00:00:46,815
+平均每天接待近八位客人
+That is about eight customers a day.
+
+24
+00:00:46,830 --> 00:00:48,400
+才能刚好不亏钱
+to cover costs.
+
+25
+00:00:48,870 --> 00:00:51,195
+所以生意忙不代表赚钱
+Being busy does not mean profit.
+
+26
+00:00:51,210 --> 00:00:52,155
+真正重要的
+What really matters
+
+27
+00:00:52,170 --> 00:00:55,540
+是每位客人能留下多少利润空间
+is how much each customer contributes.
+
+28
+00:00:55,710 --> 00:00:57,640
+这就是数据看生意
+This is Business Through Data.
