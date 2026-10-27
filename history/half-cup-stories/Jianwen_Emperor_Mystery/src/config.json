@@ -1,0 +1,129 @@
+{
+  "channel": "半盏故事",
+  "series": "建文帝失踪",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "safeBottom": 864,
+  "colors": {
+    "black": "#101015",
+    "red": "#681C24",
+    "gold": "#D4AC62",
+    "paper": "#F2E7D0",
+    "muted": "#B7A58C",
+    "ink": "#382A28"
+  },
+  "map": {
+    "points": [
+      {
+        "name": "北平",
+        "sub": "今北京一带",
+        "lon": 116.4,
+        "lat": 39.9
+      },
+      {
+        "name": "南京",
+        "sub": "今南京一带",
+        "lon": 118.8,
+        "lat": 32.1
+      }
+    ],
+    "note": "现代城市近似参考点 · 非古城址定位",
+    "north": "北",
+    "direction": "总体南进方向",
+    "noRoute": "意象图 · 不标记逃亡路线"
+  },
+  "common": {
+    "unproven": "未经证实",
+    "story": "说法",
+    "file": "史料档案",
+    "unknown": "？"
+  },
+  "clips": [
+    {
+      "id": "EmperorDisappears",
+      "file": "01_EmperorDisappears.mp4",
+      "seconds": 7,
+      "title": "皇帝去哪了？",
+      "lines": ["1402年", "建文帝 朱允炆", "皇帝去哪了？"],
+      "labels": ["南京皇宫剪影", "结局尚无定论"],
+      "note": "叙事象征 · 不指向已证实的结局",
+      "voice": "可当士兵冲进皇宫时，却发生了一件不可思议的事。大明王朝的皇帝，朱允炆，不见了。"
+    },
+    {
+      "id": "RoyalFamily",
+      "file": "02_RoyalFamily.mp4",
+      "seconds": 8,
+      "title": "皇室继承：皇孙与燕王",
+      "lines": ["朱元璋", "朱标", "朱允炆", "朱棣"],
+      "labels": ["太子 · 先于父亲去世", "建文帝 · 皇孙继位", "燕王朱棣"],
+      "note": "简化亲属关系 · 非全部皇室成员",
+      "voice": "但朱元璋最终没有选择朱棣。他选择了朱标的儿子，朱允炆。"
+    },
+    {
+      "id": "ReducePrinces",
+      "file": "03_ReducePrinces.mp4",
+      "seconds": 9,
+      "title": "削藩：权力开始收紧",
+      "lines": ["1398年 建文帝即位", "削藩政策", "燕王 朱棣"],
+      "labels": ["周王", "齐王", "代王", "岷王"],
+      "note": "部分藩王受处置 · 不代表全部被废",
+      "voice": "朱允炆决定削藩。简单来说，就是削弱各地藩王的权力。"
+    },
+    {
+      "id": "JingnanCampaign",
+      "file": "04_JingnanCampaign.mp4",
+      "seconds": 10,
+      "title": "靖难之役",
+      "lines": ["1399年 朱棣起兵", "战争持续", "1402年 燕军渡过长江", "南京"],
+      "labels": ["北平", "南京", "长江渡越 · 事件节点"],
+      "note": "仅示主要地点与总体南进方向 · 非精确行军路径",
+      "voice": "公元1399年，朱棣终于起兵。他率军向南推进，直逼南京。"
+    },
+    {
+      "id": "FallOfNanjing",
+      "file": "05_FallOfNanjing.mp4",
+      "seconds": 8,
+      "title": "1402年 · 南京陷落",
+      "lines": ["1402年", "金川门打开", "燕军入城", "宫中起火"],
+      "labels": ["李景隆 · 朱橞", "南京 · 金川门示意"],
+      "note": "城墙、城门与宫殿为叙事示意 · 非考古复原",
+      "voice": "曹国公李景隆与谷王朱橞打开金川门，燕军进入南京。"
+    },
+    {
+      "id": "PalaceFireTheory",
+      "file": "06_PalaceFireTheory.mp4",
+      "seconds": 8,
+      "title": "说法一：死于宫火",
+      "lines": ["说法一：死于宫火", "官方记载", "遗体与结局存在争议"],
+      "labels": ["宫火叙事，仍需辨析", "《明史》有“帝不知所终”之语"],
+      "note": "一种历史说法 · 不能写作已证实",
+      "voice": "第一种说法，朱允炆死在了火里。"
+    },
+    {
+      "id": "MonkEscapeTheory",
+      "file": "07_MonkEscapeTheory.mp4",
+      "seconds": 9,
+      "title": "说法二：出家逃亡",
+      "lines": ["说法二：出家逃亡", "秘密通道传说", "缺乏可靠证据"],
+      "labels": ["后世传说 / 未经证实", "人物与寺庙为传说意象"],
+      "note": "人物淡出不代表真实逃亡路线",
+      "voice": "第二种说法，更具有传奇色彩。朱允炆根本没有死。他逃出了南京。"
+    },
+    {
+      "id": "MysteryEvidence",
+      "file": "08_MysteryEvidence.mp4",
+      "seconds": 10,
+      "title": "悬案档案：哪些是说法？",
+      "lines": [
+        "A. 宫火身亡",
+        "B. 出家逃亡",
+        "C. 下落未明",
+        "六百多年，仍无定论"
+      ],
+      "labels": ["历史说法", "后世传说", "结局无法确定的状态"],
+      "note": "A、B为不同说法；C为当前无法确定最终结局的状态",
+      "voice": "那么，建文帝究竟去了哪里？"
+    }
+  ]
+}

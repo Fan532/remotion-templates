@@ -1,0 +1,134 @@
+{
+  "clips": [
+    {
+      "file": "01_EmperorDisappears.mp4",
+      "seconds": 7,
+      "frames": 210,
+      "bytes": 580358,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        105,
+        209
+      ],
+      "visual_review": "PASS: actual first/middle/last final-video frames inspected; no observed clipped Chinese or overlapping key labels; theory/status distinctions remain visible"
+    },
+    {
+      "file": "02_RoyalFamily.mp4",
+      "seconds": 8,
+      "frames": 240,
+      "bytes": 281631,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        120,
+        239
+      ],
+      "visual_review": "PASS: actual first/middle/last final-video frames inspected; no observed clipped Chinese or overlapping key labels; theory/status distinctions remain visible"
+    },
+    {
+      "file": "03_ReducePrinces.mp4",
+      "seconds": 9,
+      "frames": 270,
+      "bytes": 265137,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        135,
+        269
+      ],
+      "visual_review": "PASS: actual first/middle/last final-video frames inspected; no observed clipped Chinese or overlapping key labels; theory/status distinctions remain visible"
+    },
+    {
+      "file": "04_JingnanCampaign.mp4",
+      "seconds": 10,
+      "frames": 300,
+      "bytes": 233278,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        150,
+        299
+      ],
+      "visual_review": "PASS: actual first/middle/last final-video frames inspected; no observed clipped Chinese or overlapping key labels; theory/status distinctions remain visible"
+    },
+    {
+      "file": "05_FallOfNanjing.mp4",
+      "seconds": 8,
+      "frames": 240,
+      "bytes": 384745,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        120,
+        239
+      ],
+      "visual_review": "PASS: actual first/middle/last final-video frames inspected; no observed clipped Chinese or overlapping key labels; theory/status distinctions remain visible"
+    },
+    {
+      "file": "06_PalaceFireTheory.mp4",
+      "seconds": 8,
+      "frames": 240,
+      "bytes": 908586,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        120,
+        239
+      ],
+      "visual_review": "PASS: actual first/middle/last final-video frames inspected; no observed clipped Chinese or overlapping key labels; theory/status distinctions remain visible"
+    },
+    {
+      "file": "07_MonkEscapeTheory.mp4",
+      "seconds": 9,
+      "frames": 270,
+      "bytes": 453506,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        135,
+        269
+      ],
+      "visual_review": "PASS: actual first/middle/last final-video frames inspected; no observed clipped Chinese or overlapping key labels; theory/status distinctions remain visible"
+    },
+    {
+      "file": "08_MysteryEvidence.mp4",
+      "seconds": 10,
+      "frames": 300,
+      "bytes": 525903,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        150,
+        299
+      ],
+      "visual_review": "PASS: actual first/middle/last final-video frames inspected; no observed clipped Chinese or overlapping key labels; theory/status distinctions remain visible"
+    }
+  ],
+  "total_seconds": 69,
+  "typecheck": "PASS",
+  "cjk_glyphs": "PASS",
+  "chinese_font": "/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc",
+  "title_widths": "PASS native font metrics within1660px",
+  "previous_history_mp4_count": 11,
+  "previous_history_mp4_hashes": "UNCHANGED",
+  "codec": "H264/yuv420p limited range",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "safe_area": "Key text above y850; lower y864–1080 reserved for CapCut captions.",
+  "no_subtitle_files": true,
+  "historical_limitations": "See HISTORY.md and source-access.json; primary reference access denied by proxy403; assumptions/legends labelled explicitly.",
+  "windows_capcut_gui_test": false,
+  "visual_review_scope": "24 sampled actual MP4 frames; not an exhaustive visual audit of every frame"
+}

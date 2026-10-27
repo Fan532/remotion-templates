@@ -1,0 +1,6 @@
+node_modules/
+.remotion/
+__pycache__/
+out/check-*.png
+out/caption-review-input.wav
+out/check-*.png
