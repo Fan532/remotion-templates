@@ -1,0 +1,27 @@
+{
+  "name": "half-cup-stories-li-cunxu",
+  "version": "1.0.0",
+  "description": "李存勖八段独立历史动画",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc",
+    "studio": "remotion studio src/index.tsx --browser-executable=/usr/bin/chromium --port=3093",
+    "render": "python3 tools/render_all.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "4.0.538",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.538"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "7.0.2"
+  },
+  "private": true
+}

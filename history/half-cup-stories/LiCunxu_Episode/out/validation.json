@@ -1,0 +1,128 @@
+{
+  "clips": [
+    {
+      "name": "OpeningShock",
+      "seconds": 6,
+      "bytes": 305417,
+      "frames": 180,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        27,
+        86,
+        147
+      ],
+      "visual_review": "PASS: three sampled final-video frames reviewed; PalaceMutiny end layout rechecked after moving callout clear of arrow"
+    },
+    {
+      "name": "ThreeArrows",
+      "seconds": 8,
+      "bytes": 138536,
+      "frames": 240,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        36,
+        115,
+        196
+      ],
+      "visual_review": "PASS: three sampled final-video frames reviewed; PalaceMutiny end layout rechecked after moving callout clear of arrow"
+    },
+    {
+      "name": "WarMap",
+      "seconds": 10,
+      "bytes": 223039,
+      "frames": 300,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        45,
+        144,
+        245
+      ],
+      "visual_review": "PASS: three sampled final-video frames reviewed; PalaceMutiny end layout rechecked after moving callout clear of arrow"
+    },
+    {
+      "name": "FallOfLiang",
+      "seconds": 8,
+      "bytes": 356440,
+      "frames": 240,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        36,
+        115,
+        196
+      ],
+      "visual_review": "PASS: three sampled final-video frames reviewed; PalaceMutiny end layout rechecked after moving callout clear of arrow"
+    },
+    {
+      "name": "CourtConflict",
+      "seconds": 8,
+      "bytes": 359634,
+      "frames": 240,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        36,
+        115,
+        196
+      ],
+      "visual_review": "PASS: three sampled final-video frames reviewed; PalaceMutiny end layout rechecked after moving callout clear of arrow"
+    },
+    {
+      "name": "YeduMutiny",
+      "seconds": 10,
+      "bytes": 213691,
+      "frames": 300,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        45,
+        144,
+        245
+      ],
+      "visual_review": "PASS: three sampled final-video frames reviewed; PalaceMutiny end layout rechecked after moving callout clear of arrow"
+    },
+    {
+      "name": "PalaceMutiny",
+      "seconds": 8,
+      "bytes": 446629,
+      "frames": 240,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        36,
+        115,
+        196
+      ],
+      "visual_review": "PASS: three sampled final-video frames reviewed; PalaceMutiny end layout rechecked after moving callout clear of arrow"
+    },
+    {
+      "name": "VictoryVsCollapse",
+      "seconds": 8,
+      "bytes": 378972,
+      "frames": 240,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        36,
+        115,
+        196
+      ],
+      "visual_review": "PASS: three sampled final-video frames reviewed; PalaceMutiny end layout rechecked after moving callout clear of arrow"
+    }
+  ],
+  "typecheck": "PASS",
+  "previous_three_mp4_hashes": "UNCHANGED",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "codec": "H264/yuv420p",
+  "audio": "none",
+  "safe_area": "Main text and graphics above y850; y864–1080 reserved for later captions. No live CapCut GUI verification.",
+  "history_review": "See HISTORY.md and source-access.json; requests to Wikisource and reference encyclopedia denied by proxy403 this session; no claim of online independent primary-source audit.",
+  "map": "Modern approximate city reference points, not archaeological sites; no territory polygons or claimed precise marching routes."
+}
