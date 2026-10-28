@@ -1,0 +1,2482 @@
+[
+  {
+    "start": 0.15,
+    "end": 2.295,
+    "zh": "一块面包白天卖六美元",
+    "en": "A loaf sells for $6 by day.",
+    "characters": [
+      {
+        "text": "一",
+        "start": 0.18,
+        "end": 0.36
+      },
+      {
+        "text": "块",
+        "start": 0.36,
+        "end": 0.66
+      },
+      {
+        "text": "面",
+        "start": 0.66,
+        "end": 0.84
+      },
+      {
+        "text": "包",
+        "start": 0.84,
+        "end": 1.08
+      },
+      {
+        "text": "白",
+        "start": 1.08,
+        "end": 1.26
+      },
+      {
+        "text": "天",
+        "start": 1.26,
+        "end": 1.44
+      },
+      {
+        "text": "卖",
+        "start": 1.44,
+        "end": 1.68
+      },
+      {
+        "text": "六",
+        "start": 1.68,
+        "end": 1.92
+      },
+      {
+        "text": "美",
+        "start": 1.92,
+        "end": 2.1
+      },
+      {
+        "text": "元",
+        "start": 2.1,
+        "end": 2.295
+      }
+    ],
+    "words": [
+      {
+        "text": "A",
+        "start": 0.15,
+        "end": 0.343
+      },
+      {
+        "text": "loaf",
+        "start": 0.343,
+        "end": 0.729
+      },
+      {
+        "text": "sells",
+        "start": 0.729,
+        "end": 1.161
+      },
+      {
+        "text": "for",
+        "start": 1.161,
+        "end": 1.495
+      },
+      {
+        "text": "$6",
+        "start": 1.495,
+        "end": 1.688
+      },
+      {
+        "text": "by",
+        "start": 1.688,
+        "end": 1.961
+      },
+      {
+        "text": "day.",
+        "start": 1.961,
+        "end": 2.295
+      }
+    ]
+  },
+  {
+    "start": 2.31,
+    "end": 3.915,
+    "zh": "到了晚上突然半价",
+    "en": "At night, suddenly half price!",
+    "characters": [
+      {
+        "text": "到",
+        "start": 2.31,
+        "end": 2.511
+      },
+      {
+        "text": "了",
+        "start": 2.511,
+        "end": 2.711
+      },
+      {
+        "text": "晚",
+        "start": 2.711,
+        "end": 2.912
+      },
+      {
+        "text": "上",
+        "start": 2.912,
+        "end": 3.112
+      },
+      {
+        "text": "突",
+        "start": 3.112,
+        "end": 3.313
+      },
+      {
+        "text": "然",
+        "start": 3.313,
+        "end": 3.514
+      },
+      {
+        "text": "半",
+        "start": 3.514,
+        "end": 3.714
+      },
+      {
+        "text": "价",
+        "start": 3.714,
+        "end": 3.915
+      }
+    ],
+    "words": [
+      {
+        "text": "At",
+        "start": 2.31,
+        "end": 2.522
+      },
+      {
+        "text": "night,",
+        "start": 2.522,
+        "end": 2.857
+      },
+      {
+        "text": "suddenly",
+        "start": 2.857,
+        "end": 3.28
+      },
+      {
+        "text": "half",
+        "start": 3.28,
+        "end": 3.58
+      },
+      {
+        "text": "price!",
+        "start": 3.58,
+        "end": 3.915
+      }
+    ]
+  },
+  {
+    "start": 3.93,
+    "end": 5.08,
+    "zh": "只卖三美元",
+    "en": "Just $3!",
+    "characters": [
+      {
+        "text": "只",
+        "start": 3.96,
+        "end": 4.14
+      },
+      {
+        "text": "卖",
+        "start": 4.14,
+        "end": 4.32
+      },
+      {
+        "text": "三",
+        "start": 4.32,
+        "end": 4.56
+      },
+      {
+        "text": "美",
+        "start": 4.56,
+        "end": 4.74
+      },
+      {
+        "text": "元",
+        "start": 4.74,
+        "end": 5.08
+      }
+    ],
+    "words": [
+      {
+        "text": "Just",
+        "start": 3.93,
+        "end": 4.697
+      },
+      {
+        "text": "$3!",
+        "start": 4.697,
+        "end": 5.08
+      }
+    ]
+  },
+  {
+    "start": 5.13,
+    "end": 7.335,
+    "zh": "老板这样卖真的不会亏钱吗",
+    "en": "Doesn't the bakery lose money?",
+    "characters": [
+      {
+        "text": "老",
+        "start": 5.16,
+        "end": 5.34
+      },
+      {
+        "text": "板",
+        "start": 5.34,
+        "end": 5.58
+      },
+      {
+        "text": "这",
+        "start": 5.58,
+        "end": 5.7
+      },
+      {
+        "text": "样",
+        "start": 5.7,
+        "end": 5.82
+      },
+      {
+        "text": "卖",
+        "start": 5.82,
+        "end": 6.06
+      },
+      {
+        "text": "真",
+        "start": 6.06,
+        "end": 6.24
+      },
+      {
+        "text": "的",
+        "start": 6.24,
+        "end": 6.42
+      },
+      {
+        "text": "不",
+        "start": 6.42,
+        "end": 6.54
+      },
+      {
+        "text": "会",
+        "start": 6.54,
+        "end": 6.66
+      },
+      {
+        "text": "亏",
+        "start": 6.66,
+        "end": 6.9
+      },
+      {
+        "text": "钱",
+        "start": 6.9,
+        "end": 7.08
+      },
+      {
+        "text": "吗",
+        "start": 7.08,
+        "end": 7.335
+      }
+    ],
+    "words": [
+      {
+        "text": "Doesn't",
+        "start": 5.13,
+        "end": 5.627
+      },
+      {
+        "text": "the",
+        "start": 5.627,
+        "end": 5.978
+      },
+      {
+        "text": "bakery",
+        "start": 5.978,
+        "end": 6.475
+      },
+      {
+        "text": "lose",
+        "start": 6.475,
+        "end": 6.881
+      },
+      {
+        "text": "money?",
+        "start": 6.881,
+        "end": 7.335
+      }
+    ]
+  },
+  {
+    "start": 7.35,
+    "end": 9.1,
+    "zh": "这背后有个商业概念",
+    "en": "Here is the business concept.",
+    "characters": [
+      {
+        "text": "这",
+        "start": 7.38,
+        "end": 7.56
+      },
+      {
+        "text": "背",
+        "start": 7.56,
+        "end": 7.74
+      },
+      {
+        "text": "后",
+        "start": 7.74,
+        "end": 7.86
+      },
+      {
+        "text": "有",
+        "start": 7.86,
+        "end": 8.04
+      },
+      {
+        "text": "个",
+        "start": 8.04,
+        "end": 8.16
+      },
+      {
+        "text": "商",
+        "start": 8.16,
+        "end": 8.34
+      },
+      {
+        "text": "业",
+        "start": 8.34,
+        "end": 8.58
+      },
+      {
+        "text": "概",
+        "start": 8.58,
+        "end": 8.76
+      },
+      {
+        "text": "念",
+        "start": 8.76,
+        "end": 9.1
+      }
+    ],
+    "words": [
+      {
+        "text": "Here",
+        "start": 7.35,
+        "end": 7.68
+      },
+      {
+        "text": "is",
+        "start": 7.68,
+        "end": 7.913
+      },
+      {
+        "text": "the",
+        "start": 7.913,
+        "end": 8.198
+      },
+      {
+        "text": "business",
+        "start": 8.198,
+        "end": 8.664
+      },
+      {
+        "text": "concept.",
+        "start": 8.664,
+        "end": 9.1
+      }
+    ]
+  },
+  {
+    "start": 9.27,
+    "end": 12.34,
+    "zh": "易腐库存",
+    "en": "Perishable Inventory",
+    "characters": [
+      {
+        "text": "易",
+        "start": 9.27,
+        "end": 10.038
+      },
+      {
+        "text": "腐",
+        "start": 10.038,
+        "end": 10.805
+      },
+      {
+        "text": "库",
+        "start": 10.805,
+        "end": 11.573
+      },
+      {
+        "text": "存",
+        "start": 11.573,
+        "end": 12.34
+      }
+    ],
+    "words": [
+      {
+        "text": "Perishable",
+        "start": 9.27,
+        "end": 10.845
+      },
+      {
+        "text": "Inventory",
+        "start": 10.845,
+        "end": 12.34
+      }
+    ]
+  },
+  {
+    "start": 12.63,
+    "end": 13.995,
+    "zh": "有些商品过了今天",
+    "en": "For some goods, after today,",
+    "characters": [
+      {
+        "text": "有",
+        "start": 12.66,
+        "end": 12.84
+      },
+      {
+        "text": "些",
+        "start": 12.84,
+        "end": 13.02
+      },
+      {
+        "text": "商",
+        "start": 13.02,
+        "end": 13.2
+      },
+      {
+        "text": "品",
+        "start": 13.2,
+        "end": 13.44
+      },
+      {
+        "text": "过",
+        "start": 13.44,
+        "end": 13.56
+      },
+      {
+        "text": "了",
+        "start": 13.56,
+        "end": 13.74
+      },
+      {
+        "text": "今",
+        "start": 13.74,
+        "end": 13.8
+      },
+      {
+        "text": "天",
+        "start": 13.8,
+        "end": 13.995
+      }
+    ],
+    "words": [
+      {
+        "text": "For",
+        "start": 12.63,
+        "end": 12.856
+      },
+      {
+        "text": "some",
+        "start": 12.856,
+        "end": 13.118
+      },
+      {
+        "text": "goods,",
+        "start": 13.118,
+        "end": 13.41
+      },
+      {
+        "text": "after",
+        "start": 13.41,
+        "end": 13.703
+      },
+      {
+        "text": "today,",
+        "start": 13.703,
+        "end": 13.995
+      }
+    ]
+  },
+  {
+    "start": 14.01,
+    "end": 15.58,
+    "zh": "可能就卖不出去了",
+    "en": "it may be too late to sell.",
+    "characters": [
+      {
+        "text": "可",
+        "start": 14.04,
+        "end": 14.22
+      },
+      {
+        "text": "能",
+        "start": 14.22,
+        "end": 14.34
+      },
+      {
+        "text": "就",
+        "start": 14.34,
+        "end": 14.52
+      },
+      {
+        "text": "卖",
+        "start": 14.52,
+        "end": 14.7
+      },
+      {
+        "text": "不",
+        "start": 14.7,
+        "end": 14.82
+      },
+      {
+        "text": "出",
+        "start": 14.82,
+        "end": 15.12
+      },
+      {
+        "text": "去",
+        "start": 15.12,
+        "end": 15.24
+      },
+      {
+        "text": "了",
+        "start": 15.24,
+        "end": 15.58
+      }
+    ],
+    "words": [
+      {
+        "text": "it",
+        "start": 14.01,
+        "end": 14.2
+      },
+      {
+        "text": "may",
+        "start": 14.2,
+        "end": 14.432
+      },
+      {
+        "text": "be",
+        "start": 14.432,
+        "end": 14.622
+      },
+      {
+        "text": "too",
+        "start": 14.622,
+        "end": 14.854
+      },
+      {
+        "text": "late",
+        "start": 14.854,
+        "end": 15.122
+      },
+      {
+        "text": "to",
+        "start": 15.122,
+        "end": 15.312
+      },
+      {
+        "text": "sell.",
+        "start": 15.312,
+        "end": 15.58
+      }
+    ]
+  },
+  {
+    "start": 15.75,
+    "end": 17.355,
+    "zh": "以下数据全是假设",
+    "en": "All figures are hypothetical.",
+    "characters": [
+      {
+        "text": "以",
+        "start": 15.78,
+        "end": 15.96
+      },
+      {
+        "text": "下",
+        "start": 15.96,
+        "end": 16.2
+      },
+      {
+        "text": "数",
+        "start": 16.2,
+        "end": 16.32
+      },
+      {
+        "text": "据",
+        "start": 16.32,
+        "end": 16.56
+      },
+      {
+        "text": "全",
+        "start": 16.56,
+        "end": 16.68
+      },
+      {
+        "text": "是",
+        "start": 16.68,
+        "end": 16.86
+      },
+      {
+        "text": "假",
+        "start": 16.86,
+        "end": 17.04
+      },
+      {
+        "text": "设",
+        "start": 17.04,
+        "end": 17.355
+      }
+    ],
+    "words": [
+      {
+        "text": "All",
+        "start": 15.75,
+        "end": 16.04
+      },
+      {
+        "text": "figures",
+        "start": 16.04,
+        "end": 16.484
+      },
+      {
+        "text": "are",
+        "start": 16.484,
+        "end": 16.774
+      },
+      {
+        "text": "hypothetical.",
+        "start": 16.774,
+        "end": 17.355
+      }
+    ]
+  },
+  {
+    "start": 17.37,
+    "end": 18.315,
+    "zh": "一家面包店",
+    "en": "Imagine a bakery.",
+    "characters": [
+      {
+        "text": "一",
+        "start": 17.4,
+        "end": 17.52
+      },
+      {
+        "text": "家",
+        "start": 17.52,
+        "end": 17.7
+      },
+      {
+        "text": "面",
+        "start": 17.7,
+        "end": 17.88
+      },
+      {
+        "text": "包",
+        "start": 17.88,
+        "end": 18.06
+      },
+      {
+        "text": "店",
+        "start": 18.06,
+        "end": 18.315
+      }
+    ],
+    "words": [
+      {
+        "text": "Imagine",
+        "start": 17.37,
+        "end": 17.78
+      },
+      {
+        "text": "a",
+        "start": 17.78,
+        "end": 17.935
+      },
+      {
+        "text": "bakery.",
+        "start": 17.935,
+        "end": 18.315
+      }
+    ]
+  },
+  {
+    "start": 18.33,
+    "end": 20.08,
+    "zh": "晚上还剩五十个面包",
+    "en": "It has 50 loaves left at night.",
+    "characters": [
+      {
+        "text": "晚",
+        "start": 18.36,
+        "end": 18.54
+      },
+      {
+        "text": "上",
+        "start": 18.54,
+        "end": 18.72
+      },
+      {
+        "text": "还",
+        "start": 18.72,
+        "end": 18.84
+      },
+      {
+        "text": "剩",
+        "start": 18.84,
+        "end": 19.08
+      },
+      {
+        "text": "五",
+        "start": 19.08,
+        "end": 19.26
+      },
+      {
+        "text": "十",
+        "start": 19.26,
+        "end": 19.38
+      },
+      {
+        "text": "个",
+        "start": 19.38,
+        "end": 19.56
+      },
+      {
+        "text": "面",
+        "start": 19.56,
+        "end": 19.74
+      },
+      {
+        "text": "包",
+        "start": 19.74,
+        "end": 20.08
+      }
+    ],
+    "words": [
+      {
+        "text": "It",
+        "start": 18.33,
+        "end": 18.525
+      },
+      {
+        "text": "has",
+        "start": 18.525,
+        "end": 18.765
+      },
+      {
+        "text": "50",
+        "start": 18.765,
+        "end": 18.96
+      },
+      {
+        "text": "loaves",
+        "start": 18.96,
+        "end": 19.299
+      },
+      {
+        "text": "left",
+        "start": 19.299,
+        "end": 19.575
+      },
+      {
+        "text": "at",
+        "start": 19.575,
+        "end": 19.771
+      },
+      {
+        "text": "night.",
+        "start": 19.771,
+        "end": 20.08
+      }
+    ]
+  },
+  {
+    "start": 20.19,
+    "end": 22.06,
+    "zh": "每个制作成本两美元",
+    "en": "Each loaf costs $2 to make.",
+    "characters": [
+      {
+        "text": "每",
+        "start": 20.22,
+        "end": 20.4
+      },
+      {
+        "text": "个",
+        "start": 20.4,
+        "end": 20.58
+      },
+      {
+        "text": "制",
+        "start": 20.58,
+        "end": 20.7
+      },
+      {
+        "text": "作",
+        "start": 20.7,
+        "end": 20.94
+      },
+      {
+        "text": "成",
+        "start": 20.94,
+        "end": 21.06
+      },
+      {
+        "text": "本",
+        "start": 21.06,
+        "end": 21.3
+      },
+      {
+        "text": "两",
+        "start": 21.3,
+        "end": 21.54
+      },
+      {
+        "text": "美",
+        "start": 21.54,
+        "end": 21.72
+      },
+      {
+        "text": "元",
+        "start": 21.72,
+        "end": 22.06
+      }
+    ],
+    "words": [
+      {
+        "text": "Each",
+        "start": 20.19,
+        "end": 20.541
+      },
+      {
+        "text": "loaf",
+        "start": 20.541,
+        "end": 20.892
+      },
+      {
+        "text": "costs",
+        "start": 20.892,
+        "end": 21.285
+      },
+      {
+        "text": "$2",
+        "start": 21.285,
+        "end": 21.461
+      },
+      {
+        "text": "to",
+        "start": 21.461,
+        "end": 21.709
+      },
+      {
+        "text": "make.",
+        "start": 21.709,
+        "end": 22.06
+      }
+    ]
+  },
+  {
+    "start": 22.17,
+    "end": 23.475,
+    "zh": "如果今天卖不掉",
+    "en": "If they do not sell today,",
+    "characters": [
+      {
+        "text": "如",
+        "start": 22.2,
+        "end": 22.38
+      },
+      {
+        "text": "果",
+        "start": 22.38,
+        "end": 22.56
+      },
+      {
+        "text": "今",
+        "start": 22.56,
+        "end": 22.68
+      },
+      {
+        "text": "天",
+        "start": 22.68,
+        "end": 22.92
+      },
+      {
+        "text": "卖",
+        "start": 22.92,
+        "end": 23.1
+      },
+      {
+        "text": "不",
+        "start": 23.1,
+        "end": 23.22
+      },
+      {
+        "text": "掉",
+        "start": 23.22,
+        "end": 23.475
+      }
+    ],
+    "words": [
+      {
+        "text": "If",
+        "start": 22.17,
+        "end": 22.341
+      },
+      {
+        "text": "they",
+        "start": 22.341,
+        "end": 22.583
+      },
+      {
+        "text": "do",
+        "start": 22.583,
+        "end": 22.754
+      },
+      {
+        "text": "not",
+        "start": 22.754,
+        "end": 22.963
+      },
+      {
+        "text": "sell",
+        "start": 22.963,
+        "end": 23.205
+      },
+      {
+        "text": "today,",
+        "start": 23.205,
+        "end": 23.475
+      }
+    ]
+  },
+  {
+    "start": 23.49,
+    "end": 25.0,
+    "zh": "明天就只能报废",
+    "en": "they must be discarded tomorrow.",
+    "characters": [
+      {
+        "text": "明",
+        "start": 23.52,
+        "end": 23.64
+      },
+      {
+        "text": "天",
+        "start": 23.64,
+        "end": 23.82
+      },
+      {
+        "text": "就",
+        "start": 23.82,
+        "end": 24.0
+      },
+      {
+        "text": "只",
+        "start": 24.0,
+        "end": 24.24
+      },
+      {
+        "text": "能",
+        "start": 24.24,
+        "end": 24.42
+      },
+      {
+        "text": "报",
+        "start": 24.42,
+        "end": 24.66
+      },
+      {
+        "text": "废",
+        "start": 24.66,
+        "end": 25.0
+      }
+    ],
+    "words": [
+      {
+        "text": "they",
+        "start": 23.49,
+        "end": 23.759
+      },
+      {
+        "text": "must",
+        "start": 23.759,
+        "end": 24.027
+      },
+      {
+        "text": "be",
+        "start": 24.027,
+        "end": 24.217
+      },
+      {
+        "text": "discarded",
+        "start": 24.217,
+        "end": 24.62
+      },
+      {
+        "text": "tomorrow.",
+        "start": 24.62,
+        "end": 25.0
+      }
+    ]
+  },
+  {
+    "start": 25.17,
+    "end": 27.555,
+    "zh": "现在半价每个卖三美元",
+    "en": "Half price now: $3 each.",
+    "characters": [
+      {
+        "text": "现",
+        "start": 25.2,
+        "end": 25.44
+      },
+      {
+        "text": "在",
+        "start": 25.44,
+        "end": 25.68
+      },
+      {
+        "text": "半",
+        "start": 25.68,
+        "end": 25.92
+      },
+      {
+        "text": "价",
+        "start": 25.92,
+        "end": 26.28
+      },
+      {
+        "text": "每",
+        "start": 26.28,
+        "end": 26.46
+      },
+      {
+        "text": "个",
+        "start": 26.46,
+        "end": 26.64
+      },
+      {
+        "text": "卖",
+        "start": 26.64,
+        "end": 26.82
+      },
+      {
+        "text": "三",
+        "start": 26.82,
+        "end": 27.06
+      },
+      {
+        "text": "美",
+        "start": 27.06,
+        "end": 27.24
+      },
+      {
+        "text": "元",
+        "start": 27.24,
+        "end": 27.555
+      }
+    ],
+    "words": [
+      {
+        "text": "Half",
+        "start": 25.17,
+        "end": 25.702
+      },
+      {
+        "text": "price",
+        "start": 25.702,
+        "end": 26.297
+      },
+      {
+        "text": "now:",
+        "start": 26.297,
+        "end": 26.757
+      },
+      {
+        "text": "$3",
+        "start": 26.757,
+        "end": 27.023
+      },
+      {
+        "text": "each.",
+        "start": 27.023,
+        "end": 27.555
+      }
+    ]
+  },
+  {
+    "start": 27.57,
+    "end": 29.235,
+    "zh": "假设五十个全部卖完",
+    "en": "Assume all 50 loaves sell.",
+    "characters": [
+      {
+        "text": "假",
+        "start": 27.6,
+        "end": 27.78
+      },
+      {
+        "text": "设",
+        "start": 27.78,
+        "end": 28.02
+      },
+      {
+        "text": "五",
+        "start": 28.02,
+        "end": 28.2
+      },
+      {
+        "text": "十",
+        "start": 28.2,
+        "end": 28.32
+      },
+      {
+        "text": "个",
+        "start": 28.32,
+        "end": 28.56
+      },
+      {
+        "text": "全",
+        "start": 28.56,
+        "end": 28.68
+      },
+      {
+        "text": "部",
+        "start": 28.68,
+        "end": 28.86
+      },
+      {
+        "text": "卖",
+        "start": 28.86,
+        "end": 29.04
+      },
+      {
+        "text": "完",
+        "start": 29.04,
+        "end": 29.235
+      }
+    ],
+    "words": [
+      {
+        "text": "Assume",
+        "start": 27.57,
+        "end": 27.976
+      },
+      {
+        "text": "all",
+        "start": 27.976,
+        "end": 28.263
+      },
+      {
+        "text": "50",
+        "start": 28.263,
+        "end": 28.497
+      },
+      {
+        "text": "loaves",
+        "start": 28.497,
+        "end": 28.903
+      },
+      {
+        "text": "sell.",
+        "start": 28.903,
+        "end": 29.235
+      }
+    ]
+  },
+  {
+    "start": 29.25,
+    "end": 31.24,
+    "zh": "就能收回一百五十美元",
+    "en": "That brings in $150 in revenue!",
+    "characters": [
+      {
+        "text": "就",
+        "start": 29.25,
+        "end": 29.449
+      },
+      {
+        "text": "能",
+        "start": 29.449,
+        "end": 29.648
+      },
+      {
+        "text": "收",
+        "start": 29.648,
+        "end": 29.847
+      },
+      {
+        "text": "回",
+        "start": 29.847,
+        "end": 30.046
+      },
+      {
+        "text": "一",
+        "start": 30.046,
+        "end": 30.245
+      },
+      {
+        "text": "百",
+        "start": 30.245,
+        "end": 30.444
+      },
+      {
+        "text": "五",
+        "start": 30.444,
+        "end": 30.643
+      },
+      {
+        "text": "十",
+        "start": 30.643,
+        "end": 30.842
+      },
+      {
+        "text": "美",
+        "start": 30.842,
+        "end": 31.041
+      },
+      {
+        "text": "元",
+        "start": 31.041,
+        "end": 31.24
+      }
+    ],
+    "words": [
+      {
+        "text": "That",
+        "start": 29.25,
+        "end": 29.591
+      },
+      {
+        "text": "brings",
+        "start": 29.591,
+        "end": 30.01
+      },
+      {
+        "text": "in",
+        "start": 30.01,
+        "end": 30.251
+      },
+      {
+        "text": "$150",
+        "start": 30.251,
+        "end": 30.547
+      },
+      {
+        "text": "in",
+        "start": 30.547,
+        "end": 30.788
+      },
+      {
+        "text": "revenue!",
+        "start": 30.788,
+        "end": 31.24
+      }
+    ]
+  },
+  {
+    "start": 31.47,
+    "end": 33.375,
+    "zh": "如果不打折全部报废",
+    "en": "If none sell and all are discarded,",
+    "characters": [
+      {
+        "text": "如",
+        "start": 31.5,
+        "end": 31.68
+      },
+      {
+        "text": "果",
+        "start": 31.68,
+        "end": 31.86
+      },
+      {
+        "text": "不",
+        "start": 31.86,
+        "end": 32.04
+      },
+      {
+        "text": "打",
+        "start": 32.04,
+        "end": 32.22
+      },
+      {
+        "text": "折",
+        "start": 32.22,
+        "end": 32.52
+      },
+      {
+        "text": "全",
+        "start": 32.52,
+        "end": 32.64
+      },
+      {
+        "text": "部",
+        "start": 32.64,
+        "end": 32.88
+      },
+      {
+        "text": "报",
+        "start": 32.88,
+        "end": 33.06
+      },
+      {
+        "text": "废",
+        "start": 33.06,
+        "end": 33.375
+      }
+    ],
+    "words": [
+      {
+        "text": "If",
+        "start": 31.47,
+        "end": 31.668
+      },
+      {
+        "text": "none",
+        "start": 31.668,
+        "end": 31.948
+      },
+      {
+        "text": "sell",
+        "start": 31.948,
+        "end": 32.228
+      },
+      {
+        "text": "and",
+        "start": 32.228,
+        "end": 32.47
+      },
+      {
+        "text": "all",
+        "start": 32.47,
+        "end": 32.713
+      },
+      {
+        "text": "are",
+        "start": 32.713,
+        "end": 32.955
+      },
+      {
+        "text": "discarded,",
+        "start": 32.955,
+        "end": 33.375
+      }
+    ]
+  },
+  {
+    "start": 33.39,
+    "end": 34.84,
+    "zh": "销售收入就是零",
+    "en": "sales revenue is zero.",
+    "characters": [
+      {
+        "text": "销",
+        "start": 33.42,
+        "end": 33.6
+      },
+      {
+        "text": "售",
+        "start": 33.6,
+        "end": 33.84
+      },
+      {
+        "text": "收",
+        "start": 33.84,
+        "end": 34.08
+      },
+      {
+        "text": "入",
+        "start": 34.08,
+        "end": 34.26
+      },
+      {
+        "text": "就",
+        "start": 34.26,
+        "end": 34.38
+      },
+      {
+        "text": "是",
+        "start": 34.38,
+        "end": 34.5
+      },
+      {
+        "text": "零",
+        "start": 34.5,
+        "end": 34.84
+      }
+    ],
+    "words": [
+      {
+        "text": "sales",
+        "start": 33.39,
+        "end": 33.781
+      },
+      {
+        "text": "revenue",
+        "start": 33.781,
+        "end": 34.243
+      },
+      {
+        "text": "is",
+        "start": 34.243,
+        "end": 34.49
+      },
+      {
+        "text": "zero.",
+        "start": 34.49,
+        "end": 34.84
+      }
+    ]
+  },
+  {
+    "start": 35.25,
+    "end": 35.86,
+    "zh": "等等",
+    "en": "Wait a moment.",
+    "characters": [
+      {
+        "text": "等",
+        "start": 35.28,
+        "end": 35.52
+      },
+      {
+        "text": "等",
+        "start": 35.52,
+        "end": 35.86
+      }
+    ],
+    "words": [
+      {
+        "text": "Wait",
+        "start": 35.25,
+        "end": 35.474
+      },
+      {
+        "text": "a",
+        "start": 35.474,
+        "end": 35.586
+      },
+      {
+        "text": "moment.",
+        "start": 35.586,
+        "end": 35.86
+      }
+    ]
+  },
+  {
+    "start": 35.91,
+    "end": 37.575,
+    "zh": "每个面包成本两美元",
+    "en": "Each loaf costs $2 to make.",
+    "characters": [
+      {
+        "text": "每",
+        "start": 35.94,
+        "end": 36.12
+      },
+      {
+        "text": "个",
+        "start": 36.12,
+        "end": 36.24
+      },
+      {
+        "text": "面",
+        "start": 36.24,
+        "end": 36.42
+      },
+      {
+        "text": "包",
+        "start": 36.42,
+        "end": 36.66
+      },
+      {
+        "text": "成",
+        "start": 36.66,
+        "end": 36.78
+      },
+      {
+        "text": "本",
+        "start": 36.78,
+        "end": 37.02
+      },
+      {
+        "text": "两",
+        "start": 37.02,
+        "end": 37.2
+      },
+      {
+        "text": "美",
+        "start": 37.2,
+        "end": 37.38
+      },
+      {
+        "text": "元",
+        "start": 37.38,
+        "end": 37.575
+      }
+    ],
+    "words": [
+      {
+        "text": "Each",
+        "start": 35.91,
+        "end": 36.223
+      },
+      {
+        "text": "loaf",
+        "start": 36.223,
+        "end": 36.535
+      },
+      {
+        "text": "costs",
+        "start": 36.535,
+        "end": 36.885
+      },
+      {
+        "text": "$2",
+        "start": 36.885,
+        "end": 37.041
+      },
+      {
+        "text": "to",
+        "start": 37.041,
+        "end": 37.262
+      },
+      {
+        "text": "make.",
+        "start": 37.262,
+        "end": 37.575
+      }
+    ]
+  },
+  {
+    "start": 37.59,
+    "end": 38.895,
+    "zh": "现在只卖三美元",
+    "en": "Now it sells for just $3.",
+    "characters": [
+      {
+        "text": "现",
+        "start": 37.62,
+        "end": 37.74
+      },
+      {
+        "text": "在",
+        "start": 37.74,
+        "end": 37.92
+      },
+      {
+        "text": "只",
+        "start": 37.92,
+        "end": 38.1
+      },
+      {
+        "text": "卖",
+        "start": 38.1,
+        "end": 38.28
+      },
+      {
+        "text": "三",
+        "start": 38.28,
+        "end": 38.52
+      },
+      {
+        "text": "美",
+        "start": 38.52,
+        "end": 38.7
+      },
+      {
+        "text": "元",
+        "start": 38.7,
+        "end": 38.895
+      }
+    ],
+    "words": [
+      {
+        "text": "Now",
+        "start": 37.59,
+        "end": 37.813
+      },
+      {
+        "text": "it",
+        "start": 37.813,
+        "end": 37.996
+      },
+      {
+        "text": "sells",
+        "start": 37.996,
+        "end": 38.284
+      },
+      {
+        "text": "for",
+        "start": 38.284,
+        "end": 38.508
+      },
+      {
+        "text": "just",
+        "start": 38.508,
+        "end": 38.766
+      },
+      {
+        "text": "$3.",
+        "start": 38.766,
+        "end": 38.895
+      }
+    ]
+  },
+  {
+    "start": 38.91,
+    "end": 40.12,
+    "zh": "不是少赚了吗",
+    "en": "Isn't that less profit?",
+    "characters": [
+      {
+        "text": "不",
+        "start": 38.94,
+        "end": 39.0
+      },
+      {
+        "text": "是",
+        "start": 39.0,
+        "end": 39.18
+      },
+      {
+        "text": "少",
+        "start": 39.18,
+        "end": 39.36
+      },
+      {
+        "text": "赚",
+        "start": 39.36,
+        "end": 39.66
+      },
+      {
+        "text": "了",
+        "start": 39.66,
+        "end": 39.78
+      },
+      {
+        "text": "吗",
+        "start": 39.78,
+        "end": 40.12
+      }
+    ],
+    "words": [
+      {
+        "text": "Isn't",
+        "start": 38.91,
+        "end": 39.196
+      },
+      {
+        "text": "that",
+        "start": 39.196,
+        "end": 39.483
+      },
+      {
+        "text": "less",
+        "start": 39.483,
+        "end": 39.769
+      },
+      {
+        "text": "profit?",
+        "start": 39.769,
+        "end": 40.12
+      }
+    ]
+  },
+  {
+    "start": 40.23,
+    "end": 40.72,
+    "zh": "没错",
+    "en": "Yes.",
+    "characters": [
+      {
+        "text": "没",
+        "start": 40.26,
+        "end": 40.38
+      },
+      {
+        "text": "错",
+        "start": 40.38,
+        "end": 40.72
+      }
+    ],
+    "words": [
+      {
+        "text": "Yes.",
+        "start": 40.23,
+        "end": 40.72
+      }
+    ]
+  },
+  {
+    "start": 40.89,
+    "end": 42.555,
+    "zh": "但如果今天卖不出去",
+    "en": "But if it does not sell today,",
+    "characters": [
+      {
+        "text": "但",
+        "start": 40.92,
+        "end": 41.22
+      },
+      {
+        "text": "如",
+        "start": 41.22,
+        "end": 41.34
+      },
+      {
+        "text": "果",
+        "start": 41.34,
+        "end": 41.52
+      },
+      {
+        "text": "今",
+        "start": 41.52,
+        "end": 41.64
+      },
+      {
+        "text": "天",
+        "start": 41.64,
+        "end": 41.88
+      },
+      {
+        "text": "卖",
+        "start": 41.88,
+        "end": 42.06
+      },
+      {
+        "text": "不",
+        "start": 42.06,
+        "end": 42.18
+      },
+      {
+        "text": "出",
+        "start": 42.18,
+        "end": 42.36
+      },
+      {
+        "text": "去",
+        "start": 42.36,
+        "end": 42.555
+      }
+    ],
+    "words": [
+      {
+        "text": "But",
+        "start": 40.89,
+        "end": 41.12
+      },
+      {
+        "text": "if",
+        "start": 41.12,
+        "end": 41.308
+      },
+      {
+        "text": "it",
+        "start": 41.308,
+        "end": 41.496
+      },
+      {
+        "text": "does",
+        "start": 41.496,
+        "end": 41.762
+      },
+      {
+        "text": "not",
+        "start": 41.762,
+        "end": 41.992
+      },
+      {
+        "text": "sell",
+        "start": 41.992,
+        "end": 42.258
+      },
+      {
+        "text": "today,",
+        "start": 42.258,
+        "end": 42.555
+      }
+    ]
+  },
+  {
+    "start": 42.57,
+    "end": 44.02,
+    "zh": "明天就只能扔掉",
+    "en": "it gets thrown away tomorrow.",
+    "characters": [
+      {
+        "text": "明",
+        "start": 42.6,
+        "end": 42.72
+      },
+      {
+        "text": "天",
+        "start": 42.72,
+        "end": 42.9
+      },
+      {
+        "text": "就",
+        "start": 42.9,
+        "end": 43.08
+      },
+      {
+        "text": "只",
+        "start": 43.08,
+        "end": 43.26
+      },
+      {
+        "text": "能",
+        "start": 43.26,
+        "end": 43.44
+      },
+      {
+        "text": "扔",
+        "start": 43.44,
+        "end": 43.68
+      },
+      {
+        "text": "掉",
+        "start": 43.68,
+        "end": 44.02
+      }
+    ],
+    "words": [
+      {
+        "text": "it",
+        "start": 42.57,
+        "end": 42.762
+      },
+      {
+        "text": "gets",
+        "start": 42.762,
+        "end": 43.033
+      },
+      {
+        "text": "thrown",
+        "start": 43.033,
+        "end": 43.365
+      },
+      {
+        "text": "away",
+        "start": 43.365,
+        "end": 43.636
+      },
+      {
+        "text": "tomorrow.",
+        "start": 43.636,
+        "end": 44.02
+      }
+    ]
+  },
+  {
+    "start": 44.19,
+    "end": 45.855,
+    "zh": "与其一分钱收不回来",
+    "en": "Rather than recover nothing,",
+    "characters": [
+      {
+        "text": "与",
+        "start": 44.22,
+        "end": 44.4
+      },
+      {
+        "text": "其",
+        "start": 44.4,
+        "end": 44.64
+      },
+      {
+        "text": "一",
+        "start": 44.64,
+        "end": 44.76
+      },
+      {
+        "text": "分",
+        "start": 44.76,
+        "end": 44.94
+      },
+      {
+        "text": "钱",
+        "start": 44.94,
+        "end": 45.18
+      },
+      {
+        "text": "收",
+        "start": 45.18,
+        "end": 45.36
+      },
+      {
+        "text": "不",
+        "start": 45.36,
+        "end": 45.54
+      },
+      {
+        "text": "回",
+        "start": 45.54,
+        "end": 45.72
+      },
+      {
+        "text": "来",
+        "start": 45.72,
+        "end": 45.855
+      }
+    ],
+    "words": [
+      {
+        "text": "Rather",
+        "start": 44.19,
+        "end": 44.609
+      },
+      {
+        "text": "than",
+        "start": 44.609,
+        "end": 44.951
+      },
+      {
+        "text": "recover",
+        "start": 44.951,
+        "end": 45.403
+      },
+      {
+        "text": "nothing,",
+        "start": 45.403,
+        "end": 45.855
+      }
+    ]
+  },
+  {
+    "start": 45.87,
+    "end": 47.115,
+    "zh": "不如现在降价",
+    "en": "reduce the price now",
+    "characters": [
+      {
+        "text": "不",
+        "start": 45.9,
+        "end": 46.02
+      },
+      {
+        "text": "如",
+        "start": 46.02,
+        "end": 46.26
+      },
+      {
+        "text": "现",
+        "start": 46.26,
+        "end": 46.38
+      },
+      {
+        "text": "在",
+        "start": 46.38,
+        "end": 46.62
+      },
+      {
+        "text": "降",
+        "start": 46.62,
+        "end": 46.86
+      },
+      {
+        "text": "价",
+        "start": 46.86,
+        "end": 47.115
+      }
+    ],
+    "words": [
+      {
+        "text": "reduce",
+        "start": 45.87,
+        "end": 46.244
+      },
+      {
+        "text": "the",
+        "start": 46.244,
+        "end": 46.509
+      },
+      {
+        "text": "price",
+        "start": 46.509,
+        "end": 46.85
+      },
+      {
+        "text": "now",
+        "start": 46.85,
+        "end": 47.115
+      }
+    ]
+  },
+  {
+    "start": 47.13,
+    "end": 48.76,
+    "zh": "把损失降到最低",
+    "en": "and keep losses down.",
+    "characters": [
+      {
+        "text": "把",
+        "start": 47.16,
+        "end": 47.46
+      },
+      {
+        "text": "损",
+        "start": 47.46,
+        "end": 47.7
+      },
+      {
+        "text": "失",
+        "start": 47.7,
+        "end": 47.94
+      },
+      {
+        "text": "降",
+        "start": 47.94,
+        "end": 48.06
+      },
+      {
+        "text": "到",
+        "start": 48.06,
+        "end": 48.3
+      },
+      {
+        "text": "最",
+        "start": 48.3,
+        "end": 48.42
+      },
+      {
+        "text": "低",
+        "start": 48.42,
+        "end": 48.76
+      }
+    ],
+    "words": [
+      {
+        "text": "and",
+        "start": 47.13,
+        "end": 47.475
+      },
+      {
+        "text": "keep",
+        "start": 47.475,
+        "end": 47.874
+      },
+      {
+        "text": "losses",
+        "start": 47.874,
+        "end": 48.362
+      },
+      {
+        "text": "down.",
+        "start": 48.362,
+        "end": 48.76
+      }
+    ]
+  },
+  {
+    "start": 49.29,
+    "end": 52.035,
+    "zh": "所以对当天卖不掉就报废的商品",
+    "en": "For goods discarded if unsold today,",
+    "characters": [
+      {
+        "text": "所",
+        "start": 49.32,
+        "end": 49.5
+      },
+      {
+        "text": "以",
+        "start": 49.5,
+        "end": 49.8
+      },
+      {
+        "text": "对",
+        "start": 49.8,
+        "end": 50.04
+      },
+      {
+        "text": "当",
+        "start": 50.04,
+        "end": 50.22
+      },
+      {
+        "text": "天",
+        "start": 50.22,
+        "end": 50.46
+      },
+      {
+        "text": "卖",
+        "start": 50.46,
+        "end": 50.64
+      },
+      {
+        "text": "不",
+        "start": 50.64,
+        "end": 50.76
+      },
+      {
+        "text": "掉",
+        "start": 50.76,
+        "end": 50.94
+      },
+      {
+        "text": "就",
+        "start": 50.94,
+        "end": 51.12
+      },
+      {
+        "text": "报",
+        "start": 51.12,
+        "end": 51.24
+      },
+      {
+        "text": "废",
+        "start": 51.24,
+        "end": 51.42
+      },
+      {
+        "text": "的",
+        "start": 51.42,
+        "end": 51.6
+      },
+      {
+        "text": "商",
+        "start": 51.6,
+        "end": 51.78
+      },
+      {
+        "text": "品",
+        "start": 51.78,
+        "end": 52.035
+      }
+    ],
+    "words": [
+      {
+        "text": "For",
+        "start": 49.29,
+        "end": 49.654
+      },
+      {
+        "text": "goods",
+        "start": 49.654,
+        "end": 50.124
+      },
+      {
+        "text": "discarded",
+        "start": 50.124,
+        "end": 50.754
+      },
+      {
+        "text": "if",
+        "start": 50.754,
+        "end": 51.051
+      },
+      {
+        "text": "unsold",
+        "start": 51.051,
+        "end": 51.565
+      },
+      {
+        "text": "today,",
+        "start": 51.565,
+        "end": 52.035
+      }
+    ]
+  },
+  {
+    "start": 52.05,
+    "end": 53.98,
+    "zh": "及时降价可能更划算",
+    "en": "a timely discount may make sense.",
+    "characters": [
+      {
+        "text": "及",
+        "start": 52.08,
+        "end": 52.26
+      },
+      {
+        "text": "时",
+        "start": 52.26,
+        "end": 52.5
+      },
+      {
+        "text": "降",
+        "start": 52.5,
+        "end": 52.68
+      },
+      {
+        "text": "价",
+        "start": 52.68,
+        "end": 52.92
+      },
+      {
+        "text": "可",
+        "start": 52.92,
+        "end": 53.1
+      },
+      {
+        "text": "能",
+        "start": 53.1,
+        "end": 53.22
+      },
+      {
+        "text": "更",
+        "start": 53.22,
+        "end": 53.46
+      },
+      {
+        "text": "划",
+        "start": 53.46,
+        "end": 53.64
+      },
+      {
+        "text": "算",
+        "start": 53.64,
+        "end": 53.98
+      }
+    ],
+    "words": [
+      {
+        "text": "a",
+        "start": 52.05,
+        "end": 52.208
+      },
+      {
+        "text": "timely",
+        "start": 52.208,
+        "end": 52.594
+      },
+      {
+        "text": "discount",
+        "start": 52.594,
+        "end": 53.039
+      },
+      {
+        "text": "may",
+        "start": 53.039,
+        "end": 53.312
+      },
+      {
+        "text": "make",
+        "start": 53.312,
+        "end": 53.628
+      },
+      {
+        "text": "sense.",
+        "start": 53.628,
+        "end": 53.98
+      }
+    ]
+  },
+  {
+    "start": 54.21,
+    "end": 54.795,
+    "zh": "记住",
+    "en": "Remember:",
+    "characters": [
+      {
+        "text": "记",
+        "start": 54.24,
+        "end": 54.48
+      },
+      {
+        "text": "住",
+        "start": 54.48,
+        "end": 54.795
+      }
+    ],
+    "words": [
+      {
+        "text": "Remember:",
+        "start": 54.21,
+        "end": 54.795
+      }
+    ]
+  },
+  {
+    "start": 54.81,
+    "end": 56.115,
+    "zh": "卖不出去的库存",
+    "en": "Unsold inventory",
+    "characters": [
+      {
+        "text": "卖",
+        "start": 54.84,
+        "end": 55.02
+      },
+      {
+        "text": "不",
+        "start": 55.02,
+        "end": 55.2
+      },
+      {
+        "text": "出",
+        "start": 55.2,
+        "end": 55.38
+      },
+      {
+        "text": "去",
+        "start": 55.38,
+        "end": 55.56
+      },
+      {
+        "text": "的",
+        "start": 55.56,
+        "end": 55.68
+      },
+      {
+        "text": "库",
+        "start": 55.68,
+        "end": 55.86
+      },
+      {
+        "text": "存",
+        "start": 55.86,
+        "end": 56.115
+      }
+    ],
+    "words": [
+      {
+        "text": "Unsold",
+        "start": 54.81,
+        "end": 55.397
+      },
+      {
+        "text": "inventory",
+        "start": 55.397,
+        "end": 56.115
+      }
+    ]
+  },
+  {
+    "start": 56.13,
+    "end": 57.1,
+    "zh": "也有成本",
+    "en": "has a cost too.",
+    "characters": [
+      {
+        "text": "也",
+        "start": 56.16,
+        "end": 56.34
+      },
+      {
+        "text": "有",
+        "start": 56.34,
+        "end": 56.52
+      },
+      {
+        "text": "成",
+        "start": 56.52,
+        "end": 56.76
+      },
+      {
+        "text": "本",
+        "start": 56.76,
+        "end": 57.1
+      }
+    ],
+    "words": [
+      {
+        "text": "has",
+        "start": 56.13,
+        "end": 56.39
+      },
+      {
+        "text": "a",
+        "start": 56.39,
+        "end": 56.54
+      },
+      {
+        "text": "cost",
+        "start": 56.54,
+        "end": 56.84
+      },
+      {
+        "text": "too.",
+        "start": 56.84,
+        "end": 57.1
+      }
+    ]
+  },
+  {
+    "start": 57.21,
+    "end": 59.08,
+    "zh": "这就是数据看生意",
+    "en": "This is Business Through Data.",
+    "characters": [
+      {
+        "text": "这",
+        "start": 57.24,
+        "end": 57.48
+      },
+      {
+        "text": "就",
+        "start": 57.48,
+        "end": 57.6
+      },
+      {
+        "text": "是",
+        "start": 57.6,
+        "end": 57.84
+      },
+      {
+        "text": "数",
+        "start": 57.84,
+        "end": 58.02
+      },
+      {
+        "text": "据",
+        "start": 58.02,
+        "end": 58.26
+      },
+      {
+        "text": "看",
+        "start": 58.26,
+        "end": 58.44
+      },
+      {
+        "text": "生",
+        "start": 58.44,
+        "end": 58.74
+      },
+      {
+        "text": "意",
+        "start": 58.74,
+        "end": 59.08
+      }
+    ],
+    "words": [
+      {
+        "text": "This",
+        "start": 57.21,
+        "end": 57.553
+      },
+      {
+        "text": "is",
+        "start": 57.553,
+        "end": 57.796
+      },
+      {
+        "text": "Business",
+        "start": 57.796,
+        "end": 58.282
+      },
+      {
+        "text": "Through",
+        "start": 58.282,
+        "end": 58.737
+      },
+      {
+        "text": "Data.",
+        "start": 58.737,
+        "end": 59.08
+      }
+    ]
+  }
+]

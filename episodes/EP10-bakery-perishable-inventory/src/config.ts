@@ -1,0 +1,62 @@
+export const input = {
+  originalPrice: 6,
+  discountPrice: 3,
+  quantity: 50,
+  unitProductionCost: 2,
+  extraSellingCosts: 0,
+} as const;
+export const model = {
+  ...input,
+  totalProductionCost: input.quantity * input.unitProductionCost,
+  salesRevenue: input.discountPrice * input.quantity,
+  grossProfit:
+    (input.discountPrice - input.unitProductionCost) * input.quantity,
+  grossPerLoaf: input.discountPrice - input.unitProductionCost,
+  discardRevenue: 0,
+  incrementalCash:
+    input.discountPrice * input.quantity - input.extraSellingCosts,
+  discountPercent: (1 - input.discountPrice / input.originalPrice) * 100,
+};
+export const demo = {
+  fps: 30,
+  size: { width: 1080, height: 1920 },
+  safeHeight: 1248,
+  duration: 59.454667,
+  musicVolume: 0.19,
+  colors: {
+    blue: "#6F9FB5",
+    teal: "#36AA8F",
+    coral: "#F2976F",
+    purple: "#B08D79",
+    yellow: "#F5C66E",
+    ink: "#4C3B31",
+    muted: "#8D8276",
+    line: "#E8DED0",
+  },
+  timings: {
+    night: 2.31,
+    price: 3.93,
+    concept: 7.35,
+    term: 9.27,
+    expire: 12.63,
+    stock: 15.75,
+    quantity: 18.33,
+    cost: 20.19,
+    discardAssumption: 22.17,
+    choices: 25.17,
+    sellAll: 27.57,
+    cash: 29.25,
+    discard: 31.47,
+    zero: 33.39,
+    analysis: 35.25,
+    unitCost: 35.91,
+    unitSale: 37.59,
+    spent: 40.23,
+    comparison: 40.89,
+    decision: 45.87,
+    ending: 49.29,
+    insight: 54.21,
+    brand: 57.21,
+  },
+} as const;
+export const totalFrames = Math.ceil(demo.duration * demo.fps);

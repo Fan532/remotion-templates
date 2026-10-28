@@ -1,0 +1,139 @@
+1
+00:00:00,150 --> 00:00:02,295
+A loaf sells for $6 by day.
+
+2
+00:00:02,310 --> 00:00:03,915
+At night, suddenly half price!
+
+3
+00:00:03,930 --> 00:00:05,080
+Just $3!
+
+4
+00:00:05,130 --> 00:00:07,335
+Doesn't the bakery lose money?
+
+5
+00:00:07,350 --> 00:00:09,100
+Here is the business concept.
+
+6
+00:00:09,270 --> 00:00:12,340
+Perishable Inventory
+
+7
+00:00:12,630 --> 00:00:13,995
+For some goods, after today,
+
+8
+00:00:14,010 --> 00:00:15,580
+it may be too late to sell.
+
+9
+00:00:15,750 --> 00:00:17,355
+All figures are hypothetical.
+
+10
+00:00:17,370 --> 00:00:18,315
+Imagine a bakery.
+
+11
+00:00:18,330 --> 00:00:20,080
+It has 50 loaves left at night.
+
+12
+00:00:20,190 --> 00:00:22,060
+Each loaf costs $2 to make.
+
+13
+00:00:22,170 --> 00:00:23,475
+If they do not sell today,
+
+14
+00:00:23,490 --> 00:00:25,000
+they must be discarded tomorrow.
+
+15
+00:00:25,170 --> 00:00:27,555
+Half price now: $3 each.
+
+16
+00:00:27,570 --> 00:00:29,235
+Assume all 50 loaves sell.
+
+17
+00:00:29,250 --> 00:00:31,240
+That brings in $150 in revenue!
+
+18
+00:00:31,470 --> 00:00:33,375
+If none sell and all are discarded,
+
+19
+00:00:33,390 --> 00:00:34,840
+sales revenue is zero.
+
+20
+00:00:35,250 --> 00:00:35,860
+Wait a moment.
+
+21
+00:00:35,910 --> 00:00:37,575
+Each loaf costs $2 to make.
+
+22
+00:00:37,590 --> 00:00:38,895
+Now it sells for just $3.
+
+23
+00:00:38,910 --> 00:00:40,120
+Isn't that less profit?
+
+24
+00:00:40,230 --> 00:00:40,720
+Yes.
+
+25
+00:00:40,890 --> 00:00:42,555
+But if it does not sell today,
+
+26
+00:00:42,570 --> 00:00:44,020
+it gets thrown away tomorrow.
+
+27
+00:00:44,190 --> 00:00:45,855
+Rather than recover nothing,
+
+28
+00:00:45,870 --> 00:00:47,115
+reduce the price now
+
+29
+00:00:47,130 --> 00:00:48,760
+and keep losses down.
+
+30
+00:00:49,290 --> 00:00:52,035
+For goods discarded if unsold today,
+
+31
+00:00:52,050 --> 00:00:53,980
+a timely discount may make sense.
+
+32
+00:00:54,210 --> 00:00:54,795
+Remember:
+
+33
+00:00:54,810 --> 00:00:56,115
+Unsold inventory
+
+34
+00:00:56,130 --> 00:00:57,100
+has a cost too.
+
+35
+00:00:57,210 --> 00:00:59,080
+This is Business Through Data.

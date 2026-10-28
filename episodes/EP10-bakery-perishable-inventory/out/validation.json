@@ -1,0 +1,62 @@
+{
+  "video": "out/ep10-bakery.mp4",
+  "bytes": 7821578,
+  "video_seconds": "59.466667",
+  "frames": 1784,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "pixel_format": "yuv420p",
+  "full_decode": "PASS",
+  "typecheck": "PASS",
+  "financial_model_tests": "PASS",
+  "math": {
+    "quantity": 50,
+    "original_price": 6,
+    "discount_price": 3,
+    "unit_production_cost": 2,
+    "total_production_cost": 100,
+    "sales_revenue": 150,
+    "gross_profit": 50,
+    "gross_per_loaf": 1,
+    "discard_revenue": 0,
+    "incremental_cash_vs_discard": 150,
+    "additional_selling_costs": 0
+  },
+  "source_audio_sha256": "133caa5f6d6dd97185f9c788e68a2111933d801f79442c3cd4ff35339550fe8d",
+  "original_source_mp3_unchanged": true,
+  "voice_speed": 1.0,
+  "caption_layout": {
+    "pages": 35,
+    "font": "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+    "font_size_both_languages": 44,
+    "max_chinese_width_px": 700.0,
+    "max_english_line_width_px": 798.83,
+    "available_width_px": 940,
+    "max_caption_block_height_px": 245,
+    "available_height_px": 390,
+    "method": "installed-font advance metrics plus component padding/gaps; representative rendered frames checked separately",
+    "result": "PASS"
+  },
+  "keyframe_samples": [
+    168,
+    438,
+    681,
+    1032,
+    1455,
+    1647
+  ],
+  "keyframe_review": "PASS: six actual final-MP4 scene screenshots inspected; labels, amounts, 50-item inventory, captions and closing sign readable with no observed key-text overlaps or clipping",
+  "manual_word_by_word_listening_audit": false,
+  "subtitle_method": "Chinese CTC alignment to supplied transcript; English translation paced within corresponding Chinese phrases, not an English acoustic alignment. Editable JSON and SRT provided.",
+  "visual_method": "Original layered SVG/CSS illustration with perspective, gradients and independent motion; not physically simulated 3D.",
+  "caveat": "Teaching assumptions: no next-day sale, all 50 sell in discount case, no additional selling costs. Revenue150 and gross profit50 are not net profit; half price is not claimed universally optimal.",
+  "audio_expected_mix_correlation": 0.999951606679324,
+  "audio_peak_dbfs": -4.338509559631348,
+  "audio_clipping": false,
+  "frame_rate_verification": "constant 30/1 fps, 1784 frames, duration agrees with frame count",
+  "audio_packet_sha256_after_last_visual_fix": "153dc4c02b894eea2600693ef827f997d75f05fc9bd023320b5cbe33a85f31d1",
+  "windows_capcut_gui_test": false
+}
