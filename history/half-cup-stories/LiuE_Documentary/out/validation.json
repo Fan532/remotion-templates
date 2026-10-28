@@ -1,0 +1,63 @@
+{
+  "clips": [
+    {
+      "file": "LiuE_Timeline.mp4",
+      "seconds": 10,
+      "frames": 300,
+      "bytes": 609180,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        150,
+        299
+      ],
+      "visual_review": "PASS: first/middle/last actual video frames inspected; names, dates, timeline, legend labels and concluding statements within safe bounds"
+    },
+    {
+      "file": "LiuE_Legend_vs_History.mp4",
+      "seconds": 10,
+      "frames": 300,
+      "bytes": 501000,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        150,
+        299
+      ],
+      "visual_review": "PASS: first/middle/last actual video frames inspected; names, dates, timeline, legend labels and concluding statements within safe bounds"
+    },
+    {
+      "file": "LiuE_Power.mp4",
+      "seconds": 10,
+      "frames": 300,
+      "bytes": 815881,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        150,
+        299
+      ],
+      "visual_review": "PASS: first/middle/last actual video frames inspected; names, dates, timeline, legend labels and concluding statements within safe bounds"
+    }
+  ],
+  "typecheck": "PASS",
+  "chinese_glyph_coverage": "PASS",
+  "title_widths": "PASS native-font metrics",
+  "font": "/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc",
+  "previous_history_video_count": 19,
+  "previous_history_video_hashes": "UNCHANGED",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "codec": "H264/yuv420p",
+  "audio": "none",
+  "captions": "No subtitle files",
+  "visual_review_scope": "First/middle/last frames, not exhaustive frame-by-frame review",
+  "windows_capcut_gui_test": false,
+  "history_limitations": "See HISTORY.md; online source request denied by proxy403; 997 simplified reentry chronology, 1010 birth uses later name Zhao Zhen, no verified cat-swap case asserted"
+}

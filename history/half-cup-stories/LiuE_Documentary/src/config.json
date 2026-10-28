@@ -1,0 +1,72 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "channel": "半盏故事",
+  "series": "刘娥 · 传说与史实",
+  "colors": {
+    "black": "#101015",
+    "red": "#681C24",
+    "gold": "#D4AC62",
+    "paper": "#F2E7D0",
+    "muted": "#B5A18B",
+    "palaceRoof": "#302026",
+    "palaceWall": "#221B22",
+    "legendBorder": "#8E4E4F",
+    "legendHeading": "#E0B8A4",
+    "legendRule": "#C18C78",
+    "recordPanel": "#31271E",
+    "checkPanel": "#3B2928",
+    "robe": "#3C2830",
+    "shadow": "#000000",
+    "sealBase": "#6A3B34",
+    "sealHandle": "#8B5B3E"
+  },
+  "clips": [
+    {
+      "id": "LiuETimeline",
+      "file": "LiuE_Timeline.mp4",
+      "seconds": 10,
+      "title": "从民间女子到大宋皇太后",
+      "years": ["997年", "1012年", "1022年", "1022—1033年"],
+      "lines": ["重入宫廷", "册立皇后", "尊为皇太后", "临朝听政"],
+      "final": "大宋皇太后",
+      "note": "身份阶段示意 · 节点等距，不代表实际年距比例"
+    },
+    {
+      "id": "LiuELegendHistory",
+      "file": "LiuE_Legend_vs_History.mp4",
+      "seconds": 10,
+      "title": "狸猫换太子：传说与史实",
+      "years": [],
+      "lines": [
+        "民间传说",
+        "狸猫换走皇子",
+        "刘妃陷害李妃",
+        "历史记载",
+        "1010年，李氏生下赵祯",
+        "赵祯由刘氏与杨氏共同抚养",
+        "没有可靠证据证明发生狸猫换婴事件"
+      ],
+      "transition": "史实核查",
+      "final": "传说 ≠ 史实",
+      "note": "赵祯为后来的名字 · 左侧为民间故事，非已证实案件"
+    },
+    {
+      "id": "LiuEPower",
+      "file": "LiuE_Power.mp4",
+      "seconds": 10,
+      "title": "掌权，却没有称帝",
+      "years": ["1022年", "", "1033年", "1033年"],
+      "lines": [
+        "宋仁宗即位",
+        "刘太后临朝听政",
+        "太庙祭祀礼服争议",
+        "刘太后去世"
+      ],
+      "final": "她掌握权力，却没有登基称帝。",
+      "note": "宫殿、印玺与礼服仅为抽象符号 · 非文物或服制复原"
+    }
+  ],
+  "fontFamily": "Noto Serif CJK SC"
+}

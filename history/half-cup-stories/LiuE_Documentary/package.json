@@ -1,0 +1,27 @@
+{
+  "name": "half-cup-stories-liu-e",
+  "version": "1.0.0",
+  "description": "刘娥三段可复用历史知识动画",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc",
+    "studio": "remotion studio src/index.tsx --browser-executable=/usr/bin/chromium --port=3097",
+    "render": "python3 tools/render_all.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "4.0.538",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.538"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "7.0.2"
+  },
+  "private": true
+}
