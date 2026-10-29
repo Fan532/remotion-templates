@@ -1,0 +1,3252 @@
+[
+  {
+    "start": 0.21,
+    "end": 1.335,
+    "zh": "你有没有想过",
+    "en": "Have you ever wondered?",
+    "characters": [
+      {
+        "text": "你",
+        "start": 0.24,
+        "end": 0.42
+      },
+      {
+        "text": "有",
+        "start": 0.42,
+        "end": 0.6
+      },
+      {
+        "text": "没",
+        "start": 0.6,
+        "end": 0.72
+      },
+      {
+        "text": "有",
+        "start": 0.72,
+        "end": 0.84
+      },
+      {
+        "text": "想",
+        "start": 0.84,
+        "end": 1.02
+      },
+      {
+        "text": "过",
+        "start": 1.02,
+        "end": 1.335
+      }
+    ],
+    "words": [
+      {
+        "text": "Have",
+        "start": 0.21,
+        "end": 0.473
+      },
+      {
+        "text": "you",
+        "start": 0.473,
+        "end": 0.7
+      },
+      {
+        "text": "ever",
+        "start": 0.7,
+        "end": 0.963
+      },
+      {
+        "text": "wondered?",
+        "start": 0.963,
+        "end": 1.335
+      }
+    ]
+  },
+  {
+    "start": 1.35,
+    "end": 3.555,
+    "zh": "超市里整只热腾腾的烤鸡",
+    "en": "A whole hot rotisserie chicken",
+    "characters": [
+      {
+        "text": "超",
+        "start": 1.38,
+        "end": 1.56
+      },
+      {
+        "text": "市",
+        "start": 1.56,
+        "end": 1.74
+      },
+      {
+        "text": "里",
+        "start": 1.74,
+        "end": 1.98
+      },
+      {
+        "text": "整",
+        "start": 1.98,
+        "end": 2.16
+      },
+      {
+        "text": "只",
+        "start": 2.16,
+        "end": 2.4
+      },
+      {
+        "text": "热",
+        "start": 2.4,
+        "end": 2.58
+      },
+      {
+        "text": "腾",
+        "start": 2.58,
+        "end": 2.82
+      },
+      {
+        "text": "腾",
+        "start": 2.82,
+        "end": 2.94
+      },
+      {
+        "text": "的",
+        "start": 2.94,
+        "end": 3.06
+      },
+      {
+        "text": "烤",
+        "start": 3.06,
+        "end": 3.3
+      },
+      {
+        "text": "鸡",
+        "start": 3.3,
+        "end": 3.555
+      }
+    ],
+    "words": [
+      {
+        "text": "A",
+        "start": 1.35,
+        "end": 1.555
+      },
+      {
+        "text": "whole",
+        "start": 1.555,
+        "end": 2.012
+      },
+      {
+        "text": "hot",
+        "start": 2.012,
+        "end": 2.367
+      },
+      {
+        "text": "rotisserie",
+        "start": 2.367,
+        "end": 3.014
+      },
+      {
+        "text": "chicken",
+        "start": 3.014,
+        "end": 3.555
+      }
+    ]
+  },
+  {
+    "start": 3.57,
+    "end": 5.2,
+    "zh": "为什么卖得那么便宜",
+    "en": "Why is it so cheap?",
+    "characters": [
+      {
+        "text": "为",
+        "start": 3.6,
+        "end": 3.72
+      },
+      {
+        "text": "什",
+        "start": 3.72,
+        "end": 3.84
+      },
+      {
+        "text": "么",
+        "start": 3.84,
+        "end": 4.02
+      },
+      {
+        "text": "卖",
+        "start": 4.02,
+        "end": 4.14
+      },
+      {
+        "text": "得",
+        "start": 4.14,
+        "end": 4.32
+      },
+      {
+        "text": "那",
+        "start": 4.32,
+        "end": 4.44
+      },
+      {
+        "text": "么",
+        "start": 4.44,
+        "end": 4.62
+      },
+      {
+        "text": "便",
+        "start": 4.62,
+        "end": 4.86
+      },
+      {
+        "text": "宜",
+        "start": 4.86,
+        "end": 5.2
+      }
+    ],
+    "words": [
+      {
+        "text": "Why",
+        "start": 3.57,
+        "end": 3.914
+      },
+      {
+        "text": "is",
+        "start": 3.914,
+        "end": 4.195
+      },
+      {
+        "text": "it",
+        "start": 4.195,
+        "end": 4.475
+      },
+      {
+        "text": "so",
+        "start": 4.475,
+        "end": 4.756
+      },
+      {
+        "text": "cheap?",
+        "start": 4.756,
+        "end": 5.2
+      }
+    ]
+  },
+  {
+    "start": 5.43,
+    "end": 8.26,
+    "zh": "比我们自己买回来生鸡做还方便",
+    "en": "It is easier than cooking one yourself.",
+    "characters": [
+      {
+        "text": "比",
+        "start": 5.46,
+        "end": 5.7
+      },
+      {
+        "text": "我",
+        "start": 5.7,
+        "end": 5.82
+      },
+      {
+        "text": "们",
+        "start": 5.82,
+        "end": 6.0
+      },
+      {
+        "text": "自",
+        "start": 6.0,
+        "end": 6.06
+      },
+      {
+        "text": "己",
+        "start": 6.06,
+        "end": 6.24
+      },
+      {
+        "text": "买",
+        "start": 6.24,
+        "end": 6.48
+      },
+      {
+        "text": "回",
+        "start": 6.48,
+        "end": 6.66
+      },
+      {
+        "text": "来",
+        "start": 6.66,
+        "end": 6.84
+      },
+      {
+        "text": "生",
+        "start": 6.84,
+        "end": 7.02
+      },
+      {
+        "text": "鸡",
+        "start": 7.02,
+        "end": 7.26
+      },
+      {
+        "text": "做",
+        "start": 7.26,
+        "end": 7.5
+      },
+      {
+        "text": "还",
+        "start": 7.5,
+        "end": 7.74
+      },
+      {
+        "text": "方",
+        "start": 7.74,
+        "end": 7.92
+      },
+      {
+        "text": "便",
+        "start": 7.92,
+        "end": 8.26
+      }
+    ],
+    "words": [
+      {
+        "text": "It",
+        "start": 5.43,
+        "end": 5.706
+      },
+      {
+        "text": "is",
+        "start": 5.706,
+        "end": 5.983
+      },
+      {
+        "text": "easier",
+        "start": 5.983,
+        "end": 6.461
+      },
+      {
+        "text": "than",
+        "start": 6.461,
+        "end": 6.852
+      },
+      {
+        "text": "cooking",
+        "start": 6.852,
+        "end": 7.369
+      },
+      {
+        "text": "one",
+        "start": 7.369,
+        "end": 7.707
+      },
+      {
+        "text": "yourself.",
+        "start": 7.707,
+        "end": 8.26
+      }
+    ]
+  },
+  {
+    "start": 8.49,
+    "end": 10.635,
+    "zh": "超市真的靠这只鸡赚钱吗",
+    "en": "Does the store profit from the chicken?",
+    "characters": [
+      {
+        "text": "超",
+        "start": 8.52,
+        "end": 8.7
+      },
+      {
+        "text": "市",
+        "start": 8.7,
+        "end": 8.88
+      },
+      {
+        "text": "真",
+        "start": 8.88,
+        "end": 9.06
+      },
+      {
+        "text": "的",
+        "start": 9.06,
+        "end": 9.18
+      },
+      {
+        "text": "靠",
+        "start": 9.18,
+        "end": 9.36
+      },
+      {
+        "text": "这",
+        "start": 9.36,
+        "end": 9.54
+      },
+      {
+        "text": "只",
+        "start": 9.54,
+        "end": 9.72
+      },
+      {
+        "text": "鸡",
+        "start": 9.72,
+        "end": 9.96
+      },
+      {
+        "text": "赚",
+        "start": 9.96,
+        "end": 10.2
+      },
+      {
+        "text": "钱",
+        "start": 10.2,
+        "end": 10.38
+      },
+      {
+        "text": "吗",
+        "start": 10.38,
+        "end": 10.635
+      }
+    ],
+    "words": [
+      {
+        "text": "Does",
+        "start": 8.49,
+        "end": 8.78
+      },
+      {
+        "text": "the",
+        "start": 8.78,
+        "end": 9.031
+      },
+      {
+        "text": "store",
+        "start": 9.031,
+        "end": 9.355
+      },
+      {
+        "text": "profit",
+        "start": 9.355,
+        "end": 9.71
+      },
+      {
+        "text": "from",
+        "start": 9.71,
+        "end": 10.0
+      },
+      {
+        "text": "the",
+        "start": 10.0,
+        "end": 10.251
+      },
+      {
+        "text": "chicken?",
+        "start": 10.251,
+        "end": 10.635
+      }
+    ]
+  },
+  {
+    "start": 10.65,
+    "end": 11.38,
+    "zh": "不一定",
+    "en": "Not necessarily.",
+    "characters": [
+      {
+        "text": "不",
+        "start": 10.68,
+        "end": 10.86
+      },
+      {
+        "text": "一",
+        "start": 10.86,
+        "end": 11.04
+      },
+      {
+        "text": "定",
+        "start": 11.04,
+        "end": 11.38
+      }
+    ],
+    "words": [
+      {
+        "text": "Not",
+        "start": 10.65,
+        "end": 10.9
+      },
+      {
+        "text": "necessarily.",
+        "start": 10.9,
+        "end": 11.38
+      }
+    ]
+  },
+  {
+    "start": 11.73,
+    "end": 13.395,
+    "zh": "因为超市想卖给你的",
+    "en": "Because what the store wants to sell you",
+    "characters": [
+      {
+        "text": "因",
+        "start": 11.76,
+        "end": 11.88
+      },
+      {
+        "text": "为",
+        "start": 11.88,
+        "end": 12.06
+      },
+      {
+        "text": "超",
+        "start": 12.06,
+        "end": 12.24
+      },
+      {
+        "text": "市",
+        "start": 12.24,
+        "end": 12.42
+      },
+      {
+        "text": "想",
+        "start": 12.42,
+        "end": 12.66
+      },
+      {
+        "text": "卖",
+        "start": 12.66,
+        "end": 12.84
+      },
+      {
+        "text": "给",
+        "start": 12.84,
+        "end": 13.02
+      },
+      {
+        "text": "你",
+        "start": 13.02,
+        "end": 13.2
+      },
+      {
+        "text": "的",
+        "start": 13.2,
+        "end": 13.395
+      }
+    ],
+    "words": [
+      {
+        "text": "Because",
+        "start": 11.73,
+        "end": 12.005
+      },
+      {
+        "text": "what",
+        "start": 12.005,
+        "end": 12.214
+      },
+      {
+        "text": "the",
+        "start": 12.214,
+        "end": 12.394
+      },
+      {
+        "text": "store",
+        "start": 12.394,
+        "end": 12.627
+      },
+      {
+        "text": "wants",
+        "start": 12.627,
+        "end": 12.859
+      },
+      {
+        "text": "to",
+        "start": 12.859,
+        "end": 13.007
+      },
+      {
+        "text": "sell",
+        "start": 13.007,
+        "end": 13.215
+      },
+      {
+        "text": "you",
+        "start": 13.215,
+        "end": 13.395
+      }
+    ]
+  },
+  {
+    "start": 13.41,
+    "end": 15.28,
+    "zh": "可能根本不止一只鸡",
+    "en": "may be much more than a chicken.",
+    "characters": [
+      {
+        "text": "可",
+        "start": 13.44,
+        "end": 13.68
+      },
+      {
+        "text": "能",
+        "start": 13.68,
+        "end": 13.86
+      },
+      {
+        "text": "根",
+        "start": 13.86,
+        "end": 14.04
+      },
+      {
+        "text": "本",
+        "start": 14.04,
+        "end": 14.28
+      },
+      {
+        "text": "不",
+        "start": 14.28,
+        "end": 14.46
+      },
+      {
+        "text": "止",
+        "start": 14.46,
+        "end": 14.64
+      },
+      {
+        "text": "一",
+        "start": 14.64,
+        "end": 14.76
+      },
+      {
+        "text": "只",
+        "start": 14.76,
+        "end": 14.94
+      },
+      {
+        "text": "鸡",
+        "start": 14.94,
+        "end": 15.28
+      }
+    ],
+    "words": [
+      {
+        "text": "may",
+        "start": 13.41,
+        "end": 13.663
+      },
+      {
+        "text": "be",
+        "start": 13.663,
+        "end": 13.87
+      },
+      {
+        "text": "much",
+        "start": 13.87,
+        "end": 14.162
+      },
+      {
+        "text": "more",
+        "start": 14.162,
+        "end": 14.455
+      },
+      {
+        "text": "than",
+        "start": 14.455,
+        "end": 14.747
+      },
+      {
+        "text": "a",
+        "start": 14.747,
+        "end": 14.893
+      },
+      {
+        "text": "chicken.",
+        "start": 14.893,
+        "end": 15.28
+      }
+    ]
+  },
+  {
+    "start": 15.45,
+    "end": 17.44,
+    "zh": "今天讲一个商业策略",
+    "en": "Here is a business strategy.",
+    "characters": [
+      {
+        "text": "今",
+        "start": 15.48,
+        "end": 15.66
+      },
+      {
+        "text": "天",
+        "start": 15.66,
+        "end": 15.9
+      },
+      {
+        "text": "讲",
+        "start": 15.9,
+        "end": 16.2
+      },
+      {
+        "text": "一",
+        "start": 16.2,
+        "end": 16.32
+      },
+      {
+        "text": "个",
+        "start": 16.32,
+        "end": 16.5
+      },
+      {
+        "text": "商",
+        "start": 16.5,
+        "end": 16.62
+      },
+      {
+        "text": "业",
+        "start": 16.62,
+        "end": 16.92
+      },
+      {
+        "text": "策",
+        "start": 16.92,
+        "end": 17.1
+      },
+      {
+        "text": "略",
+        "start": 17.1,
+        "end": 17.44
+      }
+    ],
+    "words": [
+      {
+        "text": "Here",
+        "start": 15.45,
+        "end": 15.845
+      },
+      {
+        "text": "is",
+        "start": 15.845,
+        "end": 16.125
+      },
+      {
+        "text": "a",
+        "start": 16.125,
+        "end": 16.322
+      },
+      {
+        "text": "business",
+        "start": 16.322,
+        "end": 16.881
+      },
+      {
+        "text": "strategy.",
+        "start": 16.881,
+        "end": 17.44
+      }
+    ]
+  },
+  {
+    "start": 17.55,
+    "end": 19.25,
+    "zh": "亏本引流策略",
+    "en": "Loss Leader Strategy",
+    "characters": [
+      {
+        "text": "亏",
+        "start": 17.55,
+        "end": 17.833
+      },
+      {
+        "text": "本",
+        "start": 17.833,
+        "end": 18.117
+      },
+      {
+        "text": "引",
+        "start": 18.117,
+        "end": 18.4
+      },
+      {
+        "text": "流",
+        "start": 18.4,
+        "end": 18.683
+      },
+      {
+        "text": "策",
+        "start": 18.683,
+        "end": 18.967
+      },
+      {
+        "text": "略",
+        "start": 18.967,
+        "end": 19.25
+      }
+    ],
+    "words": [
+      {
+        "text": "Loss",
+        "start": 17.55,
+        "end": 18.017
+      },
+      {
+        "text": "Leader",
+        "start": 18.017,
+        "end": 18.589
+      },
+      {
+        "text": "Strategy",
+        "start": 18.589,
+        "end": 19.25
+      }
+    ]
+  },
+  {
+    "start": 20.07,
+    "end": 21.7,
+    "zh": "亏本引流定价",
+    "en": "Loss Leader Strategy",
+    "characters": [
+      {
+        "text": "亏",
+        "start": 20.1,
+        "end": 20.4
+      },
+      {
+        "text": "本",
+        "start": 20.4,
+        "end": 20.64
+      },
+      {
+        "text": "引",
+        "start": 20.64,
+        "end": 20.88
+      },
+      {
+        "text": "流",
+        "start": 20.88,
+        "end": 21.12
+      },
+      {
+        "text": "定",
+        "start": 21.12,
+        "end": 21.36
+      },
+      {
+        "text": "价",
+        "start": 21.36,
+        "end": 21.7
+      }
+    ],
+    "words": [
+      {
+        "text": "Loss",
+        "start": 20.07,
+        "end": 20.518
+      },
+      {
+        "text": "Leader",
+        "start": 20.518,
+        "end": 21.067
+      },
+      {
+        "text": "Strategy",
+        "start": 21.067,
+        "end": 21.7
+      }
+    ]
+  },
+  {
+    "start": 21.81,
+    "end": 24.195,
+    "zh": "用低价商品吸引顾客进店",
+    "en": "Low prices attract shoppers.",
+    "characters": [
+      {
+        "text": "用",
+        "start": 21.84,
+        "end": 22.08
+      },
+      {
+        "text": "低",
+        "start": 22.08,
+        "end": 22.26
+      },
+      {
+        "text": "价",
+        "start": 22.26,
+        "end": 22.56
+      },
+      {
+        "text": "商",
+        "start": 22.56,
+        "end": 22.68
+      },
+      {
+        "text": "品",
+        "start": 22.68,
+        "end": 23.04
+      },
+      {
+        "text": "吸",
+        "start": 23.04,
+        "end": 23.16
+      },
+      {
+        "text": "引",
+        "start": 23.16,
+        "end": 23.4
+      },
+      {
+        "text": "顾",
+        "start": 23.4,
+        "end": 23.58
+      },
+      {
+        "text": "客",
+        "start": 23.58,
+        "end": 23.76
+      },
+      {
+        "text": "进",
+        "start": 23.76,
+        "end": 23.94
+      },
+      {
+        "text": "店",
+        "start": 23.94,
+        "end": 24.195
+      }
+    ],
+    "words": [
+      {
+        "text": "Low",
+        "start": 21.81,
+        "end": 22.238
+      },
+      {
+        "text": "prices",
+        "start": 22.238,
+        "end": 22.843
+      },
+      {
+        "text": "attract",
+        "start": 22.843,
+        "end": 23.496
+      },
+      {
+        "text": "shoppers.",
+        "start": 23.496,
+        "end": 24.195
+      }
+    ]
+  },
+  {
+    "start": 24.21,
+    "end": 26.2,
+    "zh": "再通过其他商品赚钱",
+    "en": "Other products can earn a contribution.",
+    "characters": [
+      {
+        "text": "再",
+        "start": 24.24,
+        "end": 24.54
+      },
+      {
+        "text": "通",
+        "start": 24.54,
+        "end": 24.72
+      },
+      {
+        "text": "过",
+        "start": 24.72,
+        "end": 24.9
+      },
+      {
+        "text": "其",
+        "start": 24.9,
+        "end": 25.02
+      },
+      {
+        "text": "他",
+        "start": 25.02,
+        "end": 25.2
+      },
+      {
+        "text": "商",
+        "start": 25.2,
+        "end": 25.38
+      },
+      {
+        "text": "品",
+        "start": 25.38,
+        "end": 25.62
+      },
+      {
+        "text": "赚",
+        "start": 25.62,
+        "end": 25.86
+      },
+      {
+        "text": "钱",
+        "start": 25.86,
+        "end": 26.2
+      }
+    ],
+    "words": [
+      {
+        "text": "Other",
+        "start": 24.21,
+        "end": 24.546
+      },
+      {
+        "text": "products",
+        "start": 24.546,
+        "end": 24.97
+      },
+      {
+        "text": "can",
+        "start": 24.97,
+        "end": 25.23
+      },
+      {
+        "text": "earn",
+        "start": 25.23,
+        "end": 25.53
+      },
+      {
+        "text": "a",
+        "start": 25.53,
+        "end": 25.68
+      },
+      {
+        "text": "contribution.",
+        "start": 25.68,
+        "end": 26.2
+      }
+    ]
+  },
+  {
+    "start": 26.37,
+    "end": 27.615,
+    "zh": "我们来算一笔账",
+    "en": "Let us do the math.",
+    "characters": [
+      {
+        "text": "我",
+        "start": 26.4,
+        "end": 26.58
+      },
+      {
+        "text": "们",
+        "start": 26.58,
+        "end": 26.7
+      },
+      {
+        "text": "来",
+        "start": 26.7,
+        "end": 26.88
+      },
+      {
+        "text": "算",
+        "start": 26.88,
+        "end": 27.06
+      },
+      {
+        "text": "一",
+        "start": 27.06,
+        "end": 27.18
+      },
+      {
+        "text": "笔",
+        "start": 27.18,
+        "end": 27.36
+      },
+      {
+        "text": "账",
+        "start": 27.36,
+        "end": 27.615
+      }
+    ],
+    "words": [
+      {
+        "text": "Let",
+        "start": 26.37,
+        "end": 26.63
+      },
+      {
+        "text": "us",
+        "start": 26.63,
+        "end": 26.842
+      },
+      {
+        "text": "do",
+        "start": 26.842,
+        "end": 27.055
+      },
+      {
+        "text": "the",
+        "start": 27.055,
+        "end": 27.315
+      },
+      {
+        "text": "math.",
+        "start": 27.315,
+        "end": 27.615
+      }
+    ]
+  },
+  {
+    "start": 27.63,
+    "end": 29.32,
+    "zh": "以下数据全是假设",
+    "en": "All these numbers are hypothetical.",
+    "characters": [
+      {
+        "text": "以",
+        "start": 27.66,
+        "end": 27.78
+      },
+      {
+        "text": "下",
+        "start": 27.78,
+        "end": 28.02
+      },
+      {
+        "text": "数",
+        "start": 28.02,
+        "end": 28.2
+      },
+      {
+        "text": "据",
+        "start": 28.2,
+        "end": 28.44
+      },
+      {
+        "text": "全",
+        "start": 28.44,
+        "end": 28.62
+      },
+      {
+        "text": "是",
+        "start": 28.62,
+        "end": 28.8
+      },
+      {
+        "text": "假",
+        "start": 28.8,
+        "end": 28.98
+      },
+      {
+        "text": "设",
+        "start": 28.98,
+        "end": 29.32
+      }
+    ],
+    "words": [
+      {
+        "text": "All",
+        "start": 27.63,
+        "end": 27.878
+      },
+      {
+        "text": "these",
+        "start": 27.878,
+        "end": 28.198
+      },
+      {
+        "text": "numbers",
+        "start": 28.198,
+        "end": 28.576
+      },
+      {
+        "text": "are",
+        "start": 28.576,
+        "end": 28.824
+      },
+      {
+        "text": "hypothetical.",
+        "start": 28.824,
+        "end": 29.32
+      }
+    ]
+  },
+  {
+    "start": 29.61,
+    "end": 31.42,
+    "zh": "一只烤鸡卖六美元",
+    "en": "A chicken sells for $6.",
+    "characters": [
+      {
+        "text": "一",
+        "start": 29.64,
+        "end": 29.82
+      },
+      {
+        "text": "只",
+        "start": 29.82,
+        "end": 30.06
+      },
+      {
+        "text": "烤",
+        "start": 30.06,
+        "end": 30.24
+      },
+      {
+        "text": "鸡",
+        "start": 30.24,
+        "end": 30.48
+      },
+      {
+        "text": "卖",
+        "start": 30.48,
+        "end": 30.66
+      },
+      {
+        "text": "六",
+        "start": 30.66,
+        "end": 30.84
+      },
+      {
+        "text": "美",
+        "start": 30.84,
+        "end": 31.08
+      },
+      {
+        "text": "元",
+        "start": 31.08,
+        "end": 31.42
+      }
+    ],
+    "words": [
+      {
+        "text": "A",
+        "start": 29.61,
+        "end": 29.82
+      },
+      {
+        "text": "chicken",
+        "start": 29.82,
+        "end": 30.376
+      },
+      {
+        "text": "sells",
+        "start": 30.376,
+        "end": 30.846
+      },
+      {
+        "text": "for",
+        "start": 30.846,
+        "end": 31.21
+      },
+      {
+        "text": "$6.",
+        "start": 31.21,
+        "end": 31.42
+      }
+    ]
+  },
+  {
+    "start": 31.47,
+    "end": 33.1,
+    "zh": "直接成本七美元",
+    "en": "Its direct cost is $7.",
+    "characters": [
+      {
+        "text": "直",
+        "start": 31.5,
+        "end": 31.68
+      },
+      {
+        "text": "接",
+        "start": 31.68,
+        "end": 31.92
+      },
+      {
+        "text": "成",
+        "start": 31.92,
+        "end": 32.1
+      },
+      {
+        "text": "本",
+        "start": 32.1,
+        "end": 32.28
+      },
+      {
+        "text": "七",
+        "start": 32.28,
+        "end": 32.52
+      },
+      {
+        "text": "美",
+        "start": 32.52,
+        "end": 32.76
+      },
+      {
+        "text": "元",
+        "start": 32.76,
+        "end": 33.1
+      }
+    ],
+    "words": [
+      {
+        "text": "Its",
+        "start": 31.47,
+        "end": 31.798
+      },
+      {
+        "text": "direct",
+        "start": 31.798,
+        "end": 32.263
+      },
+      {
+        "text": "cost",
+        "start": 32.263,
+        "end": 32.642
+      },
+      {
+        "text": "is",
+        "start": 32.642,
+        "end": 32.91
+      },
+      {
+        "text": "$7.",
+        "start": 32.91,
+        "end": 33.1
+      }
+    ]
+  },
+  {
+    "start": 33.27,
+    "end": 34.335,
+    "zh": "超市每卖一只",
+    "en": "For each chicken sold",
+    "characters": [
+      {
+        "text": "超",
+        "start": 33.3,
+        "end": 33.42
+      },
+      {
+        "text": "市",
+        "start": 33.42,
+        "end": 33.66
+      },
+      {
+        "text": "每",
+        "start": 33.66,
+        "end": 33.84
+      },
+      {
+        "text": "卖",
+        "start": 33.84,
+        "end": 34.02
+      },
+      {
+        "text": "一",
+        "start": 34.02,
+        "end": 34.14
+      },
+      {
+        "text": "只",
+        "start": 34.14,
+        "end": 34.335
+      }
+    ],
+    "words": [
+      {
+        "text": "For",
+        "start": 33.27,
+        "end": 33.49
+      },
+      {
+        "text": "each",
+        "start": 33.49,
+        "end": 33.744
+      },
+      {
+        "text": "chicken",
+        "start": 33.744,
+        "end": 34.081
+      },
+      {
+        "text": "sold",
+        "start": 34.081,
+        "end": 34.335
+      }
+    ]
+  },
+  {
+    "start": 34.35,
+    "end": 35.56,
+    "zh": "先亏一美元",
+    "en": "the store loses $1 at first.",
+    "characters": [
+      {
+        "text": "先",
+        "start": 34.38,
+        "end": 34.62
+      },
+      {
+        "text": "亏",
+        "start": 34.62,
+        "end": 34.86
+      },
+      {
+        "text": "一",
+        "start": 34.86,
+        "end": 35.04
+      },
+      {
+        "text": "美",
+        "start": 35.04,
+        "end": 35.22
+      },
+      {
+        "text": "元",
+        "start": 35.22,
+        "end": 35.56
+      }
+    ],
+    "words": [
+      {
+        "text": "the",
+        "start": 34.35,
+        "end": 34.543
+      },
+      {
+        "text": "store",
+        "start": 34.543,
+        "end": 34.792
+      },
+      {
+        "text": "loses",
+        "start": 34.792,
+        "end": 35.042
+      },
+      {
+        "text": "$1",
+        "start": 35.042,
+        "end": 35.153
+      },
+      {
+        "text": "at",
+        "start": 35.153,
+        "end": 35.311
+      },
+      {
+        "text": "first.",
+        "start": 35.311,
+        "end": 35.56
+      }
+    ]
+  },
+  {
+    "start": 35.67,
+    "end": 36.795,
+    "zh": "顾客进店后",
+    "en": "But once shoppers enter",
+    "characters": [
+      {
+        "text": "顾",
+        "start": 35.7,
+        "end": 35.94
+      },
+      {
+        "text": "客",
+        "start": 35.94,
+        "end": 36.12
+      },
+      {
+        "text": "进",
+        "start": 36.12,
+        "end": 36.3
+      },
+      {
+        "text": "店",
+        "start": 36.3,
+        "end": 36.6
+      },
+      {
+        "text": "后",
+        "start": 36.6,
+        "end": 36.795
+      }
+    ],
+    "words": [
+      {
+        "text": "But",
+        "start": 35.67,
+        "end": 35.892
+      },
+      {
+        "text": "once",
+        "start": 35.892,
+        "end": 36.147
+      },
+      {
+        "text": "shoppers",
+        "start": 36.147,
+        "end": 36.509
+      },
+      {
+        "text": "enter",
+        "start": 36.509,
+        "end": 36.795
+      }
+    ]
+  },
+  {
+    "start": 36.81,
+    "end": 39.04,
+    "zh": "还买了沙拉饮料和面包",
+    "en": "they also buy salad, drinks and bread.",
+    "characters": [
+      {
+        "text": "还",
+        "start": 36.84,
+        "end": 37.02
+      },
+      {
+        "text": "买",
+        "start": 37.02,
+        "end": 37.2
+      },
+      {
+        "text": "了",
+        "start": 37.2,
+        "end": 37.38
+      },
+      {
+        "text": "沙",
+        "start": 37.38,
+        "end": 37.62
+      },
+      {
+        "text": "拉",
+        "start": 37.62,
+        "end": 37.86
+      },
+      {
+        "text": "饮",
+        "start": 37.86,
+        "end": 38.04
+      },
+      {
+        "text": "料",
+        "start": 38.04,
+        "end": 38.22
+      },
+      {
+        "text": "和",
+        "start": 38.22,
+        "end": 38.46
+      },
+      {
+        "text": "面",
+        "start": 38.46,
+        "end": 38.7
+      },
+      {
+        "text": "包",
+        "start": 38.7,
+        "end": 39.04
+      }
+    ],
+    "words": [
+      {
+        "text": "they",
+        "start": 36.81,
+        "end": 37.12
+      },
+      {
+        "text": "also",
+        "start": 37.12,
+        "end": 37.43
+      },
+      {
+        "text": "buy",
+        "start": 37.43,
+        "end": 37.699
+      },
+      {
+        "text": "salad,",
+        "start": 37.699,
+        "end": 38.045
+      },
+      {
+        "text": "drinks",
+        "start": 38.045,
+        "end": 38.425
+      },
+      {
+        "text": "and",
+        "start": 38.425,
+        "end": 38.693
+      },
+      {
+        "text": "bread.",
+        "start": 38.693,
+        "end": 39.04
+      }
+    ]
+  },
+  {
+    "start": 39.51,
+    "end": 41.055,
+    "zh": "假设这些额外商品",
+    "en": "Suppose these extra items",
+    "characters": [
+      {
+        "text": "假",
+        "start": 39.54,
+        "end": 39.72
+      },
+      {
+        "text": "设",
+        "start": 39.72,
+        "end": 39.96
+      },
+      {
+        "text": "这",
+        "start": 39.96,
+        "end": 40.08
+      },
+      {
+        "text": "些",
+        "start": 40.08,
+        "end": 40.26
+      },
+      {
+        "text": "额",
+        "start": 40.26,
+        "end": 40.44
+      },
+      {
+        "text": "外",
+        "start": 40.44,
+        "end": 40.68
+      },
+      {
+        "text": "商",
+        "start": 40.68,
+        "end": 40.86
+      },
+      {
+        "text": "品",
+        "start": 40.86,
+        "end": 41.055
+      }
+    ],
+    "words": [
+      {
+        "text": "Suppose",
+        "start": 39.51,
+        "end": 39.947
+      },
+      {
+        "text": "these",
+        "start": 39.947,
+        "end": 40.316
+      },
+      {
+        "text": "extra",
+        "start": 40.316,
+        "end": 40.686
+      },
+      {
+        "text": "items",
+        "start": 40.686,
+        "end": 41.055
+      }
+    ]
+  },
+  {
+    "start": 41.07,
+    "end": 42.46,
+    "zh": "一共卖二十美元",
+    "en": "sell for $20 in total.",
+    "characters": [
+      {
+        "text": "一",
+        "start": 41.1,
+        "end": 41.22
+      },
+      {
+        "text": "共",
+        "start": 41.22,
+        "end": 41.4
+      },
+      {
+        "text": "卖",
+        "start": 41.4,
+        "end": 41.64
+      },
+      {
+        "text": "二",
+        "start": 41.64,
+        "end": 41.76
+      },
+      {
+        "text": "十",
+        "start": 41.76,
+        "end": 41.94
+      },
+      {
+        "text": "美",
+        "start": 41.94,
+        "end": 42.12
+      },
+      {
+        "text": "元",
+        "start": 42.12,
+        "end": 42.46
+      }
+    ],
+    "words": [
+      {
+        "text": "sell",
+        "start": 41.07,
+        "end": 41.386
+      },
+      {
+        "text": "for",
+        "start": 41.386,
+        "end": 41.66
+      },
+      {
+        "text": "$20",
+        "start": 41.66,
+        "end": 41.883
+      },
+      {
+        "text": "in",
+        "start": 41.883,
+        "end": 42.107
+      },
+      {
+        "text": "total.",
+        "start": 42.107,
+        "end": 42.46
+      }
+    ]
+  },
+  {
+    "start": 42.57,
+    "end": 45.52,
+    "zh": "扣掉十二美元的进货等变动成本",
+    "en": "Subtract $12 in variable costs.",
+    "characters": [
+      {
+        "text": "扣",
+        "start": 42.6,
+        "end": 42.78
+      },
+      {
+        "text": "掉",
+        "start": 42.78,
+        "end": 43.02
+      },
+      {
+        "text": "十",
+        "start": 43.02,
+        "end": 43.2
+      },
+      {
+        "text": "二",
+        "start": 43.2,
+        "end": 43.38
+      },
+      {
+        "text": "美",
+        "start": 43.38,
+        "end": 43.56
+      },
+      {
+        "text": "元",
+        "start": 43.56,
+        "end": 43.74
+      },
+      {
+        "text": "的",
+        "start": 43.74,
+        "end": 43.92
+      },
+      {
+        "text": "进",
+        "start": 43.92,
+        "end": 44.1
+      },
+      {
+        "text": "货",
+        "start": 44.1,
+        "end": 44.34
+      },
+      {
+        "text": "等",
+        "start": 44.34,
+        "end": 44.64
+      },
+      {
+        "text": "变",
+        "start": 44.64,
+        "end": 44.76
+      },
+      {
+        "text": "动",
+        "start": 44.76,
+        "end": 45.0
+      },
+      {
+        "text": "成",
+        "start": 45.0,
+        "end": 45.18
+      },
+      {
+        "text": "本",
+        "start": 45.18,
+        "end": 45.52
+      }
+    ],
+    "words": [
+      {
+        "text": "Subtract",
+        "start": 42.57,
+        "end": 43.348
+      },
+      {
+        "text": "$12",
+        "start": 43.348,
+        "end": 43.737
+      },
+      {
+        "text": "in",
+        "start": 43.737,
+        "end": 44.126
+      },
+      {
+        "text": "variable",
+        "start": 44.126,
+        "end": 44.905
+      },
+      {
+        "text": "costs.",
+        "start": 44.905,
+        "end": 45.52
+      }
+    ]
+  },
+  {
+    "start": 45.63,
+    "end": 47.44,
+    "zh": "贡献利润是八美元",
+    "en": "Their contribution is $8.",
+    "characters": [
+      {
+        "text": "贡",
+        "start": 45.66,
+        "end": 45.84
+      },
+      {
+        "text": "献",
+        "start": 45.84,
+        "end": 46.08
+      },
+      {
+        "text": "利",
+        "start": 46.08,
+        "end": 46.26
+      },
+      {
+        "text": "润",
+        "start": 46.26,
+        "end": 46.44
+      },
+      {
+        "text": "是",
+        "start": 46.44,
+        "end": 46.62
+      },
+      {
+        "text": "八",
+        "start": 46.62,
+        "end": 46.86
+      },
+      {
+        "text": "美",
+        "start": 46.86,
+        "end": 47.1
+      },
+      {
+        "text": "元",
+        "start": 47.1,
+        "end": 47.44
+      }
+    ],
+    "words": [
+      {
+        "text": "Their",
+        "start": 45.63,
+        "end": 46.129
+      },
+      {
+        "text": "contribution",
+        "start": 46.129,
+        "end": 46.901
+      },
+      {
+        "text": "is",
+        "start": 46.901,
+        "end": 47.217
+      },
+      {
+        "text": "$8.",
+        "start": 47.217,
+        "end": 47.44
+      }
+    ]
+  },
+  {
+    "start": 47.49,
+    "end": 49.84,
+    "zh": "再减去烤鸡亏的一美元",
+    "en": "Subtract the $1 chicken loss.",
+    "characters": [
+      {
+        "text": "再",
+        "start": 47.52,
+        "end": 47.82
+      },
+      {
+        "text": "减",
+        "start": 47.82,
+        "end": 48.06
+      },
+      {
+        "text": "去",
+        "start": 48.06,
+        "end": 48.24
+      },
+      {
+        "text": "烤",
+        "start": 48.24,
+        "end": 48.48
+      },
+      {
+        "text": "鸡",
+        "start": 48.48,
+        "end": 48.72
+      },
+      {
+        "text": "亏",
+        "start": 48.72,
+        "end": 48.96
+      },
+      {
+        "text": "的",
+        "start": 48.96,
+        "end": 49.14
+      },
+      {
+        "text": "一",
+        "start": 49.14,
+        "end": 49.32
+      },
+      {
+        "text": "美",
+        "start": 49.32,
+        "end": 49.5
+      },
+      {
+        "text": "元",
+        "start": 49.5,
+        "end": 49.84
+      }
+    ],
+    "words": [
+      {
+        "text": "Subtract",
+        "start": 47.49,
+        "end": 48.141
+      },
+      {
+        "text": "the",
+        "start": 48.141,
+        "end": 48.54
+      },
+      {
+        "text": "$1",
+        "start": 48.54,
+        "end": 48.77
+      },
+      {
+        "text": "chicken",
+        "start": 48.77,
+        "end": 49.379
+      },
+      {
+        "text": "loss.",
+        "start": 49.379,
+        "end": 49.84
+      }
+    ]
+  },
+  {
+    "start": 49.95,
+    "end": 51.075,
+    "zh": "这一篮购物",
+    "en": "This shopping basket",
+    "characters": [
+      {
+        "text": "这",
+        "start": 49.98,
+        "end": 50.22
+      },
+      {
+        "text": "一",
+        "start": 50.22,
+        "end": 50.43
+      },
+      {
+        "text": "篮",
+        "start": 50.43,
+        "end": 50.64
+      },
+      {
+        "text": "购",
+        "start": 50.64,
+        "end": 50.82
+      },
+      {
+        "text": "物",
+        "start": 50.82,
+        "end": 51.075
+      }
+    ],
+    "words": [
+      {
+        "text": "This",
+        "start": 49.95,
+        "end": 50.259
+      },
+      {
+        "text": "shopping",
+        "start": 50.259,
+        "end": 50.696
+      },
+      {
+        "text": "basket",
+        "start": 50.696,
+        "end": 51.075
+      }
+    ]
+  },
+  {
+    "start": 51.09,
+    "end": 52.72,
+    "zh": "总共贡献七美元",
+    "en": "contributes $7 in total.",
+    "characters": [
+      {
+        "text": "总",
+        "start": 51.12,
+        "end": 51.24
+      },
+      {
+        "text": "共",
+        "start": 51.24,
+        "end": 51.48
+      },
+      {
+        "text": "贡",
+        "start": 51.48,
+        "end": 51.66
+      },
+      {
+        "text": "献",
+        "start": 51.66,
+        "end": 51.9
+      },
+      {
+        "text": "七",
+        "start": 51.9,
+        "end": 52.2
+      },
+      {
+        "text": "美",
+        "start": 52.2,
+        "end": 52.38
+      },
+      {
+        "text": "元",
+        "start": 52.38,
+        "end": 52.72
+      }
+    ],
+    "words": [
+      {
+        "text": "contributes",
+        "start": 51.09,
+        "end": 51.769
+      },
+      {
+        "text": "$7",
+        "start": 51.769,
+        "end": 51.973
+      },
+      {
+        "text": "in",
+        "start": 51.973,
+        "end": 52.263
+      },
+      {
+        "text": "total.",
+        "start": 52.263,
+        "end": 52.72
+      }
+    ]
+  },
+  {
+    "start": 53.01,
+    "end": 54.82,
+    "zh": "但这里有个关键问题",
+    "en": "But here is the crucial question.",
+    "characters": [
+      {
+        "text": "但",
+        "start": 53.04,
+        "end": 53.28
+      },
+      {
+        "text": "这",
+        "start": 53.28,
+        "end": 53.46
+      },
+      {
+        "text": "里",
+        "start": 53.46,
+        "end": 53.58
+      },
+      {
+        "text": "有",
+        "start": 53.58,
+        "end": 53.7
+      },
+      {
+        "text": "个",
+        "start": 53.7,
+        "end": 53.88
+      },
+      {
+        "text": "关",
+        "start": 53.88,
+        "end": 54.06
+      },
+      {
+        "text": "键",
+        "start": 54.06,
+        "end": 54.3
+      },
+      {
+        "text": "问",
+        "start": 54.3,
+        "end": 54.48
+      },
+      {
+        "text": "题",
+        "start": 54.48,
+        "end": 54.82
+      }
+    ],
+    "words": [
+      {
+        "text": "But",
+        "start": 53.01,
+        "end": 53.264
+      },
+      {
+        "text": "here",
+        "start": 53.264,
+        "end": 53.557
+      },
+      {
+        "text": "is",
+        "start": 53.557,
+        "end": 53.764
+      },
+      {
+        "text": "the",
+        "start": 53.764,
+        "end": 54.018
+      },
+      {
+        "text": "crucial",
+        "start": 54.018,
+        "end": 54.406
+      },
+      {
+        "text": "question.",
+        "start": 54.406,
+        "end": 54.82
+      }
+    ]
+  },
+  {
+    "start": 55.05,
+    "end": 57.195,
+    "zh": "顾客是不是因为便宜烤鸡",
+    "en": "Did the cheap chicken cause shoppers",
+    "characters": [
+      {
+        "text": "顾",
+        "start": 55.08,
+        "end": 55.26
+      },
+      {
+        "text": "客",
+        "start": 55.26,
+        "end": 55.5
+      },
+      {
+        "text": "是",
+        "start": 55.5,
+        "end": 55.62
+      },
+      {
+        "text": "不",
+        "start": 55.62,
+        "end": 55.8
+      },
+      {
+        "text": "是",
+        "start": 55.8,
+        "end": 55.98
+      },
+      {
+        "text": "因",
+        "start": 55.98,
+        "end": 56.1
+      },
+      {
+        "text": "为",
+        "start": 56.1,
+        "end": 56.34
+      },
+      {
+        "text": "便",
+        "start": 56.34,
+        "end": 56.52
+      },
+      {
+        "text": "宜",
+        "start": 56.52,
+        "end": 56.7
+      },
+      {
+        "text": "烤",
+        "start": 56.7,
+        "end": 56.88
+      },
+      {
+        "text": "鸡",
+        "start": 56.88,
+        "end": 57.195
+      }
+    ],
+    "words": [
+      {
+        "text": "Did",
+        "start": 55.05,
+        "end": 55.327
+      },
+      {
+        "text": "the",
+        "start": 55.327,
+        "end": 55.604
+      },
+      {
+        "text": "cheap",
+        "start": 55.604,
+        "end": 55.962
+      },
+      {
+        "text": "chicken",
+        "start": 55.962,
+        "end": 56.385
+      },
+      {
+        "text": "cause",
+        "start": 56.385,
+        "end": 56.743
+      },
+      {
+        "text": "shoppers",
+        "start": 56.743,
+        "end": 57.195
+      }
+    ]
+  },
+  {
+    "start": 57.21,
+    "end": 58.815,
+    "zh": "才多买了这些东西",
+    "en": "to buy these extra items?",
+    "characters": [
+      {
+        "text": "才",
+        "start": 57.24,
+        "end": 57.42
+      },
+      {
+        "text": "多",
+        "start": 57.42,
+        "end": 57.66
+      },
+      {
+        "text": "买",
+        "start": 57.66,
+        "end": 57.84
+      },
+      {
+        "text": "了",
+        "start": 57.84,
+        "end": 58.02
+      },
+      {
+        "text": "这",
+        "start": 58.02,
+        "end": 58.14
+      },
+      {
+        "text": "些",
+        "start": 58.14,
+        "end": 58.32
+      },
+      {
+        "text": "东",
+        "start": 58.32,
+        "end": 58.5
+      },
+      {
+        "text": "西",
+        "start": 58.5,
+        "end": 58.815
+      }
+    ],
+    "words": [
+      {
+        "text": "to",
+        "start": 57.21,
+        "end": 57.44
+      },
+      {
+        "text": "buy",
+        "start": 57.44,
+        "end": 57.722
+      },
+      {
+        "text": "these",
+        "start": 57.722,
+        "end": 58.087
+      },
+      {
+        "text": "extra",
+        "start": 58.087,
+        "end": 58.451
+      },
+      {
+        "text": "items?",
+        "start": 58.451,
+        "end": 58.815
+      }
+    ]
+  },
+  {
+    "start": 58.83,
+    "end": 60.28,
+    "zh": "还是本来就要买",
+    "en": "If they planned to buy them anyway",
+    "characters": [
+      {
+        "text": "还",
+        "start": 58.86,
+        "end": 59.04
+      },
+      {
+        "text": "是",
+        "start": 59.04,
+        "end": 59.22
+      },
+      {
+        "text": "本",
+        "start": 59.22,
+        "end": 59.4
+      },
+      {
+        "text": "来",
+        "start": 59.4,
+        "end": 59.58
+      },
+      {
+        "text": "就",
+        "start": 59.58,
+        "end": 59.76
+      },
+      {
+        "text": "要",
+        "start": 59.76,
+        "end": 59.94
+      },
+      {
+        "text": "买",
+        "start": 59.94,
+        "end": 60.28
+      }
+    ],
+    "words": [
+      {
+        "text": "If",
+        "start": 58.83,
+        "end": 58.98
+      },
+      {
+        "text": "they",
+        "start": 58.98,
+        "end": 59.193
+      },
+      {
+        "text": "planned",
+        "start": 59.193,
+        "end": 59.473
+      },
+      {
+        "text": "to",
+        "start": 59.473,
+        "end": 59.624
+      },
+      {
+        "text": "buy",
+        "start": 59.624,
+        "end": 59.808
+      },
+      {
+        "text": "them",
+        "start": 59.808,
+        "end": 60.02
+      },
+      {
+        "text": "anyway",
+        "start": 60.02,
+        "end": 60.28
+      }
+    ]
+  },
+  {
+    "start": 60.39,
+    "end": 61.695,
+    "zh": "那就不能把利润",
+    "en": "we cannot attribute all that contribution",
+    "characters": [
+      {
+        "text": "那",
+        "start": 60.42,
+        "end": 60.66
+      },
+      {
+        "text": "就",
+        "start": 60.66,
+        "end": 60.78
+      },
+      {
+        "text": "不",
+        "start": 60.78,
+        "end": 60.96
+      },
+      {
+        "text": "能",
+        "start": 60.96,
+        "end": 61.14
+      },
+      {
+        "text": "把",
+        "start": 61.14,
+        "end": 61.32
+      },
+      {
+        "text": "利",
+        "start": 61.32,
+        "end": 61.5
+      },
+      {
+        "text": "润",
+        "start": 61.5,
+        "end": 61.695
+      }
+    ],
+    "words": [
+      {
+        "text": "we",
+        "start": 60.39,
+        "end": 60.521
+      },
+      {
+        "text": "cannot",
+        "start": 60.521,
+        "end": 60.749
+      },
+      {
+        "text": "attribute",
+        "start": 60.749,
+        "end": 61.027
+      },
+      {
+        "text": "all",
+        "start": 61.027,
+        "end": 61.188
+      },
+      {
+        "text": "that",
+        "start": 61.188,
+        "end": 61.373
+      },
+      {
+        "text": "contribution",
+        "start": 61.373,
+        "end": 61.695
+      }
+    ]
+  },
+  {
+    "start": 61.71,
+    "end": 63.315,
+    "zh": "都算成烤鸡带来的",
+    "en": "to the chicken promotion.",
+    "characters": [
+      {
+        "text": "都",
+        "start": 61.74,
+        "end": 61.92
+      },
+      {
+        "text": "算",
+        "start": 61.92,
+        "end": 62.1
+      },
+      {
+        "text": "成",
+        "start": 62.1,
+        "end": 62.28
+      },
+      {
+        "text": "烤",
+        "start": 62.28,
+        "end": 62.52
+      },
+      {
+        "text": "鸡",
+        "start": 62.52,
+        "end": 62.82
+      },
+      {
+        "text": "带",
+        "start": 62.82,
+        "end": 62.94
+      },
+      {
+        "text": "来",
+        "start": 62.94,
+        "end": 63.12
+      },
+      {
+        "text": "的",
+        "start": 63.12,
+        "end": 63.315
+      }
+    ],
+    "words": [
+      {
+        "text": "to",
+        "start": 61.71,
+        "end": 61.968
+      },
+      {
+        "text": "the",
+        "start": 61.968,
+        "end": 62.284
+      },
+      {
+        "text": "chicken",
+        "start": 62.284,
+        "end": 62.767
+      },
+      {
+        "text": "promotion.",
+        "start": 62.767,
+        "end": 63.315
+      }
+    ]
+  },
+  {
+    "start": 63.33,
+    "end": 65.5,
+    "zh": "这才是商业分析的重点",
+    "en": "That is the key to business analysis.",
+    "characters": [
+      {
+        "text": "这",
+        "start": 63.36,
+        "end": 63.6
+      },
+      {
+        "text": "才",
+        "start": 63.6,
+        "end": 63.84
+      },
+      {
+        "text": "是",
+        "start": 63.84,
+        "end": 64.02
+      },
+      {
+        "text": "商",
+        "start": 64.02,
+        "end": 64.14
+      },
+      {
+        "text": "业",
+        "start": 64.14,
+        "end": 64.38
+      },
+      {
+        "text": "分",
+        "start": 64.38,
+        "end": 64.56
+      },
+      {
+        "text": "析",
+        "start": 64.56,
+        "end": 64.74
+      },
+      {
+        "text": "的",
+        "start": 64.74,
+        "end": 64.92
+      },
+      {
+        "text": "重",
+        "start": 64.92,
+        "end": 65.16
+      },
+      {
+        "text": "点",
+        "start": 65.16,
+        "end": 65.5
+      }
+    ],
+    "words": [
+      {
+        "text": "That",
+        "start": 63.33,
+        "end": 63.641
+      },
+      {
+        "text": "is",
+        "start": 63.641,
+        "end": 63.861
+      },
+      {
+        "text": "the",
+        "start": 63.861,
+        "end": 64.131
+      },
+      {
+        "text": "key",
+        "start": 64.131,
+        "end": 64.4
+      },
+      {
+        "text": "to",
+        "start": 64.4,
+        "end": 64.62
+      },
+      {
+        "text": "business",
+        "start": 64.62,
+        "end": 65.06
+      },
+      {
+        "text": "analysis.",
+        "start": 65.06,
+        "end": 65.5
+      }
+    ]
+  },
+  {
+    "start": 65.85,
+    "end": 67.335,
+    "zh": "所以便宜的烤鸡",
+    "en": "So a cheap chicken",
+    "characters": [
+      {
+        "text": "所",
+        "start": 65.88,
+        "end": 66.06
+      },
+      {
+        "text": "以",
+        "start": 66.06,
+        "end": 66.36
+      },
+      {
+        "text": "便",
+        "start": 66.36,
+        "end": 66.54
+      },
+      {
+        "text": "宜",
+        "start": 66.54,
+        "end": 66.72
+      },
+      {
+        "text": "的",
+        "start": 66.72,
+        "end": 66.84
+      },
+      {
+        "text": "烤",
+        "start": 66.84,
+        "end": 67.02
+      },
+      {
+        "text": "鸡",
+        "start": 67.02,
+        "end": 67.335
+      }
+    ],
+    "words": [
+      {
+        "text": "So",
+        "start": 65.85,
+        "end": 66.138
+      },
+      {
+        "text": "a",
+        "start": 66.138,
+        "end": 66.341
+      },
+      {
+        "text": "cheap",
+        "start": 66.341,
+        "end": 66.796
+      },
+      {
+        "text": "chicken",
+        "start": 66.796,
+        "end": 67.335
+      }
+    ]
+  },
+  {
+    "start": 67.35,
+    "end": 68.68,
+    "zh": "可能不只是晚餐",
+    "en": "may be more than dinner.",
+    "characters": [
+      {
+        "text": "可",
+        "start": 67.38,
+        "end": 67.5
+      },
+      {
+        "text": "能",
+        "start": 67.5,
+        "end": 67.62
+      },
+      {
+        "text": "不",
+        "start": 67.62,
+        "end": 67.74
+      },
+      {
+        "text": "只",
+        "start": 67.74,
+        "end": 67.92
+      },
+      {
+        "text": "是",
+        "start": 67.92,
+        "end": 68.1
+      },
+      {
+        "text": "晚",
+        "start": 68.1,
+        "end": 68.34
+      },
+      {
+        "text": "餐",
+        "start": 68.34,
+        "end": 68.68
+      }
+    ],
+    "words": [
+      {
+        "text": "may",
+        "start": 67.35,
+        "end": 67.59
+      },
+      {
+        "text": "be",
+        "start": 67.59,
+        "end": 67.786
+      },
+      {
+        "text": "more",
+        "start": 67.786,
+        "end": 68.063
+      },
+      {
+        "text": "than",
+        "start": 68.063,
+        "end": 68.34
+      },
+      {
+        "text": "dinner.",
+        "start": 68.34,
+        "end": 68.68
+      }
+    ]
+  },
+  {
+    "start": 68.79,
+    "end": 70.84,
+    "zh": "它可能是一种引流工具",
+    "en": "It may also attract shoppers.",
+    "characters": [
+      {
+        "text": "它",
+        "start": 68.82,
+        "end": 69.06
+      },
+      {
+        "text": "可",
+        "start": 69.06,
+        "end": 69.24
+      },
+      {
+        "text": "能",
+        "start": 69.24,
+        "end": 69.42
+      },
+      {
+        "text": "是",
+        "start": 69.42,
+        "end": 69.54
+      },
+      {
+        "text": "一",
+        "start": 69.54,
+        "end": 69.66
+      },
+      {
+        "text": "种",
+        "start": 69.66,
+        "end": 69.9
+      },
+      {
+        "text": "引",
+        "start": 69.9,
+        "end": 70.08
+      },
+      {
+        "text": "流",
+        "start": 70.08,
+        "end": 70.38
+      },
+      {
+        "text": "工",
+        "start": 70.38,
+        "end": 70.5
+      },
+      {
+        "text": "具",
+        "start": 70.5,
+        "end": 70.84
+      }
+    ],
+    "words": [
+      {
+        "text": "It",
+        "start": 68.79,
+        "end": 69.063
+      },
+      {
+        "text": "may",
+        "start": 69.063,
+        "end": 69.397
+      },
+      {
+        "text": "also",
+        "start": 69.397,
+        "end": 69.783
+      },
+      {
+        "text": "attract",
+        "start": 69.783,
+        "end": 70.294
+      },
+      {
+        "text": "shoppers.",
+        "start": 70.294,
+        "end": 70.84
+      }
+    ]
+  },
+  {
+    "start": 71.01,
+    "end": 72.105,
+    "zh": "真正要算的",
+    "en": "What really matters",
+    "characters": [
+      {
+        "text": "真",
+        "start": 71.04,
+        "end": 71.28
+      },
+      {
+        "text": "正",
+        "start": 71.28,
+        "end": 71.52
+      },
+      {
+        "text": "要",
+        "start": 71.52,
+        "end": 71.7
+      },
+      {
+        "text": "算",
+        "start": 71.7,
+        "end": 72.0
+      },
+      {
+        "text": "的",
+        "start": 72.0,
+        "end": 72.105
+      }
+    ],
+    "words": [
+      {
+        "text": "What",
+        "start": 71.01,
+        "end": 71.319
+      },
+      {
+        "text": "really",
+        "start": 71.319,
+        "end": 71.697
+      },
+      {
+        "text": "matters",
+        "start": 71.697,
+        "end": 72.105
+      }
+    ]
+  },
+  {
+    "start": 72.12,
+    "end": 73.96,
+    "zh": "不是一只鸡赚多少钱",
+    "en": "is not the profit on one chicken.",
+    "characters": [
+      {
+        "text": "不",
+        "start": 72.15,
+        "end": 72.3
+      },
+      {
+        "text": "是",
+        "start": 72.3,
+        "end": 72.48
+      },
+      {
+        "text": "一",
+        "start": 72.48,
+        "end": 72.6
+      },
+      {
+        "text": "只",
+        "start": 72.6,
+        "end": 72.78
+      },
+      {
+        "text": "鸡",
+        "start": 72.78,
+        "end": 73.02
+      },
+      {
+        "text": "赚",
+        "start": 73.02,
+        "end": 73.32
+      },
+      {
+        "text": "多",
+        "start": 73.32,
+        "end": 73.44
+      },
+      {
+        "text": "少",
+        "start": 73.44,
+        "end": 73.62
+      },
+      {
+        "text": "钱",
+        "start": 73.62,
+        "end": 73.96
+      }
+    ],
+    "words": [
+      {
+        "text": "is",
+        "start": 72.12,
+        "end": 72.318
+      },
+      {
+        "text": "not",
+        "start": 72.318,
+        "end": 72.561
+      },
+      {
+        "text": "the",
+        "start": 72.561,
+        "end": 72.804
+      },
+      {
+        "text": "profit",
+        "start": 72.804,
+        "end": 73.148
+      },
+      {
+        "text": "on",
+        "start": 73.148,
+        "end": 73.346
+      },
+      {
+        "text": "one",
+        "start": 73.346,
+        "end": 73.589
+      },
+      {
+        "text": "chicken.",
+        "start": 73.589,
+        "end": 73.96
+      }
+    ]
+  },
+  {
+    "start": 74.13,
+    "end": 75.315,
+    "zh": "而是这项策略",
+    "en": "It is whether this strategy",
+    "characters": [
+      {
+        "text": "而",
+        "start": 74.16,
+        "end": 74.34
+      },
+      {
+        "text": "是",
+        "start": 74.34,
+        "end": 74.46
+      },
+      {
+        "text": "这",
+        "start": 74.46,
+        "end": 74.64
+      },
+      {
+        "text": "项",
+        "start": 74.64,
+        "end": 74.88
+      },
+      {
+        "text": "策",
+        "start": 74.88,
+        "end": 75.06
+      },
+      {
+        "text": "略",
+        "start": 75.06,
+        "end": 75.315
+      }
+    ],
+    "words": [
+      {
+        "text": "It",
+        "start": 74.13,
+        "end": 74.293
+      },
+      {
+        "text": "is",
+        "start": 74.293,
+        "end": 74.455
+      },
+      {
+        "text": "whether",
+        "start": 74.455,
+        "end": 74.76
+      },
+      {
+        "text": "this",
+        "start": 74.76,
+        "end": 74.99
+      },
+      {
+        "text": "strategy",
+        "start": 74.99,
+        "end": 75.315
+      }
+    ]
+  },
+  {
+    "start": 75.33,
+    "end": 76.96,
+    "zh": "有没有带来额外利润",
+    "en": "generates incremental profit.",
+    "characters": [
+      {
+        "text": "有",
+        "start": 75.36,
+        "end": 75.48
+      },
+      {
+        "text": "没",
+        "start": 75.48,
+        "end": 75.6
+      },
+      {
+        "text": "有",
+        "start": 75.6,
+        "end": 75.72
+      },
+      {
+        "text": "带",
+        "start": 75.72,
+        "end": 75.84
+      },
+      {
+        "text": "来",
+        "start": 75.84,
+        "end": 76.08
+      },
+      {
+        "text": "额",
+        "start": 76.08,
+        "end": 76.2
+      },
+      {
+        "text": "外",
+        "start": 76.2,
+        "end": 76.5
+      },
+      {
+        "text": "利",
+        "start": 76.5,
+        "end": 76.62
+      },
+      {
+        "text": "润",
+        "start": 76.62,
+        "end": 76.96
+      }
+    ],
+    "words": [
+      {
+        "text": "generates",
+        "start": 75.33,
+        "end": 75.888
+      },
+      {
+        "text": "incremental",
+        "start": 75.888,
+        "end": 76.505
+      },
+      {
+        "text": "profit.",
+        "start": 76.505,
+        "end": 76.96
+      }
+    ]
+  },
+  {
+    "start": 77.01,
+    "end": 78.94,
+    "zh": "这就是数据看生意",
+    "en": "This is Business Through Data.",
+    "characters": [
+      {
+        "text": "这",
+        "start": 77.04,
+        "end": 77.28
+      },
+      {
+        "text": "就",
+        "start": 77.28,
+        "end": 77.46
+      },
+      {
+        "text": "是",
+        "start": 77.46,
+        "end": 77.7
+      },
+      {
+        "text": "数",
+        "start": 77.7,
+        "end": 77.88
+      },
+      {
+        "text": "据",
+        "start": 77.88,
+        "end": 78.12
+      },
+      {
+        "text": "看",
+        "start": 78.12,
+        "end": 78.36
+      },
+      {
+        "text": "生",
+        "start": 78.36,
+        "end": 78.6
+      },
+      {
+        "text": "意",
+        "start": 78.6,
+        "end": 78.94
+      }
+    ],
+    "words": [
+      {
+        "text": "This",
+        "start": 77.01,
+        "end": 77.365
+      },
+      {
+        "text": "is",
+        "start": 77.365,
+        "end": 77.615
+      },
+      {
+        "text": "Business",
+        "start": 77.615,
+        "end": 78.117
+      },
+      {
+        "text": "Through",
+        "start": 78.117,
+        "end": 78.585
+      },
+      {
+        "text": "Data.",
+        "start": 78.585,
+        "end": 78.94
+      }
+    ]
+  }
+]

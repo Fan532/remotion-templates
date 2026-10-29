@@ -1,0 +1,171 @@
+1
+00:00:00,210 --> 00:00:01,335
+Have you ever wondered?
+
+2
+00:00:01,350 --> 00:00:03,555
+A whole hot rotisserie chicken
+
+3
+00:00:03,570 --> 00:00:05,200
+Why is it so cheap?
+
+4
+00:00:05,430 --> 00:00:08,260
+It is easier than cooking one yourself.
+
+5
+00:00:08,490 --> 00:00:10,635
+Does the store profit from the chicken?
+
+6
+00:00:10,650 --> 00:00:11,380
+Not necessarily.
+
+7
+00:00:11,730 --> 00:00:13,395
+Because what the store wants to sell you
+
+8
+00:00:13,410 --> 00:00:15,280
+may be much more than a chicken.
+
+9
+00:00:15,450 --> 00:00:17,440
+Here is a business strategy.
+
+10
+00:00:17,550 --> 00:00:19,250
+Loss Leader Strategy
+
+11
+00:00:20,070 --> 00:00:21,700
+Loss Leader Strategy
+
+12
+00:00:21,810 --> 00:00:24,195
+Low prices attract shoppers.
+
+13
+00:00:24,210 --> 00:00:26,200
+Other products can earn a contribution.
+
+14
+00:00:26,370 --> 00:00:27,615
+Let us do the math.
+
+15
+00:00:27,630 --> 00:00:29,320
+All these numbers are hypothetical.
+
+16
+00:00:29,610 --> 00:00:31,420
+A chicken sells for $6.
+
+17
+00:00:31,470 --> 00:00:33,100
+Its direct cost is $7.
+
+18
+00:00:33,270 --> 00:00:34,335
+For each chicken sold
+
+19
+00:00:34,350 --> 00:00:35,560
+the store loses $1 at first.
+
+20
+00:00:35,670 --> 00:00:36,795
+But once shoppers enter
+
+21
+00:00:36,810 --> 00:00:39,040
+they also buy salad, drinks and bread.
+
+22
+00:00:39,510 --> 00:00:41,055
+Suppose these extra items
+
+23
+00:00:41,070 --> 00:00:42,460
+sell for $20 in total.
+
+24
+00:00:42,570 --> 00:00:45,520
+Subtract $12 in variable costs.
+
+25
+00:00:45,630 --> 00:00:47,440
+Their contribution is $8.
+
+26
+00:00:47,490 --> 00:00:49,840
+Subtract the $1 chicken loss.
+
+27
+00:00:49,950 --> 00:00:51,075
+This shopping basket
+
+28
+00:00:51,090 --> 00:00:52,720
+contributes $7 in total.
+
+29
+00:00:53,010 --> 00:00:54,820
+But here is the crucial question.
+
+30
+00:00:55,050 --> 00:00:57,195
+Did the cheap chicken cause shoppers
+
+31
+00:00:57,210 --> 00:00:58,815
+to buy these extra items?
+
+32
+00:00:58,830 --> 00:01:00,280
+If they planned to buy them anyway
+
+33
+00:01:00,390 --> 00:01:01,695
+we cannot attribute all that contribution
+
+34
+00:01:01,710 --> 00:01:03,315
+to the chicken promotion.
+
+35
+00:01:03,330 --> 00:01:05,500
+That is the key to business analysis.
+
+36
+00:01:05,850 --> 00:01:07,335
+So a cheap chicken
+
+37
+00:01:07,350 --> 00:01:08,680
+may be more than dinner.
+
+38
+00:01:08,790 --> 00:01:10,840
+It may also attract shoppers.
+
+39
+00:01:11,010 --> 00:01:12,105
+What really matters
+
+40
+00:01:12,120 --> 00:01:13,960
+is not the profit on one chicken.
+
+41
+00:01:14,130 --> 00:01:15,315
+It is whether this strategy
+
+42
+00:01:15,330 --> 00:01:16,960
+generates incremental profit.
+
+43
+00:01:17,010 --> 00:01:18,940
+This is Business Through Data.

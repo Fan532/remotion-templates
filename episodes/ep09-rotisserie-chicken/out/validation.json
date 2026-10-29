@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 79.466667,
+  "frames": 2384,
+  "size_bytes": 9282079,
+  "codec": "h264",
+  "pixel_format": "yuv420p",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "audio_codec": "aac",
+  "original_voice_sha256": "247339f28b12540fca3cfd91de09204b462da1480a227992696df4044ee4219e",
+  "voice_rate": 1,
+  "audio_mix_correlation": 0.9999512933502727,
+  "audio_peak_dbfs": -6.242490768432617,
+  "full_decode": "PASS",
+  "preserved_old_mp4_count": 35,
+  "caption_pages": 43,
+  "key_scene_previews": 6,
+  "visual_review": "PASS: six decoded scene frames reviewed; no visible caption/chart overlap or truncation in sampled frames",
+  "limitations": [
+    "Not manually listened word by word",
+    "English uses translated phrase timing",
+    "No Windows GUI available"
+  ]
+}
