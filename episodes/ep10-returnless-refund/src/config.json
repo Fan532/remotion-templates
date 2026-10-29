@@ -1,0 +1,250 @@
+{
+  "fps": 30,
+  "duration": 88.842417,
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "safeHeight": 1248,
+  "musicVolume": 0.19,
+  "colors": {
+    "blue": "#3684E3",
+    "teal": "#24A88A",
+    "coral": "#EF766D",
+    "purple": "#8C6BD2",
+    "yellow": "#F6C763",
+    "ink": "#26374F",
+    "muted": "#7E8FA2",
+    "line": "#E4EDF4"
+  },
+  "timings": {
+    "approved": 8.91,
+    "keep": 9.93,
+    "concept": 14.19,
+    "reverse": 20.13,
+    "serve": 23.55,
+    "example": 26.01,
+    "price": 29.31,
+    "refund": 31.29,
+    "shipping": 34.89,
+    "handling": 37.29,
+    "result": 40.47,
+    "recovery": 41.67,
+    "nine": 46.47,
+    "negative": 49.59,
+    "compare": 51.87,
+    "insight": 55.65,
+    "keepChoice": 59.37,
+    "high": 67.47,
+    "highReturn": 70.83,
+    "ending": 73.05,
+    "decision": 80.67,
+    "brand": 86.43
+  },
+  "input": {
+    "price": 20,
+    "refund": 20,
+    "returnShipping": 6,
+    "handling": 3,
+    "netRecovery": 5,
+    "noReturnExtraResult": 0
+  },
+  "labels": {
+    "hook": {
+      "zh": "退款了，还不用寄回？",
+      "en": "Refunded — And You Keep It?"
+    },
+    "refund": {
+      "zh": "退款已批准",
+      "en": "Refund Approved"
+    },
+    "keep": {
+      "zh": "无需退货",
+      "en": "No Return Required"
+    },
+    "request": {
+      "zh": "申请退货",
+      "en": "Request a Return"
+    },
+    "concept": {
+      "zh": "不是大方，是算过成本",
+      "en": "Generosity — Or a Cost Calculation?"
+    },
+    "reverse": {
+      "zh": "逆向物流",
+      "en": "Reverse Logistics"
+    },
+    "serve": {
+      "zh": "服务成本",
+      "en": "Cost-to-Serve"
+    },
+    "customer": {
+      "zh": "顾客",
+      "en": "Customer"
+    },
+    "shipping": {
+      "zh": "退货运输",
+      "en": "Return Shipping"
+    },
+    "warehouse": {
+      "zh": "仓库检查",
+      "en": "Warehouse Inspection"
+    },
+    "resale": {
+      "zh": "重新销售",
+      "en": "Resale"
+    },
+    "hypo": {
+      "zh": "假设数据",
+      "en": "Hypothetical Example"
+    },
+    "price": {
+      "zh": "商品原售价",
+      "en": "Original Selling Price"
+    },
+    "commonRefund": {
+      "zh": "两种方案都退款 $20",
+      "en": "Both Options Refund $20"
+    },
+    "costTitle": {
+      "zh": "收回来，要花多少钱？",
+      "en": "What Does a Return Cost?"
+    },
+    "shipCost": {
+      "zh": "退货运费",
+      "en": "Return Shipping"
+    },
+    "handling": {
+      "zh": "检查与处理",
+      "en": "Inspection & Handling"
+    },
+    "returnCost": {
+      "zh": "退货处理成本",
+      "en": "Return Processing Cost"
+    },
+    "recovery": {
+      "zh": "预计回收价值",
+      "en": "Expected Recovery Value"
+    },
+    "resultTitle": {
+      "zh": "收回来，反而多损失",
+      "en": "A Return Can Add to the Loss"
+    },
+    "netResult": {
+      "zh": "额外退货净结果",
+      "en": "Additional Return Result"
+    },
+    "noReturn": {
+      "zh": "仅退款不退货",
+      "en": "Returnless Refund"
+    },
+    "withReturn": {
+      "zh": "退款并要求退货",
+      "en": "Refund With Return"
+    },
+    "extra": {
+      "zh": "额外退货净结果",
+      "en": "Additional Return Result"
+    },
+    "saving": {
+      "zh": "不要求退货，少损失 $4",
+      "en": "Save $4 by Skipping the Return"
+    },
+    "notProfit": {
+      "zh": "$4 是方案差额，不是订单利润",
+      "en": "$4 Is the Difference, Not Order Profit"
+    },
+    "insight": {
+      "zh": "不是所有商品，都适合",
+      "en": "Not Every Item Is the Same"
+    },
+    "low": {
+      "zh": "低价值商品",
+      "en": "Low-Value Item"
+    },
+    "high": {
+      "zh": "高回收价值商品",
+      "en": "Higher Recovery Value"
+    },
+    "below": {
+      "zh": "回收价值低于退货成本",
+      "en": "Recovery Value Below Return Cost"
+    },
+    "above": {
+      "zh": "回收价值高于退货成本",
+      "en": "Recovery Value Above Return Cost"
+    },
+    "recoveryAxis": {
+      "zh": "回收价值",
+      "en": "Recovery Value"
+    },
+    "costAxis": {
+      "zh": "退货成本",
+      "en": "Return Cost"
+    },
+    "illustrative": {
+      "zh": "比例示意，非新增金额假设",
+      "en": "Relative Illustration, Not Extra Dollar Assumptions"
+    },
+    "foot": {
+      "zh": "假设案例 · 非特定平台数据",
+      "en": "Hypothetical Case · Not Platform Data"
+    },
+    "netFoot": {
+      "zh": "回收价值为扣除额外转售费用后的预计金额",
+      "en": "Recovery Value Is Net of Further Resale Expenses"
+    },
+    "commonFoot": {
+      "zh": "退款与历史采购成本属于两方案共同项",
+      "en": "Refund and Historical Purchase Cost Are Shared"
+    },
+    "noExtra": {
+      "zh": "假设无额外退货处理成本",
+      "en": "Assumes No Extra Return Processing Cost"
+    },
+    "closing": {
+      "zh": "更聪明的退货决策",
+      "en": "Smarter Returns, Lower Costs"
+    },
+    "choice": {
+      "zh": "有时候，选择少损失",
+      "en": "Sometimes, the Choice Is to Lose Less"
+    },
+    "brand": {
+      "zh": "数据看生意",
+      "en": "Business Through Data"
+    },
+    "merchant": {
+      "zh": "商家成本分析",
+      "en": "Merchant Cost Analysis"
+    },
+    "order": {
+      "zh": "订单详情",
+      "en": "Order Details"
+    },
+    "organizer": {
+      "zh": "桌面收纳盒",
+      "en": "Desk Organizer"
+    },
+    "status": {
+      "zh": "退款申请处理中",
+      "en": "Refund Request Pending"
+    },
+    "inspect": {
+      "zh": "检查商品",
+      "en": "Inspect Item"
+    },
+    "approved": {
+      "zh": "已批准",
+      "en": "Approved"
+    },
+    "comparison": {
+      "zh": "共同退款之外，再比较退货",
+      "en": "Compare Returns Beyond the Shared Refund"
+    },
+    "handlingShort": {
+      "zh": "处理",
+      "en": "Handling"
+    }
+  }
+}

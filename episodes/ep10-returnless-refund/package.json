@@ -1,0 +1,28 @@
+{
+  "name": "business-through-data-ep10-returnless-refund",
+  "version": "1.0.0",
+  "description": "Returnless Refund \u2014 Reverse Logistics and Cost-to-Serve",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc",
+    "test": "node tests/verify-model.cjs",
+    "studio": "remotion studio src/index.tsx --port=3099",
+    "render": "remotion render src/index.tsx EP10ReturnlessRefund out/ep10-returnless-refund.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --pixel-format=yuv420p --concurrency=4 --log=error && python3 tools/normalize_video.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "4.0.538",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.538"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "7.0.2"
+  },
+  "private": true
+}

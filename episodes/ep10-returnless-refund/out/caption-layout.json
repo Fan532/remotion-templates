@@ -1,0 +1,12 @@
+{
+  "pages": 49,
+  "font": "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+  "font_size_both_languages": 44,
+  "max_chinese_width_px": 750.0,
+  "max_english_line_width_px": 814.28,
+  "available_width_px": 940,
+  "max_caption_block_height_px": 245,
+  "available_height_px": 390,
+  "method": "installed-font advance metrics plus component padding/gaps; representative rendered frames checked separately",
+  "result": "PASS"
+}

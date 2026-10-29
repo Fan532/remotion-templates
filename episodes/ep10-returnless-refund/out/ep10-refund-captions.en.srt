@@ -1,0 +1,195 @@
+1
+00:00:02,370 --> 00:00:03,375
+Has this ever happened to you?
+
+2
+00:00:03,390 --> 00:00:04,875
+You bought something online.
+
+3
+00:00:04,890 --> 00:00:06,135
+You were unhappy with it
+
+4
+00:00:06,150 --> 00:00:07,180
+and requested a return.
+
+5
+00:00:07,350 --> 00:00:08,895
+Then the store told you:
+
+6
+00:00:08,910 --> 00:00:09,915
+Your refund is approved.
+
+7
+00:00:09,930 --> 00:00:11,800
+You do not need to send it back.
+
+8
+00:00:12,030 --> 00:00:12,615
+Wait a moment!
+
+9
+00:00:12,630 --> 00:00:14,020
+Is the store really that generous?
+
+10
+00:00:14,190 --> 00:00:15,915
+It may not be generosity.
+
+11
+00:00:15,930 --> 00:00:17,860
+The store may have done the math.
+
+12
+00:00:18,030 --> 00:00:20,020
+Here are two business concepts.
+
+13
+00:00:20,130 --> 00:00:21,940
+Reverse Logistics
+
+14
+00:00:21,990 --> 00:00:23,115
+Reverse Logistics
+
+15
+00:00:23,130 --> 00:00:23,535
+And
+
+16
+00:00:23,550 --> 00:00:24,765
+Cost-to-Serve
+
+17
+00:00:24,780 --> 00:00:25,780
+Cost-to-Serve
+
+18
+00:00:26,010 --> 00:00:27,045
+Let us work it out.
+
+19
+00:00:27,060 --> 00:00:28,900
+All these figures are hypothetical.
+
+20
+00:00:29,310 --> 00:00:31,240
+An item sells for $20.
+
+21
+00:00:31,290 --> 00:00:33,195
+The customer requests a full refund.
+
+22
+00:00:33,210 --> 00:00:34,875
+If the store asks for a return
+
+23
+00:00:34,890 --> 00:00:37,275
+return shipping costs $6.
+
+24
+00:00:37,290 --> 00:00:39,820
+Inspection and handling cost another $3.
+
+25
+00:00:40,470 --> 00:00:41,655
+After the item comes back
+
+26
+00:00:41,670 --> 00:00:43,575
+assume its recovery value is only $5.
+
+27
+00:00:43,590 --> 00:00:46,420
+The recovered item is worth $5.
+
+28
+00:00:46,470 --> 00:00:48,820
+But processing the return costs $9.
+
+29
+00:00:48,870 --> 00:00:49,575
+Five minus nine
+
+30
+00:00:49,590 --> 00:00:50,920
+equals negative four dollars.
+
+31
+00:00:51,030 --> 00:00:51,855
+In other words
+
+32
+00:00:51,870 --> 00:00:54,580
+asking for a return loses $4 more.
+
+33
+00:00:55,650 --> 00:00:58,060
+So for some low-value products
+
+34
+00:00:58,170 --> 00:00:59,355
+the store may choose
+
+35
+00:00:59,370 --> 00:01:01,180
+to refund without a return.
+
+36
+00:01:01,530 --> 00:01:04,480
+This avoids extra reverse logistics costs.
+
+37
+00:01:04,710 --> 00:01:07,120
+But this is not right for every item.
+
+38
+00:01:07,470 --> 00:01:09,075
+For a higher-value item
+
+39
+00:01:09,090 --> 00:01:10,815
+or one that can be resold
+
+40
+00:01:10,830 --> 00:01:12,520
+a return may make more sense.
+
+41
+00:01:13,050 --> 00:01:14,595
+So next time a store says
+
+42
+00:01:14,610 --> 00:01:15,975
+you can keep the item
+
+43
+00:01:15,990 --> 00:01:16,815
+you will know
+
+44
+00:01:16,830 --> 00:01:18,795
+it may not be generosity.
+
+45
+00:01:18,810 --> 00:01:20,260
+It may be a cost calculation.
+
+46
+00:01:20,670 --> 00:01:21,615
+Business decisions
+
+47
+00:01:21,630 --> 00:01:23,715
+are sometimes less about earning more
+
+48
+00:01:23,730 --> 00:01:26,320
+and more about losing less.
+
+49
+00:01:26,430 --> 00:01:28,300
+This is Business Through Data.

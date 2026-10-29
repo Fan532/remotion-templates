@@ -1,0 +1,244 @@
+1
+00:00:02,370 --> 00:00:03,375
+有没有遇到过
+Has this ever happened to you?
+
+2
+00:00:03,390 --> 00:00:04,875
+网上买了一件东西
+You bought something online.
+
+3
+00:00:04,890 --> 00:00:06,135
+收到以后不满意
+You were unhappy with it
+
+4
+00:00:06,150 --> 00:00:07,180
+申请退货
+and requested a return.
+
+5
+00:00:07,350 --> 00:00:08,895
+结果商家告诉你
+Then the store told you:
+
+6
+00:00:08,910 --> 00:00:09,915
+钱退你了
+Your refund is approved.
+
+7
+00:00:09,930 --> 00:00:11,800
+东西也不用再寄回来
+You do not need to send it back.
+
+8
+00:00:12,030 --> 00:00:12,615
+等等
+Wait a moment!
+
+9
+00:00:12,630 --> 00:00:14,020
+商家这么大方吗
+Is the store really that generous?
+
+10
+00:00:14,190 --> 00:00:15,915
+其实这不一定是大方
+It may not be generosity.
+
+11
+00:00:15,930 --> 00:00:17,860
+可能是商家算过一笔账
+The store may have done the math.
+
+12
+00:00:18,030 --> 00:00:20,020
+今天讲两个商业概念
+Here are two business concepts.
+
+13
+00:00:20,130 --> 00:00:21,940
+逆向物流
+Reverse Logistics
+
+14
+00:00:21,990 --> 00:00:23,115
+逆向物流
+Reverse Logistics
+
+15
+00:00:23,130 --> 00:00:23,535
+还有
+And
+
+16
+00:00:23,550 --> 00:00:24,765
+服务成本
+Cost-to-Serve
+
+17
+00:00:24,780 --> 00:00:25,780
+服务成本
+Cost-to-Serve
+
+18
+00:00:26,010 --> 00:00:27,045
+我们来算一算
+Let us work it out.
+
+19
+00:00:27,060 --> 00:00:28,900
+以下数据全是假设
+All these figures are hypothetical.
+
+20
+00:00:29,310 --> 00:00:31,240
+一件商品卖二十美元
+An item sells for $20.
+
+21
+00:00:31,290 --> 00:00:33,195
+顾客申请全额退款
+The customer requests a full refund.
+
+22
+00:00:33,210 --> 00:00:34,875
+如果要求退货
+If the store asks for a return
+
+23
+00:00:34,890 --> 00:00:37,275
+商家要付六美元退货运费
+return shipping costs $6.
+
+24
+00:00:37,290 --> 00:00:39,820
+再加三美元检查处理费
+Inspection and handling cost another $3.
+
+25
+00:00:40,470 --> 00:00:41,655
+商品退回来以后
+After the item comes back
+
+26
+00:00:41,670 --> 00:00:43,575
+假设只能再卖五美元
+assume its recovery value is only $5.
+
+27
+00:00:43,590 --> 00:00:46,420
+那么回收商品的价值就是五美元
+The recovered item is worth $5.
+
+28
+00:00:46,470 --> 00:00:48,820
+但退货处理花了九美元
+But processing the return costs $9.
+
+29
+00:00:48,870 --> 00:00:49,575
+五减九
+Five minus nine
+
+30
+00:00:49,590 --> 00:00:50,920
+等于负四美元
+equals negative four dollars.
+
+31
+00:00:51,030 --> 00:00:51,855
+也就是说
+In other words
+
+32
+00:00:51,870 --> 00:00:54,580
+要求退货反而多损失四美元
+asking for a return loses $4 more.
+
+33
+00:00:55,650 --> 00:00:58,060
+所以对于某些低价值的商品
+So for some low-value products
+
+34
+00:00:58,170 --> 00:00:59,355
+商家可能选择
+the store may choose
+
+35
+00:00:59,370 --> 00:01:01,180
+直接退款不用退货
+to refund without a return.
+
+36
+00:01:01,530 --> 00:01:04,480
+这样可以避免额外的逆向物流成本
+This avoids extra reverse logistics costs.
+
+37
+00:01:04,710 --> 00:01:07,120
+但不是所有的商品都合适
+But this is not right for every item.
+
+38
+00:01:07,470 --> 00:01:09,075
+如果是高价值商品
+For a higher-value item
+
+39
+00:01:09,090 --> 00:01:10,815
+或者能够重新销售的
+or one that can be resold
+
+40
+00:01:10,830 --> 00:01:12,520
+退货就可能更划算
+a return may make more sense.
+
+41
+00:01:13,050 --> 00:01:14,595
+所以下次商家说
+So next time a store says
+
+42
+00:01:14,610 --> 00:01:15,975
+东西不用寄回来了
+you can keep the item
+
+43
+00:01:15,990 --> 00:01:16,815
+你就知道
+you will know
+
+44
+00:01:16,830 --> 00:01:18,795
+这背后可能不是慷慨
+it may not be generosity.
+
+45
+00:01:18,810 --> 00:01:20,260
+而是一笔成本账
+It may be a cost calculation.
+
+46
+00:01:20,670 --> 00:01:21,615
+商业决策
+Business decisions
+
+47
+00:01:21,630 --> 00:01:23,715
+有时候不是选择赚多少钱
+are sometimes less about earning more
+
+48
+00:01:23,730 --> 00:01:26,320
+而是选择少损失多少钱
+and more about losing less.
+
+49
+00:01:26,430 --> 00:01:28,300
+这就是数据看生意
+This is Business Through Data.
