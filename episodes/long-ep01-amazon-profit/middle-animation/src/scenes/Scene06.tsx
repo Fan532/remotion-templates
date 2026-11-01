@@ -60,8 +60,18 @@ export default function Scene06({ t }: { t: number }) {
           size={26}
         />
       </Panel>
-      {t < 22 ? (
+      {t < 45 ? (
         <Panel x={850} y={230} w={980} h={480}>
+          {t < 29 ? <>
+            <Bi x={895} y={295} zh={t < 16 ? "上架 ≠ 自动获得曝光" : "点击付费 ≠ 保证成交"} en={t < 16 ? "A listing does not guarantee visibility" : "Pay per click does not guarantee a sale"} size={34}/>
+            {["曝光 / Impressions", "点击 / Clicks", "部分订单 / Some orders"].map((label,i)=>(
+              <g key={label} opacity={e(t, 6+i*4, 7+i*4)} transform={`translate(${905+i*280},430)`}>
+                <rect width={245} height={100} rx={18} fill={i===2?C.teal:C.blue} opacity={0.18+0.12*Math.sin(t*1.3+i)**2}/>
+                <Text x={122} y={57} size={24} anchor="middle">{label}</Text>
+              </g>))}
+            <Text x={895} y={630} size={29} color={C.muted}>广告带来流量，成交仍取决于转化。</Text>
+          </> : <>
+
           <Bi
             x={895}
             y={285}
@@ -70,10 +80,10 @@ export default function Scene06({ t }: { t: number }) {
             size={30}
           />
           <Text x={895} y={410} size={54}>
-            {money(e(t, 3, 10, 0, input.advertising))} ÷ {money(input.revenue)}
+            {money(e(t, 31, 34, 0, input.advertising))} ÷ {money(input.revenue)}
           </Text>
           <Text x={895} y={512} size={89} color={C.teal}>
-            TACOS = {percent(e(t, 3, 10, 0, tacos))}
+            TACOS = {percent(e(t, 36, 40, 0, tacos))}
           </Text>
           <Text x={895} y={589} size={33}>
             ACOS = N/A
@@ -81,6 +91,7 @@ export default function Scene06({ t }: { t: number }) {
           <Text x={895} y={644} size={24} color={C.muted}>
             广告归因销售额未提供，不能计算ACOS。
           </Text>
+          </>}
         </Panel>
       ) : (
         <>
@@ -96,12 +107,12 @@ export default function Scene06({ t }: { t: number }) {
             cost={input.advertising}
             after={steps[5].after}
             t={t}
-            at={23}
+            at={48.5}
             label="广告费用 / Advertising"
           />
         </>
       )}
-      <Note text="Scene06录音缺失 · 30秒静音占位 · 画面说明不是已同步的真人配音字幕" />
+      <Note text="假设案例 · 点击不保证成交 · TACOS按总销售额计算，ACOS需广告归因销售额" />
     </>
   );
 }

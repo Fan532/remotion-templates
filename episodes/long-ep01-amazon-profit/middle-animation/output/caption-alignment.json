@@ -30,6 +30,12 @@
     "method": "local SenseVoice CTC aligned to corrected transcript; translated phrase captions, manual hearing review required"
   },
   {
+    "scene": 6,
+    "groups": 21,
+    "reference_match_fraction": 1.0,
+    "method": "local SenseVoice CTC aligned to corrected transcript; translated phrase captions, manual hearing review required"
+  },
+  {
     "scene": 7,
     "groups": 29,
     "reference_match_fraction": 0.9884,

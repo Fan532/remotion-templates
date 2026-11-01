@@ -2,27 +2,27 @@
 
 独立源码目录：`episodes/long-ep01-amazon-profit/middle-animation/`。真人开场、两个结尾及先前演播室测试均保持原样，本轮不修改、不拼接真人视频，不生成AI主持人或AI配音。
 
-## 当前状态：可播放预览及部分配音草稿，不是最终配音成片
-收到7段原始MP3：Scene01、02、03、04、05、07、08。它们已复制到上一级`assets/audio/sceneXX.mp3`，同时放入本工程`public/audio/`供Remotion使用；没有把MP3伪装成WAV。
+## 当前状态：8段真人录音已接入，Scene07金额待确认
+已收到Scene01–08全部原始MP3。最新Scene06为61.100375秒，原始字节保存在上一级assets/audio/scene06.mp3及本工程public/audio/，未改变语速、停顿或声音。
 
-**缺少Scene06录音。** 当前为30秒可编辑静音占位，有持续缺失提示；该场字幕是画面说明，不是已同步的真人口播。已有7段录音总长约386.59秒，加入占位并按30fps逐段向上取整，整段416.7秒（6分56.7秒、12501帧）。未加速或压缩已提供录音。
+更新版保存在上一级`output/scene06-update/`，旧版output根目录的MP4保持原样。新时间轴13435帧，447.8333秒（7分27.83秒）。Scene06按真实录音生成21组双语字幕，广告费与TACOS在31–41秒呈现，45–53秒扣除广告费；其余场景整体后移。
 
 **Scene07约45.36–46.9秒广告费金额需核对。** SenseVoice和独立Whisper base均识别为“2千美元”，但财务模型为“2万美元”。原始录音不改、不合成；该处画面及字幕明确标记待核对。摘取原声见上一级output/scene07-ad-audio-check.mp3。请核听或补录正确金额，再制作最终版。
 
-## 输出（位于上一级output目录）
+## 输出（最新版位于上一级output/scene06-update目录）
 - `scene04-preview.mp4`：12秒，无声，品类佣金预览。
-- `scene06-preview.mp4`：12秒，无声，TACOS示意，明确缺录音。
+- `scene06-synced.mp4`：61.13秒，独立第6段动画，保留本次真人原声。
 - `scene07-preview.mp4`：12秒，无声，成本瀑布图预览。
 - `amazon-profit-middle-preview.mp4`：全段无配音预览，包含可编辑双语字幕。
-- `amazon-profit-middle-audio-draft.mp4`：相同画面，配已有7段原声，Scene06保持静音；属于待补录/核对的草稿。
-- `amazon-profit-middle-final.mp4`：**尚未生成**；程序会阻止缺录音或未确认Scene07金额时生成这个文件。
+- `amazon-profit-middle-audio-draft.mp4`：相同画面，已配全部8段真人原声；仅Scene07金额仍待核对。
+- `amazon-profit-middle-final.mp4`：**尚未生成**；程序会阻止未确认Scene07金额时生成这个文件。
 - `amazon-scene01.png`至`amazon-scene08.png`：8段截图。
 - `amazon-fee-categories.png`、`amazon-fulfillment.png`、`amazon-tacos.png`、`amazon-waterfall.png`：重点截图。
 - `amazon-contact-sheet.png`、`amazon-validation.json`：总览及实际验证报告。
 
 最终预览在FFmpeg兼容性处理时加入短暂的海军蓝淡出/淡入衔接，不改变任何场景或音频时长；音轨草稿复用同一视频轨。
 
-所有MP4均1920×1080、16:9、30fps、H.264。部分配音草稿为AAC，不添加背景音乐或其他声音，不使用AI配音。声音以实际录音为准，文件名或字幕校正不代表修改了人声。
+所有MP4均1920×1080、16:9、30fps、H.264。真人配音草稿为AAC，不添加背景音乐或其他声音，不使用AI配音。声音以实际录音为准，文件名或字幕校正不代表修改了人声。
 
 ## 财务模型与业务口径
 `src/data/financialModel.ts`为唯一金额输入及计算来源。100000−15000−12000−15000−18000−6000−20000−7000＝7000；成本合计93000，余额比例7%。逐步余额85000、73000、58000、40000、34000、14000、7000。自动测试核对每项、总额、不重复类别、佣金示例、TACOS及ACOS不可用。
@@ -39,7 +39,7 @@ $7000只标为Remaining Balance / Balance After Listed Costs，不标为最终�
 - `FeeComparison.tsx`：品类费率示例图。
 - `LogisticsJourney.tsx`：可编辑供应链流程，不代表所有进口必须海运。
 - `SubtitleOverlay.tsx`：中英文同为32px、650字重，位于画面下方240px。
-- `src/config/media.json`：音频文件名、实际时长、Scene06占位时长。
+- `src/config/media.json`：音频文件名、实际时长。
 - `src/config/timeline.ts`：帧率、场景起点、配色、短预览片段起点。
 - `src/captions/sceneXX-script.json`：按实际语音识别后校正、自然翻译的双语短句。
 - `src/captions/timed.json`：每句字幕start/end（场景内秒）。修改后重新渲染即可。
@@ -48,7 +48,7 @@ $7000只标为Remaining Balance / Balance After Listed Costs，不标为最终�
 本版为原创SVG与程序化2.5D，并没有声称创建物理3D模型、下载外部3D场景或拍摄真实港口视频。商品、机械臂、货轮、卡车、传送带和图表分别运动，没有用整张静态图平移放大冒充场景动画。
 
 ## 字幕与音画同步
-7段现有录音共147组双语短句，Scene06有6组明确标记的临时画面说明，总153组。中文来自本地SenseVoice CTC及校正稿，技术名词识别错误按上下文修正；英文是对应短句翻译，不是英文声学对齐。没有逐字人工听审的声称；Scene07金额疑点已单独保留，不能用字幕替换来掩盖原声。
+8段录音共168组双语短句，Scene06的21组均来自本次真人录音，无静音占位字幕。中文来自本地SenseVoice CTC及校正稿，技术名词识别错误按上下文修正；英文是对应短句翻译，不是英文声学对齐。没有逐字人工听审的声称；Scene07金额疑点已单独保留，不能用字幕替换来掩盖原声。
 
 `output/sceneXX-zh.srt`、`-en.srt`、`-bilingual.srt`与`amazon-middle-bilingual.srt`位于本子工程output目录。各段使用原始音频长度，场景边界按30fps对齐，最多增加不足一帧的尾部空隙。原录音本身的停顿和开头留白也保留。
 
@@ -63,11 +63,13 @@ npx.cmd remotion studio src/index.tsx
 ```
 中文若缺字，安装官方Noto Sans SC：https://fonts.google.com/noto/specimen/Noto+Sans+SC ，将Film.tsx字体名Noto Sans CJK SC改为Noto Sans SC。本次Linux环境实际使用Noto并检查中文字形；未在Windows GUI实测。
 
+以下命令会生成新文件；如需保留之前文件，请先创建`../output/scene06-update`并将输出路径改到其中。
+
 完整无配音预览：
 ```
 npx.cmd remotion render src/index.tsx AmazonMiddleSilent ../output/amazon-profit-middle-preview.mp4 --codec=h264 --pixel-format=yuv420p
 ```
-部分配音草稿（保留缺录音/金额待核对状态）：
+配音草稿（保留金额待核对状态）：
 ```
 npx.cmd remotion render src/index.tsx AmazonMiddleAudioDraft ../output/amazon-profit-middle-audio-draft.mp4 --codec=h264 --pixel-format=yuv420p
 ```
@@ -75,9 +77,9 @@ npx.cmd remotion render src/index.tsx AmazonMiddleAudioDraft ../output/amazon-pr
 ```
 npx.cmd remotion render src/index.tsx Scene01 ../output/scene01.mp4 --codec=h264 --pixel-format=yuv420p
 ```
-将Scene01改为Scene02至Scene08即可；Scene06目前无录音。短预览为Scene04Short、Scene06Short、Scene07Short。
+将Scene01改为Scene02至Scene08即可；Scene06已接入录音。短预览为Scene04Short、Scene06Short、Scene07Short。
 
-补录后需将Scene06真实MP3放入public/audio，并更新media.json的audio及duration、其实际字幕与关键动画时点；Scene07更正后也需重新校准字幕与瀑布图触发点。将review.json的核对标志改为true之前，应实际听审确认；不能只为了跳过检查改标志。最终仍只导出中间动画，由你在CapCut接真人片段。
+Scene06已完成文件接入、时长、字幕和关键动画时点更新；Scene07更正后仍需重新校准字幕与瀑布图触发点。将review.json的核对标志改为true之前，应实际听审确认；不能只为了跳过检查改标志。最终仍只导出中间动画，由你在CapCut接真人片段。
 
 tools/transcribe.py是当前Linux开发环境的本地转写辅助工具，依赖另装的sherpa-onnx及SenseVoice模型；模型权重未放入源码包。Windows预览、渲染和手工修改timed.json均不需要运行转写工具。
 

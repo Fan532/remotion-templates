@@ -1,29 +1,104 @@
 1
-00:00:00,000 --> 00:00:04,950
-本段录音尚未提供
-Scene 06 narration has not been supplied.
+00:00:01,770 --> 00:00:05,478
+接下来，是很多亚马逊卖家非常头疼的一笔费用。
+Next comes a major headache for many Amazon sellers.
 
 2
-00:00:05,000 --> 00:00:09,950
-广告投入：两万美元
-Advertising spend in the model: $20,000.
+00:00:05,490 --> 00:00:06,020
+广告。
+Advertising.
 
 3
-00:00:10,000 --> 00:00:14,950
-总销售额：十万美元
-Total revenue in the model: $100,000.
+00:00:06,330 --> 00:00:07,998
+商品上架亚马逊后，
+Listing a product on Amazon
 
 4
-00:00:15,000 --> 00:00:19,950
-TACOS = 广告花费 ÷ 总销售额
-TACOS = ad spend divided by total revenue.
+00:00:08,010 --> 00:00:10,160
+并不代表消费者一定能看到。
+does not guarantee shoppers will see it.
 
 5
-00:00:20,000 --> 00:00:24,950
-本例TACOS为20%，ACOS无法计算
-TACOS is 20%; ACOS is unavailable.
+00:00:10,470 --> 00:00:12,438
+尤其是竞争激烈的商品，
+For highly competitive products,
 
 6
-00:00:25,000 --> 00:00:29,950
-缺少广告归因销售额，不虚构数据
-Ad-attributed sales have not been provided.
+00:00:12,450 --> 00:00:14,960
+卖家可能需要持续投放广告，
+sellers may need ongoing ads
+
+7
+00:00:15,030 --> 00:00:17,000
+才能获得曝光和订单。
+to gain visibility and orders.
+
+8
+00:00:17,250 --> 00:00:20,720
+亚马逊广告通常可以采用点击付费的方式。
+Amazon ads can use a pay-per-click model.
+
+9
+00:00:20,910 --> 00:00:22,818
+也就是说，消费者点击广告，
+When a shopper clicks an ad,
+
+10
+00:00:22,830 --> 00:00:24,618
+就可能产生广告费用。
+the click can incur an advertising charge.
+
+11
+00:00:24,630 --> 00:00:27,320
+但点击并不一定代表会成交。
+A click does not guarantee a sale.
+
+12
+00:00:27,510 --> 00:00:31,100
+我们假设这位卖家所在的品类竞争比较激烈。
+Assume this seller operates in a competitive category.
+
+13
+00:00:31,290 --> 00:00:33,800
+当月广告费用花费两万美元，
+Monthly ad spend is $20,000,
+
+14
+00:00:33,870 --> 00:00:35,900
+而销售额是十万美元。
+and total sales revenue is $100,000.
+
+15
+00:00:36,750 --> 00:00:40,640
+也就是说，广告费相当于销售总额的百分之二十。
+Ad spend equals 20% of total sales revenue.
+
+16
+00:00:40,950 --> 00:00:45,140
+这里说的广告费占销售额的比例，不是ACOS。
+This ad-spend-to-total-sales ratio is not ACOS.
+
+17
+00:00:45,570 --> 00:00:48,198
+刚才说还剩下三万四千美元，
+The previous balance was $34,000.
+
+18
+00:00:48,210 --> 00:00:50,660
+现在再减去两万美元的广告费，
+Subtract $20,000 in advertising costs.
+
+19
+00:00:51,030 --> 00:00:53,478
+那么现在就剩下了一万四千美元。
+That leaves $14,000.
+
+20
+00:00:53,490 --> 00:00:57,440
+这也就是为什么，卖家不能只看广告带来多少订单。
+That is why sellers must look beyond ad-driven orders.
+
+21
+00:00:57,630 --> 00:01:00,740
+还要看广告之后，还有没有留存的利润。
+They must also assess what remains after advertising.

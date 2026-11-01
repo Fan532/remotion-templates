@@ -581,46 +581,130 @@
   ],
   "6": [
     {
-      "start": 0,
-      "end": 4.95,
-      "zh": "本段录音尚未提供",
-      "en": "Scene 06 narration has not been supplied.",
-      "status": "provisional on-screen copy, not speech transcript"
+      "start": 1.77,
+      "end": 5.478,
+      "zh": "接下来，是很多亚马逊卖家非常头疼的一笔费用。",
+      "en": "Next comes a major headache for many Amazon sellers."
     },
     {
-      "start": 5,
-      "end": 9.95,
-      "zh": "广告投入：两万美元",
-      "en": "Advertising spend in the model: $20,000.",
-      "status": "provisional on-screen copy, not speech transcript"
+      "start": 5.49,
+      "end": 6.02,
+      "zh": "广告。",
+      "en": "Advertising."
     },
     {
-      "start": 10,
-      "end": 14.95,
-      "zh": "总销售额：十万美元",
-      "en": "Total revenue in the model: $100,000.",
-      "status": "provisional on-screen copy, not speech transcript"
+      "start": 6.33,
+      "end": 7.998,
+      "zh": "商品上架亚马逊后，",
+      "en": "Listing a product on Amazon"
     },
     {
-      "start": 15,
-      "end": 19.95,
-      "zh": "TACOS = 广告花费 ÷ 总销售额",
-      "en": "TACOS = ad spend divided by total revenue.",
-      "status": "provisional on-screen copy, not speech transcript"
+      "start": 8.01,
+      "end": 10.16,
+      "zh": "并不代表消费者一定能看到。",
+      "en": "does not guarantee shoppers will see it."
     },
     {
-      "start": 20,
-      "end": 24.95,
-      "zh": "本例TACOS为20%，ACOS无法计算",
-      "en": "TACOS is 20%; ACOS is unavailable.",
-      "status": "provisional on-screen copy, not speech transcript"
+      "start": 10.47,
+      "end": 12.438,
+      "zh": "尤其是竞争激烈的商品，",
+      "en": "For highly competitive products,"
     },
     {
-      "start": 25,
-      "end": 29.95,
-      "zh": "缺少广告归因销售额，不虚构数据",
-      "en": "Ad-attributed sales have not been provided.",
-      "status": "provisional on-screen copy, not speech transcript"
+      "start": 12.45,
+      "end": 14.96,
+      "zh": "卖家可能需要持续投放广告，",
+      "en": "sellers may need ongoing ads"
+    },
+    {
+      "start": 15.03,
+      "end": 17.0,
+      "zh": "才能获得曝光和订单。",
+      "en": "to gain visibility and orders."
+    },
+    {
+      "start": 17.25,
+      "end": 20.72,
+      "zh": "亚马逊广告通常可以采用点击付费的方式。",
+      "en": "Amazon ads can use a pay-per-click model."
+    },
+    {
+      "start": 20.91,
+      "end": 22.818,
+      "zh": "也就是说，消费者点击广告，",
+      "en": "When a shopper clicks an ad,"
+    },
+    {
+      "start": 22.83,
+      "end": 24.618,
+      "zh": "就可能产生广告费用。",
+      "en": "the click can incur an advertising charge."
+    },
+    {
+      "start": 24.63,
+      "end": 27.32,
+      "zh": "但点击并不一定代表会成交。",
+      "en": "A click does not guarantee a sale."
+    },
+    {
+      "start": 27.51,
+      "end": 31.1,
+      "zh": "我们假设这位卖家所在的品类竞争比较激烈。",
+      "en": "Assume this seller operates in a competitive category."
+    },
+    {
+      "start": 31.29,
+      "end": 33.8,
+      "zh": "当月广告费用花费两万美元，",
+      "en": "Monthly ad spend is $20,000,"
+    },
+    {
+      "start": 33.87,
+      "end": 35.9,
+      "zh": "而销售额是十万美元。",
+      "en": "and total sales revenue is $100,000."
+    },
+    {
+      "start": 36.75,
+      "end": 40.64,
+      "zh": "也就是说，广告费相当于销售总额的百分之二十。",
+      "en": "Ad spend equals 20% of total sales revenue."
+    },
+    {
+      "start": 40.95,
+      "end": 45.14,
+      "zh": "这里说的广告费占销售额的比例，不是ACOS。",
+      "en": "This ad-spend-to-total-sales ratio is not ACOS."
+    },
+    {
+      "start": 45.57,
+      "end": 48.198,
+      "zh": "刚才说还剩下三万四千美元，",
+      "en": "The previous balance was $34,000."
+    },
+    {
+      "start": 48.21,
+      "end": 50.66,
+      "zh": "现在再减去两万美元的广告费，",
+      "en": "Subtract $20,000 in advertising costs."
+    },
+    {
+      "start": 51.03,
+      "end": 53.478,
+      "zh": "那么现在就剩下了一万四千美元。",
+      "en": "That leaves $14,000."
+    },
+    {
+      "start": 53.49,
+      "end": 57.44,
+      "zh": "这也就是为什么，卖家不能只看广告带来多少订单。",
+      "en": "That is why sellers must look beyond ad-driven orders."
+    },
+    {
+      "start": 57.63,
+      "end": 60.74,
+      "zh": "还要看广告之后，还有没有留存的利润。",
+      "en": "They must also assess what remains after advertising."
     }
   ],
   "7": [

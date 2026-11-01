@@ -1,7 +1,8 @@
 """Render middle animation. Final is gated by missing audio and unresolved spoken amount."""
+import os
 from pathlib import Path
 import json,subprocess,sys
-R=Path(__file__).resolve().parents[1];O=R.parent/'output'
+R=Path(__file__).resolve().parents[1];O=Path(os.environ.get('AMAZON_OUTPUT_DIR',str(R.parent/'output')))
 media=json.loads((R/'src/config/media.json').read_text())
 final='--final' in sys.argv
 if final:

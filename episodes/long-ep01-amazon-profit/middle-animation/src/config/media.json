@@ -36,9 +36,10 @@
   },
   {
     "scene": 6,
-    "audio": null,
-    "duration": 30,
-    "status": "MISSING; provisional 30-second silent scene"
+    "audio": "scene06.mp3",
+    "duration": 61.100375,
+    "status": "provided MP3; original bytes preserved",
+    "original_name": "scenece06.mp3"
   },
   {
     "scene": 7,

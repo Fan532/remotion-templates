@@ -1,6 +1,7 @@
+import os
 from pathlib import Path
 import subprocess,json,sys,math
-R=Path(__file__).resolve().parents[1];O=R.parent/'output'
+R=Path(__file__).resolve().parents[1];O=Path(os.environ.get('AMAZON_OUTPUT_DIR',str(R.parent/'output')))
 files=[O/n for n in sys.argv[1:]] if len(sys.argv)>1 else [O/'amazon-profit-middle-preview.mp4']
 for v in files:
  d=json.loads(subprocess.check_output(['ffprobe','-v','error','-show_streams','-of','json',str(v)]));s=next(x for x in d['streams'] if x['codec_type']=='video')
