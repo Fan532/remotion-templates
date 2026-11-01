@@ -1,0 +1,63 @@
+{
+  "clips": [
+    {
+      "file": "Taiping_Relationship.mp4",
+      "seconds": 10,
+      "frames": 300,
+      "bytes": 541469,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        150,
+        299
+      ],
+      "visual_review": "PASS: first, middle and last decoded frames reviewed; no visible clipping or text overlap in samples"
+    },
+    {
+      "file": "Taiping_Timeline.mp4",
+      "seconds": 10,
+      "frames": 300,
+      "bytes": 495358,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        150,
+        299
+      ],
+      "visual_review": "PASS: first, middle and last decoded frames reviewed; no visible clipping or text overlap in samples"
+    },
+    {
+      "file": "Taiping_Coup.mp4",
+      "seconds": 10,
+      "frames": 300,
+      "bytes": 737937,
+      "full_decode": "PASS",
+      "audio_streams": 0,
+      "sampled_frames": [
+        0,
+        150,
+        299
+      ],
+      "visual_review": "PASS: first, middle and last decoded frames reviewed; no visible clipping or text overlap in samples"
+    }
+  ],
+  "typecheck": "PASS",
+  "chinese_glyph_coverage": "PASS",
+  "title_widths": "PASS native-font metrics",
+  "font": "/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc",
+  "previous_video_count": 37,
+  "previous_video_hashes": "UNCHANGED",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "codec": "H264/yuv420p",
+  "audio": "none",
+  "captions": "No subtitle files",
+  "visual_review_scope": "First/middle/last frames, not exhaustive frame-by-frame review",
+  "windows_capcut_gui_test": false,
+  "history_limitations": "See HISTORY.md; online requests may be blocked; 710 coalition distinguished from 712 accession; abstract power diagram is not a force ratio."
+}

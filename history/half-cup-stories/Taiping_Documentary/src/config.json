@@ -1,0 +1,82 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "fontFamily": "Noto Serif CJK SC",
+  "channel": "半盏故事",
+  "series": "太平公主 · 姑侄权争",
+  "colors": {
+    "black": "#101015",
+    "red": "#681C24",
+    "brightRed": "#B34C51",
+    "gold": "#D4AC62",
+    "paper": "#F2E7D0",
+    "muted": "#A59583",
+    "palaceRoof": "#302026",
+    "palaceWall": "#201B21",
+    "panel": "#201B22",
+    "shadow": "#000000"
+  },
+  "people": {
+    "wu": "武则天",
+    "taiping": "太平公主",
+    "dan": "李旦",
+    "longji": "李隆基"
+  },
+  "relations": {
+    "motherDaughter": "母女",
+    "motherSon": "母子",
+    "fatherSon": "父子",
+    "auntNephew": "姑侄"
+  },
+  "clips": [
+    {
+      "id": "TaipingRelationship",
+      "file": "Taiping_Relationship.mp4",
+      "seconds": 10,
+      "title": "从姑侄盟友到政治死敌",
+      "years": [],
+      "lines": [],
+      "final": "昔日盟友，最终反目",
+      "note": "皇室亲缘关系示意 · 连线变色象征政治关系转变"
+    },
+    {
+      "id": "TaipingTimeline",
+      "file": "Taiping_Timeline.mp4",
+      "seconds": 10,
+      "title": "太平公主的权力巅峰",
+      "years": ["690年", "705年", "710年", "712年", "713年"],
+      "lines": [
+        "武则天称帝",
+        "神龙政变",
+        "唐隆政变",
+        "李隆基登基",
+        "先天政变",
+        "太平公主败亡"
+      ],
+      "final": "从权力巅峰到彻底覆灭",
+      "note": "事件节点示意 · 等距排布，不代表实际年距比例"
+    },
+    {
+      "id": "TaipingCoup",
+      "file": "Taiping_Coup.mp4",
+      "seconds": 10,
+      "title": "先天政变",
+      "years": ["713年"],
+      "lines": ["朝臣支持", "政治影响力", "皇帝身份", "禁军与亲信"],
+      "final": "她曾与侄子联手，却最终输给了他。",
+      "note": "权力冲突示意 · 非人数、兵力或实际宫廷空间复原"
+    }
+  ],
+  "labels": {
+    "court": "部分朝臣",
+    "network": "政治网络",
+    "throne": "皇权",
+    "guards": "亲信与禁军力量",
+    "timeline": "权力轨迹",
+    "conflict": "姑侄决裂",
+    "courtSymbol": "宫廷权力示意",
+    "record": "历史节点",
+    "chapter": "唐朝 · 宫廷权争"
+  }
+}
