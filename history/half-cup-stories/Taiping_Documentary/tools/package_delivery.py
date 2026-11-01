@@ -5,7 +5,7 @@ with zipfile.ZipFile(p,'w',zipfile.ZIP_DEFLATED) as z:
  for c in cfg['clips']:
   f=r/'out'/c['file'];z.write(f,'Taiping_Documentary/'+f.name)
   f=r/'out'/(c['id']+'-preview.png');z.write(f,'Taiping_Documentary/previews/'+f.name)
- for f in [r/'README.md',r/'HISTORY.md',r/'out/validation.json',r/'out/contact-sheet.png',r/'out/storyboard.png']:z.write(f,'Taiping_Documentary/'+f.name)
+ for f in [r/'README.md',r/'HISTORY.md',r/'out/validation.json',r/'out/contact-sheet.png',r/'out/storyboard.png',r/'out/Taiping_Thumbnail.png']:z.write(f,'Taiping_Documentary/'+f.name)
  # Include runnable source, but no node_modules or rendered duplicates.
  for f in [r/'.gitignore',r/'package.json',r/'package-lock.json',r/'tsconfig.json',r/'README.md',r/'HISTORY.md']+list((r/'src').rglob('*'))+list((r/'tools').rglob('*')):
   if f.is_file() and '__pycache__' not in f.parts:z.write(f,'Taiping_Documentary/source/'+str(f.relative_to(r)))
