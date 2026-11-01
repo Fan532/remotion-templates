@@ -1,0 +1,96 @@
+{
+  "method": "Chromium DOM text bounding rectangles with actual Noto fonts; 3 sampled times per clip",
+  "result": "PASS",
+  "samples": [
+    {
+      "composition": "ShangguanFamily",
+      "seconds": 0.5,
+      "visible_texts": 5,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanFamily",
+      "seconds": 4,
+      "visible_texts": 14,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanFamily",
+      "seconds": 7.3,
+      "visible_texts": 15,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanRise",
+      "seconds": 0.5,
+      "visible_texts": 4,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanRise",
+      "seconds": 5,
+      "visible_texts": 10,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanRise",
+      "seconds": 9.3,
+      "visible_texts": 14,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanRelationship",
+      "seconds": 0.5,
+      "visible_texts": 5,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanRelationship",
+      "seconds": 5,
+      "visible_texts": 15,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanRelationship",
+      "seconds": 9.3,
+      "visible_texts": 16,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanTimeline",
+      "seconds": 0.5,
+      "visible_texts": 4,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanTimeline",
+      "seconds": 5,
+      "visible_texts": 9,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanTimeline",
+      "seconds": 9.3,
+      "visible_texts": 13,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanCoup",
+      "seconds": 0.5,
+      "visible_texts": 6,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanCoup",
+      "seconds": 6,
+      "visible_texts": 10,
+      "out_of_bounds": []
+    },
+    {
+      "composition": "ShangguanCoup",
+      "seconds": 11.3,
+      "visible_texts": 11,
+      "out_of_bounds": []
+    }
+  ]
+}

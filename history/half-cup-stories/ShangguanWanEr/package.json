@@ -1,0 +1,27 @@
+{
+  "name": "half-cup-stories-shangguan-waner",
+  "version": "1.0.0",
+  "description": "上官婉儿五段独立历史纪录片动画",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc",
+    "studio": "remotion studio src/index.tsx --port=3104",
+    "render": "node tools/render-all.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "4.0.538",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.538"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "7.0.2"
+  },
+  "private": true
+}

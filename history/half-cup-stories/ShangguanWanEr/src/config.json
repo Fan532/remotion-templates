@@ -1,0 +1,137 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "fontFamily": "Noto Serif CJK SC",
+  "channel": "半盏故事",
+  "series": "上官婉儿 · 宫廷风云",
+  "colors": {
+    "black": "#101015",
+    "red": "#681C24",
+    "brightRed": "#B34C51",
+    "gold": "#D4AC62",
+    "paper": "#F2E7D0",
+    "muted": "#A59583",
+    "palaceRoof": "#302026",
+    "palaceWall": "#201B21",
+    "panel": "#201B22",
+    "shadow": "#000000"
+  },
+  "people": {
+    "grandfather": "上官仪",
+    "father": "上官庭芝",
+    "waner": "上官婉儿",
+    "mother": "郑氏",
+    "wu": "武则天",
+    "zhong": "唐中宗",
+    "wei": "韦皇后",
+    "taiping": "太平公主",
+    "longji": "李隆基"
+  },
+  "relations": {
+    "motherDaughter": "母女",
+    "motherSon": "母子",
+    "fatherSon": "父子",
+    "auntNephew": "姑侄"
+  },
+  "clips": [
+    {
+      "id": "ShangguanFamily",
+      "file": "Shangguan_Family.mp4",
+      "seconds": 8,
+      "title": "一出生，就背负家族的罪",
+      "year": "664年",
+      "lines": [
+        "上官仪获罪被杀",
+        "上官庭芝一同遇害",
+        "婉儿与母亲没入宫廷"
+      ],
+      "final": "从罪臣之女开始的人生",
+      "note": "亲缘与遭际示意 · 非真实人物画像"
+    },
+    {
+      "id": "ShangguanRise",
+      "file": "Shangguan_Rise.mp4",
+      "seconds": 10,
+      "title": "从宫廷奴婢到女皇心腹",
+      "lines": [
+        "宫廷奴婢",
+        "武则天赏识",
+        "参与诏令起草",
+        "唐中宗时期封昭容"
+      ],
+      "final": "仇人的孙女，成为女皇心腹。",
+      "note": "身份进阶示意 · 昭容册封属唐中宗时期"
+    },
+    {
+      "id": "ShangguanRelationship",
+      "file": "Shangguan_Relationship.mp4",
+      "seconds": 10,
+      "title": "她站在大唐权力漩涡中心",
+      "lines": [
+        "赏识与任用",
+        "重用并封昭容",
+        "宫廷政治关系",
+        "政治联系",
+        "710年下令处死婉儿"
+      ],
+      "final": "政治联系，不等于同党归属",
+      "note": "实线：任用／事件 · 虚线：政治联系，不代表固定阵营"
+    },
+    {
+      "id": "ShangguanTimeline",
+      "file": "Shangguan_Timeline.mp4",
+      "seconds": 10,
+      "title": "她经历的三次权力巨变",
+      "years": [
+        "690年",
+        "705年",
+        "710年"
+      ],
+      "lines": [
+        "武则天称帝",
+        "神龙政变",
+        "唐中宗复位",
+        "唐隆政变",
+        "婉儿被杀"
+      ],
+      "final": "躲过两次权力更替，却没躲过最后一夜",
+      "note": "事件等距示意，不代表年距比例 · 结语为叙事概括"
+    },
+    {
+      "id": "ShangguanCoup",
+      "file": "Shangguan_Coup.mp4",
+      "seconds": 12,
+      "title": "710年，唐隆政变",
+      "lines": [
+        "韦皇后集团",
+        "太平公主、李隆基一方",
+        "上官婉儿",
+        "宫廷关键位置",
+        "她最终死于李隆基之令"
+      ],
+      "final": "她读懂了权力，却没能逃过权力。",
+      "note": "宫廷权力变化的象征示意 · 非兵力比例或精确宫城复原"
+    }
+  ],
+  "labels": {
+    "grandfather": "祖父",
+    "father": "父亲",
+    "descendant": "孙女",
+    "archive": "宫廷档案",
+    "familyStamp": "籍没",
+    "riseStamp": "制诏",
+    "chapter": "唐朝 · 宫廷风云",
+    "relationKnown": "任用／事件",
+    "relationComplex": "政治联系",
+    "relationshipCaveat": "具体立场及行动仍需结合不同史料判断",
+    "power": "权力更替",
+    "imperial": "宫廷中枢",
+    "left": "韦后势力",
+    "right": "政变一方",
+    "control": "关键节点转入政变方控制",
+    "familyNote": "罪臣之女的起点",
+    "notPortrait": "人物为抽象剪影",
+    "timelineMark": "历史节点"
+  }
+}

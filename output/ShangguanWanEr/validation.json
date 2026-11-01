@@ -1,0 +1,91 @@
+{
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "total_seconds": 50,
+  "files": [
+    {
+      "file": "Shangguan_Family.mp4",
+      "seconds": 8,
+      "frames": 240,
+      "bytes": 536509,
+      "full_decode": "PASS",
+      "no_audio": true,
+      "frame_change": "PASS",
+      "sampled_frames": [
+        "ShangguanFamily_check0.png",
+        "ShangguanFamily_check1.png",
+        "ShangguanFamily_check2.png"
+      ],
+      "sha256": "c0980d07ed4f6147fc5b7afc8cc8fecb72833b10aec835b18bd7c36ae27e0037"
+    },
+    {
+      "file": "Shangguan_Rise.mp4",
+      "seconds": 10,
+      "frames": 300,
+      "bytes": 1084942,
+      "full_decode": "PASS",
+      "no_audio": true,
+      "frame_change": "PASS",
+      "sampled_frames": [
+        "ShangguanRise_check0.png",
+        "ShangguanRise_check1.png",
+        "ShangguanRise_check2.png"
+      ],
+      "sha256": "4386b26a99eafdcfe37d5d32b21abc11ef6c645ae5e2bbedd185b77c5161a937"
+    },
+    {
+      "file": "Shangguan_Relationship.mp4",
+      "seconds": 10,
+      "frames": 300,
+      "bytes": 750493,
+      "full_decode": "PASS",
+      "no_audio": true,
+      "frame_change": "PASS",
+      "sampled_frames": [
+        "ShangguanRelationship_check0.png",
+        "ShangguanRelationship_check1.png",
+        "ShangguanRelationship_check2.png"
+      ],
+      "sha256": "f26242d3d10e293e895baeadbdbeee0d55da01fcfd8676c3302241853a487837"
+    },
+    {
+      "file": "Shangguan_Timeline.mp4",
+      "seconds": 10,
+      "frames": 300,
+      "bytes": 668553,
+      "full_decode": "PASS",
+      "no_audio": true,
+      "frame_change": "PASS",
+      "sampled_frames": [
+        "ShangguanTimeline_check0.png",
+        "ShangguanTimeline_check1.png",
+        "ShangguanTimeline_check2.png"
+      ],
+      "sha256": "1b207fe0ea6b0bab1182872c7baecc368fff0441a9bdbf121b695f455966464f"
+    },
+    {
+      "file": "Shangguan_Coup.mp4",
+      "seconds": 12,
+      "frames": 360,
+      "bytes": 1371904,
+      "full_decode": "PASS",
+      "no_audio": true,
+      "frame_change": "PASS",
+      "sampled_frames": [
+        "ShangguanCoup_check0.png",
+        "ShangguanCoup_check1.png",
+        "ShangguanCoup_check2.png"
+      ],
+      "sha256": "dcd9145fa13eda9d477636dbc4d3c8490695291e11580b588a593c68dc3b3b3b"
+    }
+  ],
+  "history_review": "Chronology and relationship wording reviewed; primary-source websites blocked by proxy403, no claim of live source verification",
+  "visual_review": "PASS: sampled beginning/middle/end frames, all 5 previews, Chinese readability and diagram labels; no claim of manual inspection of all 1500 frames",
+  "windows": "Portable Node render script supplied; Windows GUI not tested",
+  "text_bounds": "PASS: actual Chromium DOM bounds at 15 sampled times; see text-bounds.json",
+  "font_coverage": "PASS: all CJK characters in config supported by installed Noto Serif CJK font",
+  "typescript": "PASS"
+}
