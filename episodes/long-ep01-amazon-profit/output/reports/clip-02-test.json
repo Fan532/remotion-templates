@@ -3,7 +3,7 @@
   "mode": "test",
   "test_start": 0,
   "frame_count": 150,
-  "background_status": "DIAGNOSTIC_ONLY",
+  "background_status": "SUPPLIED_STUDIO_TEST",
   "source_display_size": [
     1280,
     720
@@ -38,5 +38,6 @@
   "alpha_statistics_note": "Includes real motion, not an objective flicker score",
   "seconds_elapsed": 36.56211730300129,
   "mask_file": "output/masks/clip-02-alpha-test.mkv",
-  "final_compositor": "FFmpeg overlay of original RGB with saved recurrent alpha"
+  "final_compositor": "FFmpeg overlay of original RGB with saved recurrent alpha",
+  "background_preparation": "Selected photo: static person removed and occluded environment inpainted; video person unchanged"
 }

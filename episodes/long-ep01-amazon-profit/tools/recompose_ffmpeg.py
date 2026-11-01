@@ -24,7 +24,7 @@ def render(cfg,c,full=False):
  if enc.wait()!=0:raise RuntimeError('FFmpeg alpha overlay failed')
  tmp.replace(target)
  if not full:shutil.copy2(target,R/'public/tests'/target.name)
- report['final_compositor']='FFmpeg overlay of original RGB with saved recurrent alpha';(R/'output/reports'/f'{tag}-{mode}.json').write_text(json.dumps(report,indent=2)+'\n');print('FFmpeg overlay complete:',tag,flush=True)
+ report['background_status']='SUPPLIED_STUDIO_TEST' if (R/cfg['studio_background']).exists() else 'DIAGNOSTIC_ONLY';report['final_compositor']='FFmpeg overlay of original RGB with saved recurrent alpha';(R/'output/reports'/f'{tag}-{mode}.json').write_text(json.dumps(report,indent=2)+'\n');print('FFmpeg overlay complete:',tag,flush=True)
 if __name__=='__main__':
  cfg=json.loads((R/'config.json').read_text())
  for c in cfg['clips']:render(cfg,c)

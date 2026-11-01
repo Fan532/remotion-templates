@@ -67,7 +67,7 @@
       "full_decode": "PASS"
     }
   ],
-  "studio_background": "MISSING",
+  "studio_background": "AVAILABLE",
   "background_required_path": "assets/background/studio.png",
   "location_metadata": "Omitted from published reports and outputs"
 }

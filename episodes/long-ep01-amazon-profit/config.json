@@ -60,5 +60,10 @@
       79
     ]
   ],
-  "preview_status": "DIAGNOSTIC_BACKGROUND_ONLY; selected studio image has not been uploaded"
+  "preview_status": "SELECTED_STUDIO_5_SECOND_TESTS; awaiting user approval before full clips",
+  "background_preparation": {
+    "static_person_removed": true,
+    "environment_inpainted": true,
+    "video_person_source": "original video RGB; no generated face or body"
+  }
 }

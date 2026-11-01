@@ -23,8 +23,8 @@
         1.0
       ],
       "geometry": "One uniform scale and translation only; no local face warping",
-      "visual_review": "Sampled decoded frames reviewed. Original blink/mouth preserved; no obvious local deformation. Soft hair fringes remain; final studio test and user playback approval pending.",
-      "background": "temporary diagnostic checkerboard; actual studio missing"
+      "visual_review": "Sampled decoded studio frames reviewed; only original video person visible; blink/mouth retained, no obvious geometric distortion; hair edges and color match awaiting user playback approval.",
+      "background": "selected studio, static person removed"
     },
     {
       "clip": "clip-02",
@@ -49,8 +49,8 @@
         1.0
       ],
       "geometry": "One uniform scale and translation only; no local face warping",
-      "visual_review": "Sampled decoded frames reviewed. Original blink/mouth preserved; no obvious local deformation. Soft hair fringes remain; final studio test and user playback approval pending.",
-      "background": "temporary diagnostic checkerboard; actual studio missing"
+      "visual_review": "Sampled decoded studio frames reviewed; only original video person visible; blink/mouth retained, no obvious geometric distortion; hair edges and color match awaiting user playback approval.",
+      "background": "selected studio, static person removed"
     },
     {
       "clip": "clip-03",
@@ -75,18 +75,19 @@
         1.0
       ],
       "geometry": "One uniform scale and translation only; no local face warping",
-      "visual_review": "Sampled decoded frames reviewed. Original blink/mouth preserved; no obvious local deformation. Soft hair fringes remain; final studio test and user playback approval pending.",
-      "background": "temporary diagnostic checkerboard; actual studio missing"
+      "visual_review": "Sampled decoded studio frames reviewed; only original video person visible; blink/mouth retained, no obvious geometric distortion; hair edges and color match awaiting user playback approval.",
+      "background": "selected studio, static person removed"
     }
   ],
   "comparison_seconds": 15.0,
   "comparison_frames": 450,
-  "studio_image_provided": false,
+  "studio_image_provided": true,
   "full_clips_processed": false,
   "test_confirmation_required": true,
   "head_hair_review": "sampled frames only; soft fringes and small mask fluctuations may remain",
   "blink_lip_review": "Original frame sequence retained; no regenerated eyes/mouth. Human real-time playback review still required.",
-  "final_studio_lighting_review": "NOT POSSIBLE: selected studio image missing",
+  "final_studio_lighting_review": "Sampled studio test frames; user approval and full-clip review pending",
   "windows_gui_tested": false,
-  "remotion_preview_rendered": true
+  "remotion_preview_rendered": true,
+  "background_preparation": "Static person removed from supplied photo; environment-only inpainting, no generated video person"
 }
