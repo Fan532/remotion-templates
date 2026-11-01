@@ -1,0 +1,114 @@
+1
+00:00:03,990 --> 00:00:07,698
+那么亚马逊卖家应该重点关注哪些数据呢
+Which metrics should an Amazon seller watch?
+
+2
+00:00:07,710 --> 00:00:09,380
+我认为至少有三个
+I would highlight at least three.
+
+3
+00:00:09,630 --> 00:00:12,200
+第一个是单件商品的贡献利润
+First, contribution margin per unit.
+
+4
+00:00:12,390 --> 00:00:14,900
+不是只看售价减去采购价
+It is more than price minus purchase cost.
+
+5
+00:00:14,970 --> 00:00:17,298
+而是要考虑每卖出一件商品
+Consider all the relevant variable costs
+
+6
+00:00:17,310 --> 00:00:19,520
+所产生的相关变动成本
+that arise from selling each unit.
+
+7
+00:00:19,890 --> 00:00:21,498
+第二个是广告效率
+Second, advertising efficiency.
+
+8
+00:00:21,510 --> 00:00:23,780
+这里有两个容易混淆的指标
+Two metrics are easily confused.
+
+9
+00:00:23,850 --> 00:00:28,640
+ACOS是广告花费除以广告带来的销售额
+ACOS is ad spend divided by ad-attributed sales.
+
+10
+00:00:29,190 --> 00:00:33,680
+TACOS是广告花费除以店铺总销售额
+TACOS is ad spend divided by total store revenue.
+
+11
+00:00:34,110 --> 00:00:35,478
+比如我们这个案例
+In our scenario
+
+12
+00:00:35,490 --> 00:00:37,218
+广告花费两万美元
+ad spend is $20,000.
+
+13
+00:00:37,230 --> 00:00:39,020
+总销售额十万美元
+Total revenue is $100,000.
+
+14
+00:00:39,210 --> 00:00:42,200
+那么TACOS就是百分之二十
+So TACOS is 20%.
+
+15
+00:00:42,750 --> 00:00:46,098
+但如果不知道广告直接带来了多少销售额
+Without the sales attributed to ads
+
+16
+00:00:46,110 --> 00:00:48,170
+就不能计算ACOS
+we cannot calculate ACOS.
+
+17
+00:00:48,690 --> 00:00:51,680
+第三个库存周转和现金流
+Third, inventory turnover and cash flow.
+
+18
+00:00:52,050 --> 00:00:54,498
+商品卖不出去不仅占用资金
+Unsold goods tie up cash
+
+19
+00:00:54,510 --> 00:00:56,960
+还可能持续产生仓储费用
+and can keep generating storage costs.
+
+20
+00:00:57,150 --> 00:00:59,180
+所以真正值得关注的
+What really matters
+
+21
+00:00:59,610 --> 00:01:01,880
+不只是销售额增长了多少
+is not just sales growth
+
+22
+00:01:02,310 --> 00:01:04,218
+而是扣掉各项成本以后
+but how much remains
+
+23
+00:01:04,230 --> 00:01:06,500
+生意到底还能剩下多少钱
+after all the relevant costs.

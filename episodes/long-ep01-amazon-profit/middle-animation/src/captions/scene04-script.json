@@ -1,0 +1,55 @@
+[
+  [
+    "接下来我们看看亚马逊的平台费用",
+    "Now let us examine Amazon platform fees."
+  ],
+  ["首先是Referral Fee", "First is the referral fee.", "首先是REFERAL费"],
+  ["也就是销售佣金", "This is the selling commission."],
+  ["根据亚马逊美国站的收费规则", "Under Amazon US selling-fee rules"],
+  ["不同类别的商品佣金比例是不一样的", "referral rates differ by category."],
+  ["比如家居厨房用品", "For example, Home & Kitchen"],
+  ["通常适用百分之十五的销售佣金", "typically uses a 15% referral rate."],
+  ["而电脑消费电子类等产品", "Computers and consumer electronics"],
+  ["适用的比例可能只有百分之八", "may use an 8% rate."],
+  ["我们今天假设一个卖家", "For our scenario, assume a seller"],
+  [
+    "销售的是适用百分之十五佣金的家居厨房商品",
+    "in Home & Kitchen with a 15% referral rate."
+  ],
+  ["那么十万美元的销售额", "On $100,000 of revenue"],
+  ["对应的销售佣金是一万五千美元", "the referral fee is $15,000."],
+  ["这还没有完", "That is not the end."],
+  ["如果卖家使用FBA", "If the seller uses FBA"],
+  [
+    "也就是让亚马逊负责仓储和订单履约",
+    "Amazon handles storage and order fulfillment."
+  ],
+  [
+    "还需要额外支付FBA Fulfillment Fee",
+    "There is also an FBA fulfillment fee.",
+    "还需要额外支付FB FOR FUMAN费"
+  ],
+  ["也就是订单履约费", "That is the cost of fulfilling orders."],
+  ["这笔费用不是简单地按照", "This fee is not simply calculated"],
+  ["销售额的固定百分比计算的", "as a fixed percentage of sales."],
+  ["它通常和商品的尺寸重量", "It generally depends on dimensions, weight"],
+  ["以及适用的收费标准有关", "and the applicable fee schedule."],
+  ["比如同样卖一个二十美元的产品", "Consider two products both priced at $20."],
+  ["一个小巧轻便的产品", "One is small and light."],
+  ["和一个又大又重的商品", "The other is large and heavy."],
+  [
+    "FBA履约成本可能差很多",
+    "Their fulfillment costs can differ substantially."
+  ],
+  [
+    "我们假设这位卖家当月的FBA履约成本",
+    "Assume this seller's monthly FBA fulfillment costs"
+  ],
+  ["一万八千美元", "total $18,000."],
+  ["那么销售佣金一万五千", "The $15,000 referral fee"],
+  ["加上FBA履约费一万八千", "plus $18,000 in fulfillment fees"],
+  ["总共是三万三千美元", "comes to $33,000."],
+  ["刚才剩下七万三千美元", "We had $73,000 remaining."],
+  ["再减去三万三千美元", "Subtract $33,000."],
+  ["现在只剩下四万美元", "The balance is now $40,000."]
+]

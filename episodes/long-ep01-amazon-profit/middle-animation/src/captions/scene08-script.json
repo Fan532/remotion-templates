@@ -1,0 +1,39 @@
+[
+  [
+    "那么亚马逊卖家应该重点关注哪些数据呢",
+    "Which metrics should an Amazon seller watch?"
+  ],
+  ["我认为至少有三个", "I would highlight at least three."],
+  ["第一个是单件商品的贡献利润", "First, contribution margin per unit."],
+  ["不是只看售价减去采购价", "It is more than price minus purchase cost."],
+  ["而是要考虑每卖出一件商品", "Consider all the relevant variable costs"],
+  ["所产生的相关变动成本", "that arise from selling each unit."],
+  ["第二个是广告效率", "Second, advertising efficiency."],
+  ["这里有两个容易混淆的指标", "Two metrics are easily confused."],
+  [
+    "ACOS是广告花费除以广告带来的销售额",
+    "ACOS is ad spend divided by ad-attributed sales.",
+    "ACOOSOS是广告花费除以广告带来的销售额"
+  ],
+  [
+    "TACOS是广告花费除以店铺总销售额",
+    "TACOS is ad spend divided by total store revenue.",
+    "TCOOSOS是广告花费除以店铺总销售额"
+  ],
+  ["比如我们这个案例", "In our scenario"],
+  ["广告花费两万美元", "ad spend is $20,000."],
+  ["总销售额十万美元", "Total revenue is $100,000."],
+  ["那么TACOS就是百分之二十", "So TACOS is 20%.", "那么TCOOSOS就是百分之二十"],
+  [
+    "但如果不知道广告直接带来了多少销售额",
+    "Without the sales attributed to ads"
+  ],
+  ["就不能计算ACOS", "we cannot calculate ACOS.", "就不能计算ACOOSOS"],
+  ["第三个库存周转和现金流", "Third, inventory turnover and cash flow."],
+  ["商品卖不出去不仅占用资金", "Unsold goods tie up cash"],
+  ["还可能持续产生仓储费用", "and can keep generating storage costs."],
+  ["所以真正值得关注的", "What really matters"],
+  ["不只是销售额增长了多少", "is not just sales growth"],
+  ["而是扣掉各项成本以后", "but how much remains"],
+  ["生意到底还能剩下多少钱", "after all the relevant costs."]
+]

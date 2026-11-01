@@ -1,0 +1,764 @@
+1
+00:00:00,330 --> 00:00:02,238
+若有一位亚马逊卖家
+Imagine an Amazon seller
+
+2
+00:00:02,250 --> 00:00:04,818
+一个月卖出了十万美元的商品
+selling $100,000 of goods in a month.
+
+3
+00:00:04,830 --> 00:00:05,838
+看到这个数字
+Seeing that number
+
+4
+00:00:05,850 --> 00:00:06,858
+你可能会觉得
+you might think
+
+5
+00:00:06,870 --> 00:00:08,960
+他的生意一定非常赚钱
+the business must be highly profitable.
+
+6
+00:00:09,330 --> 00:00:12,380
+但是销售额和利润其实是两回事
+But sales and profit are different.
+
+7
+00:00:12,870 --> 00:00:15,920
+销售额是顾客购买商品支付的钱
+Revenue is what customers pay.
+
+8
+00:00:16,050 --> 00:00:18,018
+而利润需要扣除
+Profit requires subtracting
+
+9
+00:00:18,030 --> 00:00:20,600
+经营过程中发生的各种成本
+the costs of running the business.
+
+10
+00:00:20,910 --> 00:00:23,598
+所以今天我们就用一组假设的数据
+Today, we will use hypothetical figures
+
+11
+00:00:23,610 --> 00:00:26,360
+看看这十万美元最后还剩下多少
+to see how much of $100,000 remains.
+
+12
+00:00:27,030 --> 00:00:27,620
+采购
+Product sourcing.
+
+13
+00:00:27,870 --> 00:00:30,560
+不同商品的采购成本差别很大
+Purchase costs vary widely by product.
+
+14
+00:00:30,690 --> 00:00:33,258
+但对于一些从工厂直接采购
+For some goods sourced directly from factories
+
+15
+00:00:33,270 --> 00:00:36,080
+售价和采购价差距比较大的商品
+with a large gap between price and purchase cost
+
+16
+00:00:36,270 --> 00:00:39,680
+采购成本可能只占销售额的一成到两成
+purchase cost may be 10% to 20% of sales.
+
+17
+00:00:40,050 --> 00:00:42,078
+我们今天假设这位卖家
+In our illustrative scenario
+
+18
+00:00:42,090 --> 00:00:44,060
+一个月销售额十万美元
+monthly revenue is $100,000.
+
+19
+00:00:44,250 --> 00:00:46,940
+商品采购成本是一万五千美元
+Product purchases cost $15,000.
+
+20
+00:00:47,070 --> 00:00:49,340
+也就是销售额的百分之十五
+That is 15% of revenue.
+
+21
+00:00:49,590 --> 00:00:51,978
+十万美元减去一万五千美元
+Subtract $15,000 from $100,000.
+
+22
+00:00:51,990 --> 00:00:53,720
+还剩八万五千美元
+The remaining balance is $85,000.
+
+23
+00:00:53,790 --> 00:00:55,518
+看起来很不错对不对
+Looks good, right?
+
+24
+00:00:55,530 --> 00:00:57,138
+但这八万五千美元
+But that $85,000
+
+25
+00:00:57,150 --> 00:00:58,580
+还远远不是利润
+is still far from profit.
+
+26
+00:00:59,250 --> 00:01:01,338
+接下来是我比较熟悉的部分
+Next is an area I know well:
+
+27
+00:01:01,350 --> 00:01:02,240
+国际物流
+international logistics.
+
+28
+00:01:02,370 --> 00:01:05,358
+假设这位卖家从海外工厂采购商品
+Assume the seller sources goods overseas
+
+29
+00:01:05,370 --> 00:01:06,620
+运到美国销售
+to sell in the United States.
+
+30
+00:01:07,050 --> 00:01:09,860
+商品生产完成以后需要安排运输
+Once production ends, shipping begins.
+
+31
+00:01:10,170 --> 00:01:11,298
+如果走海运
+If the goods travel by sea
+
+32
+00:01:11,310 --> 00:01:15,560
+货物要经过国内运输出口港口海上运输
+the journey includes trucking, an export port and ocean freight
+
+33
+00:01:15,750 --> 00:01:17,060
+再到美国港口
+before reaching a US port.
+
+34
+00:01:17,370 --> 00:01:20,420
+到港以后还要产生清关进口关税
+Arrival also involves customs clearance and import duties
+
+35
+00:01:20,730 --> 00:01:21,738
+码头费用
+terminal charges
+
+36
+00:01:21,750 --> 00:01:24,920
+以及送货到亚马逊仓库的运输费用
+and transport to an Amazon warehouse.
+
+37
+00:01:24,990 --> 00:01:27,620
+这些钱都要算进商品的成本
+These costs belong in the cost calculation.
+
+38
+00:01:27,750 --> 00:01:31,220
+我们假设这部分费用合计一万两千美元
+Assume this stage totals $12,000.
+
+39
+00:01:31,470 --> 00:01:33,558
+刚才剩下八万五千美元
+We had $85,000 remaining.
+
+40
+00:01:33,570 --> 00:01:35,478
+再减去一万两千美元
+Subtract another $12,000.
+
+41
+00:01:35,490 --> 00:01:37,640
+现在还剩七万三千美元
+Now the balance is $73,000.
+
+42
+00:01:39,010 --> 00:01:41,880
+接下来我们看看亚马逊的平台费用
+Now let us examine Amazon platform fees.
+
+43
+00:01:42,070 --> 00:01:43,798
+首先是Referral Fee
+First is the referral fee.
+
+44
+00:01:43,810 --> 00:01:45,300
+也就是销售佣金
+This is the selling commission.
+
+45
+00:01:45,550 --> 00:01:48,180
+根据亚马逊美国站的收费规则
+Under Amazon US selling-fee rules
+
+46
+00:01:48,310 --> 00:01:51,600
+不同类别的商品佣金比例是不一样的
+referral rates differ by category.
+
+47
+00:01:51,790 --> 00:01:53,458
+比如家居厨房用品
+For example, Home & Kitchen
+
+48
+00:01:53,470 --> 00:01:56,280
+通常适用百分之十五的销售佣金
+typically uses a 15% referral rate.
+
+49
+00:01:56,410 --> 00:01:59,280
+而电脑消费电子类等产品
+Computers and consumer electronics
+
+50
+00:01:59,350 --> 00:02:01,860
+适用的比例可能只有百分之八
+may use an 8% rate.
+
+51
+00:02:02,110 --> 00:02:04,018
+我们今天假设一个卖家
+For our scenario, assume a seller
+
+52
+00:02:04,030 --> 00:02:08,100
+销售的是适用百分之十五佣金的家居厨房商品
+in Home & Kitchen with a 15% referral rate.
+
+53
+00:02:08,410 --> 00:02:10,378
+那么十万美元的销售额
+On $100,000 of revenue
+
+54
+00:02:10,390 --> 00:02:13,320
+对应的销售佣金是一万五千美元
+the referral fee is $15,000.
+
+55
+00:02:13,450 --> 00:02:14,520
+这还没有完
+That is not the end.
+
+56
+00:02:14,710 --> 00:02:16,438
+如果卖家使用FBA
+If the seller uses FBA
+
+57
+00:02:16,450 --> 00:02:19,740
+也就是让亚马逊负责仓储和订单履约
+Amazon handles storage and order fulfillment.
+
+58
+00:02:19,810 --> 00:02:22,920
+还需要额外支付FBA Fulfillment Fee
+There is also an FBA fulfillment fee.
+
+59
+00:02:22,990 --> 00:02:24,780
+也就是订单履约费
+That is the cost of fulfilling orders.
+
+60
+00:02:25,750 --> 00:02:27,658
+这笔费用不是简单地按照
+This fee is not simply calculated
+
+61
+00:02:27,670 --> 00:02:30,300
+销售额的固定百分比计算的
+as a fixed percentage of sales.
+
+62
+00:02:30,430 --> 00:02:33,058
+它通常和商品的尺寸重量
+It generally depends on dimensions, weight
+
+63
+00:02:33,070 --> 00:02:35,340
+以及适用的收费标准有关
+and the applicable fee schedule.
+
+64
+00:02:35,650 --> 00:02:38,220
+比如同样卖一个二十美元的产品
+Consider two products both priced at $20.
+
+65
+00:02:38,350 --> 00:02:40,078
+一个小巧轻便的产品
+One is small and light.
+
+66
+00:02:40,090 --> 00:02:41,878
+和一个又大又重的商品
+The other is large and heavy.
+
+67
+00:02:41,890 --> 00:02:44,220
+FBA履约成本可能差很多
+Their fulfillment costs can differ substantially.
+
+68
+00:02:44,590 --> 00:02:48,178
+我们假设这位卖家当月的FBA履约成本
+Assume this seller's monthly FBA fulfillment costs
+
+69
+00:02:48,190 --> 00:02:49,560
+一万八千美元
+total $18,000.
+
+70
+00:02:49,690 --> 00:02:51,840
+那么销售佣金一万五千
+The $15,000 referral fee
+
+71
+00:02:52,030 --> 00:02:54,658
+加上FBA履约费一万八千
+plus $18,000 in fulfillment fees
+
+72
+00:02:54,670 --> 00:02:56,760
+总共是三万三千美元
+comes to $33,000.
+
+73
+00:02:57,010 --> 00:02:59,038
+刚才剩下七万三千美元
+We had $73,000 remaining.
+
+74
+00:02:59,050 --> 00:03:00,958
+再减去三万三千美元
+Subtract $33,000.
+
+75
+00:03:00,970 --> 00:03:03,000
+现在只剩下四万美元
+The balance is now $40,000.
+
+76
+00:03:04,490 --> 00:03:07,120
+除了销售佣金和订单履约费
+Besides referral and fulfillment fees
+
+77
+00:03:07,310 --> 00:03:10,600
+亚马逊卖家还需要关注一个仓储成本
+Amazon sellers must also watch storage costs.
+
+78
+00:03:10,790 --> 00:03:12,458
+这里特别需要注意
+An important distinction:
+
+79
+00:03:12,470 --> 00:03:15,458
+FBA Fulfillment Fee和Storage Fee
+FBA fulfillment fees and storage fees
+
+80
+00:03:15,470 --> 00:03:16,960
+是两笔不同的费用
+are different charges.
+
+81
+00:03:17,150 --> 00:03:19,538
+订单履约费主要与处理订单
+Fulfillment fees relate mainly to order processing
+
+82
+00:03:19,550 --> 00:03:21,760
+分拣包装和配送有关
+picking, packing and delivery.
+
+83
+00:03:21,890 --> 00:03:25,480
+而仓储费则和商品占用了多少仓储空间
+Storage fees depend on the space goods occupy
+
+84
+00:03:25,610 --> 00:03:28,120
+存放了多少时间等因素有关
+and how long they stay, among other factors.
+
+85
+00:03:28,370 --> 00:03:30,940
+如果商品体积大库存周转慢
+Bulky goods or slow-moving inventory
+
+86
+00:03:31,010 --> 00:03:34,058
+或者产生了额外的库存相关费用
+may also incur additional inventory-related charges.
+
+87
+00:03:34,070 --> 00:03:35,860
+成本可能进一步增加
+Costs can rise further.
+
+88
+00:03:36,050 --> 00:03:39,640
+我们假设这位卖家有一部分库存周转比较慢
+Assume some of this seller's inventory moves slowly.
+
+89
+00:03:40,070 --> 00:03:43,900
+当月仓储以及相关库存费用合计六千美元
+Monthly storage and related inventory costs total $6,000.
+
+90
+00:03:44,210 --> 00:03:45,878
+刚才剩下四万美元
+We had $40,000 remaining.
+
+91
+00:03:45,890 --> 00:03:47,500
+再减去六千美元
+Subtract $6,000.
+
+92
+00:03:47,630 --> 00:03:50,020
+现在只剩下三万四千美元
+Now the balance is $34,000.
+
+93
+00:03:50,210 --> 00:03:53,260
+所以库存不只是放在仓库里的商品
+Inventory is more than goods sitting in a warehouse.
+
+94
+00:03:53,390 --> 00:03:56,200
+它还可能意味着持续增加的成本
+It can mean ongoing costs
+
+95
+00:03:56,270 --> 00:03:57,940
+以及被占用的现金
+and cash tied up in stock.
+
+96
+00:03:58,633 --> 00:04:03,583
+本段录音尚未提供
+Scene 06 narration has not been supplied.
+
+97
+00:04:03,633 --> 00:04:08,583
+广告投入：两万美元
+Advertising spend in the model: $20,000.
+
+98
+00:04:08,633 --> 00:04:13,583
+总销售额：十万美元
+Total revenue in the model: $100,000.
+
+99
+00:04:13,633 --> 00:04:18,583
+TACOS = 广告花费 ÷ 总销售额
+TACOS = ad spend divided by total revenue.
+
+100
+00:04:18,633 --> 00:04:23,583
+本例TACOS为20%，ACOS无法计算
+TACOS is 20%; ACOS is unavailable.
+
+101
+00:04:23,633 --> 00:04:28,583
+缺少广告归因销售额，不虚构数据
+Ad-attributed sales have not been provided.
+
+102
+00:04:29,683 --> 00:04:31,953
+最后我们还要考虑退货
+Finally, consider returns
+
+103
+00:04:32,023 --> 00:04:34,353
+商品损耗以及其他费用
+product losses and other costs.
+
+104
+00:04:34,663 --> 00:04:36,451
+比如消费者退货以后
+For example, after a customer return
+
+105
+00:04:36,463 --> 00:04:38,553
+商品可能无法重新销售
+an item may be impossible to resell.
+
+106
+00:04:38,803 --> 00:04:41,973
+有些退货还可能涉及额外的处理费用
+Some returns also create handling costs.
+
+107
+00:04:42,043 --> 00:04:45,331
+我们假设这些没有在前面重复计算的费用
+Assume these costs, not already counted above,
+
+108
+00:04:45,343 --> 00:04:46,713
+合计七千美元
+total $7,000.
+
+109
+00:04:46,903 --> 00:04:49,051
+刚才剩下的一万四千美元
+We had $14,000 remaining.
+
+110
+00:04:49,063 --> 00:04:50,611
+再减去七千美元
+Subtract $7,000.
+
+111
+00:04:50,623 --> 00:04:52,593
+最后只剩下七千美元
+Only $7,000 remains.
+
+112
+00:04:52,723 --> 00:04:55,533
+现在我们再把整笔账重新看一遍
+Now let us review the full calculation.
+
+113
+00:04:55,783 --> 00:04:57,513
+月销售十万美元
+Monthly revenue: $100,000.
+
+114
+00:04:57,643 --> 00:04:59,433
+商品采购成本一万五
+Product cost: $15,000.
+
+115
+00:04:59,683 --> 00:05:03,153
+国际物流关税和入仓一万两千美元
+International logistics, duties and inbound: $12,000.
+
+116
+00:05:03,643 --> 00:05:07,113
+亚马逊销售佣金一万五千美元
+Referral fees: $15,000.
+
+117
+00:05:07,303 --> 00:05:10,293
+FBA订单履约费一万八千美元
+FBA fulfillment: $18,000.
+
+118
+00:05:10,423 --> 00:05:13,951
+仓储以及相关库存成本六千美元
+Storage and related inventory costs: $6,000.
+
+119
+00:05:13,963 --> 00:05:15,693
+广告费口播金额待核对
+Advertising: spoken amount requires review.
+
+120
+00:05:15,823 --> 00:05:19,293
+退货损耗以及其他列示费用七千美元
+Returns and other listed costs: $7,000.
+
+121
+00:05:19,423 --> 00:05:22,353
+全部加起来成本是九万三千美元
+Total listed costs: $93,000.
+
+122
+00:05:22,543 --> 00:05:24,931
+十万美元减去九万三千美元
+Subtract $93,000 from $100,000.
+
+123
+00:05:24,943 --> 00:05:26,373
+只剩七千美元
+Only $7,000 remains.
+
+124
+00:05:26,683 --> 00:05:28,833
+也就是销售额的百分之七
+That is 7% of revenue.
+
+125
+00:05:29,143 --> 00:05:32,313
+而且这七千美元还不一定是最终净利润
+This $7,000 is not necessarily final net profit.
+
+126
+00:05:32,683 --> 00:05:37,233
+因为可能还没有计算进去一些经营费用和税费
+Other operating expenses and taxes may be missing.
+
+127
+00:05:37,783 --> 00:05:40,171
+这是一组假设的数据
+These figures are hypothetical.
+
+128
+00:05:40,183 --> 00:05:43,233
+不代表亚马逊卖家的实际成本结构
+They do not represent sellers' actual cost structures.
+
+129
+00:05:43,363 --> 00:05:45,091
+但它说明了一个问题
+They illustrate one point:
+
+130
+00:05:45,103 --> 00:05:48,693
+采购成本低不代表最后利润一定高
+Low purchase costs do not guarantee high profit.
+
+131
+00:05:53,323 --> 00:05:57,031
+那么亚马逊卖家应该重点关注哪些数据呢
+Which metrics should an Amazon seller watch?
+
+132
+00:05:57,043 --> 00:05:58,713
+我认为至少有三个
+I would highlight at least three.
+
+133
+00:05:58,963 --> 00:06:01,533
+第一个是单件商品的贡献利润
+First, contribution margin per unit.
+
+134
+00:06:01,723 --> 00:06:04,233
+不是只看售价减去采购价
+It is more than price minus purchase cost.
+
+135
+00:06:04,303 --> 00:06:06,631
+而是要考虑每卖出一件商品
+Consider all the relevant variable costs
+
+136
+00:06:06,643 --> 00:06:08,853
+所产生的相关变动成本
+that arise from selling each unit.
+
+137
+00:06:09,223 --> 00:06:10,831
+第二个是广告效率
+Second, advertising efficiency.
+
+138
+00:06:10,843 --> 00:06:13,113
+这里有两个容易混淆的指标
+Two metrics are easily confused.
+
+139
+00:06:13,183 --> 00:06:17,973
+ACOS是广告花费除以广告带来的销售额
+ACOS is ad spend divided by ad-attributed sales.
+
+140
+00:06:18,523 --> 00:06:23,013
+TACOS是广告花费除以店铺总销售额
+TACOS is ad spend divided by total store revenue.
+
+141
+00:06:23,443 --> 00:06:24,811
+比如我们这个案例
+In our scenario
+
+142
+00:06:24,823 --> 00:06:26,551
+广告花费两万美元
+ad spend is $20,000.
+
+143
+00:06:26,563 --> 00:06:28,353
+总销售额十万美元
+Total revenue is $100,000.
+
+144
+00:06:28,543 --> 00:06:31,533
+那么TACOS就是百分之二十
+So TACOS is 20%.
+
+145
+00:06:32,083 --> 00:06:35,431
+但如果不知道广告直接带来了多少销售额
+Without the sales attributed to ads
+
+146
+00:06:35,443 --> 00:06:37,503
+就不能计算ACOS
+we cannot calculate ACOS.
+
+147
+00:06:38,023 --> 00:06:41,013
+第三个库存周转和现金流
+Third, inventory turnover and cash flow.
+
+148
+00:06:41,383 --> 00:06:43,831
+商品卖不出去不仅占用资金
+Unsold goods tie up cash
+
+149
+00:06:43,843 --> 00:06:46,293
+还可能持续产生仓储费用
+and can keep generating storage costs.
+
+150
+00:06:46,483 --> 00:06:48,513
+所以真正值得关注的
+What really matters
+
+151
+00:06:48,943 --> 00:06:51,213
+不只是销售额增长了多少
+is not just sales growth
+
+152
+00:06:51,643 --> 00:06:53,551
+而是扣掉各项成本以后
+but how much remains
+
+153
+00:06:53,563 --> 00:06:55,833
+生意到底还能剩下多少钱
+after all the relevant costs.

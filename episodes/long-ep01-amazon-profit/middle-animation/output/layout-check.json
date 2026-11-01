@@ -1,0 +1,10 @@
+{
+  "subtitle_size_both_languages": 32,
+  "weight_both_languages": 650,
+  "available_width": 1750,
+  "max_native_font_sentence_width": 987.86,
+  "max_lines_one_language": 1,
+  "max_block_height_limit": 190,
+  "chinese_glyphs": "PASS",
+  "result": "PASS"
+}

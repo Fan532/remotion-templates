@@ -1,0 +1,63 @@
+1
+00:00:00,150 --> 00:00:02,238
+Next is an area I know well:
+
+2
+00:00:02,250 --> 00:00:03,140
+international logistics.
+
+3
+00:00:03,270 --> 00:00:06,258
+Assume the seller sources goods overseas
+
+4
+00:00:06,270 --> 00:00:07,520
+to sell in the United States.
+
+5
+00:00:07,950 --> 00:00:10,760
+Once production ends, shipping begins.
+
+6
+00:00:11,070 --> 00:00:12,198
+If the goods travel by sea
+
+7
+00:00:12,210 --> 00:00:16,460
+the journey includes trucking, an export port and ocean freight
+
+8
+00:00:16,650 --> 00:00:17,960
+before reaching a US port.
+
+9
+00:00:18,270 --> 00:00:21,320
+Arrival also involves customs clearance and import duties
+
+10
+00:00:21,630 --> 00:00:22,638
+terminal charges
+
+11
+00:00:22,650 --> 00:00:25,820
+and transport to an Amazon warehouse.
+
+12
+00:00:25,890 --> 00:00:28,520
+These costs belong in the cost calculation.
+
+13
+00:00:28,650 --> 00:00:32,120
+Assume this stage totals $12,000.
+
+14
+00:00:32,370 --> 00:00:34,458
+We had $85,000 remaining.
+
+15
+00:00:34,470 --> 00:00:36,378
+Subtract another $12,000.
+
+16
+00:00:36,390 --> 00:00:38,540
+Now the balance is $73,000.

@@ -1,0 +1,942 @@
+{
+  "1": [
+    {
+      "start": 0.33,
+      "end": 2.238,
+      "zh": "若有一位亚马逊卖家",
+      "en": "Imagine an Amazon seller"
+    },
+    {
+      "start": 2.25,
+      "end": 4.818,
+      "zh": "一个月卖出了十万美元的商品",
+      "en": "selling $100,000 of goods in a month."
+    },
+    {
+      "start": 4.83,
+      "end": 5.838,
+      "zh": "看到这个数字",
+      "en": "Seeing that number"
+    },
+    {
+      "start": 5.85,
+      "end": 6.858,
+      "zh": "你可能会觉得",
+      "en": "you might think"
+    },
+    {
+      "start": 6.87,
+      "end": 8.96,
+      "zh": "他的生意一定非常赚钱",
+      "en": "the business must be highly profitable."
+    },
+    {
+      "start": 9.33,
+      "end": 12.38,
+      "zh": "但是销售额和利润其实是两回事",
+      "en": "But sales and profit are different."
+    },
+    {
+      "start": 12.87,
+      "end": 15.92,
+      "zh": "销售额是顾客购买商品支付的钱",
+      "en": "Revenue is what customers pay."
+    },
+    {
+      "start": 16.05,
+      "end": 18.018,
+      "zh": "而利润需要扣除",
+      "en": "Profit requires subtracting"
+    },
+    {
+      "start": 18.03,
+      "end": 20.6,
+      "zh": "经营过程中发生的各种成本",
+      "en": "the costs of running the business."
+    },
+    {
+      "start": 20.91,
+      "end": 23.598,
+      "zh": "所以今天我们就用一组假设的数据",
+      "en": "Today, we will use hypothetical figures"
+    },
+    {
+      "start": 23.61,
+      "end": 26.36,
+      "zh": "看看这十万美元最后还剩下多少",
+      "en": "to see how much of $100,000 remains."
+    }
+  ],
+  "2": [
+    {
+      "start": 0.33,
+      "end": 0.92,
+      "zh": "采购",
+      "en": "Product sourcing."
+    },
+    {
+      "start": 1.17,
+      "end": 3.86,
+      "zh": "不同商品的采购成本差别很大",
+      "en": "Purchase costs vary widely by product."
+    },
+    {
+      "start": 3.99,
+      "end": 6.558,
+      "zh": "但对于一些从工厂直接采购",
+      "en": "For some goods sourced directly from factories"
+    },
+    {
+      "start": 6.57,
+      "end": 9.38,
+      "zh": "售价和采购价差距比较大的商品",
+      "en": "with a large gap between price and purchase cost"
+    },
+    {
+      "start": 9.57,
+      "end": 12.98,
+      "zh": "采购成本可能只占销售额的一成到两成",
+      "en": "purchase cost may be 10% to 20% of sales."
+    },
+    {
+      "start": 13.35,
+      "end": 15.378,
+      "zh": "我们今天假设这位卖家",
+      "en": "In our illustrative scenario"
+    },
+    {
+      "start": 15.39,
+      "end": 17.36,
+      "zh": "一个月销售额十万美元",
+      "en": "monthly revenue is $100,000."
+    },
+    {
+      "start": 17.55,
+      "end": 20.24,
+      "zh": "商品采购成本是一万五千美元",
+      "en": "Product purchases cost $15,000."
+    },
+    {
+      "start": 20.37,
+      "end": 22.64,
+      "zh": "也就是销售额的百分之十五",
+      "en": "That is 15% of revenue."
+    },
+    {
+      "start": 22.89,
+      "end": 25.278,
+      "zh": "十万美元减去一万五千美元",
+      "en": "Subtract $15,000 from $100,000."
+    },
+    {
+      "start": 25.29,
+      "end": 27.02,
+      "zh": "还剩八万五千美元",
+      "en": "The remaining balance is $85,000."
+    },
+    {
+      "start": 27.09,
+      "end": 28.818,
+      "zh": "看起来很不错对不对",
+      "en": "Looks good, right?"
+    },
+    {
+      "start": 28.83,
+      "end": 30.438,
+      "zh": "但这八万五千美元",
+      "en": "But that $85,000"
+    },
+    {
+      "start": 30.45,
+      "end": 31.88,
+      "zh": "还远远不是利润",
+      "en": "is still far from profit."
+    }
+  ],
+  "3": [
+    {
+      "start": 0.15,
+      "end": 2.238,
+      "zh": "接下来是我比较熟悉的部分",
+      "en": "Next is an area I know well:"
+    },
+    {
+      "start": 2.25,
+      "end": 3.14,
+      "zh": "国际物流",
+      "en": "international logistics."
+    },
+    {
+      "start": 3.27,
+      "end": 6.258,
+      "zh": "假设这位卖家从海外工厂采购商品",
+      "en": "Assume the seller sources goods overseas"
+    },
+    {
+      "start": 6.27,
+      "end": 7.52,
+      "zh": "运到美国销售",
+      "en": "to sell in the United States."
+    },
+    {
+      "start": 7.95,
+      "end": 10.76,
+      "zh": "商品生产完成以后需要安排运输",
+      "en": "Once production ends, shipping begins."
+    },
+    {
+      "start": 11.07,
+      "end": 12.198,
+      "zh": "如果走海运",
+      "en": "If the goods travel by sea"
+    },
+    {
+      "start": 12.21,
+      "end": 16.46,
+      "zh": "货物要经过国内运输出口港口海上运输",
+      "en": "the journey includes trucking, an export port and ocean freight"
+    },
+    {
+      "start": 16.65,
+      "end": 17.96,
+      "zh": "再到美国港口",
+      "en": "before reaching a US port."
+    },
+    {
+      "start": 18.27,
+      "end": 21.32,
+      "zh": "到港以后还要产生清关进口关税",
+      "en": "Arrival also involves customs clearance and import duties"
+    },
+    {
+      "start": 21.63,
+      "end": 22.638,
+      "zh": "码头费用",
+      "en": "terminal charges"
+    },
+    {
+      "start": 22.65,
+      "end": 25.82,
+      "zh": "以及送货到亚马逊仓库的运输费用",
+      "en": "and transport to an Amazon warehouse."
+    },
+    {
+      "start": 25.89,
+      "end": 28.52,
+      "zh": "这些钱都要算进商品的成本",
+      "en": "These costs belong in the cost calculation."
+    },
+    {
+      "start": 28.65,
+      "end": 32.12,
+      "zh": "我们假设这部分费用合计一万两千美元",
+      "en": "Assume this stage totals $12,000."
+    },
+    {
+      "start": 32.37,
+      "end": 34.458,
+      "zh": "刚才剩下八万五千美元",
+      "en": "We had $85,000 remaining."
+    },
+    {
+      "start": 34.47,
+      "end": 36.378,
+      "zh": "再减去一万两千美元",
+      "en": "Subtract another $12,000."
+    },
+    {
+      "start": 36.39,
+      "end": 38.54,
+      "zh": "现在还剩七万三千美元",
+      "en": "Now the balance is $73,000."
+    }
+  ],
+  "4": [
+    {
+      "start": 1.11,
+      "end": 3.98,
+      "zh": "接下来我们看看亚马逊的平台费用",
+      "en": "Now let us examine Amazon platform fees."
+    },
+    {
+      "start": 4.17,
+      "end": 5.898,
+      "zh": "首先是Referral Fee",
+      "en": "First is the referral fee."
+    },
+    {
+      "start": 5.91,
+      "end": 7.4,
+      "zh": "也就是销售佣金",
+      "en": "This is the selling commission."
+    },
+    {
+      "start": 7.65,
+      "end": 10.28,
+      "zh": "根据亚马逊美国站的收费规则",
+      "en": "Under Amazon US selling-fee rules"
+    },
+    {
+      "start": 10.41,
+      "end": 13.7,
+      "zh": "不同类别的商品佣金比例是不一样的",
+      "en": "referral rates differ by category."
+    },
+    {
+      "start": 13.89,
+      "end": 15.558,
+      "zh": "比如家居厨房用品",
+      "en": "For example, Home & Kitchen"
+    },
+    {
+      "start": 15.57,
+      "end": 18.38,
+      "zh": "通常适用百分之十五的销售佣金",
+      "en": "typically uses a 15% referral rate."
+    },
+    {
+      "start": 18.51,
+      "end": 21.38,
+      "zh": "而电脑消费电子类等产品",
+      "en": "Computers and consumer electronics"
+    },
+    {
+      "start": 21.45,
+      "end": 23.96,
+      "zh": "适用的比例可能只有百分之八",
+      "en": "may use an 8% rate."
+    },
+    {
+      "start": 24.21,
+      "end": 26.118,
+      "zh": "我们今天假设一个卖家",
+      "en": "For our scenario, assume a seller"
+    },
+    {
+      "start": 26.13,
+      "end": 30.2,
+      "zh": "销售的是适用百分之十五佣金的家居厨房商品",
+      "en": "in Home & Kitchen with a 15% referral rate."
+    },
+    {
+      "start": 30.51,
+      "end": 32.478,
+      "zh": "那么十万美元的销售额",
+      "en": "On $100,000 of revenue"
+    },
+    {
+      "start": 32.49,
+      "end": 35.42,
+      "zh": "对应的销售佣金是一万五千美元",
+      "en": "the referral fee is $15,000."
+    },
+    {
+      "start": 35.55,
+      "end": 36.62,
+      "zh": "这还没有完",
+      "en": "That is not the end."
+    },
+    {
+      "start": 36.81,
+      "end": 38.538,
+      "zh": "如果卖家使用FBA",
+      "en": "If the seller uses FBA"
+    },
+    {
+      "start": 38.55,
+      "end": 41.84,
+      "zh": "也就是让亚马逊负责仓储和订单履约",
+      "en": "Amazon handles storage and order fulfillment."
+    },
+    {
+      "start": 41.91,
+      "end": 45.02,
+      "zh": "还需要额外支付FBA Fulfillment Fee",
+      "en": "There is also an FBA fulfillment fee."
+    },
+    {
+      "start": 45.09,
+      "end": 46.88,
+      "zh": "也就是订单履约费",
+      "en": "That is the cost of fulfilling orders."
+    },
+    {
+      "start": 47.85,
+      "end": 49.758,
+      "zh": "这笔费用不是简单地按照",
+      "en": "This fee is not simply calculated"
+    },
+    {
+      "start": 49.77,
+      "end": 52.4,
+      "zh": "销售额的固定百分比计算的",
+      "en": "as a fixed percentage of sales."
+    },
+    {
+      "start": 52.53,
+      "end": 55.158,
+      "zh": "它通常和商品的尺寸重量",
+      "en": "It generally depends on dimensions, weight"
+    },
+    {
+      "start": 55.17,
+      "end": 57.44,
+      "zh": "以及适用的收费标准有关",
+      "en": "and the applicable fee schedule."
+    },
+    {
+      "start": 57.75,
+      "end": 60.32,
+      "zh": "比如同样卖一个二十美元的产品",
+      "en": "Consider two products both priced at $20."
+    },
+    {
+      "start": 60.45,
+      "end": 62.178,
+      "zh": "一个小巧轻便的产品",
+      "en": "One is small and light."
+    },
+    {
+      "start": 62.19,
+      "end": 63.978,
+      "zh": "和一个又大又重的商品",
+      "en": "The other is large and heavy."
+    },
+    {
+      "start": 63.99,
+      "end": 66.32,
+      "zh": "FBA履约成本可能差很多",
+      "en": "Their fulfillment costs can differ substantially."
+    },
+    {
+      "start": 66.69,
+      "end": 70.278,
+      "zh": "我们假设这位卖家当月的FBA履约成本",
+      "en": "Assume this seller's monthly FBA fulfillment costs"
+    },
+    {
+      "start": 70.29,
+      "end": 71.66,
+      "zh": "一万八千美元",
+      "en": "total $18,000."
+    },
+    {
+      "start": 71.79,
+      "end": 73.94,
+      "zh": "那么销售佣金一万五千",
+      "en": "The $15,000 referral fee"
+    },
+    {
+      "start": 74.13,
+      "end": 76.758,
+      "zh": "加上FBA履约费一万八千",
+      "en": "plus $18,000 in fulfillment fees"
+    },
+    {
+      "start": 76.77,
+      "end": 78.86,
+      "zh": "总共是三万三千美元",
+      "en": "comes to $33,000."
+    },
+    {
+      "start": 79.11,
+      "end": 81.138,
+      "zh": "刚才剩下七万三千美元",
+      "en": "We had $73,000 remaining."
+    },
+    {
+      "start": 81.15,
+      "end": 83.058,
+      "zh": "再减去三万三千美元",
+      "en": "Subtract $33,000."
+    },
+    {
+      "start": 83.07,
+      "end": 85.1,
+      "zh": "现在只剩下四万美元",
+      "en": "The balance is now $40,000."
+    }
+  ],
+  "5": [
+    {
+      "start": 0.39,
+      "end": 3.02,
+      "zh": "除了销售佣金和订单履约费",
+      "en": "Besides referral and fulfillment fees"
+    },
+    {
+      "start": 3.21,
+      "end": 6.5,
+      "zh": "亚马逊卖家还需要关注一个仓储成本",
+      "en": "Amazon sellers must also watch storage costs."
+    },
+    {
+      "start": 6.69,
+      "end": 8.358,
+      "zh": "这里特别需要注意",
+      "en": "An important distinction:"
+    },
+    {
+      "start": 8.37,
+      "end": 11.358,
+      "zh": "FBA Fulfillment Fee和Storage Fee",
+      "en": "FBA fulfillment fees and storage fees"
+    },
+    {
+      "start": 11.37,
+      "end": 12.86,
+      "zh": "是两笔不同的费用",
+      "en": "are different charges."
+    },
+    {
+      "start": 13.05,
+      "end": 15.438,
+      "zh": "订单履约费主要与处理订单",
+      "en": "Fulfillment fees relate mainly to order processing"
+    },
+    {
+      "start": 15.45,
+      "end": 17.66,
+      "zh": "分拣包装和配送有关",
+      "en": "picking, packing and delivery."
+    },
+    {
+      "start": 17.79,
+      "end": 21.38,
+      "zh": "而仓储费则和商品占用了多少仓储空间",
+      "en": "Storage fees depend on the space goods occupy"
+    },
+    {
+      "start": 21.51,
+      "end": 24.02,
+      "zh": "存放了多少时间等因素有关",
+      "en": "and how long they stay, among other factors."
+    },
+    {
+      "start": 24.27,
+      "end": 26.84,
+      "zh": "如果商品体积大库存周转慢",
+      "en": "Bulky goods or slow-moving inventory"
+    },
+    {
+      "start": 26.91,
+      "end": 29.958,
+      "zh": "或者产生了额外的库存相关费用",
+      "en": "may also incur additional inventory-related charges."
+    },
+    {
+      "start": 29.97,
+      "end": 31.76,
+      "zh": "成本可能进一步增加",
+      "en": "Costs can rise further."
+    },
+    {
+      "start": 31.95,
+      "end": 35.54,
+      "zh": "我们假设这位卖家有一部分库存周转比较慢",
+      "en": "Assume some of this seller's inventory moves slowly."
+    },
+    {
+      "start": 35.97,
+      "end": 39.8,
+      "zh": "当月仓储以及相关库存费用合计六千美元",
+      "en": "Monthly storage and related inventory costs total $6,000."
+    },
+    {
+      "start": 40.11,
+      "end": 41.778,
+      "zh": "刚才剩下四万美元",
+      "en": "We had $40,000 remaining."
+    },
+    {
+      "start": 41.79,
+      "end": 43.4,
+      "zh": "再减去六千美元",
+      "en": "Subtract $6,000."
+    },
+    {
+      "start": 43.53,
+      "end": 45.92,
+      "zh": "现在只剩下三万四千美元",
+      "en": "Now the balance is $34,000."
+    },
+    {
+      "start": 46.11,
+      "end": 49.16,
+      "zh": "所以库存不只是放在仓库里的商品",
+      "en": "Inventory is more than goods sitting in a warehouse."
+    },
+    {
+      "start": 49.29,
+      "end": 52.1,
+      "zh": "它还可能意味着持续增加的成本",
+      "en": "It can mean ongoing costs"
+    },
+    {
+      "start": 52.17,
+      "end": 53.84,
+      "zh": "以及被占用的现金",
+      "en": "and cash tied up in stock."
+    }
+  ],
+  "6": [
+    {
+      "start": 0,
+      "end": 4.95,
+      "zh": "本段录音尚未提供",
+      "en": "Scene 06 narration has not been supplied.",
+      "status": "provisional on-screen copy, not speech transcript"
+    },
+    {
+      "start": 5,
+      "end": 9.95,
+      "zh": "广告投入：两万美元",
+      "en": "Advertising spend in the model: $20,000.",
+      "status": "provisional on-screen copy, not speech transcript"
+    },
+    {
+      "start": 10,
+      "end": 14.95,
+      "zh": "总销售额：十万美元",
+      "en": "Total revenue in the model: $100,000.",
+      "status": "provisional on-screen copy, not speech transcript"
+    },
+    {
+      "start": 15,
+      "end": 19.95,
+      "zh": "TACOS = 广告花费 ÷ 总销售额",
+      "en": "TACOS = ad spend divided by total revenue.",
+      "status": "provisional on-screen copy, not speech transcript"
+    },
+    {
+      "start": 20,
+      "end": 24.95,
+      "zh": "本例TACOS为20%，ACOS无法计算",
+      "en": "TACOS is 20%; ACOS is unavailable.",
+      "status": "provisional on-screen copy, not speech transcript"
+    },
+    {
+      "start": 25,
+      "end": 29.95,
+      "zh": "缺少广告归因销售额，不虚构数据",
+      "en": "Ad-attributed sales have not been provided.",
+      "status": "provisional on-screen copy, not speech transcript"
+    }
+  ],
+  "7": [
+    {
+      "start": 1.05,
+      "end": 3.32,
+      "zh": "最后我们还要考虑退货",
+      "en": "Finally, consider returns"
+    },
+    {
+      "start": 3.39,
+      "end": 5.72,
+      "zh": "商品损耗以及其他费用",
+      "en": "product losses and other costs."
+    },
+    {
+      "start": 6.03,
+      "end": 7.818,
+      "zh": "比如消费者退货以后",
+      "en": "For example, after a customer return"
+    },
+    {
+      "start": 7.83,
+      "end": 9.92,
+      "zh": "商品可能无法重新销售",
+      "en": "an item may be impossible to resell."
+    },
+    {
+      "start": 10.17,
+      "end": 13.34,
+      "zh": "有些退货还可能涉及额外的处理费用",
+      "en": "Some returns also create handling costs."
+    },
+    {
+      "start": 13.41,
+      "end": 16.698,
+      "zh": "我们假设这些没有在前面重复计算的费用",
+      "en": "Assume these costs, not already counted above,"
+    },
+    {
+      "start": 16.71,
+      "end": 18.08,
+      "zh": "合计七千美元",
+      "en": "total $7,000."
+    },
+    {
+      "start": 18.27,
+      "end": 20.418,
+      "zh": "刚才剩下的一万四千美元",
+      "en": "We had $14,000 remaining."
+    },
+    {
+      "start": 20.43,
+      "end": 21.978,
+      "zh": "再减去七千美元",
+      "en": "Subtract $7,000."
+    },
+    {
+      "start": 21.99,
+      "end": 23.96,
+      "zh": "最后只剩下七千美元",
+      "en": "Only $7,000 remains."
+    },
+    {
+      "start": 24.09,
+      "end": 26.9,
+      "zh": "现在我们再把整笔账重新看一遍",
+      "en": "Now let us review the full calculation."
+    },
+    {
+      "start": 27.15,
+      "end": 28.88,
+      "zh": "月销售十万美元",
+      "en": "Monthly revenue: $100,000."
+    },
+    {
+      "start": 29.01,
+      "end": 30.8,
+      "zh": "商品采购成本一万五",
+      "en": "Product cost: $15,000."
+    },
+    {
+      "start": 31.05,
+      "end": 34.52,
+      "zh": "国际物流关税和入仓一万两千美元",
+      "en": "International logistics, duties and inbound: $12,000."
+    },
+    {
+      "start": 35.01,
+      "end": 38.48,
+      "zh": "亚马逊销售佣金一万五千美元",
+      "en": "Referral fees: $15,000."
+    },
+    {
+      "start": 38.67,
+      "end": 41.66,
+      "zh": "FBA订单履约费一万八千美元",
+      "en": "FBA fulfillment: $18,000."
+    },
+    {
+      "start": 41.79,
+      "end": 45.318,
+      "zh": "仓储以及相关库存成本六千美元",
+      "en": "Storage and related inventory costs: $6,000."
+    },
+    {
+      "start": 45.33,
+      "end": 47.06,
+      "zh": "广告费口播金额待核对",
+      "en": "Advertising: spoken amount requires review."
+    },
+    {
+      "start": 47.19,
+      "end": 50.66,
+      "zh": "退货损耗以及其他列示费用七千美元",
+      "en": "Returns and other listed costs: $7,000."
+    },
+    {
+      "start": 50.79,
+      "end": 53.72,
+      "zh": "全部加起来成本是九万三千美元",
+      "en": "Total listed costs: $93,000."
+    },
+    {
+      "start": 53.91,
+      "end": 56.298,
+      "zh": "十万美元减去九万三千美元",
+      "en": "Subtract $93,000 from $100,000."
+    },
+    {
+      "start": 56.31,
+      "end": 57.74,
+      "zh": "只剩七千美元",
+      "en": "Only $7,000 remains."
+    },
+    {
+      "start": 58.05,
+      "end": 60.2,
+      "zh": "也就是销售额的百分之七",
+      "en": "That is 7% of revenue."
+    },
+    {
+      "start": 60.51,
+      "end": 63.68,
+      "zh": "而且这七千美元还不一定是最终净利润",
+      "en": "This $7,000 is not necessarily final net profit."
+    },
+    {
+      "start": 64.05,
+      "end": 68.6,
+      "zh": "因为可能还没有计算进去一些经营费用和税费",
+      "en": "Other operating expenses and taxes may be missing."
+    },
+    {
+      "start": 69.15,
+      "end": 71.538,
+      "zh": "这是一组假设的数据",
+      "en": "These figures are hypothetical."
+    },
+    {
+      "start": 71.55,
+      "end": 74.6,
+      "zh": "不代表亚马逊卖家的实际成本结构",
+      "en": "They do not represent sellers' actual cost structures."
+    },
+    {
+      "start": 74.73,
+      "end": 76.458,
+      "zh": "但它说明了一个问题",
+      "en": "They illustrate one point:"
+    },
+    {
+      "start": 76.47,
+      "end": 80.06,
+      "zh": "采购成本低不代表最后利润一定高",
+      "en": "Low purchase costs do not guarantee high profit."
+    }
+  ],
+  "8": [
+    {
+      "start": 3.99,
+      "end": 7.698,
+      "zh": "那么亚马逊卖家应该重点关注哪些数据呢",
+      "en": "Which metrics should an Amazon seller watch?"
+    },
+    {
+      "start": 7.71,
+      "end": 9.38,
+      "zh": "我认为至少有三个",
+      "en": "I would highlight at least three."
+    },
+    {
+      "start": 9.63,
+      "end": 12.2,
+      "zh": "第一个是单件商品的贡献利润",
+      "en": "First, contribution margin per unit."
+    },
+    {
+      "start": 12.39,
+      "end": 14.9,
+      "zh": "不是只看售价减去采购价",
+      "en": "It is more than price minus purchase cost."
+    },
+    {
+      "start": 14.97,
+      "end": 17.298,
+      "zh": "而是要考虑每卖出一件商品",
+      "en": "Consider all the relevant variable costs"
+    },
+    {
+      "start": 17.31,
+      "end": 19.52,
+      "zh": "所产生的相关变动成本",
+      "en": "that arise from selling each unit."
+    },
+    {
+      "start": 19.89,
+      "end": 21.498,
+      "zh": "第二个是广告效率",
+      "en": "Second, advertising efficiency."
+    },
+    {
+      "start": 21.51,
+      "end": 23.78,
+      "zh": "这里有两个容易混淆的指标",
+      "en": "Two metrics are easily confused."
+    },
+    {
+      "start": 23.85,
+      "end": 28.64,
+      "zh": "ACOS是广告花费除以广告带来的销售额",
+      "en": "ACOS is ad spend divided by ad-attributed sales."
+    },
+    {
+      "start": 29.19,
+      "end": 33.68,
+      "zh": "TACOS是广告花费除以店铺总销售额",
+      "en": "TACOS is ad spend divided by total store revenue."
+    },
+    {
+      "start": 34.11,
+      "end": 35.478,
+      "zh": "比如我们这个案例",
+      "en": "In our scenario"
+    },
+    {
+      "start": 35.49,
+      "end": 37.218,
+      "zh": "广告花费两万美元",
+      "en": "ad spend is $20,000."
+    },
+    {
+      "start": 37.23,
+      "end": 39.02,
+      "zh": "总销售额十万美元",
+      "en": "Total revenue is $100,000."
+    },
+    {
+      "start": 39.21,
+      "end": 42.2,
+      "zh": "那么TACOS就是百分之二十",
+      "en": "So TACOS is 20%."
+    },
+    {
+      "start": 42.75,
+      "end": 46.098,
+      "zh": "但如果不知道广告直接带来了多少销售额",
+      "en": "Without the sales attributed to ads"
+    },
+    {
+      "start": 46.11,
+      "end": 48.17,
+      "zh": "就不能计算ACOS",
+      "en": "we cannot calculate ACOS."
+    },
+    {
+      "start": 48.69,
+      "end": 51.68,
+      "zh": "第三个库存周转和现金流",
+      "en": "Third, inventory turnover and cash flow."
+    },
+    {
+      "start": 52.05,
+      "end": 54.498,
+      "zh": "商品卖不出去不仅占用资金",
+      "en": "Unsold goods tie up cash"
+    },
+    {
+      "start": 54.51,
+      "end": 56.96,
+      "zh": "还可能持续产生仓储费用",
+      "en": "and can keep generating storage costs."
+    },
+    {
+      "start": 57.15,
+      "end": 59.18,
+      "zh": "所以真正值得关注的",
+      "en": "What really matters"
+    },
+    {
+      "start": 59.61,
+      "end": 61.88,
+      "zh": "不只是销售额增长了多少",
+      "en": "is not just sales growth"
+    },
+    {
+      "start": 62.31,
+      "end": 64.218,
+      "zh": "而是扣掉各项成本以后",
+      "en": "but how much remains"
+    },
+    {
+      "start": 64.23,
+      "end": 66.5,
+      "zh": "生意到底还能剩下多少钱",
+      "en": "after all the relevant costs."
+    }
+  ]
+}

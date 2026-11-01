@@ -1,0 +1,115 @@
+1
+00:00:01,050 --> 00:00:03,320
+Finally, consider returns
+
+2
+00:00:03,390 --> 00:00:05,720
+product losses and other costs.
+
+3
+00:00:06,030 --> 00:00:07,818
+For example, after a customer return
+
+4
+00:00:07,830 --> 00:00:09,920
+an item may be impossible to resell.
+
+5
+00:00:10,170 --> 00:00:13,340
+Some returns also create handling costs.
+
+6
+00:00:13,410 --> 00:00:16,698
+Assume these costs, not already counted above,
+
+7
+00:00:16,710 --> 00:00:18,080
+total $7,000.
+
+8
+00:00:18,270 --> 00:00:20,418
+We had $14,000 remaining.
+
+9
+00:00:20,430 --> 00:00:21,978
+Subtract $7,000.
+
+10
+00:00:21,990 --> 00:00:23,960
+Only $7,000 remains.
+
+11
+00:00:24,090 --> 00:00:26,900
+Now let us review the full calculation.
+
+12
+00:00:27,150 --> 00:00:28,880
+Monthly revenue: $100,000.
+
+13
+00:00:29,010 --> 00:00:30,800
+Product cost: $15,000.
+
+14
+00:00:31,050 --> 00:00:34,520
+International logistics, duties and inbound: $12,000.
+
+15
+00:00:35,010 --> 00:00:38,480
+Referral fees: $15,000.
+
+16
+00:00:38,670 --> 00:00:41,660
+FBA fulfillment: $18,000.
+
+17
+00:00:41,790 --> 00:00:45,318
+Storage and related inventory costs: $6,000.
+
+18
+00:00:45,330 --> 00:00:47,060
+Advertising: spoken amount requires review.
+
+19
+00:00:47,190 --> 00:00:50,660
+Returns and other listed costs: $7,000.
+
+20
+00:00:50,790 --> 00:00:53,720
+Total listed costs: $93,000.
+
+21
+00:00:53,910 --> 00:00:56,298
+Subtract $93,000 from $100,000.
+
+22
+00:00:56,310 --> 00:00:57,740
+Only $7,000 remains.
+
+23
+00:00:58,050 --> 00:01:00,200
+That is 7% of revenue.
+
+24
+00:01:00,510 --> 00:01:03,680
+This $7,000 is not necessarily final net profit.
+
+25
+00:01:04,050 --> 00:01:08,600
+Other operating expenses and taxes may be missing.
+
+26
+00:01:09,150 --> 00:01:11,538
+These figures are hypothetical.
+
+27
+00:01:11,550 --> 00:01:14,600
+They do not represent sellers' actual cost structures.
+
+28
+00:01:14,730 --> 00:01:16,458
+They illustrate one point:
+
+29
+00:01:16,470 --> 00:01:20,060
+Low purchase costs do not guarantee high profit.

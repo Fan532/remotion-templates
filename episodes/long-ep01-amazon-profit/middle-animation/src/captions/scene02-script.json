@@ -1,0 +1,25 @@
+[
+  ["采购", "Product sourcing."],
+  ["不同商品的采购成本差别很大", "Purchase costs vary widely by product."],
+  [
+    "但对于一些从工厂直接采购",
+    "For some goods sourced directly from factories"
+  ],
+  [
+    "售价和采购价差距比较大的商品",
+    "with a large gap between price and purchase cost"
+  ],
+  [
+    "采购成本可能只占销售额的一成到两成",
+    "purchase cost may be 10% to 20% of sales."
+  ],
+  ["我们今天假设这位卖家", "In our illustrative scenario"],
+  ["一个月销售额十万美元", "monthly revenue is $100,000."],
+  ["商品采购成本是一万五千美元", "Product purchases cost $15,000."],
+  ["也就是销售额的百分之十五", "That is 15% of revenue."],
+  ["十万美元减去一万五千美元", "Subtract $15,000 from $100,000."],
+  ["还剩八万五千美元", "The remaining balance is $85,000."],
+  ["看起来很不错对不对", "Looks good, right?"],
+  ["但这八万五千美元", "But that $85,000"],
+  ["还远远不是利润", "is still far from profit."]
+]

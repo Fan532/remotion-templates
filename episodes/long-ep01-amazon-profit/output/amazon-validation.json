@@ -1,0 +1,75 @@
+{
+  "outputs": [
+    {
+      "file": "amazon-profit-middle-preview.mp4",
+      "bytes": 19640818,
+      "duration": 416.7,
+      "frames": 12501,
+      "audio_tracks": 0,
+      "full_decode": "PASS",
+      "video_packet_hash": "SHA256=bf878838b27e4d3f2248815727d1f1843d323ba9b0185d9ae45a6ac7fb15cca6"
+    },
+    {
+      "file": "amazon-profit-middle-audio-draft.mp4",
+      "bytes": 29130396,
+      "duration": 416.7,
+      "frames": 12501,
+      "audio_tracks": 1,
+      "full_decode": "PASS",
+      "video_packet_hash": "SHA256=bf878838b27e4d3f2248815727d1f1843d323ba9b0185d9ae45a6ac7fb15cca6"
+    }
+  ],
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "source_audio_hashes": [
+    {
+      "scene": 1,
+      "sha256": "857107a5fac34d051241dd52b2440b038d78514b585076426c5bfba0b8bfe741"
+    },
+    {
+      "scene": 2,
+      "sha256": "18e4b9747203f81935f295407374a64e674fa4265a469f4fdbb133ff397e5775"
+    },
+    {
+      "scene": 3,
+      "sha256": "7437f0436eea4852477172fcbaa27069194f3b0628606cf2ad34d51f74603de1"
+    },
+    {
+      "scene": 4,
+      "sha256": "ddbfcabac21814f6aad41d52e9abfcebb2e500cfd04c777b3b9efec03dee729e"
+    },
+    {
+      "scene": 5,
+      "sha256": "20db8ac60a768941cd75d632f34f47b5b0724b162eae35546465b9b5f32fc0e1"
+    },
+    {
+      "scene": 7,
+      "sha256": "b5b806de6dc873938f6e17ccf17d8b170701859da71e76e397716162a5762294"
+    },
+    {
+      "scene": 8,
+      "sha256": "25f551311ad4c810c16102f9dfeb9e6e2e14cada0c3ca47bd9fac2a1a905c924"
+    }
+  ],
+  "audio_mix_correlation": 0.9999072934854404,
+  "decoded_audio_peak_dbfs": -1.4156359434127808,
+  "scene06_silence_verified": true,
+  "presenter_originals": "UNCHANGED (SHA256 verified)",
+  "financial_tests": "PASS",
+  "final_status": "NOT PRODUCED: Scene06 audio missing and Scene07 spoken advertising amount unresolved",
+  "official_fee_page": "403 proxy; supplied rates are examples, current official schedule not live-verified",
+  "caption_alignment": "CTC phrase alignment; not manual word-by-word hearing audit",
+  "visual_review": {
+    "status": "PASS — sampled rendered frames",
+    "checked": [
+      "Eight-scene contact sheet",
+      "Referral-category example",
+      "Mathematically scaled waterfall",
+      "Corrected returns illustration and text separation"
+    ],
+    "limits": "Sampled frames only; captions require human listening review. Scene06 missing audio; Scene07 spoken ad amount unresolved."
+  }
+}

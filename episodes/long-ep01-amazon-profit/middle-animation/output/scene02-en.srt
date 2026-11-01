@@ -1,0 +1,55 @@
+1
+00:00:00,330 --> 00:00:00,920
+Product sourcing.
+
+2
+00:00:01,170 --> 00:00:03,860
+Purchase costs vary widely by product.
+
+3
+00:00:03,990 --> 00:00:06,558
+For some goods sourced directly from factories
+
+4
+00:00:06,570 --> 00:00:09,380
+with a large gap between price and purchase cost
+
+5
+00:00:09,570 --> 00:00:12,980
+purchase cost may be 10% to 20% of sales.
+
+6
+00:00:13,350 --> 00:00:15,378
+In our illustrative scenario
+
+7
+00:00:15,390 --> 00:00:17,360
+monthly revenue is $100,000.
+
+8
+00:00:17,550 --> 00:00:20,240
+Product purchases cost $15,000.
+
+9
+00:00:20,370 --> 00:00:22,640
+That is 15% of revenue.
+
+10
+00:00:22,890 --> 00:00:25,278
+Subtract $15,000 from $100,000.
+
+11
+00:00:25,290 --> 00:00:27,020
+The remaining balance is $85,000.
+
+12
+00:00:27,090 --> 00:00:28,818
+Looks good, right?
+
+13
+00:00:28,830 --> 00:00:30,438
+But that $85,000
+
+14
+00:00:30,450 --> 00:00:31,880
+is still far from profit.

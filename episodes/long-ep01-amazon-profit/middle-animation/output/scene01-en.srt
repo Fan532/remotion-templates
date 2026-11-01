@@ -1,0 +1,43 @@
+1
+00:00:00,330 --> 00:00:02,238
+Imagine an Amazon seller
+
+2
+00:00:02,250 --> 00:00:04,818
+selling $100,000 of goods in a month.
+
+3
+00:00:04,830 --> 00:00:05,838
+Seeing that number
+
+4
+00:00:05,850 --> 00:00:06,858
+you might think
+
+5
+00:00:06,870 --> 00:00:08,960
+the business must be highly profitable.
+
+6
+00:00:09,330 --> 00:00:12,380
+But sales and profit are different.
+
+7
+00:00:12,870 --> 00:00:15,920
+Revenue is what customers pay.
+
+8
+00:00:16,050 --> 00:00:18,018
+Profit requires subtracting
+
+9
+00:00:18,030 --> 00:00:20,600
+the costs of running the business.
+
+10
+00:00:20,910 --> 00:00:23,598
+Today, we will use hypothetical figures
+
+11
+00:00:23,610 --> 00:00:26,360
+to see how much of $100,000 remains.

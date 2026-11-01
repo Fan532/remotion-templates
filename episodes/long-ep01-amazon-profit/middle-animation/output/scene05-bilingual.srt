@@ -1,0 +1,99 @@
+1
+00:00:00,390 --> 00:00:03,020
+除了销售佣金和订单履约费
+Besides referral and fulfillment fees
+
+2
+00:00:03,210 --> 00:00:06,500
+亚马逊卖家还需要关注一个仓储成本
+Amazon sellers must also watch storage costs.
+
+3
+00:00:06,690 --> 00:00:08,358
+这里特别需要注意
+An important distinction:
+
+4
+00:00:08,370 --> 00:00:11,358
+FBA Fulfillment Fee和Storage Fee
+FBA fulfillment fees and storage fees
+
+5
+00:00:11,370 --> 00:00:12,860
+是两笔不同的费用
+are different charges.
+
+6
+00:00:13,050 --> 00:00:15,438
+订单履约费主要与处理订单
+Fulfillment fees relate mainly to order processing
+
+7
+00:00:15,450 --> 00:00:17,660
+分拣包装和配送有关
+picking, packing and delivery.
+
+8
+00:00:17,790 --> 00:00:21,380
+而仓储费则和商品占用了多少仓储空间
+Storage fees depend on the space goods occupy
+
+9
+00:00:21,510 --> 00:00:24,020
+存放了多少时间等因素有关
+and how long they stay, among other factors.
+
+10
+00:00:24,270 --> 00:00:26,840
+如果商品体积大库存周转慢
+Bulky goods or slow-moving inventory
+
+11
+00:00:26,910 --> 00:00:29,958
+或者产生了额外的库存相关费用
+may also incur additional inventory-related charges.
+
+12
+00:00:29,970 --> 00:00:31,760
+成本可能进一步增加
+Costs can rise further.
+
+13
+00:00:31,950 --> 00:00:35,540
+我们假设这位卖家有一部分库存周转比较慢
+Assume some of this seller's inventory moves slowly.
+
+14
+00:00:35,970 --> 00:00:39,800
+当月仓储以及相关库存费用合计六千美元
+Monthly storage and related inventory costs total $6,000.
+
+15
+00:00:40,110 --> 00:00:41,778
+刚才剩下四万美元
+We had $40,000 remaining.
+
+16
+00:00:41,790 --> 00:00:43,400
+再减去六千美元
+Subtract $6,000.
+
+17
+00:00:43,530 --> 00:00:45,920
+现在只剩下三万四千美元
+Now the balance is $34,000.
+
+18
+00:00:46,110 --> 00:00:49,160
+所以库存不只是放在仓库里的商品
+Inventory is more than goods sitting in a warehouse.
+
+19
+00:00:49,290 --> 00:00:52,100
+它还可能意味着持续增加的成本
+It can mean ongoing costs
+
+20
+00:00:52,170 --> 00:00:53,840
+以及被占用的现金
+and cash tied up in stock.

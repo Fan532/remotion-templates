@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:04,950
+Scene 06 narration has not been supplied.
+
+2
+00:00:05,000 --> 00:00:09,950
+Advertising spend in the model: $20,000.
+
+3
+00:00:10,000 --> 00:00:14,950
+Total revenue in the model: $100,000.
+
+4
+00:00:15,000 --> 00:00:19,950
+TACOS = ad spend divided by total revenue.
+
+5
+00:00:20,000 --> 00:00:24,950
+TACOS is 20%; ACOS is unavailable.
+
+6
+00:00:25,000 --> 00:00:29,950
+Ad-attributed sales have not been provided.

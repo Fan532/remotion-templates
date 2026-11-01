@@ -1,0 +1,27 @@
+[
+  ["接下来是我比较熟悉的部分", "Next is an area I know well:"],
+  ["国际物流", "international logistics."],
+  [
+    "假设这位卖家从海外工厂采购商品",
+    "Assume the seller sources goods overseas"
+  ],
+  ["运到美国销售", "to sell in the United States."],
+  ["商品生产完成以后需要安排运输", "Once production ends, shipping begins."],
+  ["如果走海运", "If the goods travel by sea"],
+  [
+    "货物要经过国内运输出口港口海上运输",
+    "the journey includes trucking, an export port and ocean freight"
+  ],
+  ["再到美国港口", "before reaching a US port."],
+  [
+    "到港以后还要产生清关进口关税",
+    "Arrival also involves customs clearance and import duties"
+  ],
+  ["码头费用", "terminal charges"],
+  ["以及送货到亚马逊仓库的运输费用", "and transport to an Amazon warehouse."],
+  ["这些钱都要算进商品的成本", "These costs belong in the cost calculation."],
+  ["我们假设这部分费用合计一万两千美元", "Assume this stage totals $12,000."],
+  ["刚才剩下八万五千美元", "We had $85,000 remaining."],
+  ["再减去一万两千美元", "Subtract another $12,000."],
+  ["现在还剩七万三千美元", "Now the balance is $73,000."]
+]

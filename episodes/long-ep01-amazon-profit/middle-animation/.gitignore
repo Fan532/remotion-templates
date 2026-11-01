@@ -1,0 +1,6 @@
+node_modules
+node_modules/
+output/*.wav
+output/*.f32
+output/review-*
+__pycache__/

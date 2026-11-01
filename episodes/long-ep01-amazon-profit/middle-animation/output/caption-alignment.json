@@ -1,0 +1,44 @@
+[
+  {
+    "scene": 1,
+    "groups": 11,
+    "reference_match_fraction": 1.0,
+    "method": "local SenseVoice CTC aligned to corrected transcript; translated phrase captions, manual hearing review required"
+  },
+  {
+    "scene": 2,
+    "groups": 14,
+    "reference_match_fraction": 1.0,
+    "method": "local SenseVoice CTC aligned to corrected transcript; translated phrase captions, manual hearing review required"
+  },
+  {
+    "scene": 3,
+    "groups": 16,
+    "reference_match_fraction": 1.0,
+    "method": "local SenseVoice CTC aligned to corrected transcript; translated phrase captions, manual hearing review required"
+  },
+  {
+    "scene": 4,
+    "groups": 34,
+    "reference_match_fraction": 0.9795,
+    "method": "local SenseVoice CTC aligned to corrected transcript; translated phrase captions, manual hearing review required"
+  },
+  {
+    "scene": 5,
+    "groups": 20,
+    "reference_match_fraction": 0.992,
+    "method": "local SenseVoice CTC aligned to corrected transcript; translated phrase captions, manual hearing review required"
+  },
+  {
+    "scene": 7,
+    "groups": 29,
+    "reference_match_fraction": 0.9884,
+    "method": "local SenseVoice CTC aligned to corrected transcript; translated phrase captions, manual hearing review required"
+  },
+  {
+    "scene": 8,
+    "groups": 23,
+    "reference_match_fraction": 0.9964,
+    "method": "local SenseVoice CTC aligned to corrected transcript; translated phrase captions, manual hearing review required"
+  }
+]

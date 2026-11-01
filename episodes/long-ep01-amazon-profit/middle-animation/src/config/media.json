@@ -1,0 +1,57 @@
+[
+  {
+    "scene": 1,
+    "audio": "scene01.mp3",
+    "duration": 26.671,
+    "status": "provided MP3; original bytes preserved",
+    "original_name": "scene01.mp3"
+  },
+  {
+    "scene": 2,
+    "audio": "scene02.mp3",
+    "duration": 32.391833,
+    "status": "provided MP3; original bytes preserved",
+    "original_name": "scence02.mp3"
+  },
+  {
+    "scene": 3,
+    "audio": "scene03.mp3",
+    "duration": 38.791833,
+    "status": "provided MP3; original bytes preserved",
+    "original_name": "scenece03.mp3"
+  },
+  {
+    "scene": 4,
+    "audio": "scene04.mp3",
+    "duration": 86.177958,
+    "status": "provided MP3; original bytes preserved",
+    "original_name": "scenece04.mp3"
+  },
+  {
+    "scene": 5,
+    "audio": "scene05.mp3",
+    "duration": 54.517542,
+    "status": "provided MP3; original bytes preserved",
+    "original_name": "scenece05.mp3"
+  },
+  {
+    "scene": 6,
+    "audio": null,
+    "duration": 30,
+    "status": "MISSING; provisional 30-second silent scene"
+  },
+  {
+    "scene": 7,
+    "audio": "scene07.mp3",
+    "duration": 80.692208,
+    "status": "provided MP3; original bytes preserved",
+    "original_name": "scenece07.mp3"
+  },
+  {
+    "scene": 8,
+    "audio": "scene08.mp3",
+    "duration": 67.343667,
+    "status": "provided MP3; original bytes preserved",
+    "original_name": "scenece08.mp3"
+  }
+]
