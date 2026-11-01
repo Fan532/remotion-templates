@@ -1,0 +1,147 @@
+1
+00:00:00,066 --> 00:00:00,795
+A coffee shop
+
+2
+00:00:00,810 --> 00:00:02,355
+sold 500 cups last month.
+
+3
+00:00:02,370 --> 00:00:04,275
+This month, it sold 1,000!
+
+4
+00:00:04,290 --> 00:00:05,320
+Sales volume doubled.
+
+5
+00:00:05,430 --> 00:00:06,555
+But the owner discovered
+
+6
+00:00:06,570 --> 00:00:08,055
+the shop was making less.
+
+7
+00:00:08,070 --> 00:00:09,160
+Why?
+
+8
+00:00:09,270 --> 00:00:11,055
+Here is a business concept.
+
+9
+00:00:11,070 --> 00:00:12,795
+Contribution Margin
+
+10
+00:00:12,810 --> 00:00:13,780
+Contribution Margin
+
+11
+00:00:14,070 --> 00:00:14,835
+Simply put
+
+12
+00:00:14,850 --> 00:00:17,500
+it is revenue minus variable costs.
+
+13
+00:00:17,730 --> 00:00:20,200
+More sales do not always leave more money.
+
+14
+00:00:20,430 --> 00:00:23,500
+Let us use hypothetical figures.
+
+15
+00:00:23,850 --> 00:00:26,260
+Last month, a coffee sold for $8.
+
+16
+00:00:26,370 --> 00:00:28,575
+Ingredients and packaging cost $3.
+
+17
+00:00:28,590 --> 00:00:30,220
+Each cup contributed $5.
+
+18
+00:00:30,270 --> 00:00:30,975
+At 500 cups
+
+19
+00:00:30,990 --> 00:00:33,340
+total contribution was $2,500.
+
+20
+00:00:33,570 --> 00:00:36,100
+This month, the owner ran a promotion.
+
+21
+00:00:36,210 --> 00:00:37,900
+Each cup sold for just $3.
+
+22
+00:00:38,010 --> 00:00:39,700
+Variable cost was $2.
+
+23
+00:00:39,870 --> 00:00:41,440
+The shop sold 1,000 cups!
+
+24
+00:00:41,550 --> 00:00:43,455
+But each cup contributed only $1.
+
+25
+00:00:43,470 --> 00:00:45,280
+Total contribution was just $1,000.
+
+26
+00:00:45,330 --> 00:00:46,455
+See what happened?
+
+27
+00:00:46,470 --> 00:00:48,315
+Sales volume rose by 100%.
+
+28
+00:00:48,330 --> 00:00:51,100
+But total contribution fell by 60%.
+
+29
+00:00:51,510 --> 00:00:53,320
+Too many customers were not the cause.
+
+30
+00:00:53,550 --> 00:00:54,615
+After the price cut
+
+31
+00:00:54,630 --> 00:00:56,440
+each cup left too little behind.
+
+32
+00:00:56,910 --> 00:00:59,380
+So when judging how a shop is doing
+
+33
+00:00:59,490 --> 00:01:00,940
+do not look only at sales volume
+
+34
+00:01:01,050 --> 00:01:02,980
+or the length of its queue.
+
+35
+00:01:03,330 --> 00:01:04,960
+The key is how much each cup
+
+36
+00:01:05,070 --> 00:01:06,940
+actually contributes.
+
+37
+00:01:07,170 --> 00:01:09,100
+This is Business Through Data.

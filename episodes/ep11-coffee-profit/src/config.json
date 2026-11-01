@@ -1,0 +1,197 @@
+{
+  "fps": 30,
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "duration": 69.720792,
+  "safeHeight": 1248,
+  "musicVolume": 0.19,
+  "colors": {
+    "blue": "#3489D5",
+    "teal": "#229F86",
+    "coral": "#EA7868",
+    "purple": "#9274B8",
+    "yellow": "#EABC5C",
+    "ink": "#493B31",
+    "muted": "#8D8276",
+    "line": "#E8DED0",
+    "cream": "#FBF6E9",
+    "coffee": "#80573D"
+  },
+  "input": {
+    "last": {
+      "cups": 500,
+      "price": 8,
+      "variableCost": 3
+    },
+    "current": {
+      "cups": 1000,
+      "price": 3,
+      "variableCost": 2
+    }
+  },
+  "timings": {
+    "currentCups": 2.37,
+    "double": 4.29,
+    "owner": 5.43,
+    "question": 8.07,
+    "concept": 9.27,
+    "term": 11.07,
+    "formula": 14.85,
+    "example": 20.43,
+    "lastPrice": 23.85,
+    "lastCost": 26.37,
+    "lastUnit": 28.59,
+    "lastCount": 30.27,
+    "lastTotal": 30.99,
+    "promo": 33.57,
+    "newPrice": 36.21,
+    "newCost": 38.01,
+    "newCount": 39.87,
+    "newUnit": 41.55,
+    "newTotal": 43.47,
+    "compare": 45.33,
+    "volumeUp": 46.47,
+    "contributionDown": 48.33,
+    "cause": 51.51,
+    "ending": 56.91,
+    "key": 63.33,
+    "brand": 67.17
+  },
+  "labels": {
+    "hook": {
+      "zh": "销量翻倍，为什么反而更少？",
+      "en": "Twice the Cups, Less Left Over?"
+    },
+    "last": {
+      "zh": "上个月",
+      "en": "Last Month"
+    },
+    "current": {
+      "zh": "这个月",
+      "en": "This Month"
+    },
+    "volume": {
+      "zh": "销量",
+      "en": "Sales Volume"
+    },
+    "contribution": {
+      "zh": "贡献利润",
+      "en": "Contribution Margin"
+    },
+    "total": {
+      "zh": "总贡献利润",
+      "en": "Total Contribution"
+    },
+    "revenue": {
+      "zh": "销售收入",
+      "en": "Revenue"
+    },
+    "costs": {
+      "zh": "变动成本",
+      "en": "Variable Costs"
+    },
+    "unit": {
+      "zh": "每杯贡献",
+      "en": "Contribution per Cup"
+    },
+    "formula": {
+      "zh": "售价 − 单杯变动成本",
+      "en": "Price − Variable Cost"
+    },
+    "concept": {
+      "zh": "卖得多，不一定留下更多",
+      "en": "More Cups Do Not Always Mean More Contribution"
+    },
+    "hypo": {
+      "zh": "教学假设数据",
+      "en": "Hypothetical Example"
+    },
+    "price": {
+      "zh": "单杯售价",
+      "en": "Price per Cup"
+    },
+    "special": {
+      "zh": "限时促销",
+      "en": "Special Offer"
+    },
+    "previous": {
+      "zh": "上个月的经营方案",
+      "en": "Last Month’s Scenario"
+    },
+    "promotion": {
+      "zh": "这个月的低价促销",
+      "en": "This Month’s Promotion"
+    },
+    "reversal": {
+      "zh": "热闹的门店，更薄的贡献",
+      "en": "A Busier Shop, a Smaller Contribution"
+    },
+    "contrast": {
+      "zh": "销量向上，贡献向下",
+      "en": "Volume Up, Contribution Down"
+    },
+    "unitChange": {
+      "zh": "每杯贡献从 {lastUnit} 降到 {currentUnit}",
+      "en": "Contribution per Cup Falls from {lastUnit} to {currentUnit}"
+    },
+    "insight": {
+      "zh": "销量不等于盈利能力",
+      "en": "Volume ≠ Profitability"
+    },
+    "key": {
+      "zh": "每卖一杯，能留下多少？",
+      "en": "How Much Does Each Cup Contribute?"
+    },
+    "brand": {
+      "zh": "数据看生意",
+      "en": "Business Through Data"
+    },
+    "foot": {
+      "zh": "假设案例 · 贡献不是净利润",
+      "en": "Hypothetical Case · Contribution Is Not Net Profit"
+    },
+    "noFixed": {
+      "zh": "未提供固定成本，不计算净利润",
+      "en": "Fixed Costs Are Not Given; Net Profit Is Not Calculated"
+    },
+    "queue": {
+      "zh": "不是客人多，而是单位贡献变少",
+      "en": "The Cause Is Lower Contribution per Cup"
+    },
+    "beans": {
+      "zh": "咖啡豆",
+      "en": "Coffee Beans"
+    },
+    "milk": {
+      "zh": "牛奶",
+      "en": "Milk"
+    },
+    "packaging": {
+      "zh": "包装",
+      "en": "Packaging"
+    },
+    "coffee": {
+      "zh": "精品拿铁",
+      "en": "Signature Latte"
+    },
+    "report": {
+      "zh": "经营数据",
+      "en": "Business Report"
+    },
+    "chapter": {
+      "zh": "咖啡店经营分析",
+      "en": "Coffee Shop Economics"
+    },
+    "iconScale": {
+      "zh": "每个小杯代表{iconCups}杯",
+      "en": "Each Icon Represents {iconCups} Cups"
+    },
+    "fullFormula": {
+      "zh": "售价 − 变动成本 = 贡献利润",
+      "en": "Price − Variable Cost = Contribution Margin"
+    }
+  },
+  "iconCups": 50
+}

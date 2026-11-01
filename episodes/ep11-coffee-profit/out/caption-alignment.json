@@ -1,0 +1,7 @@
+{
+  "method": "SenseVoice CTC Chinese token timestamps aligned to corrected transcript; English translation paced within matching phrases",
+  "matched_reference_character_fraction": 0.987013,
+  "pages": 37,
+  "english_alignment": "translated phrase pacing, not English speech recognition",
+  "models": "local official sherpa-onnx SenseVoice int8 2025-09-09; no voice synthesis"
+}

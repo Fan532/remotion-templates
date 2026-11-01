@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 69.733333,
+  "frames": 2092,
+  "size_bytes": 8811048,
+  "codec": "h264",
+  "pixel_format": "yuv420p",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "audio_codec": "aac",
+  "original_voice_sha256": "3dddcef59f84265001602b7aef7709494361f5bd3df1a8fef8c82f69ce1a1b66",
+  "voice_rate": 1,
+  "audio_mix_correlation": 0.9999321813617043,
+  "audio_peak_dbfs": -1.0770041942596436,
+  "full_decode": "PASS",
+  "preserved_old_mp4_count": 40,
+  "caption_pages": 37,
+  "key_scene_previews": 6,
+  "visual_review": "PASS: six decoded scene frames reviewed, plus eleven pre-render staging and formula frames; no visible clipping or caption/data overlap in sampled frames",
+  "limitations": [
+    "Not manually listened word by word",
+    "English uses translated phrase timing",
+    "No Windows GUI available",
+    "Opening CTC only recognized 店; prefix caption follows supplied script and needs manual listening review. No synthesized voice repair."
+  ]
+}

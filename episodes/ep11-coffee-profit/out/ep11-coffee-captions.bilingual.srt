@@ -1,0 +1,184 @@
+1
+00:00:00,066 --> 00:00:00,795
+一家咖啡店
+A coffee shop
+
+2
+00:00:00,810 --> 00:00:02,355
+上个月卖了五百杯
+sold 500 cups last month.
+
+3
+00:00:02,370 --> 00:00:04,275
+这个月竟然卖了一千杯
+This month, it sold 1,000!
+
+4
+00:00:04,290 --> 00:00:05,320
+销量翻倍
+Sales volume doubled.
+
+5
+00:00:05,430 --> 00:00:06,555
+老板却发现
+But the owner discovered
+
+6
+00:00:06,570 --> 00:00:08,055
+赚得比上个月还少
+the shop was making less.
+
+7
+00:00:08,070 --> 00:00:09,160
+这是为什么
+Why?
+
+8
+00:00:09,270 --> 00:00:11,055
+这背后有个商业概念
+Here is a business concept.
+
+9
+00:00:11,070 --> 00:00:12,795
+贡献利润
+Contribution Margin
+
+10
+00:00:12,810 --> 00:00:13,780
+贡献利润
+Contribution Margin
+
+11
+00:00:14,070 --> 00:00:14,835
+简单说
+Simply put
+
+12
+00:00:14,850 --> 00:00:17,500
+就是销售收入减去变动成本
+it is revenue minus variable costs.
+
+13
+00:00:17,730 --> 00:00:20,200
+卖得多不代表留下的钱就多
+More sales do not always leave more money.
+
+14
+00:00:20,430 --> 00:00:23,500
+我们用一组数据做假设来算一算
+Let us use hypothetical figures.
+
+15
+00:00:23,850 --> 00:00:26,260
+上个月一杯咖啡卖八美元
+Last month, a coffee sold for $8.
+
+16
+00:00:26,370 --> 00:00:28,575
+原料和包装成本三美元
+Ingredients and packaging cost $3.
+
+17
+00:00:28,590 --> 00:00:30,220
+每杯贡献五美元
+Each cup contributed $5.
+
+18
+00:00:30,270 --> 00:00:30,975
+五百杯
+At 500 cups
+
+19
+00:00:30,990 --> 00:00:33,340
+总共贡献了两千五百美元
+total contribution was $2,500.
+
+20
+00:00:33,570 --> 00:00:36,100
+这个月老板推出低价促销
+This month, the owner ran a promotion.
+
+21
+00:00:36,210 --> 00:00:37,900
+每杯只卖三美元
+Each cup sold for just $3.
+
+22
+00:00:38,010 --> 00:00:39,700
+变动成本两美元
+Variable cost was $2.
+
+23
+00:00:39,870 --> 00:00:41,440
+结果卖出一千杯
+The shop sold 1,000 cups!
+
+24
+00:00:41,550 --> 00:00:43,455
+可每杯只贡献了一美元
+But each cup contributed only $1.
+
+25
+00:00:43,470 --> 00:00:45,280
+总贡献只有一千美元
+Total contribution was just $1,000.
+
+26
+00:00:45,330 --> 00:00:46,455
+你发现了吗
+See what happened?
+
+27
+00:00:46,470 --> 00:00:48,315
+销量增长百分之一百
+Sales volume rose by 100%.
+
+28
+00:00:48,330 --> 00:00:51,100
+但贡献利润却下降了百分之六十
+But total contribution fell by 60%.
+
+29
+00:00:51,510 --> 00:00:53,320
+原因不是客人太多
+Too many customers were not the cause.
+
+30
+00:00:53,550 --> 00:00:54,615
+而是降价后
+After the price cut
+
+31
+00:00:54,630 --> 00:00:56,440
+每杯留下的钱太少
+each cup left too little behind.
+
+32
+00:00:56,910 --> 00:00:59,380
+所以判断一家店生意好不好
+So when judging how a shop is doing
+
+33
+00:00:59,490 --> 00:01:00,940
+不能只看销量
+do not look only at sales volume
+
+34
+00:01:01,050 --> 00:01:02,980
+也不能只看排队人数
+or the length of its queue.
+
+35
+00:01:03,330 --> 00:01:04,960
+关键是每卖一杯
+The key is how much each cup
+
+36
+00:01:05,070 --> 00:01:06,940
+到底能贡献多少钱
+actually contributes.
+
+37
+00:01:07,170 --> 00:01:09,100
+这就是数据看生意
+This is Business Through Data.
