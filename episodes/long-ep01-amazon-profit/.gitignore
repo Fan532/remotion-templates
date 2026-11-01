@@ -1,0 +1,16 @@
+node_modules
+node_modules/
+assets/raw/*.mp4
+assets/background/studio.png
+output/foreground/
+output/mask-frames/
+output/*.f32
+output/reports/*transcript*
+__pycache__/
+models/
+output/tests/comparison-part-*.mp4
+output/tests/*-reference.mp4
+public/tests/*-reference.mp4
+output/comparison-label-*.png
+output/*-background-test.png
+output/comparison-list.txt

@@ -1,0 +1,92 @@
+{
+  "tests": [
+    {
+      "clip": "clip-01",
+      "video_seconds": 5.0,
+      "container_seconds": 5.012,
+      "frames": 150,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "fps": 30,
+      "codec": "H264/yuv420p + original AAC",
+      "full_decode": "PASS",
+      "audio_waveform_correlation": 1.0,
+      "audio_max_abs_difference": 0.0,
+      "audio_note": "Original AAC copied. PCM first five seconds matches source; no voice synthesis or speed change.",
+      "sampled_face_interior_alpha_mean": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "geometry": "One uniform scale and translation only; no local face warping",
+      "visual_review": "Sampled decoded frames reviewed. Original blink/mouth preserved; no obvious local deformation. Soft hair fringes remain; final studio test and user playback approval pending.",
+      "background": "temporary diagnostic checkerboard; actual studio missing"
+    },
+    {
+      "clip": "clip-02",
+      "video_seconds": 5.0,
+      "container_seconds": 5.013991,
+      "frames": 150,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "fps": 30,
+      "codec": "H264/yuv420p + original AAC",
+      "full_decode": "PASS",
+      "audio_waveform_correlation": 0.9999999999999999,
+      "audio_max_abs_difference": 0.0,
+      "audio_note": "Original AAC copied. PCM first five seconds matches source; no voice synthesis or speed change.",
+      "sampled_face_interior_alpha_mean": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "geometry": "One uniform scale and translation only; no local face warping",
+      "visual_review": "Sampled decoded frames reviewed. Original blink/mouth preserved; no obvious local deformation. Soft hair fringes remain; final studio test and user playback approval pending.",
+      "background": "temporary diagnostic checkerboard; actual studio missing"
+    },
+    {
+      "clip": "clip-03",
+      "video_seconds": 5.0,
+      "container_seconds": 5.013991,
+      "frames": 150,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "fps": 30,
+      "codec": "H264/yuv420p + original AAC",
+      "full_decode": "PASS",
+      "audio_waveform_correlation": 1.0,
+      "audio_max_abs_difference": 0.0,
+      "audio_note": "Original AAC copied. PCM first five seconds matches source; no voice synthesis or speed change.",
+      "sampled_face_interior_alpha_mean": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "geometry": "One uniform scale and translation only; no local face warping",
+      "visual_review": "Sampled decoded frames reviewed. Original blink/mouth preserved; no obvious local deformation. Soft hair fringes remain; final studio test and user playback approval pending.",
+      "background": "temporary diagnostic checkerboard; actual studio missing"
+    }
+  ],
+  "comparison_seconds": 15.0,
+  "comparison_frames": 450,
+  "studio_image_provided": false,
+  "full_clips_processed": false,
+  "test_confirmation_required": true,
+  "head_hair_review": "sampled frames only; soft fringes and small mask fluctuations may remain",
+  "blink_lip_review": "Original frame sequence retained; no regenerated eyes/mouth. Human real-time playback review still required.",
+  "final_studio_lighting_review": "NOT POSSIBLE: selected studio image missing",
+  "windows_gui_tested": false,
+  "remotion_preview_rendered": true
+}

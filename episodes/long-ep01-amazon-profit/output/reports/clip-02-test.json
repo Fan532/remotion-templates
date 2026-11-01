@@ -1,0 +1,42 @@
+{
+  "clip": "clip-02",
+  "mode": "test",
+  "test_start": 0,
+  "frame_count": 150,
+  "background_status": "DIAGNOSTIC_ONLY",
+  "source_display_size": [
+    1280,
+    720
+  ],
+  "face_median_box": [
+    464.0,
+    152.0,
+    339.0,
+    339.0
+  ],
+  "uniform_scale": 1.6224188790560472,
+  "translation": [
+    -267.80235988200593,
+    -33.5693215339233
+  ],
+  "original_person_rgb": true,
+  "face_generation": false,
+  "nonuniform_warp": false,
+  "voice": "original AAC stream copy",
+  "grade": {
+    "exposure_gain": 1.018,
+    "rgb_gain": [
+      1.008,
+      1.0,
+      0.996
+    ],
+    "denoise_strength": 0.06,
+    "detail_strength": 0.045
+  },
+  "mean_alpha_frame_delta": 0.0011918385880928949,
+  "max_alpha_frame_delta": 0.016063271090388298,
+  "alpha_statistics_note": "Includes real motion, not an objective flicker score",
+  "seconds_elapsed": 36.56211730300129,
+  "mask_file": "output/masks/clip-02-alpha-test.mkv",
+  "final_compositor": "FFmpeg overlay of original RGB with saved recurrent alpha"
+}

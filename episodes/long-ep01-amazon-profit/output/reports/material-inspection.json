@@ -1,0 +1,73 @@
+{
+  "clips": [
+    {
+      "clip": "clip-01",
+      "role": "开场",
+      "encoded_size": [
+        320,
+        568
+      ],
+      "display_size": [
+        568,
+        320
+      ],
+      "rotation_degrees": 90,
+      "fps": "30/1",
+      "video_seconds": 28.633333,
+      "audio_seconds": 28.605,
+      "audio_codec": "aac",
+      "audio_sample_rate": "48000",
+      "audio_channels": 2,
+      "sha256": "ef6765aef54464348be21d2aeed669c2b34b856b59f6ecf82f6aad24568169f7",
+      "bytes": 3284571,
+      "full_decode": "PASS"
+    },
+    {
+      "clip": "clip-02",
+      "role": "较长结尾版本",
+      "encoded_size": [
+        1280,
+        720
+      ],
+      "display_size": [
+        1280,
+        720
+      ],
+      "rotation_degrees": 0,
+      "fps": "30/1",
+      "video_seconds": 17.433333,
+      "audio_seconds": 17.403333,
+      "audio_codec": "aac",
+      "audio_sample_rate": "44100",
+      "audio_channels": 1,
+      "sha256": "f19399cde431efec300f402932d2d0abd67a4e32210cafc20d7ec7937d3dda55",
+      "bytes": 3644786,
+      "full_decode": "PASS"
+    },
+    {
+      "clip": "clip-03",
+      "role": "较短结尾版本",
+      "encoded_size": [
+        1280,
+        720
+      ],
+      "display_size": [
+        1280,
+        720
+      ],
+      "rotation_degrees": 0,
+      "fps": "30/1",
+      "video_seconds": 14.933333,
+      "audio_seconds": 14.901678,
+      "audio_codec": "aac",
+      "audio_sample_rate": "44100",
+      "audio_channels": 1,
+      "sha256": "8edac2b77991472f8c3bd47bc545cf5357475ceeb174dcc025ffcaa651c9a069",
+      "bytes": 3187956,
+      "full_decode": "PASS"
+    }
+  ],
+  "studio_background": "MISSING",
+  "background_required_path": "assets/background/studio.png",
+  "location_metadata": "Omitted from published reports and outputs"
+}
